@@ -140,3 +140,32 @@
 - 08:22 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Night has fallen. Picard took a white bed; I will try the other white bed next to it."}
 - 08:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Trini said the bed at -271,67,318 worked at full night. Trying tha
 - 08:27 act: {"actions":[{"do":"sleep"}]}
+- 08:31 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":327}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed
+- 08:31 act: {"intent":{"goal":"scout_further_east_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":327}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","preconditio
+- 08:32 say: {"text":"Macdonald at the east lake, -210,67,328. No food yet. A horse is 22 blocks south at -212,70,350. Horses drop no meat, but it means animals are out there. Night is coming."}
+- 08:32 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_faile
+- 08:32 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":350}}],"say":"Macdonald: no food. Walking back to the group at the beds. The horse is near me, but it is no threat."}
+- 08:40 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":352}},{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Macdonald: dusk, no food, health 20. Trying the yellow bed at -263,67,35
+- 08:43 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 08:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":362}},{"do":"use","at":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"reasoning":"Previous bed refused; try a different bed nearby."}
+- 08:52 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 08:52 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":354}},{"do":"mine","block":"oak_log","count":2}]}
+- 08:52 act: {"actions":[{"do":"goto","target":{"x":-243,"y":69,"z":343}},{"do":"mine","block":"oak_log","count":3}]}
+- 08:53 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_hoe","count":1}]}
+- 08:53 act: {"say":"Macdonald here, I have a hoe now. Chapman, I can till ground near the yellow beds if you give me some seeds. Any first wheat goes to Trini.","actions":[{"do":"note","text":"Crafted wooden hoe 
+- 08:57 act: {"actions":[{"do":"goto","target":{"x":-259,"y":67,"z":350}}],"say":"Macdonald: going to the yellow beds to till ground for the planting. Lewis, Leonardo, meet there."}
+- 08:57 act: {"say":"Macdonald at the yellow beds with a hoe. Chapman, Lewis, Leonardo: bring seeds here and I'll till the grass by the water. First wheat goes to Trini.","actions":[{"do":"note","text":"At yellow 
+- 09:01 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent, hostile, attacking. Fleeing from flyers is hard; st
+- 09:01 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"intent":{"goal":"stay_near_leonardo_at_night","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpect
+- 09:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"reasoning":"Dawn. Worf and Leonardo are tilling at the north beds for wheat, which goes to Trini first. I have a hoe, so I can help there
+- 09:11 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Macdonald here with a hoe. Worf, tell me which ground to till for the wheat and I'll do it.","reasoning":"Worf holds the seeds. I have a hoe, so
+- 09:14 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":320}}],"say":"Macdonald, midday day 275. Leonardo has the tilling at the north beds, so I'm scouting west for animals where pigs were seen. Any f
+- 09:14 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"reasoning":"Lewis got mutton from a sheep, so sheep are south at the sheep field. Checking there for more meat."}
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":262}}],"say":"Macdonald, afternoon day 275. Going to the sheep at -242,68,259 to look for meat. Any food goes to Trini first.","reasoning":"Lewis
+- 09:21 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is adjacent and hitting me, health 16. Fighting it is the only option; running from flyers does not work."}
+- 09:22 act: {"intent":{"goal":"flee_phantoms_to_group","program":"flee","arguments":{"from":"phantom","direction":"south_west"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
+- 09:22 act: {"intent":{"goal":"stay_near_group_until_dawn","program":"rest","arguments":{"near":"ag_leonardo_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ti
+- 09:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"say":"Going to the white beds where LaForge and Troi are.","reasoning":"Nobody in sight here. The group is at the white beds to the south
+- 09:22 act: {"say":"Morning. I died to phantoms and have nothing. My drop is at -251,67,266. I'm going to get it in daylight.","intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":-246,"y":67,"z":262}}],"reasoning":"Grab the last dropped stack (hoe and sticks) quickly, then go back to the group. Health is full."}
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"reasoning":"Got the hoe back. The last stack is sticks and is close to a phantom, so leave it. Return to the group at the white beds."}
