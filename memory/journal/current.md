@@ -43,3 +43,10 @@
 - 05:16 act: {"say":"Trini, Macdonald is by the beds at -283,69,369. I have no food, only dirt. If you need anything carried or watched, say so.","intent":{"goal":"stay_near_group_at_beds","program":"rest","argume
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"use","at":{"x":-282,"y":69,"z":371}}],"say":"Night now. Macdonald is going into the yellow bed by the group."}
 - 05:23 act: {"actions":[{"do":"sleep"}]}
+- 05:23 act: {"say":"Macdonald here at the yellow beds, health 20, hunger 20, no food. Trini, glad the wheat reached you. At dawn I'll scout west in daylight and bring any meat to you first.","reasoning":"Just wok
+- 05:27 act: {"say":"Macdonald here at the yellow beds, hunger 20, no food to share. Trini, you need the wheat more than anyone; I'll search west at first light and call out any animal.","reasoning":"Trini is hung
+- 05:32 act: {"say":"Macdonald, dawn day 264. I have only dirt. I'll scout west on the grass in daylight, stay near the beds, and call out any animal. Anything I find goes to Jason first.","reasoning":"Daylight, n
+- 05:32 act: {"actions":[{"do":"unstick"}],"reasoning":"Blocked by dirt in a hole to the west. Unstick first, then go back toward the beds and try another direction.","intent":{"goal":"return_to_yellow_beds","prog
+- 05:32 act: {"say":"Macdonald back at the yellow beds. West is blocked by a drop and dirt wall, so I'll try the grass north of the beds for seeds and share any seeds with Picard. Jason, I have no wheat.","reasoni
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"use","at":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Macdonald: dusk at the yellow beds, no food, health 20, hunger 20. Going
+- 05:41 act: {"actions":[{"do":"use","at":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"Bed click failed on a wrong face; try clicking the bed itself, then sleep."}
