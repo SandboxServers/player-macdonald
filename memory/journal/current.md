@@ -55,3 +55,10 @@
 - 15:45 act: {"actions":[{"do":"sleep"}],"say":"Phantom gone from the beds. Going to sleep here with the group.","reasoning":"No monsters in the snapshot now except golems; try the bed once with the group in reach
 - 15:47 act: {"actions":[{"do":"sleep"}],"reasoning":"No phantom in the snapshot; retry the bed with the group in reach."}
 - 15:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Macdonald at the north white bed with Lewis and Riker. No food, health 20. Trying this bed.","reasoning":"Bed at the
+- 15:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Macdonald, dawn 294. Health 20, hunger 20, nothing to give. Wesley, eat the wheat and chicken first. I'll look for animals with the
+- 15:49 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Leonardo, Macdonald coming with you to scout for animals. Call out anything with meat or wheat.","intent":{"goal":"follow_leonardo_scout","p
+- 15:52 act: {"actions":[],"say":"Macdonald at the beds, morning 295. No food, health 20. I'll stay near the beds and go wherever someone calls out a pig, cow or wheat.","intent":{"goal":"wait_at_beds_for_call","p
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Macdonald going to the north white bed with Lewis, Riker and Clark for the night. No food, health 20."}
+- 16:03 act: {"actions":[{"do":"sleep"}]}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Macdonald back at the north white bed with Lewis. Trying the other bed once, no food, h
+- 16:04 act: {"actions":[{"do":"sleep"}]}
