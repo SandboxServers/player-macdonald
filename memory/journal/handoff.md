@@ -1,4 +1,1 @@
-Day 314, night. At the white beds near (401,107,-1078), going to sleep.
-Hunger 18, health 20, no food. Holding 5 oak_planks, offered to Wesley for beef (he was not in sight).
-Data got his 5 planks already. Picard is weakest, has Beverly's raw chicken. Worf needs food.
-No animals found west, north or south-west yet. Next: at dawn, look for Wesley and trade planks for beef; hunt with the group.
+Handoff, day 316 midday. Back at the white beds (401,107,-1076). Sheltered on open ground, no errands running. Hunger 20, health 20, no food (one dirt). The chicken field at (421,107,-990) and south of its fence is empty as far as I can see. Tommy reports chickens listed near the chest and beds (Trini, Leonardo). Picard (health 2) is the weakest and should eat first. Wesley knows melons to the south-west near x310 z-875. Next: wait for news at the beds, help the weakest, and tell anyone who asks what I found at the chicken field.

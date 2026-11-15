@@ -21,3 +21,16 @@
 - 22:23 act: {"actions":[{"do":"note","text":"Night, day 314 again after sleep. At (391,107,-1068) near Picard spot. Holding 5 planks for Wesley's beef. Nobody in sight yet."}]}
 - 22:31 Gave 5 planks to Wesley; ate his beef. Hunger 18 to 20. Picard (health 2) still needs food; Chapman has 6 planks spare. Next: help the group find chickens at dawn.
 - 22:27 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"oak_planks","count":5},{"do":"eat"}],"say":"Wesley, here are the 5 planks for the beef. Thank you. Picard can have the next meat."}
+- 22:30 act: {"say":"Hello Wesley. I have found few animals so far, only trees to the north-west and chicken field to the north. I have no food left. Have you found any beef or pig?","reasoning":"Wesley is near an
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}},{"do":"use","at":{"x":401,"y":107,"z":-1078}}],"say":"Night, all. MacDonald is going to the white beds to sleep. Picard is still the weak
+- 22:36 act: {"actions":[{"do":"note","text":"Dawn day 316. Slept at the beds. Hunger 20, health 20. Still no food. Group is hunting chickens south-east near 421,-989; I will join them."}],"say":"MacDonald, good m
+- 22:36 act: {"actions":[{"do":"note","text":"Night, day 315. Reached the chicken field at 421,-990. No animals or people here. Heading back to the beds to sleep with the group."}],"intent":{"goal":"return_to_beds
+- 22:41 act: {"actions":[{"do":"note","text":"Day 316 dawn-ish, thunder. At the beds, hunger 20, no food, nothing to trade but one dirt. Waiting for a chance to help Picard."}],"say":"MacDonald here, at the beds. 
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1076}}],"say":"Dusk. MacDonald is going to bed at the white beds. I have no food, but my hunger is full. Picard and Lewis come first in the morn
+- 22:49 act: {"say":"Morning. I have no food yet. I know the chicken field is to the west-south, and I can help the weakest first.","intent":{"goal":"rest_then_hunt","program":"rest","arguments":{},"wake_on":["dir
+- 22:53 act: {"say":"Morning. I am going to the chicken field to look for food. I will share whatever I find with Picard first.","intent":{"goal":"reach_chicken_field","program":"travel","arguments":{"target":{"x"
+- 22:54 act: {"say":"Tommy, MacDonald here. Have you seen any chickens or cows out here? I have no food and am looking for meat for Picard."}
+- 22:56 act: {"say":"Thank you Tommy. I'll go around the fence to the south too.","intent":{"goal":"find_chickens_south_of_fence","program":"travel","arguments":{"target":{"x":421,"y":107,"z":-982}},"wake_on":["di
+- 22:56 act: {"say":"No chickens in sight here either, only Tommy. The field is empty. Going back to the beds to tell the others.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":40
+- 23:00 act: {"say":"MacDonald here. I have no food and no tools, but I can walk with you to the melons at 310,-875 and help watch the way. I'll follow Jason.","intent":{"goal":"join_melon_party","program":"follow
+- 23:04 act: {"say":"Night is here. I'm going to bed at the beds. Melon walk at first light with Jason, Wesley and Johnny.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1076}}]}
