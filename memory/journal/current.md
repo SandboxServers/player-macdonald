@@ -46,3 +46,12 @@
 - 15:25 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
 - 15:29 act: {"say":"Dawn. Macdonald here with no food. I'll go to the south farm with Data and Chapman and look for animals on the way.","intent":{"goal":"join_south_farm_group","program":"travel","arguments":{"t
 - 15:29 act: {"say":"I'm at the south farm with Data, Chapman and LaForge. I have no food. I'll help carry anything we find.","actions":[]}
+- 15:35 act: {"say":"Macdonald here, health 20, hunger 20, no food. Wesley, I have nothing to give, sorry. I'll stay with the group and call out any meat or wheat I see.","intent":{"goal":"wait_with_group_for_food
+- 15:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. Macdonald going to the white bed with the group for the night. No food, health 20, hunger 20. Wesley, the whea
+- 15:40 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Phantom to my north-east. Moving to Data and LaForge."}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"say":"Night. Macdonald going to the white bed with the group. No food, health 20."}
+- 15:42 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom attacking at the bed. Staying next to Zack and Wesley."}
+- 15:43 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"reasoning":"Phantom out of reach; stay with the group and let it come close or leave."}
+- 15:45 act: {"actions":[{"do":"sleep"}],"say":"Phantom gone from the beds. Going to sleep here with the group.","reasoning":"No monsters in the snapshot now except golems; try the bed once with the group in reach
+- 15:47 act: {"actions":[{"do":"sleep"}],"reasoning":"No phantom in the snapshot; retry the bed with the group in reach."}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Macdonald at the north white bed with Lewis and Riker. No food, health 20. Trying this bed.","reasoning":"Bed at the
