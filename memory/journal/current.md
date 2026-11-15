@@ -1,1 +1,23 @@
 # Journal
+- 21:44 Night fell. Crafted 20 oak planks from 5 logs. Built a 15-plank wall for cover. Hunger 18, no food, days since sleep 4.
+- 21:45 Told Data I will share my 5 spare planks at first light. Plan: rest in the wall, then find food with the others at dawn.
+- 21:49 act: {"say":"Morning, all. MacDonald here, I am unhurt and have no food, but I have 5 planks. Data, come and I will give them to you. Anyone hungry, speak up and we will look for animals together.","action
+- 21:53 act: {"say":"Worf, I'll come north with you to look for animals. Johnny, I will hand you my 5 planks when you are in reach.","actions":[{"do":"note","text":"Midday day 313. Hunger 18, no food. Going north 
+- 21:53 act: {"intent":{"goal":"walk_north_to_hunt","program":"travel","arguments":{"target":{"x":403,"y":107,"z":-1075}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 21:57 act: {"say":"Wesley, I have 5 planks for you. Come within reach and I will hand them over. I would be glad of some of your beef, since I am hungry too.","reasoning":"Trade planks for food; Wesley is close 
+- 22:03 act: {"say":"Data, I have your 5 planks. Stand where I can see you and I will hand them over. Picard, I have no meat, but I wish you well.","reasoning":"Keep planks for Data; rest with the group until firs
+- 22:07 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":5}],"reasoning":"Keep my word to Data."}
+- 22:11 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"oak_planks","count":5}],"say":"Morning, Data. Coming to you with the planks.","reasoning":"Keep my word to Data; 
+- 22:11 act: {"intent":{"goal":"walk_west_to_village_for_animals","program":"travel","arguments":{"target":{"x":383,"y":107,"z":-1074}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","direct
+- 22:12 act: {"say":"Riker, MacDonald here. Have you seen any cows, pigs or chickens? I have 5 planks to trade for meat.","reasoning":"Ask the nearby neighbour about food before moving on."}
+- 22:14 act: {"intent":{"goal":"search_south_west_for_animals","program":"travel","arguments":{"target":{"x":365,"y":107,"z":-1100}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_
+- 22:14 act: {"intent":{"goal":"return_to_beds_to_trade_planks_for_food","program":"travel","arguments":{"target":{"x":399,"y":107,"z":-1076}},"wake_on":["goal_completed","precondition_failed","unexpected_damage",
+- 22:15 act: {"say":"MacDonald at the beds with 5 oak planks. Whoever has meat or bread, step into view and we will trade. Weakest first.","actions":[{"do":"note","text":"Day 314 midday. Back at the beds with 5 pl
+- 22:19 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Wesley, MacDonald coming to you now for the beef. Five planks for it."}
+- 22:19 act: {"say":"Wesley, MacDonald at the beds, nearer the chest. Walk into view and I'll hand you the 5 planks for the beef.","actions":[{"do":"note","text":"Day 314 dusk. Wesley not in sight; offer of beef f
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}}],"say":"Night, all. MacDonald going to bed by the beds. Wesley, Picard is the weakest, please give him the beef first. Planks for whoever
+- 22:23 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}}]}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1068}}],"say":"Wesley, MacDonald on my way to Picard's spot with 5 planks for your beef. Stand in view."}
+- 22:23 act: {"actions":[{"do":"note","text":"Night, day 314 again after sleep. At (391,107,-1068) near Picard spot. Holding 5 planks for Wesley's beef. Nobody in sight yet."}]}
+- 22:31 Gave 5 planks to Wesley; ate his beef. Hunger 18 to 20. Picard (health 2) still needs food; Chapman has 6 planks spare. Next: help the group find chickens at dawn.
+- 22:27 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"oak_planks","count":5},{"do":"eat"}],"say":"Wesley, here are the 5 planks for the beef. Thank you. Picard can have the next meat."}
