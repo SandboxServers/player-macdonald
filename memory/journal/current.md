@@ -93,3 +93,10 @@
 - 17:12 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"feather","count":1}],"say":"Picard, I gave the porkchop and chickens to Troi and Trini for you. Eat first, then Wesley.","reasoning":"Food is hande
 - 17:17 act: {"actions":[],"say":"Leonardo, I have a spare wooden sword. Come within reach and it's yours.","reasoning":"Leonardo has no sword; I hold a spare. Offer it, then wait for him to come.","intent":{"goal
 - 17:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, I have a bed 4 blocks south. Go to it and try to sleep. Group is near.","intent":{"goal":"sleep_at_whit
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, hungry, need rest. Bed is close. Sleep beside it if the click fails.","say":"Heading to the bed at -270
+- 17:26 act: {"actions":[{"do":"sleep"}],"say":"Macdonald here, hunger 16, health 17, nothing to eat. Trini, I'd be grateful for the chicken when you can reach me."}
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Sleep blocked by path. Move beside bed, try sleep again. Golem nearby is not hostile so far."}
+- 17:29 say: {"text":"Macdonald, dawn 300, hunger 15. Kimberly, Trini: I'm at -278,311. Please give me the mutton or the chicken now."}
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed
+- 17:29 say: {"text":"Bcrusher, Macdonald here in reach, hunger 15. Could I have the chicken, please?"}
+- 17:30 say: {"text":"Macdonald: Zack and LaForge are weaker than me, so give to them first. I'm at hunger 15, health 17. Kimberly, Trini: I'll take the mutton once they are fed."}
