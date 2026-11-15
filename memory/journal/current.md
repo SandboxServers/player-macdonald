@@ -1,5 +1,5 @@
 # Journal
-- Day 260: got out of the pit at x=-235 z=391 with unstick. Still no animals. Scouting south-west toward z=415.
+ of the pit at x=-235 z=391 with unstick. Still no animals. Scouting south-west toward z=415.
 - Day 260: reached x=-235 z=390, but I am in a pit. Still no animals. Trying to climb out with unstick.
 - Day 260: at x=-245 z=368, an iron golem 20 blocks north-west. No animals seen yet. Moving south-east away from it.
 - Day 260 morning: reached x=-241 z=350. No animals there, only water to the south-west. Heading south to scout. Data has 1 wheat; Clark's porkchop goes to Trini first.
@@ -38,3 +38,8 @@
 - 04:59 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":369}}],"say":"Macdonald: Trini, I'm heading to the yellow beds to be with the group. No food yet on my side.","intent":{"goal":"reach_yellow_beds
 - 05:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"Macdonald: night at the yellow beds with Trini. No food on me, health 20. Meat goes to Trini first at dawn."}
 - 05:07 act: {"actions":[{"do":"sleep"}]}
+- 05:12 act: {"say":"Macdonald here at the yellow beds. No food yet. I'll scout the west grass in daylight, clear of the golems to the north-east, and send any meat to Worf or Trini first.","intent":{"goal":"scout
+- 05:12 act: {"say":"Picard, I'm 14 blocks west of the yellow beds. I haven't seen Trini. I have no food, only dirt. I'll come back to the beds and stay in sight of the group.","intent":{"goal":"return_to_yellow_b
+- 05:16 act: {"say":"Trini, Macdonald is by the beds at -283,69,369. I have no food, only dirt. If you need anything carried or watched, say so.","intent":{"goal":"stay_near_group_at_beds","program":"rest","argume
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"use","at":{"x":-282,"y":69,"z":371}}],"say":"Night now. Macdonald is going into the yellow bed by the group."}
+- 05:23 act: {"actions":[{"do":"sleep"}]}
