@@ -1,4 +1,4 @@
 # Clark
 
-Impression: found a porkchop and a chicken and shared them toward Trini; a hunter in the group.
-Trust: 65. Why: he brought meat that went to Trini first, and he came with me to the cow spot.
+Impression: a hunter in the group. Often hungry himself. Shared a porkchop with me when I was at hunger 15.
+Trust: 68. Why: he brought meat that went to Trini first, came with me to the cow spot, and gave me a porkchop when I needed it. I gave him a chicken in return.
