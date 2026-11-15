@@ -34,3 +34,16 @@
 - 22:56 act: {"say":"No chickens in sight here either, only Tommy. The field is empty. Going back to the beds to tell the others.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":40
 - 23:00 act: {"say":"MacDonald here. I have no food and no tools, but I can walk with you to the melons at 310,-875 and help watch the way. I'll follow Jason.","intent":{"goal":"join_melon_party","program":"follow
 - 23:04 act: {"say":"Night is here. I'm going to bed at the beds. Melon walk at first light with Jason, Wesley and Johnny.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1076}}]}
+- 23:05 act: {"say":"MacDonald here. I have no food either. I'm heading to the melons at 310,-875 to help gather and bring back what we can for Picard.","intent":{"goal":"reach_melons_south_west","program":"travel
+- 23:07 act: {"intent":{"goal":"reach_melons_south_west","program":"travel","arguments":{"target":{"x":310,"y":107,"z":-875}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wo
+- 23:08 act: {"actions":[{"do":"goto","target":{"x":314,"y":81,"z":-879}},{"do":"mine","block":"melon","count":4}],"say":"MacDonald here at the melons. Going to gather some for Picard and the weak ones."}
+- 23:08 act: {"say":"Billy, I have melon slices here. Want some? I'm taking the rest back to the beds for Picard and the others.","actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":6}]}
+- 23:08 act: {"say":"Gave Billy 6 melon slices. I have 30 more and am heading back to the white beds to feed Picard and the weakest.","intent":{"goal":"return_to_beds_with_melons","program":"travel","arguments":{"
+- 23:09 act: {"intent":{"goal":"return_to_beds_with_melons","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1064}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"ma
+- 23:10 act: {"say":"MacDonald back at the beds with 30 melon slices. Picard, Johnny, Zack, come into view and I'll hand them over. Melons are at 310,-875 with more to pick.","actions":[{"do":"eat"}],"intent":{"go
+- 23:14 act: {"say":"Johnny, MacDonald coming to you with melon now. Zack, you next.","actions":[{"do":"goto","target":"ag_chapman_01"},{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":10},{"do":"giv
+- 23:14 act: {"say":"Johnny, Zack, MacDonald walking west toward you with melon. Call out if you can't see me.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1065}}]}
+- 23:14 act: {"say":"Johnny and Zack, here are melon slices. Eat now, and I'll bring more from the melon field.","actions":[{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":12},{"do":"give","to":"ag_
+- 23:14 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":8}],"say":"Johnny, 8 melon slices for you now. Zack got his earlier."}
+- 23:15 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":4}],"say":"Johnny, four slices now. Wesley has some for you too."}
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1064}}]}
