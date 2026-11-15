@@ -215,3 +215,4 @@
 - 11:01 act: {"actions":[{"do":"note","text":"Dusk day 280: white beds refuse again. Staying with the group (Troi, Clark, BCrusher, Data) near -271,67,319. No food. Health 20."}],"reasoning":"Bed refused again. St
 - 11:09 act: {"actions":[{"do":"note","text":"Dawn day 281 at -271,67,319. Nothing in my pack, health 20, hunger 20. Going to scout the grass near the beds for animals, staying in sight of the group."}],"say":"Mac
 - 11:09 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Macdonald: no animals in the grass near the beds. Two iron golems are 23 blocks south. I'm back at the white beds with the group. S
+- 11:12 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
