@@ -19,3 +19,4 @@
 - 04:18 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":368}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
 - 04:19 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Dusk, no food yet. Going to the white bed to sleep; meat goes to Trini first.","reasoning":"Dusk with no food; a bed
 - 04:22 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow bed with Chapman and Billy. No food on me. Meat goes to Trini first."}
+- 04:23 say: {"text":"Night at the yellow beds, health 20, hunger 20. I'll sleep here and go looking for animals or wheat at dawn; Trini first for any food."}
