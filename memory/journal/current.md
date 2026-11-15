@@ -272,3 +272,30 @@
 - 12:58 act: {"actions":[],"say":"Lewis is the one to come to me. Troi, I'm keeping the porkchop for Lewis first, as you said. I'll hand it over when either of you is in reach.","reasoning":"Lewis is still out of 
 - 13:01 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"porkchop","count":1}],"say":"Lewis, here is my porkchop. Eat it.","reasoning":"Lewis is in reach at health 5, and he is the hungriest. Give him the 
 - 13:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":335}},{"do":"sleep"}],"reasoning":"The porkchop went to Lewis. Night has come and I have no food left to share. Go to the bed and sleep."}
+- 13:10 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":349}}],"say":"Macdonald, dawn day 287. No food, no sword now. Going to look at the pig to the east at -213,69,351. Any meat there goes to Troi fi
+- 13:10 act: {"actions":[],"say":"No pig at the spot, and I have no sword. I'm standing at -214,69,349 with nothing to eat. Whoever finds meat, tell me where and I'll come help carry it to Troi.","reasoning":"The 
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"Back to the beds with the group. I'll be near in case meat turns up.","reasoning":"No food here and no pig in sight. The group gath
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Night, no food, going to the white bed at -270,67,336 to sleep. Phantoms
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"The use on the bed was refused, but plain sleep next to a bed worked before. Step next to it and sleep."}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Sleep was refused for a creeper nearby. Try again at the bed now that the creeper may have gone."}
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"I drifted to the northwest. The white beds are the nearest shelter with the group. Go back and try sleep again
+- 13:25 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view now. Try sleep here, next to Riker and Wcrusher."}
+- 13:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Quiet now with the group around me. Try sleep again."}
+- 13:28 act: {"actions":[{"do":"sleep"}],"reasoning":"I am beside the white beds with Clark and Data. Sleep was blocked by the way, so try once more."}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Going to the pig at -213,69,351 for food. Will bring any meat back to LaForge and Lewis first.","intent":{"goal":"fetch_pig_meat","
+- 13:29 act: {"actions":[],"say":"At the pig spot near -213,69,351. No pig in sight yet. Searching nearby; any meat goes to LaForge and Lewis first."}
+- 13:32 act: {"actions":[{"do":"mine","block":"oak_leaves","count":8}]}
+- 13:32 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 13:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"No pig here and the leaves gave nothing. Heading back to the white beds to rejoin the group.","intent":{"goal":"return_to_white_bed
+- 13:33 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}]}
+- 13:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Trying the bed here with the group. No food on me; meat goes to Lewis and LaForge first."}
+- 13:42 act: {"actions":[{"do":"sleep"}]}
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"say":"Ag_macdonald here, night 288. No food, hunger 20, health 20. Trying the white bed at -270,67,336 with the group. Any
+- 13:58 act: {"actions":[{"do":"till","at":{"x":-282,"y":66,"z":319}}],"say":"Macdonald, midday 289. No food, health 20, hunger 20. I'm tilling dirt by the beds so the seeds have ground to go in. Clark, Picard: pl
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Macdonald, dusk 289. No food, health 20, hunger 20. Going to the white bed with the group. Meat goes to Picard and L
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}]}
+- 14:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, white bed one block north. Last sleep failed for a blocked way. Try again beside the bed.","say":"Trying the white bed here at night. Leonardo, I have n
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"reasoning":"Sleep blocked again here. Chapman, Billy and Zack are gathering at the white bed at -271,67,336. Join them, stay with the gro
+- 14:04 act: {"actions":[{"do":"sleep"}],"reasoning":"At the white bed with the group. One more sleep try here; if blocked, stay with the group till dawn."}
+- 14:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Lone white bed at -281,67,320 is one block south and not crowded. One sleep try there."}
+- 14:12 act: {"actions":[],"say":"Macdonald, dawn 290, hunger 16, health 15, no food. Picard, the tilled patch is at -273,65,332 and -272,66,331, the wheat near it. Plant there. I have no seeds.","reasoning":"Dawn

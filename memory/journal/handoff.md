@@ -1,4 +1,8 @@
-Day 286 night (latest): Asleep in a yellow bed near -263,67,353 (health 20, hunger 20). Pack: 4 oak_log, 2 dirt, leaf_litter, wooden_hoe. No food left. Gave out: porkchop to Data (went to LaForge), wooden sword to Chapman (done), last porkchop to Lewis (health 5). Next at dawn: find food for Troi (hunger 10) and whoever is hungriest; wheat is still unripe.
+Day 289 dawn (latest): Awake at -281,67,319 with the white-bed group (Wcrusher, Bcrusher, Clark, Chapman, Zack, Kimberly, Billy, Trini, Troi, Riker, Worf). Health 20, hunger 20, no food. Night 288: every bed try refused ("the way was blocked", crowding). LaForge and Troi lost drops to phantoms; Jason died at dawn. Pack: 4 oak_log, 2 wooden_hoe, 1 dirt, leaf_litter. Next: daylight animal search in sight of Trini and Bcrusher; meat to Lewis, LaForge, Troi first. Then try a bed when crowding is less.
+
+Day 288 midday: Back at the white beds near -270,67,320. Pig at -213,69,351 gone; leaves gave nothing.
+
+Day 286 night: Asleep in a yellow bed near -263,67,353 (health 20, hunger 20). Pack: 4 oak_log, 2 dirt, leaf_litter, wooden_hoe. No food left. Gave out: porkchop to Data (went to LaForge), wooden sword to Chapman (done), last porkchop to Lewis (health 5). Next at dawn: find food for Troi (hunger 10) and whoever is hungriest; wheat is still unripe.
 
 Handoff, night of day 285: At the white beds -272,67,336 with Kimberly in reach, group nearby (Clark, Jason, Picard, LaForge, Zack, Leonardo). Health 20, hunger 20, no food. Pack: 4 oak_log, wooden_sword, wooden_hoe, 1 dirt. Sleep started (3 of 10 asleep); iron golems 10-13 blocks south. Sword still not given (Chapman out of sight). Food goes to Picard and Trini first, then Leonardo, then Troi. Next at dawn: scout for animals or help harvest wheat.
 
