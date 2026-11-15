@@ -1,4 +1,6 @@
-Day 278 midday (latest): At the cow and sheep area near -227,68,226 with Riker and Troi. No animals in view yet. Health 20, hunger 20, no food. Next: keep hunting with the group; meat to Trini first, then Troi. Not in a bed; stay with the group for the night.
+Handoff, night of day 282 (latest): At -261,67,353 near the yellow beds, with LaForge 2 blocks off. Not enclosed. Health 20, hunger 20, no food. Pack: 4 oak_log, 4 oak_planks, 2 stick, wooden_hoe. Days since sleep: 19. Every bed refused (white and yellow) and sleep was blocked ("the way was blocked"). Holding 4 planks for Tommy, last seen out of sight to the west near -309,66,322. Next: at dawn, stay with the group; try one bed once more; give planks to Tommy if he is in reach; food goes to LaForge, Trini, then Picard.
+
+Day 278 midday: At the cow and sheep area near -227,68,226 with Riker and Troi. No animals in view yet. Health 20, hunger 20, no food. Next: keep hunting with the group; meat to Trini first, then Troi. Not in a bed; stay with the group for the night.
 
 Day 278 dawn: Survived the night at -270,67,318 by the white beds (both beds refused). Health 20, hunger 20, no food. Pack: 2 oak_log, 3 dirt, wooden_hoe. Clark and Leonardo are going to the cows and sheep south-east near -222,68,226; any meat goes to Trini first, then Troi. Unripe wheat near -264,66,318 is not edible yet.
 

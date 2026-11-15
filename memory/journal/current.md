@@ -223,3 +223,12 @@
 - 11:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed clicks keep being refused as the bed block. Try plain sleep once here beside the group; if it fails I will build a simple shelter next."}
 - 11:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night. Sleep was blocked where I stood. Try the bed I am next to, once, then wait and retry if refused."}
 - 11:26 act: {"actions":[{"do":"sleep"}],"say":"Macdonald here at the north white beds, night of day 281. No food. Sleeping with the group; food goes to Trini first.","reasoning":"Plain sleep is the only untried o
+- 11:31 act: {"intent":{"goal":"reach_tommy_with_planks","program":"travel","arguments":{"target":{"x":-306,"y":66,"z":322}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 11:31 act: {"actions":[{"do":"goto","target":"Tommy"}],"say":"Tommy, coming to you with 4 oak planks.","reasoning":"The travel intent failed partway. Try a direct goto to Tommy once."}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":330}}],"reasoning":"Group is east at the beds; stay in their company, away from the bow to the west."}
+- 11:31 act: {"actions":[],"say":"Macdonald back at the beds, day 282. No food on me. Trini, I hope the flesh has reached you. I hold 4 planks for Tommy when he is in sight.","reasoning":"Nothing to give Trini but
+- 11:43 act: {"actions":[{"do":"sleep"}],"say":"Macdonald at dusk day 282, no food. Picard, Trini and LaForge first for any meat at dawn. I am trying to sleep here with the group.","reasoning":"Dusk and group near
+- 11:44 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"reasoning":"Yellow bed is a kind not yet tried; one click here. If refused, stop trying beds and wait for dawn with the group."}
+- 11:52 act: {"intent":{"goal":"join_group_at_tables","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":327}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_
+- 12:04 act: {"actions":[{"do":"sleep"}],"say":"Macdonald, night of day 283. No food, hunger 20, health 20. Trying to sleep here by the tables with the group; food goes to LaForge, Trini, Picard first.","reasoning
+- 12:04 act: {"intent":{"goal":"return_to_group_tables","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":325}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_worl
