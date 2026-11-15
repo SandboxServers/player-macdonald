@@ -69,3 +69,4 @@
 - 16:28 act: {"actions":[],"say":"Macdonald with Picard at -281,70,309. Health 20, no food. Clark, you're weakest; I have nothing but one dirt. I'll stay near and call out any food I see."}
 - 16:32 act: {"actions":[],"say":"Macdonald, dawn 297, health 20, no food. Joining the west scout with Worf and Trini. Meat goes to Clark, then Wesley.","intent":{"goal":"scout_west_with_group","program":"follow",
 - 16:40 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}},{"do":"sleep"}],"say":"Macdonald going to the north beds with the group for the night. No food, health 20.","reasoning":"Dusk with thunder;
+- 16:42 say: {"text":"Macdonald here at the white beds. No food on me, but health and hunger are full. Staying with the group until morning."}
