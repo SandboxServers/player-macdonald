@@ -126,3 +126,8 @@
 - 18:20 act: {"actions":[],"say":"Macdonald at the white beds, dusk. I died at the sheep ground and lost my pack there; I'm empty-handed with health 20, hunger 20. Staying with the group tonight. Jason, I'm nearby
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Macdonald at the north white bed, dusk, trying to sleep with the group near."}
 - 18:24 act: {"actions":[{"do":"sleep"}]}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_add
+- 18:28 act: {"actions":[{"do":"sleep"}]}
+- 18:29 act: {"say":"Macdonald, dawn day 302. Health 20, hunger 20, no food. Staying with Worf and Wesscrusher near the beds. Call out any meat or wheat and I'll help carry it.","intent":{"goal":"wait_with_group_f
+- 18:33 act: {"say":"Macdonald, dawn 303, health 20, hunger 20, no food. Scouting west with Worf, in his sight. Any meat goes to Clark, then Picard.","intent":{"goal":"follow_worf_scout_west","program":"follow","a
+- 18:34 act: {"intent":{"goal":"stay_with_group_till_food_call","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
