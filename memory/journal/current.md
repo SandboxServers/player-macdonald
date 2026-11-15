@@ -252,3 +252,5 @@
 - 12:33 act: {"intent":{"goal":"check_ripe_wheat_for_picard","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
 - 12:33 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Picard, I'm at the ripe wheat. I'm trying to harvest it now. Whatever I get goes to you first, then Trini."}
 - 12:33 act: {"say":"I can't harvest wheat with mine; it's not a mining target. Picard, you're the one at the patch, so you take what ripens. I'll keep watch and scout for animals with anyone who goes."}
+- 12:41 act: {"intent":{"goal":"sleep_at_white_bed_with_group","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 12:42 act: {"actions":[{"do":"sleep"}]}
