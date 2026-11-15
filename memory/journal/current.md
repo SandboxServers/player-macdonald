@@ -65,3 +65,7 @@
 - 06:10 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"scout_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":380}},"wake_on":["directly_addressed","unexpected_damage","precon
 - 06:11 act: {"intent":{"goal":"return_to_group_at_wheat_field","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":345}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_c
 - 06:11 act: {"say":"Macdonald at the wheat field with the group, health 20, hunger 20, no food, only 9 dirt. Jason, Trini, Tommy: if anyone finds meat or seeds, call out and I will help carry."}
+- 06:12 act: {"say":"I'm hungry and carrying only dirt. Does anyone have food or know where animals are?"}
+- 06:12 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":325}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
+- 06:12 act: {"say":"Macdonald at -255,66,325. I saw unripe wheat at -265,66,321, and Jason has wheat seeds 10 blocks away. Chapman is hurt; Worf, I'm coming to you. I have only 9 dirt to give.","intent":{"goal":"
+- 06:13 act: {"say":"I'm beside Worf and Chapman. I have no food, only dirt. Worf, give the rotten flesh to whoever is weakest; Chapman, you're closest to it."}
