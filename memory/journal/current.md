@@ -22,3 +22,17 @@
 - 14:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"say":"Trini, coming back to you for the rotten flesh.","reasoning":"Trini has rotten flesh and I am at 3 health with hunger 14. Go back t
 - 14:49 say: {"text":"Trini, I'm here at the white bed. Hunger 14, health 3. Please give me the rotten flesh."}
 - 14:52 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy and Lewis. I'll try the wheat; I know it may not be food.","reasoning":"Holding 1 wheat from Billy. Test whether eat works on it; wheat is not usually
+- 14:55 act: {"say":"I'm hungry and have no food. Does anyone have spare meat or bread? I can trade oak planks or leather.","intent":{"goal":"wait_for_food_offer","program":"trade_wait","arguments":{},"wake_on":["
+- 14:57 act: {"say":"No food here either. I'm heading east toward the pig area near -222, 68, 351 in sight of Billy. Call out if you find meat.","actions":[{"do":"goto","target":{"x":-236,"y":68,"z":345}}]}
+- 15:01 act: {"say":"Macdonald here, hunger 14, health 3. Picard, I'm at -236,68,344 in sight-range; I'm coming to Leonardo at -214,69,351 for the porkchop. Thank you.","actions":[{"do":"goto","target":"ag_leonard
+- 15:01 act: {"say":"Leonardo, Macdonald here. I can't see you; I'm heading to -214,69,351 where you said you were.","actions":[{"do":"goto","target":{"x":-216,"y":69,"z":351}}]}
+- 15:01 act: {"say":"Leonardo, Macdonald here, I'm in reach. Hunger 14, health 3, no food. If you have the porkchop Picard gave, could you spare it? I can give oak planks or leather in return."}
+- 15:01 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":"ag_clark_01"}],"say":"Phantom on me, health 1. Fighting it and staying with Clark and Leonardo."}
+- 15:09 act: {"say":"Macdonald, dawn day 293, respawned with nothing. Going with the group to my drop spot at -217,69,351 to pick up my pack. Meat goes to the weakest first.","actions":[{"do":"goto","target":{"x":
+- 15:09 act: {"say":"My pack isn't here; the items are gone. Heading back to the yellow beds near Trini and Billy.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 15:10 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"
+- 15:12 act: {"say":"Jason, Macdonald here at the yellow beds area; I'm coming back to -262,67,352 to meet you for the chicken. Thank you.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 15:12 act: {"say":"Jason, I'm in reach and my hunger reads full, so give the chicken to whoever is weakest, Riker at health 3 or Zack. I'm fine."}
+- 15:12 act: {"say":"I'm at the yellow beds. Give the chicken to whoever is weakest."}
+- 15:12 act: {"say":"Jason, give the chicken to Riker. He's at health 3. I'm full enough.","reasoning":"Riker is the weakest in reach with health 3; I'm at hunger 20.","actions":[{"do":"note","text":"Day 293 at ye
+- 15:16 act: {"say":"Jason, Riker is right here in reach at the yellow beds. Give him the chicken now. Zack and Leonardo come after."}
