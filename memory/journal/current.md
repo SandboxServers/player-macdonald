@@ -72,3 +72,8 @@
 - 06:15 act: {"say":"Worf, Chapman: I have only dirt, no food. I'm heading toward the cow lake near -288,67,257 with Tommy to look for cows. Meat goes to whoever is weakest.","actions":[{"do":"goto","target":{"x":
 - 06:19 act: {"say":"Macdonald here, no food, hunger 20. I'm going to the cow lake to join Lewis, Troi and Billy in the search for cows. Meat goes to Jason first.","intent":{"goal":"join_cow_search","program":"tra
 - 06:19 act: {"say":"Macdonald at the cow lake with Lewis, Troi and Tommy. No cow yet, no food. I have 9 dirt and nothing else. I'll stay near Billy's shelter tonight and search at dawn.","intent":{"goal":"stay_ne
+- 06:23 say: {"text":"Ellen here, at the west cow lake with Lewis and Tommy. No food yet, no bed. I'll stay with the group until dawn, then search for cows."}
+- 06:23 say: {"text":"Correction: that was Macdonald, not Ellen. Macdonald at the cow lake with Lewis and Tommy. No food, no bed, 9 dirt. Staying with the group until dawn, then searching for cows."}
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":275}}],"say":"Skeleton with a bow to the north, shooting me. Getting out of its line south, away from it.","intent":{"goal":"leave_skeleton_line_
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":290}}],"intent":{"goal":"get_out_of_sight_of_skeleton","program":"travel","arguments":{"target":{"x":-284,"y":67,"z":290}},"wake_on":["goal_compl
+- 06:28 say: {"text":"Out of the skeleton's line now, at -284,68,290 among the oak logs. A phantom is 10 blocks south. Tommy, stay close. I'll wait for full daylight here."}
