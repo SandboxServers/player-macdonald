@@ -36,3 +36,13 @@
 - 15:12 act: {"say":"I'm at the yellow beds. Give the chicken to whoever is weakest."}
 - 15:12 act: {"say":"Jason, give the chicken to Riker. He's at health 3. I'm full enough.","reasoning":"Riker is the weakest in reach with health 3; I'm at hunger 20.","actions":[{"do":"note","text":"Day 293 at ye
 - 15:16 act: {"say":"Jason, Riker is right here in reach at the yellow beds. Give him the chicken now. Zack and Leonardo come after."}
+- 15:18 act: {"say":"I have nothing in my pack, sorry. Leonardo, Riker, I'll look for food and share what I find.","actions":[]}
+- 15:19 act: {"say":"Going east to look for pigs for food. Will share any meat.","intent":{"goal":"reach_pigs_east","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addresse
+- 15:19 act: {"say":"Macdonald here, nearby at -213,349. No pickaxe or food, sorry Clark. Lewis, I'll help look for animals.","actions":[{"do":"unstick"}]}
+- 15:19 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 15:24 act: {"actions":[{"do":"sleep"}]}
+- 15:24 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 15:24 act: {"actions":[{"do":"sleep"}]}
+- 15:25 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
+- 15:29 act: {"say":"Dawn. Macdonald here with no food. I'll go to the south farm with Data and Chapman and look for animals on the way.","intent":{"goal":"join_south_farm_group","program":"travel","arguments":{"t
+- 15:29 act: {"say":"I'm at the south farm with Data, Chapman and LaForge. I have no food. I'll help carry anything we find.","actions":[]}
