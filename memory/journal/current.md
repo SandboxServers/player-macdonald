@@ -70,3 +70,26 @@
 - 16:32 act: {"actions":[],"say":"Macdonald, dawn 297, health 20, no food. Joining the west scout with Worf and Trini. Meat goes to Clark, then Wesley.","intent":{"goal":"scout_west_with_group","program":"follow",
 - 16:40 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}},{"do":"sleep"}],"say":"Macdonald going to the north beds with the group for the night. No food, health 20.","reasoning":"Dusk with thunder;
 - 16:42 say: {"text":"Macdonald here at the white beds. No food on me, but health and hunger are full. Staying with the group until morning."}
+- 16:50 act: {"say":"Macdonald heading east toward the pigs at -213,69,351 for food. I'll call back what I find.","intent":{"goal":"reach_pig_area","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351
+- 16:50 act: {"say":"No pigs at -214,69,351. Trying the sheep to the north-west at -254,64,179 next.","intent":{"goal":"reach_sheep_area","program":"travel","arguments":{"target":{"x":-254,"y":64,"z":179}},"wake_o
+- 16:51 say: {"text":"Macdonald at the north-west sheep ground, -254,64,180. Chickens here: about 4 at -249 to -257, z 166 to 192. A zombie stands south at -253,65,186. I have no weapon or food on me; the group ca
+- 16:52 act: {"say":"Macdonald walking to the items on the ground at -258,64,171 to see if they are food.","actions":[{"do":"goto","target":{"x":-258,"y":64,"z":171}}]}
+- 16:52 act: {"say":"Got one rotten flesh. Picking up the other item just south.","actions":[{"do":"goto","target":{"x":-258,"y":64,"z":172}}]}
+- 16:52 act: {"say":"I have 3 rotten flesh from the ground here. Taking them back to the group at the north white beds for Clark or Wesley.","intent":{"goal":"return_to_group_beds","program":"travel","arguments":{
+- 16:52 act: {"say":"Macdonald back at the north beds with 3 rotten flesh from the ground. Clark or Wesley, step into reach and say so; I'll hand them over."}
+- 16:59 act: {"say":"Macdonald going to Wesley at -270,67,337 with my 3 rotten flesh.","intent":{"goal":"reach_wesley","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["goal_completed
+- 16:59 act: {"say":"Troi, I'm in reach. Wesley isn't in sight to me, so I'm giving my 3 rotten flesh to you to carry to him.","actions":[{"do":"give","to":"ag_troi_01","item":"rotten_flesh","count":3}]}
+- 16:59 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"give","to":"ag_troi_01","item":"rotten_flesh","count":3}]}
+- 17:03 act: {"say":"Macdonald here at the white beds, no food, hunger 17. I gave my flesh to Troi for Wesley. Staying with the group through the night.","intent":{"goal":"hold_with_group_until_dawn","program":"re
+- 17:09 act: {"say":"Macdonald, dawn 299, no food, hunger 17. I'll go north-west to the chicken ground near -257,66,199 with the group. Any meat goes to Picard first, then Wesley.","intent":{"goal":"reach_chicken_
+- 17:10 act: {"say":"Chickens right ahead to the north. I'm going after them with my sword.","actions":[{"do":"goto","target":{"x":-256,"y":65,"z":195}},{"do":"attack","target":"chicken"}]}
+- 17:10 act: {"say":"Going north after the chickens at -250,184 and -259,187. Any chicken goes to Picard first.","actions":[{"do":"goto","target":{"x":-252,"y":65,"z":186}},{"do":"attack","target":"chicken"}]}
+- 17:10 act: {"say":"I have a chicken. Picard first, I'll take it back to the beds. Clark, another chicken is coming to the north-east, I'm going for it.","actions":[{"do":"attack","target":"chicken"}]}
+- 17:10 act: {"say":"Clark, one chicken for you now, you are hungry and Picard is too far. Eat it.","actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1}]}
+- 17:11 act: {"say":"A pig to the north-east. I'll try for it, then take the meat back south to Picard.","actions":[{"do":"goto","target":{"x":-233,"y":65,"z":157}},{"do":"attack","target":"pig"}]}
+- 17:11 act: {"say":"Got a porkchop and two chickens. Heading south to the beds for Picard and Wesley.","intent":{"goal":"carry_meat_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wa
+- 17:12 act: {"say":"Macdonald back at the beds with a porkchop and 2 chickens. Picard and Wesley, where are you? Step into my reach and I'll hand it over.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":33
+- 17:12 act: {"say":"Troi, here is a porkchop and 2 chickens for Picard first (health 4), then Wesley. Please carry them.","actions":[{"do":"give","to":"ag_troi_01","item":"porkchop","count":1},{"do":"give","to":"
+- 17:12 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"feather","count":1}],"say":"Picard, I gave the porkchop and chickens to Troi and Trini for you. Eat first, then Wesley.","reasoning":"Food is hande
+- 17:17 act: {"actions":[],"say":"Leonardo, I have a spare wooden sword. Come within reach and it's yours.","reasoning":"Leonardo has no sword; I hold a spare. Offer it, then wait for him to come.","intent":{"goal
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, I have a bed 4 blocks south. Go to it and try to sleep. Group is near.","intent":{"goal":"sleep_at_whit
