@@ -20,3 +20,12 @@
 - 04:19 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Dusk, no food yet. Going to the white bed to sleep; meat goes to Trini first.","reasoning":"Dusk with no food; a bed
 - 04:22 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow bed with Chapman and Billy. No food on me. Meat goes to Trini first."}
 - 04:23 say: {"text":"Night at the yellow beds, health 20, hunger 20. I'll sleep here and go looking for animals or wheat at dawn; Trini first for any food."}
+- 04:24 say: {"text":"Morning plan: I'm heading south-west toward the pig at -336, 64, 229, and I'll check the wheat field on the way. Any meat or wheat goes to Trini first."}
+- 04:28 act: {"intent":{"goal":"reach_pig_south_west","program":"travel","arguments":{"target":{"x":-336,"y":64,"z":229}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 04:30 at pig spot -335,64,229: no pig seen; a hostile skeleton with bow 8 blocks south is shooting. Retreating north-east to -310,66,270. Flee program args were rejected, used travel instead.
+- DEATH (day 261): a skeleton with a bow shot me again and again while I walked north-east. I died near x=-315 z=250. I dropped 3 oak_log, 8 dirt, 1 leaf_litter, 11 oak_planks at x=-315 y=62 z=250. I woke at the yellow beds with nothing. Lesson: at night, skeletons with bows are deadly in the open; get out of their line of fire first, and go in daylight. Going back for the planks is not worth it while the skeleton is there.
+04:28 act: {"intent":{"goal":"flee_skeleton_north_east","program":"flee","arguments":{"from":"skeleton"},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":600,"m
+- 04:29 act: {"intent":{"goal":"retreat_north_east_from_skeleton","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":270}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondit
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-310,"y":66,"z":270}}],"say":"A skeleton is shooting me. I'm getting out north-east."}
+- 04:29 say: {"text":"I died to a skeleton's arrows on the way to the pig spot, south-west near -315, 250. I'm back at the yellow beds with nothing. Watch for skeletons with bows out there at night. I'll eat first
+- 04:33 say: {"text":"Macdonald here, back at the yellow beds with nothing. Health 20, hunger 20. Tommy, keep the meat for Trini and Worf. I'll stay near the group in daylight and not go south-west alone."}
