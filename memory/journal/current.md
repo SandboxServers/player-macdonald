@@ -169,3 +169,17 @@
 - 09:22 act: {"say":"Morning. I died to phantoms and have nothing. My drop is at -251,67,266. I'm going to get it in daylight.","intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x
 - 09:23 act: {"actions":[{"do":"goto","target":{"x":-246,"y":67,"z":262}}],"reasoning":"Grab the last dropped stack (hoe and sticks) quickly, then go back to the group. Health is full."}
 - 09:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"reasoning":"Got the hoe back. The last stack is sticks and is close to a phantom, so leave it. Return to the group at the white beds."}
+- 09:31 act: {"say":"Macdonald here, dawn day 276. I have no food, hunger full. I have a hoe and 2 logs. Worf, I can help tilling near -265,65,321 if you want it.","reasoning":"Dawn. Food is short for everyone, so
+- 09:34 act: {"say":"Troi and Trini: I have no food, but I can till with my hoe beside Leonardo. Tell me the spot.","intent":{"goal":"help_till_farmland","program":"travel","arguments":{"target":{"x":-266,"y":67,"
+- 09:34 act: {"actions":[{"do":"till","at":{"x":-267,"y":65,"z":321}}],"reasoning":"Midday, I am beside Worf. Till one grass block next to him with my hoe to help the planting."}
+- 09:35 say: {"text":"The till worked, but this farmland is dry with no water within 4 blocks. Does anyone have food? Trini first."}
+- 09:38 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"I have no food, hunger 20. LaForge's beef goes to Troi and Trini first. I am heading to the white beds before dusk.","intent":{"goa
+- 09:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Night is here. I have no food, hunger 20. I am trying the white bed beside Troi."}
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":209}}],"say":"Dawn. I am going with Leonardo, Lewis, Clark and Troi to the cow near -228,68,209. Any beef goes to Trini first.","intent":{"goal":
+- 09:51 act: {"actions":[],"intent":{"goal":"flee_enderman_and_spider","program":"flee","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":600,"max_blo
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":320}}],"say":"No cow at the spot; an enderman is out on the grass. I am heading back toward the wheat and the white beds to find the group.","int
+- 09:51 say: {"text":"Back at the wheat near the white beds. No food on me, hunger 20. Anyone with beef or mutton, Trini first."}
+- 09:59 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
+- 10:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"night_rest_bed","program":"rest","arguments":{},"wake_on":["directly_address
+- 10:09 act: {"actions":[],"intent":{"goal":"follow_clark_for_meat","program":"follow","arguments":{"target":"ag_clark_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 10:11 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":226}}],"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":226}},"wake_on":["directly_addre

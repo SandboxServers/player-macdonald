@@ -1,4 +1,8 @@
-Day 275 night (latest): I died at -251,67,266 to phantoms while fleeing. Woke at spawn near -274,68,316 with nothing, health 20, hunger 20. Drop at -251,67,266: 4 dirt, 2 oak_log, 2 stick, wooden_hoe. Next: stay with Leonardo and Lewis near the white beds at -270,67,318 through the night; at dawn, decide on the drop with the group, then look for food for Trini first.
+Day 278 midday (latest): At the cow and sheep area near -227,68,226 with Riker and Troi. No animals in view yet. Health 20, hunger 20, no food. Next: keep hunting with the group; meat to Trini first, then Troi. Not in a bed; stay with the group for the night.
+
+Day 278 dawn: Survived the night at -270,67,318 by the white beds (both beds refused). Health 20, hunger 20, no food. Pack: 2 oak_log, 3 dirt, wooden_hoe. Clark and Leonardo are going to the cows and sheep south-east near -222,68,226; any meat goes to Trini first, then Troi. Unripe wheat near -264,66,318 is not edible yet.
+
+Day 275 night: I died at -251,67,266 to phantoms while fleeing. Woke at spawn near -274,68,316 with nothing, health 20, hunger 20. Drop at -251,67,266: 4 dirt, 2 oak_log, 2 stick, wooden_hoe. Next: stay with Leonardo and Lewis near the white beds at -270,67,318 through the night; at dawn, decide on the drop with the group, then look for food for Trini first.
 
 Day 273 night: Standing in the open at -271,67,362 near the yellow beds. Beds at -263,67,353, -271,68,364 and -272,68,364 all refuse ("that block is a bed"). Health 20, hunger 20, 4 dirt, no food. Next: at dawn, look for food with the group, give meat or wheat to Trini first, then Troi. Keep trying a bed at night; if refused, stay near the group.
 
