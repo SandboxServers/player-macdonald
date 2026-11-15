@@ -69,3 +69,6 @@
 - 06:12 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":325}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
 - 06:12 act: {"say":"Macdonald at -255,66,325. I saw unripe wheat at -265,66,321, and Jason has wheat seeds 10 blocks away. Chapman is hurt; Worf, I'm coming to you. I have only 9 dirt to give.","intent":{"goal":"
 - 06:13 act: {"say":"I'm beside Worf and Chapman. I have no food, only dirt. Worf, give the rotten flesh to whoever is weakest; Chapman, you're closest to it."}
+- 06:15 act: {"say":"Worf, Chapman: I have only dirt, no food. I'm heading toward the cow lake near -288,67,257 with Tommy to look for cows. Meat goes to whoever is weakest.","actions":[{"do":"goto","target":{"x":
+- 06:19 act: {"say":"Macdonald here, no food, hunger 20. I'm going to the cow lake to join Lewis, Troi and Billy in the search for cows. Meat goes to Jason first.","intent":{"goal":"join_cow_search","program":"tra
+- 06:19 act: {"say":"Macdonald at the cow lake with Lewis, Troi and Tommy. No cow yet, no food. I have 9 dirt and nothing else. I'll stay near Billy's shelter tonight and search at dawn.","intent":{"goal":"stay_ne
