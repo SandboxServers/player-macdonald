@@ -232,3 +232,6 @@
 - 11:52 act: {"intent":{"goal":"join_group_at_tables","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":327}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_
 - 12:04 act: {"actions":[{"do":"sleep"}],"say":"Macdonald, night of day 283. No food, hunger 20, health 20. Trying to sleep here by the tables with the group; food goes to LaForge, Trini, Picard first.","reasoning
 - 12:04 act: {"intent":{"goal":"return_to_group_tables","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":325}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_worl
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Macdonald here at -274,66,325, night, no food, health 20, hunger 20. I'm going to the white bed at -270,67,318 with 
+- 12:10 act: {"say":"Macdonald, dawn day 284. I slept at the white bed, no food, hunger 20. I'll scout the grass with Kimberly and Troi and call out any animal.","intent":{"goal":"scout_grass_for_animals_with_grou
+- 12:10 act: {"say":"Macdonald at -261,67,300. No animals in sight here, only a spider to the south-west. I'm heading back toward the white beds with the group.","intent":{"goal":"return_to_group_beds","program":"
