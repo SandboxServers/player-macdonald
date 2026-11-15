@@ -77,3 +77,66 @@
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":275}}],"say":"Skeleton with a bow to the north, shooting me. Getting out of its line south, away from it.","intent":{"goal":"leave_skeleton_line_
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":290}}],"intent":{"goal":"get_out_of_sight_of_skeleton","program":"travel","arguments":{"target":{"x":-284,"y":67,"z":290}},"wake_on":["goal_compl
 - 06:28 say: {"text":"Out of the skeleton's line now, at -284,68,290 among the oak logs. A phantom is 10 blocks south. Tommy, stay close. I'll wait for full daylight here."}
+- 06:33 act: {"say":"Macdonald: no food on me either. I'm breaking oak leaves nearby for apples, and any apple goes to Billy first.","intent":{"goal":"gather_oak_leaves","program":"gather","arguments":{"block":"oa
+- 06:33 act: {"say":"No leaves picked up here. I'm going to the oak trees to the west to try again.","intent":{"goal":"reach_west_oak_trees","program":"travel","arguments":{"target":{"x":-287,"y":68,"z":290}},"wak
+- 06:33 act: {"intent":{"goal":"gather_oak_leaves_west","program":"gather","arguments":{"block":"oak_leaves","count":12},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 06:33 act: {"say":"No apples: the oak trees here have no leaves I can break. I'll stay with the group and look for cows or seeds; anything I find goes to Billy first.","intent":{"goal":"rejoin_group_at_beds","pr
+- 06:38 act: {"say":"Macdonald at the yellow beds, no food, health 18, hunger 17. I'll hold with Trini and go to any animal she names first."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"use","at":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"Macdonald at the yellow beds for the night, no food, hunger 17. Meat goe
+- 06:43 act: {"actions":[{"do":"use","at":{"x":-282,"y":69,"z":371}},{"do":"sleep"}]}
+- 06:43 act: {"actions":[{"do":"use","at":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Trini, I'm at the yellow beds too. I have no food either. Let's hold until dawn together."}
+- 06:52 act: {"intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 06:52 act: {"say":"I'm at -290,66,330 with the group. No animals here. Unripe wheat at -269,66,331, not ripe yet. Golems are south-east.","intent":{"goal":"wait_for_wheat_and_news","program":"rest","arguments":{
+- 07:01 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-293,"y":68,"z":345}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 07:04 act: {"intent":{"goal":"reach_white_bed_at_270_336","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 07:04 act: {"say":"Bcrusher, my bed click fails every time with \"that block is a bed\". Did you get in one? Which face did you use?","actions":[]}
+- 07:08 act: {"intent":{"goal":"gather_oak_logs_for_hoe","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 07:08 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"Picard, I'll come for the seeds once I have a hoe. I'm gathering logs now at -284,72,321."}
+- 07:09 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"goto","target":{"x":-274,"y":67,"z":325}},{"do":"craft","item":"wooden_hoe","count":1}]}
+- 07:09 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 07:09 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_hoe","count":1}]}
+- 07:09 act: {"intent":{"goal":"meet_picard_for_seeds","program":"follow","arguments":{"target":"ag_picard_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_oper
+- 07:10 act: {"say":"Picard, I'm right beside you. Could you give me 2 wheat seeds? I'll till and plant them here at -273,66,330 next to the others.","actions":[]}
+- 07:12 act: {"say":"Jason, Trini, I'm beside you with a hoe and no food, hunger 17. Could either of you spare 2 wheat seeds? I'll till and plant them next to the unripe wheat here.","intent":{"goal":"wait_for_see
+- 07:15 act: {"actions":[{"do":"till","at":{"x":-272,"y":65,"z":329}}],"say":"Thank you, Picard, Jason and Trini. I have 6 seeds now. I'll till nearby and plant them by the wheat."}
+- 07:15 act: {"actions":[{"do":"till","at":{"x":-276,"y":65,"z":332}}]}
+- 07:15 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-276,"y":66,"z":332}}]}
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":321}},{"do":"sleep"}],"say":"Macdonald going to the white bed at -282,67,320 for the night. Hunger 17, no food. Any ripe wheat goes to Chapman's 
+- 07:22 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":321}},{"do":"sleep"}]}
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"use","at":{"x":-282,"y":67,"z":320}}]}
+- 07:23 act: {"actions":[{"do":"sleep"}]}
+- 07:23 act: {"actions":[{"do":"sleep"}]}
+- 07:28 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:28 act: {"intent":{"goal":"follow_riker_west_for_animals","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 07:31 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-312,"y":66,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 07:33 act: {"intent":{"goal":"search_northwest_for_animals","program":"travel","arguments":{"target":{"x":-313,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 07:33 act: {"intent":{"goal":"return_to_group_by_beds","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":297}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:33 act: {"say":"Back at the beds. Still no food. If anyone sees a cow, pig or ripe wheat, call it out and I'll help carry it to Chapman and Trini.","reasoning":"Rejoined the group at the beds. Food is still m
+- 07:40 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Phantoms are on us at dusk. Trying the bed here now; Troi and Billy, stay close.","reasoning":"Phantoms closing and I too
+- 07:40 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Phantoms keep hitting me. I'm making a sword at the table.","reasoning":"Phantoms are hitting me and I have no weapon. I have 2 logs 
+- 07:40 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"The sword needs planks first. Make four planks from the logs, then the sword."}
+- 07:40 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Got a sword. Fighting the phantom off.","reasoning":"Phantom is attacking me directly overhead. Health 9.8. I 
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-299,"y":70,"z":284}},{"do":"attack","target":"phantom"}],"say":"Health 3.8. Fighting the phantom to the northwest. Anyone close, help.","reasoning":"Health is c
+- 07:48 say: {"text":"Macdonald here: I died to phantoms last dusk and woke with nothing. I'm going to my dropped things at -300,71,283, then hunting for food. Anyone know where cows or wheat are?"}
+- 07:48 act: {"intent":{"goal":"recover_drop","program":"travel","arguments":{"target":{"x":-300,"y":71,"z":283}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":287}}],"reasoning":"Dropped oak_log near here; pick up items by walking over; avoid phantom to west."}
+- 07:49 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-282,"y":69,"z":369}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 07:49 act: {"intent":{"goal":"search_food_at_cow_lake","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":259}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 07:49 act: {"intent":{"goal":"follow_billy_to_pigs","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,
+- 07:49 say: {"text":"Macdonald: I have no food either. I'm following Billy west toward the pigs. Whoever finds meat, call me."}
+- 07:49 act: {"intent":{"goal":"scout_west_for_pigs","program":"travel","arguments":{"target":{"x":-313,"y":67,"z":300}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 07:54 say: {"text":"Macdonald: no food, health 20, hunger 20. Heading to -300,65,322 to hold with Wesley and Worf. Any meat, call me after Trini."}
+- 07:54 act: {"intent":{"goal":"hold_with_group_at_300_322","program":"travel","arguments":{"target":{"x":-300,"y":65,"z":322}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 07:58 say: {"text":"Macdonald: I have nothing in my pack, no seeds, no tools. I can carry or dig with anyone who has a pickaxe. Trini first for bread."}
+- 08:05 act: {"intent":{"goal":"join_group_for_night","program":"travel","arguments":{"target":{"x":-283,"y":67,"z":322}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 08:09 say: {"text":"Macdonald: I'm full (hunger 20), so I'll scout north for animals now. Trini, I'll call you if I find anything."}
+- 08:09 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":290}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":291}},{"do":"goto","target":{"x":-276,"y":67,"z":290}}],"reasoning":"An item lies at my feet; step off and back to pick it up."}
+- 08:10 act: {"intent":{"goal":"reach_trini_camp","program":"travel","arguments":{"x":-271,"y":67,"z":316},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"ma
+- 08:10 act: {"intent":{"goal":"reach_trini_camp","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":316}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 08:10 say: {"text":"I have no food and an empty pack. LaForge, if you find animals to the north, call out and I'll come help carry them to Trini."}
+- 08:18 act: {"intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"target":{"x":-296,"y":67,"z":297}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Night has fallen. Picard took a white bed; I will try the other white bed next to it."}
+- 08:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Trini said the bed at -271,67,318 worked at full night. Trying tha
+- 08:27 act: {"actions":[{"do":"sleep"}]}
