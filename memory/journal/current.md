@@ -145,3 +145,15 @@
 - 19:05 act: {"actions":[{"do":"sleep"}],"say":"Macdonald: no one in sight here, so I'm trying to sleep where I stand."}
 - 19:06 act: {"actions":[{"do":"sleep"}],"say":"Macdonald at the north white bed with Worf and Kimberly. No food; trying the bed again."}
 - 19:10 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"say":"Macdonald, dawn 305, health 20, no food. Scouting the east pig area with Picard and Worf. Any meat goes to Clark and Chapman first.
+- 19:14 act: {"intent":{"goal":"join_group_at_chapman","program":"travel","arguments":{"target":{"x":-243,"y":67,"z":330}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 19:15 act: {"say":"Macdonald at -242,67,330 with Data. Health 20, hunger 20, no food. Jason, give the chicken to Chapman or Clark, whoever is lowest. I'll stay here.","intent":{"goal":"hold_with_group_for_food",
+- 19:18 act: {"say":"Troi, Macdonald here at -242,67,330, health 20. Come into reach and stand with me; I'll guard you. Data, you're at 9, stay by me.","reasoning":"Troi is hurt and coming here. I'm full health, s
+- 19:21 act: {"intent":{"goal":"go_to_white_beds_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addre
+- 19:21 act: {"actions":[{"do":"sleep"}],"say":"Macdonald at the white beds with the group, health 20, no food. Chapman, Clark, I'm here if you need a guard tonight.","reasoning":"Night with the group in reach. On
+- 19:22 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 19:22 act: {"actions":[{"do":"sleep"}],"say":"Macdonald back at the beds with Billy, Chapman, Picard, Trini and Clark. Health 20, no food. Trying to sleep here."}
+- 19:22 act: {"actions":[{"do":"note","text":"Day 305 night: sleep failed twice at the yellow bed area, way blocked. Staying with Leonardo, Jason, LaForge, Trini until dawn. Health 20, no food."}],"intent":{"goal"
+- 19:31 act: {"say":"Macdonald, morning 306, health 20, hunger 20, no food. Going east with Worf's scout, in sight. Any meat to Chapman first.","intent":{"goal":"follow_worf_east","program":"follow","arguments":{"
+- 19:31 act: {"say":"Macdonald following Data's group east toward -254,67,330. No food.","intent":{"goal":"join_east_scouts","program":"travel","arguments":{"target":{"x":-254,"y":67,"z":330}},"wake_on":["directly
+- 19:31 act: {"say":"Macdonald here at -254,66,330, no food, health 20. Staying in sight of Chapman's group. Call out any meat.","intent":{"goal":"hold_with_group_day","program":"rest","arguments":{},"wake_on":["d
+- 19:31 act: {"say":"Macdonald coming to Kimberly's group. No food, health 20.","intent":{"goal":"rejoin_group_east","program":"travel","arguments":{"target":"ag_kimberly_01"},"wake_on":["directly_addressed","unex

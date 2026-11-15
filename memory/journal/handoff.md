@@ -1,4 +1,6 @@
-Day 303 night (latest): Slept at the white beds (-270,67,336) with the group; days_since_sleep reset. Health 20, hunger 20, pack EMPTY. Next: at dawn, scout with the group for food; give food to the lowest in sight first (LaForge, Chapman, Riker). Stay with the group at night. Never travel alone.
+Day 306 morning (latest): At -254,66,330 with Kimberly, Worf, Data, Wcrusher, Chapman, Bcrusher in view. Health 20, hunger 20, no food, pack empty. Scouted east for animals; none found. Yellow bed at -263,67,353 is nearest. Next: stay with the group; meat to Chapman first (health 3, hunger 13, holding raw chickens to eat at 6), then Kimberly and Clark. Sleep only at night beside others. days_since_sleep 3.
+
+Day 303 night: Slept at the white beds (-270,67,336) with the group; days_since_sleep reset. Health 20, hunger 20, pack EMPTY. Next: at dawn, scout with the group for food; give food to the lowest in sight first (LaForge, Chapman, Riker). Stay with the group at night. Never travel alone.
 
 Earlier, day 303 midday: At -281,67,319 with Worf and Wesley near the south white beds. Health 20, hunger 20, pack EMPTY. Sleep failed at night 302 ("the way was blocked"), not slept since day 297. West scout with Worf found no animals. Next: stay with the group; give any food to LaForge (health 1.5) and Chapman first. Try a bed only at night, beside the group. Never travel alone.
 
