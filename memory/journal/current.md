@@ -55,3 +55,9 @@
 - 05:53 act: {"actions":[{"do":"unstick"}],"say":"I'm at the sheep spot, -278,66,305, but no sheep in sight. I'm in a pit, climbing out. Billy, Data, Riker: where are they now?"}
 - 05:54 act: {"say":"Unstuck. No sheep here. I'll head back toward the beds and stay with the group.","intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":350}},"wa
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}},{"do":"sleep"}],"say":"Geldar, dusk on day 265, no food, hunger 20. Going to the yellow bed to sleep. Any meat goes to Jason first.","reaso
+- 06:01 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Macdonald at the yellow beds, night, no food, health 20. Clark says something is hitting him south-west; I am staying her
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Bed use failed on the first one; step to the other side and click 
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}},{"do":"use","at":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"reasoning":"The beds here refuse the click, maybe Clark has one. The yellow be
+- 06:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed clicks keep failing. I am beside the yellow bed; try sleep alone."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":-290,"y":70,"z":365}}],"say":"Macdonald: dawn on day 265. No food. I'm going west in daylight to look for animals, staying close to the beds. Any meat goes to Ja
+- 06:08 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"sleep"}],"say":"Macdonald: the sun is setting again and I found no animals. Going back to the yellow beds to sleep.
