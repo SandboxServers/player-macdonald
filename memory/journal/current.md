@@ -50,3 +50,7 @@
 - 05:32 act: {"say":"Macdonald back at the yellow beds. West is blocked by a drop and dirt wall, so I'll try the grass north of the beds for seeds and share any seeds with Picard. Jason, I have no wheat.","reasoni
 - 05:41 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"use","at":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Macdonald: dusk at the yellow beds, no food, health 20, hunger 20. Going
 - 05:41 act: {"actions":[{"do":"use","at":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"Bed click failed on a wrong face; try clicking the bed itself, then sleep."}
+- 05:50 act: {"say":"Morning. I have no food, only 6 dirt. I'll look for seeds in the grass north of the beds, and share anything I find with Jason first.","intent":{"goal":"scout_north_grass","program":"travel","
+- 05:53 act: {"say":"Macdonald at -283,67,340, no food, only dirt. Billy and Data have the sheep north-west. I'll go there to help; any mutton goes to Jason first.","intent":{"goal":"join_sheep_hunt","program":"tr
+- 05:53 act: {"actions":[{"do":"unstick"}],"say":"I'm at the sheep spot, -278,66,305, but no sheep in sight. I'm in a pit, climbing out. Billy, Data, Riker: where are they now?"}
+- 05:54 act: {"say":"Unstuck. No sheep here. I'll head back toward the beds and stay with the group.","intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":350}},"wa
