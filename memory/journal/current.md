@@ -100,3 +100,23 @@
 - 17:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed
 - 17:29 say: {"text":"Bcrusher, Macdonald here in reach, hunger 15. Could I have the chicken, please?"}
 - 17:30 say: {"text":"Macdonald: Zack and LaForge are weaker than me, so give to them first. I'm at hunger 15, health 17. Kimberly, Trini: I'll take the mutton once they are fed."}
+- 17:37 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Macdonald here, hunger 15, eating my own porkchop now. Going to the north bed to sleep with the group."
+- 17:38 act: {"actions":[{"do":"sleep"}],"say":"Macdonald at the north bed, hunger 17, chicken still in pack for whoever is lowest. Trying to sleep now.","reasoning":"At the bed with the group; retry sleep, keep c
+- 17:38 act: {"actions":[{"do":"note","text":"Day 300 day: sleep needs night. Holding one chicken for the weakest. Waiting at the north white bed with the group."}],"say":"Macdonald at the north white bed, hunger 
+- 17:41 act: {"actions":[{"do":"sleep"}],"say":"Macdonald, dusk 300, hunger 17. Trying the north bed to sleep now with the group close.","reasoning":"Dusk has come; sleep at the bed with group in reach."}
+- 17:41 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"chicken","count":1},{"do":"sleep"}],"say":"Zack, you are at hunger 8 and in my reach. Here is my chicken. Eat it now.","reasoning":"Zack is weakest a
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Macdonald, night 300, hunger 17, health 19. Chicken given to Zack. Trying the south white bed now.","reasoning":"Sle
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Macdonald, dawn coming, hunger 16, health 19, no food. Walking back to the north beds with the group.","reasoning":"I drifted to th
+- 17:43 act: {"actions":[{"do":"sleep"}],"say":"Macdonald back with the group at the north bed. Trying to sleep again.","reasoning":"Group is in reach; one more sleep attempt at the north bed."}
+- 17:43 act: {"actions":[{"do":"sleep"}],"say":"Macdonald at the south white bed with Trini and Billy. Sleeping here now.","reasoning":"I am beside a bed with the group in reach. Try sleep once."}
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"say":"Macdonald going to the north bed now with Riker close by. Sleeping here.","reasoning":"Previous sleep was blocked by
+- 17:44 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Phantom on me at the north beds. Fighting it, then going to the group.","reasoning":"Alone at ni
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Macdonald going to the north bed with Clark. Phantom is far north. Trying sleep.","reasoning":"Phantom is 18 blocks 
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the north bed with the group to sleep. Still no food; I will call for it at hunger 12.","reasoning":"Previo
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Phantoms closing from the south. Get to the north bed now and try sleep."}
+- 17:44 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed, group in reach, no phantoms in view. Sleep."}
+- 17:45 act: {"actions":[{"do":"sleep"}],"say":"Macdonald on the south white bed, hunger 16, no food. I will call out to Troi when I drop to 12.","reasoning":"Bed at 336 is under me now. One more sleep try, then h
+- 17:48 act: {"actions":[],"say":"Macdonald at the north bed, hunger 15, no food. Trini or Jason, I am in reach when you are ready. I will hold for the lowest first.","reasoning":"Food is going to the lowest. I'm 
+- 17:51 act: {"actions":[],"say":"Thank you Trini. I have no beef in my pack yet. I am at the north bed, hunger 15. Please hand it over when you can.","reasoning":"Trini says she is giving me beef but nothing arri
+- 17:52 act: {"actions":[{"do":"eat"}],"say":"Thank you Clark. Eating the porkchop now. Zack and Bcrusher get the next meat.","reasoning":"Hunger 15. Eat the porkchop Clark gave me."}
+- 18:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Macdonald trying the bed at -270,67,318. Hunger 17, I will call out at 12.","reasoning":"Dusk, group is at the beds. Try sleep once."}
