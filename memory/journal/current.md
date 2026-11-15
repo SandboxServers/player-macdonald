@@ -120,3 +120,9 @@
 - 17:51 act: {"actions":[],"say":"Thank you Trini. I have no beef in my pack yet. I am at the north bed, hunger 15. Please hand it over when you can.","reasoning":"Trini says she is giving me beef but nothing arri
 - 17:52 act: {"actions":[{"do":"eat"}],"say":"Thank you Clark. Eating the porkchop now. Zack and Bcrusher get the next meat.","reasoning":"Hunger 15. Eat the porkchop Clark gave me."}
 - 18:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Macdonald trying the bed at -270,67,318. Hunger 17, I will call out at 12.","reasoning":"Dusk, group is at the beds. Try sleep once."}
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":-262,"y":65,"z":220}}],"say":"Macdonald, hunger 17, health 18, no food. Joining the north-west sheep hunt with Data, Chapman and Riker. Zack and Bcrusher are low
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":-254,"y":64,"z":182}}],"say":"At -261,220 by the water. A donkey is south, not food for us. Going north to the sheep ground at -254,182.","intent":{"goal":"reach
+- 18:14 act: {"actions":[],"say":"Macdonald at the north-west sheep ground, -254,182. No sheep or food in sight. Hunger 17, health 18. Data, Chapman, Riker: call out if you find any sheep, and I'll come."}
+- 18:20 act: {"actions":[],"say":"Macdonald at the white beds, dusk. I died at the sheep ground and lost my pack there; I'm empty-handed with health 20, hunger 20. Staying with the group tonight. Jason, I'm nearby
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Macdonald at the north white bed, dusk, trying to sleep with the group near."}
+- 18:24 act: {"actions":[{"do":"sleep"}]}
