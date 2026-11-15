@@ -183,3 +183,11 @@
 - 10:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"night_rest_bed","program":"rest","arguments":{},"wake_on":["directly_address
 - 10:09 act: {"actions":[],"intent":{"goal":"follow_clark_for_meat","program":"follow","arguments":{"target":"ag_clark_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 10:11 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":226}}],"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":226}},"wake_on":["directly_addre
+- 10:13 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":209}}],"say":"Ellie awake on day 278. I'll help check the cow spot for meat, and I'll give any meat to Trini first.","reasoning":"Hunger is full 
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":-239,"y":67,"z":190}}],"say":"Going after the chicken north-west of here.","reasoning":"Body was unreachable a moment ago. Retrying the chicken hunt once."}
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":-254,"y":64,"z":179}},{"do":"attack","target":"sheep"}],"say":"A sheep is north-west of me. Going to take it for meat.","reasoning":"The chicken is gone from vie
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":207}}],"say":"I got mutton. I'm bringing it to Trini first, so I'm heading back to the group at the cow spot.","reasoning":"Mutton is for Trini f
+- 10:14 act: {"actions":[],"say":"Troi, I have 1 mutton for Trini. Where is she? I can't see her here. I'll hand it over as soon as she's in sight.","reasoning":"Trini is not in sight, so I can't give to her. I'll
+- 10:17 act: {"actions":[{"do":"goto","target":{"x":-244,"y":67,"z":207}},{"do":"attack","target":"pig"}],"say":"A pig is 16 blocks west. I'm going for it so the group has more meat. Trini still gets the first mut
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":-228,"y":67,"z":207}}],"say":"I have a mutton and a porkchop now. Trini first. I'm heading back to the group to find her.","reasoning":"Got a porkchop. Trini sti
+- 10:18 act: {"actions":[],"say":"Trini, I'm at the cow spot with a mutton and a porkchop for you. Come into reach and I'll hand them over.","reasoning":"Trini is still not in sight. Calling her to come to me with
