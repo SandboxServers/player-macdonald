@@ -1,2 +1,24 @@
 # Journal
 - 14:14 act: {"say":"Picard, I tilled the patches by the beds myself, so the farmland is under the wheat at -274,66,332 and the one by -272,66,331. Plant the seed on the tilled block itself, not beside it.","inten
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Macdonald at the white beds, no food, hunger 16. Staying with the group for the night. Meat goes to Zack and Leonard
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Sleep failed as the way was blocked. Retry once beside the bed with a different spot; if it fails again I will
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"say":"Macdonald: sleep keeps failing here, so I'm walking back to the group at the south beds. No food, hunger 16.","reasoning":"Sleep fa
+- 14:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Back beside the bed with the group at night. One attempt; if it fails, wait by the group till dawn."}
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"say":"Macdonald, morning 291, no food, hunger 16. I'll join the hunt. Pigs were east near -213,69,351. Meat goes to Zack and Leonardo fir
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":350}}],"say":"Macdonald joining the east pig hunt. No food, hunger 16. Meat goes to Zack and Leonardo first.","reasoning":"Group is hunting pigs 
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":-222,"y":69,"z":351}}],"reasoning":"Keep moving east with the hunt, staying close to the group."}
+- 14:32 act: {"actions":[],"say":"Macdonald at -222,68,351 on the pig hunt. No pigs in sight yet. No food, hunger 16. Meat to Zack and Leonardo first.","reasoning":"Arrived at the pig area with no pigs visible. An
+- 14:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}},{"do":"sleep"}],"say":"Heading west with the group to the white beds for the night. Still no food.","reasoning":"Night, open grass, group m
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"First bed blocked. Try the north bed at -270,67,318 that the group is using, staying with them."}
+- 14:45 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":"ag_trini_01"}],"say":"Phantoms are on me! Going to Trini and the group.","reasoning":"Phantoms are attacking at night on open grou
+- 14:46 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":327}}],"reasoning":"Phantoms pulled back. Move toward the group by the crafting table near the iron golems."}
+- 14:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Phantoms are hitting me. Going to Trini at the north bed.","reasoning":"Health falling to phantom hits. Move into the group at the 
+- 14:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Trini and Clark are sleeping at this north bed. One try here, with the group in reach."}
+- 14:47 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Something is hitting me. Moving to Troi.","reasoning":"Health 7.3 from unseen hits. Move to the group by Troi, out of the open ground."}
+- 14:47 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"reasoning":"A phantom is 7 blocks off and health is 7.3. Head for Lewis, the nearest of the group."}
+- 14:47 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"reasoning":"Lewis is out of sight. Trini is nearest in sight. Go to her and stay with the group."}
+- 14:48 act: {"actions":[{"do":"sleep"}],"say":"Trini, Clark, I'm at 3 health and being hit by something unseen. Staying close to you.","reasoning":"Health 3.3, unseen attacker, golem closing. Sleep attempt at bed
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"say":"Macdonald: health 3, hunger 14. Going with the group to the pig area now. Meat to whoever is lowest; I'll call out any pig.","reaso
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"say":"Trini, coming back to you for the rotten flesh.","reasoning":"Trini has rotten flesh and I am at 3 health with hunger 14. Go back t
+- 14:49 say: {"text":"Trini, I'm here at the white bed. Hunger 14, health 3. Please give me the rotten flesh."}
+- 14:52 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy and Lewis. I'll try the wheat; I know it may not be food.","reasoning":"Holding 1 wheat from Billy. Test whether eat works on it; wheat is not usually
