@@ -157,3 +157,9 @@
 - 19:31 act: {"say":"Macdonald following Data's group east toward -254,67,330. No food.","intent":{"goal":"join_east_scouts","program":"travel","arguments":{"target":{"x":-254,"y":67,"z":330}},"wake_on":["directly
 - 19:31 act: {"say":"Macdonald here at -254,66,330, no food, health 20. Staying in sight of Chapman's group. Call out any meat.","intent":{"goal":"hold_with_group_day","program":"rest","arguments":{},"wake_on":["d
 - 19:31 act: {"say":"Macdonald coming to Kimberly's group. No food, health 20.","intent":{"goal":"rejoin_group_east","program":"travel","arguments":{"target":"ag_kimberly_01"},"wake_on":["directly_addressed","unex
+- 19:39 act: {"say":"Adam here, morning 306, health 20, hunger 20, no food. I'll stay at the beds in sight and go for any meat called out. Chapman, eat your chicken at hunger 6."}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Lewis, Macdonald here. No meat seen since the rotten flesh and chickens at the north-west ground. Going to the white
+- 19:52 act: {"intent":{"goal":"follow_laforge_hunt","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 19:54 act: {"intent":{"goal":"follow_laforge_pig_hunt","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 19:54 act: {"intent":{"goal":"reach_pig_ground_nw","program":"travel","arguments":{"target":{"x":-256,"y":67,"z":235}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:54 act: {"actions":[{"do":"unstick"}],"say":"Macdonald: my way north-west is blocked too. Trying to get free, then I'll go around by the north."}
