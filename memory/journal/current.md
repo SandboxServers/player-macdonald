@@ -235,3 +235,20 @@
 - 12:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Macdonald here at -274,66,325, night, no food, health 20, hunger 20. I'm going to the white bed at -270,67,318 with 
 - 12:10 act: {"say":"Macdonald, dawn day 284. I slept at the white bed, no food, hunger 20. I'll scout the grass with Kimberly and Troi and call out any animal.","intent":{"goal":"scout_grass_for_animals_with_grou
 - 12:10 act: {"say":"Macdonald at -261,67,300. No animals in sight here, only a spider to the south-west. I'm heading back toward the white beds with the group.","intent":{"goal":"return_to_group_beds","program":"
+- 12:10 act: {"say":"Macdonald back at the white beds with the group, no food, hunger 20. I'll keep watch here and head for any animal Billy, Troi or Kimberly calls out."}
+- 12:14 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":325}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Macdonald: I have no food, but I have planks and sticks. I'm crafting a wooden sword
+- 12:14 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, I made you a wooden sword. Coming to hand it over."}
+- 12:14 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":325}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Billy has the sword now. Riker, I'm making one more wooden sword for you at the tabl
+- 12:14 act: {"say":"I have a wooden sword ready. Riker, Chapman or anyone unarmed near the beds: step into sight and I'll hand it to you."}
+- 12:17 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}},{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1}],"say":"Chapman, I'm bringing you the wooden sword now. Bcrusher, sorry,
+- 12:17 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1}],"say":"Chapman, I stepped back a little. Here is your wooden sword."}
+- 12:18 act: {"say":"Chapman went out of sight before I could hand over the sword. I'm holding it now. Anyone unarmed in sight, say so and I'll give it."}
+- 12:22 act: {"intent":{"goal":"sleep_at_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16}},"act
+- 12:22 act: {"actions":[{"do":"sleep"}],"say":"Sleeping at the yellow bed beside me. Ripe wheat is at -273,66,332; at dawn it goes to Picard and Trini first."}
+- 12:30 act: {"intent":{"goal":"scout_south_east_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":370}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 12:31 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":370}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 12:31 act: {"intent":{"goal":"scout_east_for_food_animals","program":"travel","arguments":{"target":{"x":-190,"y":67,"z":365}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 12:32 act: {"intent":{"goal":"return_to_yellow_beds_before_night","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits
+- 12:33 act: {"intent":{"goal":"check_ripe_wheat_for_picard","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 12:33 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Picard, I'm at the ripe wheat. I'm trying to harvest it now. Whatever I get goes to you first, then Trini."}
+- 12:33 act: {"say":"I can't harvest wheat with mine; it's not a mining target. Picard, you're the one at the patch, so you take what ripens. I'll keep watch and scout for animals with anyone who goes."}
