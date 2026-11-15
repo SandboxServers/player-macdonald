@@ -163,3 +163,10 @@
 - 19:54 act: {"intent":{"goal":"follow_laforge_pig_hunt","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - 19:54 act: {"intent":{"goal":"reach_pig_ground_nw","program":"travel","arguments":{"target":{"x":-256,"y":67,"z":235}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
 - 19:54 act: {"actions":[{"do":"unstick"}],"say":"Macdonald: my way north-west is blocked too. Trying to get free, then I'll go around by the north."}
+- 20:02 act: {"actions":[{"do":"sleep"}],"say":"Macdonald at the north beds for the night with Clark, LaForge and the group. No food, health 20, hunger 20. Meat to Clark and Leonardo first."}
+- 20:07 act: {"actions":[{"do":"sleep"}],"say":"Macdonald, night 307, health 20, hunger 20, no food. I'm at the south white bed with the group in reach. Clark, I have nothing to give, sorry."}
+- 20:12 act: {"actions":[],"say":"Macdonald, morning 308, health 20, hunger 20, no food. Riker, Kimberly: I'll walk with you to Riker's pit in daylight, and I'll check the dropped items for anything edible."}
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":317}}],"say":"Macdonald walking to Clark's dropped items at -276,68,317 in daylight to see if anything there is food. I'll share any food with th
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":333}}],"say":"Macdonald: no food at Clark's drop site as far as I can see. Heading back to the beds before dusk to stay with the group."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Macdonald: a phantom hit me. I have no sword, so I'm staying beside Data and Wcrusher while they fight it."}
+- 20:22 act: {"actions":[{"do":"sleep"}],"say":"Macdonald, night 308, health 19.5, hunger 20, no food. At the south beds with Data, Wcrusher, Bcrusher, Leonardo, Lewis and Billy in reach. Trying to sleep."}
