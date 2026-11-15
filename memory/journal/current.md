@@ -29,3 +29,8 @@
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-310,"y":66,"z":270}}],"say":"A skeleton is shooting me. I'm getting out north-east."}
 - 04:29 say: {"text":"I died to a skeleton's arrows on the way to the pig spot, south-west near -315, 250. I'm back at the yellow beds with nothing. Watch for skeletons with bows out there at night. I'll eat first
 - 04:33 say: {"text":"Macdonald here, back at the yellow beds with nothing. Health 20, hunger 20. Tommy, keep the meat for Trini and Worf. I'll stay near the group in daylight and not go south-west alone."}
+- 04:41 say: {"text":"Good morning, I'm back at the yellow beds. I have nothing in my pack. Where is the group, and is anyone holding food?"}
+- 04:51 say: {"text":"Morning. I have nothing, so I'll search east of the beds for animals, away from the golems and the skeleton spot. I'll call out if I find any."}
+- 04:51 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-265,"y":69,"z":371}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 04:52 act: {"intent":{"goal":"move_east_to_trees_away_from_golem","program":"travel","arguments":{"target":{"x":-247,"y":70,"z":367}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits
+- 04:53 say: {"text":"Trini, I'm at the oak logs east of the beds, with nothing to share. I see no animals here. I'll stay in your sight and follow you if you find any."}
