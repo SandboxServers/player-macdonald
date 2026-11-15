@@ -254,3 +254,21 @@
 - 12:33 act: {"say":"I can't harvest wheat with mine; it's not a mining target. Picard, you're the one at the patch, so you take what ripens. I'll keep watch and scout for animals with anyone who goes."}
 - 12:41 act: {"intent":{"goal":"sleep_at_white_bed_with_group","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_oper
 - 12:42 act: {"actions":[{"do":"sleep"}]}
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Night. Going to the white bed to sleep. Food goes to Picard and Trini first at dawn.","reasoning":"Night, bed one block away, hunge
+- 12:42 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"I'm beside the white bed at night, health and hunger full. Sleep now."}
+- 12:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed click failed, but I'm adjacent to the bed. Try sleep directly once."}
+- 12:46 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying to sleep here by the beds. No food yet; food goes to Picard and Trini first.","reasoning":"Still night and I'm awake beside the bed. Try sleep again."}
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":336}}],"say":"Morning. I'm full and have no food. I'll scout east for animals, away from the others on the west grass. Anything found goes to LaF
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-220,"y":67,"z":330}}],"reasoning":"No animals in view here. Keep scouting east."}
+- 12:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-214,"y":69,"z":348}}],"say":"A pig to the south at -213,69,351. I'm going for it with my sword. Any meat goes to LaForge, then Trini.","reasoni
+- 12:51 act: {"actions":[{"do":"attack","target":"pig"}],"reasoning":"Pig is 4 blocks away and closing. Attack it."}
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"I got 2 porkchops from a pig. Heading back to the beds now. LaForge is the hungriest, so the meat goes to him, then Trini.","reason
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":323}}],"say":"LaForge, Trini: I'm at the beds with 2 porkchops. Where are you? I'll hand them to LaForge first.","reasoning":"Need LaForge locate
+- 12:52 act: {"actions":[],"say":"LaForge, I have 2 porkchops and I can't see you. Trini, are you with him? Call out where I should go, and it's yours.","reasoning":"LaForge is not in sight. Ask for his place rath
+- 12:54 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":334}}],"say":"Heading to the beds at -270,67,336 with the porkchops. One for LaForge, one for Data, as Trini asked.","reasoning":"LaForge and Dat
+- 12:54 act: {"actions":[{"do":"give","to":"ag_data_01","item":"porkchop","count":1},{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1}],"say":"Data, here is a porkchop. Chapman, here is the wooden
+- 12:54 act: {"actions":[],"say":"Data got a porkchop and Chapman got the sword. I still have one porkchop for LaForge. LaForge, where are you? Come to the white beds.","reasoning":"Both gives worked. The last por
+- 12:56 act: {"actions":[],"say":"Lewis, you are at health 5 and LaForge already has Data's porkchop. I'm holding my last porkchop for you. Come to me at the white beds, -273,66,334, and I'll hand it over.","reaso
+- 12:58 act: {"actions":[],"say":"Lewis is the one to come to me. Troi, I'm keeping the porkchop for Lewis first, as you said. I'll hand it over when either of you is in reach.","reasoning":"Lewis is still out of 
+- 13:01 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"porkchop","count":1}],"say":"Lewis, here is my porkchop. Eat it.","reasoning":"Lewis is in reach at health 5, and he is the hungriest. Give him the 
+- 13:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":335}},{"do":"sleep"}],"reasoning":"The porkchop went to Lewis. Night has come and I have no food left to share. Go to the bed and sleep."}

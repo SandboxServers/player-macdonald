@@ -1,4 +1,6 @@
-Handoff, night of day 285 (latest): At the white beds -272,67,336 with Kimberly in reach, group nearby (Clark, Jason, Picard, LaForge, Zack, Leonardo). Health 20, hunger 20, no food. Pack: 4 oak_log, wooden_sword, wooden_hoe, 1 dirt. Sleep started (3 of 10 asleep); iron golems 10-13 blocks south. Sword still not given (Chapman out of sight). Food goes to Picard and Trini first, then Leonardo, then Troi. Next at dawn: scout for animals or help harvest wheat.
+Day 286 night (latest): Asleep in a yellow bed near -263,67,353 (health 20, hunger 20). Pack: 4 oak_log, 2 dirt, leaf_litter, wooden_hoe. No food left. Gave out: porkchop to Data (went to LaForge), wooden sword to Chapman (done), last porkchop to Lewis (health 5). Next at dawn: find food for Troi (hunger 10) and whoever is hungriest; wheat is still unripe.
+
+Handoff, night of day 285: At the white beds -272,67,336 with Kimberly in reach, group nearby (Clark, Jason, Picard, LaForge, Zack, Leonardo). Health 20, hunger 20, no food. Pack: 4 oak_log, wooden_sword, wooden_hoe, 1 dirt. Sleep started (3 of 10 asleep); iron golems 10-13 blocks south. Sword still not given (Chapman out of sight). Food goes to Picard and Trini first, then Leonardo, then Troi. Next at dawn: scout for animals or help harvest wheat.
 
 Day 278 midday: At the cow and sheep area near -227,68,226 with Riker and Troi. No animals in view yet. Health 20, hunger 20, no food. Next: keep hunting with the group; meat to Trini first, then Troi. Not in a bed; stay with the group for the night.
 
