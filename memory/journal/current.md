@@ -131,3 +131,17 @@
 - 18:29 act: {"say":"Macdonald, dawn day 302. Health 20, hunger 20, no food. Staying with Worf and Wesscrusher near the beds. Call out any meat or wheat and I'll help carry it.","intent":{"goal":"wait_with_group_f
 - 18:33 act: {"say":"Macdonald, dawn 303, health 20, hunger 20, no food. Scouting west with Worf, in his sight. Any meat goes to Clark, then Picard.","intent":{"goal":"follow_worf_scout_west","program":"follow","a
 - 18:34 act: {"intent":{"goal":"stay_with_group_till_food_call","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 18:40 act: {"say":"Dusk. I'm going to the white beds at -270,336 to stay with the group for the night.","intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wa
+- 18:40 act: {"say":"Macdonald at the white beds, health 20, hunger 20, no food. LaForge, you are lowest, so Picard's mutton is yours first. I'm trying the bed here with the group.","actions":[{"do":"use","at":{"x
+- 18:40 act: {"actions":[{"do":"sleep"}]}
+- 18:43 act: {"actions":[{"do":"sleep"}]}
+- 18:46 act: {"actions":[{"do":"sleep"}]}
+- 18:51 act: {"actions":[],"say":"Macdonald, day 304, health 20, hunger 20, no food. I'll follow LaForge east for the cow near -152,327 and bring any meat to the lowest first.","intent":{"goal":"follow_laforge_for
+- 18:51 act: {"actions":[],"say":"Macdonald going east with LaForge for the cow near -152,327.","intent":{"goal":"follow_laforge_east","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly
+- 18:52 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Macdonald: following on foot, catching up to LaForge."}
+- 18:52 act: {"actions":[],"say":"Macdonald at -239,69,318, out of sight of the group. Waiting here for LaForge to call out; I have no food."}
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":-217,"y":69,"z":319}}],"say":"Macdonald heading to LaForge at -217,319."}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":330}}],"say":"Macdonald going to Chapman's group at -243,67,330 for the night. No food."}
+- 19:05 act: {"actions":[{"do":"sleep"}],"say":"Macdonald: no one in sight here, so I'm trying to sleep where I stand."}
+- 19:06 act: {"actions":[{"do":"sleep"}],"say":"Macdonald at the north white bed with Worf and Kimberly. No food; trying the bed again."}
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"say":"Macdonald, dawn 305, health 20, no food. Scouting the east pig area with Picard and Worf. Any meat goes to Clark and Chapman first.
