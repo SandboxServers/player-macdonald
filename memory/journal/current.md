@@ -1,5 +1,4 @@
 # Journal
-- Day 260 midday: scouting found only water, trees and a pit, no animals. Back at x=-245 z=368. An iron golem stands 20 blocks north-west near the beds. Hunger still 20. Waiting here for news of the pig and the wheat.
 - Day 260: got out of the pit at x=-235 z=391 with unstick. Still no animals. Scouting south-west toward z=415.
 - Day 260: reached x=-235 z=390, but I am in a pit. Still no animals. Trying to climb out with unstick.
 - Day 260: at x=-245 z=368, an iron golem 20 blocks north-west. No animals seen yet. Moving south-east away from it.
@@ -17,3 +16,6 @@
 - 04:10 act: {"actions":[{"do":"unstick"}]}
 - 04:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":415}}],"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":415}},"wake_on":["goal_completed"
 - 04:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-245,"y":66,"z":368}}],"intent":{"goal":"return_toward_group_beds","program":"travel","arguments":{"target":{"x":-245,"y":66,"z":368}},"wake_on"
+- 04:18 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":368}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Dusk, no food yet. Going to the white bed to sleep; meat goes to Trini first.","reasoning":"Dusk with no food; a bed
+- 04:22 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow bed with Chapman and Billy. No food on me. Meat goes to Trini first."}
