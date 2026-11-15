@@ -54,3 +54,4 @@
 - 05:53 act: {"say":"Macdonald at -283,67,340, no food, only dirt. Billy and Data have the sheep north-west. I'll go there to help; any mutton goes to Jason first.","intent":{"goal":"join_sheep_hunt","program":"tr
 - 05:53 act: {"actions":[{"do":"unstick"}],"say":"I'm at the sheep spot, -278,66,305, but no sheep in sight. I'm in a pit, climbing out. Billy, Data, Riker: where are they now?"}
 - 05:54 act: {"say":"Unstuck. No sheep here. I'll head back toward the beds and stay with the group.","intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":350}},"wa
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}},{"do":"sleep"}],"say":"Geldar, dusk on day 265, no food, hunger 20. Going to the yellow bed to sleep. Any meat goes to Jason first.","reaso
