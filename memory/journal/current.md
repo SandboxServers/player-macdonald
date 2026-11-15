@@ -216,3 +216,10 @@
 - 11:09 act: {"actions":[{"do":"note","text":"Dawn day 281 at -271,67,319. Nothing in my pack, health 20, hunger 20. Going to scout the grass near the beds for animals, staying in sight of the group."}],"say":"Mac
 - 11:09 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Macdonald: no animals in the grass near the beds. Two iron golems are 23 blocks south. I'm back at the white beds with the group. S
 - 11:12 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 11:16 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":326}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_hoe","count":1}],"say":"M
+- 11:16 act: {"say":"Macdonald: I made a wooden hoe at the north table. Clark, Picard, or anyone who needs to till for seeds, come within reach and it's yours. No food yet.","reasoning":"Hoe made. Others already h
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Macdonald: dusk, no food, hunger 20. Going to the white bed at the north
+- 11:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"First bed click failed on the wrong part. Try the other half of the bed; if refused, I will try a different bed nex
+- 11:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed clicks keep being refused as the bed block. Try plain sleep once here beside the group; if it fails I will build a simple shelter next."}
+- 11:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night. Sleep was blocked where I stood. Try the bed I am next to, once, then wait and retry if refused."}
+- 11:26 act: {"actions":[{"do":"sleep"}],"say":"Macdonald here at the north white beds, night of day 281. No food. Sleeping with the group; food goes to Trini first.","reasoning":"Plain sleep is the only untried o
