@@ -1,1 +1,11 @@
 # Journal
+- Waking 48, day 317 night at white beds (387,107,-1064). Health 20, hunger 20, holding 5 melon slices. Zack has melon and is going to bed. Plan: at morning, share melon with Picard/Johnny and return to melon field x310-321 z-873..-901 with the group.
+- 23:19 act: {"actions":[{"do":"give","to":"Picard","item":"melon_slice","count":5}],"say":"Picard, Johnny: I have 5 melon slices. Picard, you are weakest, so I'm giving you these now. Step into reach.
+- Give to Picard failed: not in sight. Said I'm at the beds, holding 5 melon for him. Waiting at beds; Worf is bringing him melon too. Chapman has 10 melon, Wesley is out with the group.
+- Dusk: Picard fed by Worf and Johnny (health 7). Lewis is now weakest; I hold 5 melon for him. Staying at beds at 388,107,-1065; no one in sight yet."}
+- 23:19 act: {"actions":[],"say":"Picard, I can't see you from here. I'm standing at the white beds, 388,-1065. Step into view and I'll hand you melon at once."}
+- 23:24 act: {"actions":[],"say":"Lewis, you are weakest now. Where are you? I have 5 melon slices for you. Step into view at the beds and I'll hand them over."}
+- 23:33 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1091}}],"say":"Morning all. Picard, I'm walking to you with 5 melon slices. Lewis, tell me where you are and I'll bring you one too."}
+- Day 318 morning: Picard in sight with 3 melon, not weak now. Held my 5 melon for Lewis (still unseen). Chapman has 1 melon. No animals west. Food is spread out; waiting for Lewis to step into view.
+- 23:33 act: {"actions":[],"say":"Picard, you have melon in hand, so I'll keep mine for Lewis. Lewis, where are you? I'm at 388,107,-1090 with 5 melon slices."}
+- 23:48 act: {"actions":[],"say":"Thanks for the cow spot, Chapman. Worf, Chapman: I'm at the beds with 5 melon for Lewis. I'll go to the cow with Beverly or Kimberly in pairs, once I have a sword."}
