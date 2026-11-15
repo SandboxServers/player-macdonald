@@ -34,3 +34,7 @@
 - 04:51 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-265,"y":69,"z":371}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
 - 04:52 act: {"intent":{"goal":"move_east_to_trees_away_from_golem","program":"travel","arguments":{"target":{"x":-247,"y":70,"z":367}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits
 - 04:53 say: {"text":"Trini, I'm at the oak logs east of the beds, with nothing to share. I see no animals here. I'll stay in your sight and follow you if you find any."}
+- 04:58 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Macdonald here, no food, health 20. I'm coming to Trini to search the west grass in sight of the group. I'll call out any animal.","intent":{"g
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":369}}],"say":"Macdonald: Trini, I'm heading to the yellow beds to be with the group. No food yet on my side.","intent":{"goal":"reach_yellow_beds
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"Macdonald: night at the yellow beds with Trini. No food on me, health 20. Meat goes to Trini first at dawn."}
+- 05:07 act: {"actions":[{"do":"sleep"}]}
