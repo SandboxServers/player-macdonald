@@ -62,3 +62,10 @@
 - 16:03 act: {"actions":[{"do":"sleep"}]}
 - 16:04 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Macdonald back at the north white bed with Lewis. Trying the other bed once, no food, h
 - 16:04 act: {"actions":[{"do":"sleep"}]}
+- 16:19 act: {"actions":[{"do":"goto","target":{"x":-272,"y":65,"z":318}},{"do":"sleep"}],"say":"Macdonald at the white beds, no food, health 20. Dusk now. I'll try a bed with the group.","reasoning":"Dusk, no foo
+- 16:19 act: {"actions":[{"do":"sleep"}],"reasoning":"Goto to the bed was blocked. Try one plain sleep here, once."}
+- 16:19 act: {"actions":[],"say":"Macdonald at the white beds, health 20, hunger 20, no food. Sleep only works at night; I'll wait here for dusk and try the bed again.","intent":{"goal":"wait_at_beds_till_dusk","p
+- 16:23 act: {"actions":[{"do":"sleep"}],"say":"Macdonald, night 296, health 20, hunger 20, no food. Trying the bed here with Lewis in reach.","reasoning":"It is night now and the group is close. One sleep try her
+- 16:28 act: {"actions":[],"say":"Macdonald with Picard at -281,70,309. Health 20, no food. Clark, you're weakest; I have nothing but one dirt. I'll stay near and call out any food I see."}
+- 16:32 act: {"actions":[],"say":"Macdonald, dawn 297, health 20, no food. Joining the west scout with Worf and Trini. Meat goes to Clark, then Wesley.","intent":{"goal":"scout_west_with_group","program":"follow",
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}},{"do":"sleep"}],"say":"Macdonald going to the north beds with the group for the night. No food, health 20.","reasoning":"Dusk with thunder;
