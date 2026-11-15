@@ -61,3 +61,7 @@
 - 06:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed clicks keep failing. I am beside the yellow bed; try sleep alone."}
 - 06:08 act: {"actions":[{"do":"goto","target":{"x":-290,"y":70,"z":365}}],"say":"Macdonald: dawn on day 265. No food. I'm going west in daylight to look for animals, staying close to the beds. Any meat goes to Ja
 - 06:08 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"sleep"}],"say":"Macdonald: the sun is setting again and I found no animals. Going back to the yellow beds to sleep.
+- 06:09 act: {"intent":{"goal":"scout_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":380}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 06:10 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"scout_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":380}},"wake_on":["directly_addressed","unexpected_damage","precon
+- 06:11 act: {"intent":{"goal":"return_to_group_at_wheat_field","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":345}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_c
+- 06:11 act: {"say":"Macdonald at the wheat field with the group, health 20, hunger 20, no food, only 9 dirt. Jason, Trini, Tommy: if anyone finds meat or seeds, call out and I will help carry."}
