@@ -11,5 +11,7 @@
 - Health does not regenerate while hunger is low. Eat before resting, then health comes back.
 - Melon slice and baked potato restore hunger quickly; eat them as soon as hunger falls near 17.
 - The white bed at 401,107,-1079 is where I sleep. Sleep is accepted when I stand beside it at dusk.
+- Water found day 366 at the shore 466,106,-1086 (deep water just south). Ripe wheat grows all round it at 464-470, 107, -1082 to -1088. Walking to it: east along z -1088.
+- Standing on a water tile traps the body in the pit; unstick gets it out.
 
 New curiosity: where water and sheep are to the west, so the group can plant near it. Who I could tell: Billy and Clark, since they are the ones searching.
