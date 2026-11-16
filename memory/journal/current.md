@@ -29,3 +29,5 @@
 - 11:32 act: {"say":"Dusk. MacDonald going to sleep at the bed row, health 13, hunger 16. Group is near the beds.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}]}
 - 11:32 act: {"actions":[{"do":"sleep"}]}
 - 11:37 act: {"say":"Morning all. MacDonald at the bed row, health 13, hunger 16. I'll stay in sight and join the cow walk when Billy calls it."}
+- 11:40 act: {"say":"Lewis, I hear you. I'm at the beds, health 13, holding here. I'll stay in sight and plant a field by the beds once the day is steady.","intent":{"goal":"hold_at_beds","program":"rest","argumen
+- Day 354 day: tools back. Status: health 13, hunger 16, days since sleep 0, bed row 402,107,-1079. Lewis at the beds (health 14), no food needed yet. Set hold_at_beds intent; next: till dirt by the beds for a field.
