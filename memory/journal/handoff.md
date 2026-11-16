@@ -1,7 +1,5 @@
-Handoff, day 380 night. Asleep at the white bed near 401,107,-1078, in the group's sight. No errand running. Health 15, hunger 16.
+Handoff, day 380 night (waking 130). Asleep at the white bed near 401,107,-1078, in the group's sight. No errand running. Health 15, hunger 16.
 
-Found: 463,106,-1086 is already farmland, 4 blocks from water at 466,106,-1086, with ripe wheat on it. My tilled patch at 455,106,-1083 was dry (no water within 4). Laforge said he would come to the field but did not.
+Found: the wheat field at 460-463,107,-1084 to -1087 is farmland under ripe wheat. Clark cannot confirm 463,106,-1086 and says plant only where bare tilled ground is visible. Laforge came to the field and agrees: no planting until a clear block with water within 4 is named.
 
-Status: 16 wheat_seeds in pack, still not planted.
-
-Next: at first light, ask Clark and Laforge to confirm 463,106,-1086 is the patch to plant. Plant only there, and only after they agree. Eat rotten_flesh only at hunger 6 or below. Wait for Billy's cow call.
+Next: at first light, ask Clark for a clear farmland block near water. Plant only after confirmation. Eat rotten_flesh at hunger 6 or below. Wait for Billy's cow call.

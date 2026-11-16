@@ -47,3 +47,12 @@ Day 375 dusk: tried to use the bed (refused), then sleep verb worked; slept with
 - 20:08 act: {"reasoning":"463,106,-1086 is already farmland: the ripe wheat stands on it, 4 blocks from water. That confirms a working patch. Report it to Clark and Laforge before planting.","actions":[],"say":"C
 - 20:15 act: {"reasoning":"Dusk, and I am away from the beds. Go back to the white bed to sleep in the group's sight. No planting until Laforge or Clark confirms.","actions":[],"say":"Laforge did not come to the f
 - 20:15 act: {"reasoning":"Back at the beds at night, in the group's sight. Sleep now, as the day is over.","actions":[{"do":"sleep"}]}
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}}],"say":"MacDonald at the white bed, night. Planting waits for first light and Clark's or Laforge's confirmation."}
+- 20:16 act: {"actions":[{"do":"sleep"}]}
+- 20:17 act: {"actions":[],"say":"Morning, Laforge. The farmland I found is 463,106,-1086, by the water at 466,106,-1086. My dry tile at 455,106,-1083 is not the one. Clark, please confirm this block before I plan
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":461,"y":107,"z":-1084}}],"say":"Clark, thank you. I will walk to the wheat and look at the ground myself before I plant anything."}
+- 20:19 act: {"actions":[],"say":"I am at the wheat field now. The farmland is here, but the blocks I can see have ripe wheat growing on them. I will not plant on a block that is already taken. Laforge, Clark: ple
+- 20:22 act: {"actions":[],"say":"Laforge, thank you for coming. I cannot find a bare block either. The farmland I know is under ripe wheat. My tilled patch at 455,106,-1083 is too far from water to hold seeds. Le
+- 20:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}}],"say":"Laforge, agreed. No planting until a clear block with water near is named. I am heading back to the beds before dark."}
+- 20:27 act: {"actions":[{"do":"sleep"}]}
+- 20:31 act: {"actions":[{"do":"sleep"}]}
