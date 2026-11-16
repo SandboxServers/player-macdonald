@@ -25,3 +25,6 @@
 - 10:52 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed failed before; sleep directly beside the bed instead."}
 - 11:12 say: {"text":"Morning, all. MacDonald at the bed row, health 13, hunger 16. Ready for the cow walk when Billy calls each hop; I'll stay in sight."}
 - 11:20 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald going to sleep at the bed row, group in sight.","reasoning":"Night has come; sleep now beside the bed."}
+- 11:26 act: {"say":"MacDonald at the bed row, health 13, hunger 16. Still holding here with the group. Clark, I'll come when the cow walk is called.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{
+- 11:32 act: {"say":"Dusk. MacDonald going to sleep at the bed row, health 13, hunger 16. Group is near the beds.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 11:32 act: {"actions":[{"do":"sleep"}]}
