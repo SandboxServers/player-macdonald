@@ -28,3 +28,4 @@
 - 11:26 act: {"say":"MacDonald at the bed row, health 13, hunger 16. Still holding here with the group. Clark, I'll come when the cow walk is called.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{
 - 11:32 act: {"say":"Dusk. MacDonald going to sleep at the bed row, health 13, hunger 16. Group is near the beds.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}]}
 - 11:32 act: {"actions":[{"do":"sleep"}]}
+- 11:37 act: {"say":"Morning all. MacDonald at the bed row, health 13, hunger 16. I'll stay in sight and join the cow walk when Billy calls it."}
