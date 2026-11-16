@@ -1,6 +1,5 @@
-# Handoff, day 370 night
+# Handoff, day 373 night
 
-Asleep at the white bed 401,107,-1079. Health 13, hunger 16, not in danger, no errand running.
-Went to the shore with Clark's group for the water and wheat (ripe wheat at 463-467,107,-1082 to -1088; potatoes ripe at 462-463,107,-1073 to -1075). Returned to the bed row with Riker at night.
-Hunger still 16: eat rotten_flesh only at hunger 6 or below. Wheat is not an edible item in my pack.
-Next: after waking, wait for Billy's cow walk call; go to water and wheat when Clark calls; stay in sight of the group at the beds.
+Going to sleep at the white bed 401,107,-1079. Health 15, hunger 17, not in danger, no errand running.
+Morning: Clark asked me to plant the field beside the existing wheat (403,108,-1076), off the water route at z -1088. No clear dirt spot found yet; did not till.
+Next: when Clark or the group calls, till near the wheat with the wooden_hoe and plant wheat_seeds. Eat rotten_flesh only at hunger 6 or below. Stay in sight of the group at the beds.
