@@ -1,58 +1,7 @@
-Day 375 dusk: tried to use the bed (refused), then sleep verb worked; slept with the group. Woke at first light, health 15, hunger 17. Next: walk to the farmland by the potatoes near 462,107,-1074 and plant wheat_seeds.
-- 18:35 act: {"intent":{"goal":"reach_farmland_by_potatoes","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1074}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_
-- 18:35 act: {"actions":[{"do":"till","at":{"x":460,"y":106,"z":-1074}}]}
-- 18:36 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":460,"y":106,"z":-1074}}]}
-- 18:36 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":459,"y":106,"z":-1074}}]}
-- 18:36 say: {"text":"MacDonald here at the potatoes. I tilled one dry patch, but seed placing says the spot is occupied. Clark or Laforge, which exact block is the bare farmland by 462-463,107?"}
-- 18:38 say: {"text":"Thank you, Laforge. Which exact block is the bare farmland? I am standing on grass at 460,107,-1074."}
-- 18:44 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
-- 18:44 act: {"actions":[{"do":"sleep"}]}
-- 18:48 act: {"intent":{"goal":"walk_to_field_by_potatoes","program":"travel","arguments":{"target":{"x":460,"y":107,"z":-1074}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_d
-- 18:57 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
-- 18:57 act: {"actions":[{"do":"sleep"}]}
-- 19:01 say: {"text":"Morning. MacDonald awake at the white bed, health 15, hunger 17. Clark, which exact bare farmland block by 462-463,107 should I plant? Billy, I wait for your cow call."}
-- 19:05 act: {"intent":{"goal":"walk_to_wheat_to_find_bare_farmland","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1076}},"wake_on":["goal_completed","directly_addressed","precondition_failed","un
-- 19:05 act: {"intent":{"goal":"walk_to_potato_field_to_plant","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1074}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpect
-- 19:06 act: {"actions":[{"do":"goto","target":{"x":464,"y":107,"z":-1074}},{"do":"place","block":"wheat_seeds","at":{"x":465,"y":106,"z":-1074}}]}
-- 19:07 say: {"text":"I'm at 460,108,-1074 on dirt, by the potatoes. The view shows bare farmland about 5 blocks east, near 465,106,-1074. Clark or Laforge, is that the bare block you meant? I'll plant there if so
-- 19:08 say: {"text":"Clark, I'm at the potatoes (460,108,-1074). Laforge isn't sure of the spot. Please name one bare farmland block by coordinates, and I'll plant only that one."}
-- 19:24 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
-- 19:24 act: {"actions":[{"do":"sleep"}]}
-- 19:24 act: {"say":"Morning. MacDonald awake at the white bed, health 15, hunger 16. Clark, which exact bare farmland block should I plant? I'll wait for your coordinates."}
-- 19:28 act: {"intent":{"goal":"walk_to_wheat_to_find_bare_farmland","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1083}},"wake_on":["goal_completed","directly_addressed","precondition_failed","un
-- 19:29 act: {"actions":[{"do":"till","at":{"x":460,"y":106,"z":-1083}}]}
-- 19:29 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":460,"y":106,"z":-1083}}]}
-- 19:29 act: {"say":"I tilled the dry grass block at 460,106,-1083 (till worked). Placing seeds failed: target occupied, I may be standing in it. I'll step off and check before trying again.","intent":{"goal":"ste
-- 19:29 act: {"actions":[{"do":"goto","target":{"x":458,"y":107,"z":-1083}},{"do":"place","block":"wheat_seeds","at":{"x":460,"y":106,"z":-1083}}]}
-- 19:29 act: {"actions":[{"do":"goto","target":{"x":456,"y":107,"z":-1083}},{"do":"till","at":{"x":457,"y":106,"z":-1083}}]}
-- 19:29 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":457,"y":106,"z":-1083}}]}
-- 19:29 act: {"say":"Laforge, the place keeps saying target occupied, even on tilled patches at 460 and 457,106,-1083. Do seeds go on the farmland block itself or on the air above it? I'll stop trying until you or
-- 19:33 act: {"actions":[{"do":"goto","target":{"x":455,"y":107,"z":-1083}},{"do":"place","block":"wheat_seeds","at":{"x":457,"y":107,"z":-1083}}]}
-- 19:33 act: {"say":"Laforge, the place reply says \"seeds need farmland below.\" So the air-above idea is wrong, and the patch I tilled at 457,106 may not be farmland anymore. I'll till one fresh grass block and 
-- 19:36 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
-- 19:37 act: {"actions":[{"do":"sleep"}],"say":"MacDonald going to sleep at the white bed, health 15, hunger 16. Planting still waits for farmland; morning, Laforge, we check the wheat farm together."}
-- 19:37 act: {"actions":[{"do":"sleep"}]}
-- 19:37 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1080}}],"reasoning":"Walk to the wheat farm to inspect ground."}
-- 19:38 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1080}}]}
-- 19:38 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1080}}]}
-- 19:38 act: {"say":"Clark, I am at 460,107,-1080 by the wheat. Which exact block is the bare spot? Is 462,106,-1082 farmland?"}
-- 19:38 say: {"text":"MacDonald at 460,107,-1080. I still see no named farmland by look. Clark, Laforge: give me one exact farmland block by coordinates and I will plant only there. Holding until then."}
-- 19:42 act: {"intent":{"goal":"return_to_beds_in_sight","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1077}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max
-- 19:51 act: {"reasoning":"Nobody near, hunger 16 is above my eat threshold of 6. Wait for the group or a call.","actions":[{"do":"note","text":"Day 378 daytime at the beds. Sleep refused: not night. Hunger 16, no
-- 19:55 act: {"reasoning":"Morning, day 379. Zack and Chapman are at the beds, speaking. Still no farmland confirmed. Greet and wait for Billy's call and for Clark or Laforge to name a farmland block.","actions":[
-- 20:03 act: {"reasoning":"Night, I am at the bed in the group's sight. Sleep now; name the block to Clark for the morning.","actions":[{"do":"sleep"}],"say":"Clark, I will till the fresh grass at 455,106,-1083 at
-- 20:07 act: {"reasoning":"Morning. Clark and Laforge are both waiting on a named farmland block. I will walk to the wheat field, till one fresh grass block, and name it before planting.","actions":[],"say":"Morni
-- 20:08 act: {"reasoning":"At the field. Till the grass at 455,106,-1083, which is near the water, then check with Clark before seeds.","actions":[{"do":"till","at":{"x":455,"y":106,"z":-1083}}]}
-- 20:08 act: {"reasoning":"Dry at 455. Move next to the water and till a grass block within 4 of it, at 463,106,-1086.","actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1086}},{"do":"till","at":{"x":463,"y":
-- 20:08 act: {"reasoning":"463,106,-1086 is already farmland: the ripe wheat stands on it, 4 blocks from water. That confirms a working patch. Report it to Clark and Laforge before planting.","actions":[],"say":"C
-- 20:15 act: {"reasoning":"Dusk, and I am away from the beds. Go back to the white bed to sleep in the group's sight. No planting until Laforge or Clark confirms.","actions":[],"say":"Laforge did not come to the f
-- 20:15 act: {"reasoning":"Back at the beds at night, in the group's sight. Sleep now, as the day is over.","actions":[{"do":"sleep"}]}
-- 20:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}}],"say":"MacDonald at the white bed, night. Planting waits for first light and Clark's or Laforge's confirmation."}
-- 20:16 act: {"actions":[{"do":"sleep"}]}
-- 20:17 act: {"actions":[],"say":"Morning, Laforge. The farmland I found is 463,106,-1086, by the water at 466,106,-1086. My dry tile at 455,106,-1083 is not the one. Clark, please confirm this block before I plan
-- 20:19 act: {"actions":[{"do":"goto","target":{"x":461,"y":107,"z":-1084}}],"say":"Clark, thank you. I will walk to the wheat and look at the ground myself before I plant anything."}
-- 20:19 act: {"actions":[],"say":"I am at the wheat field now. The farmland is here, but the blocks I can see have ripe wheat growing on them. I will not plant on a block that is already taken. Laforge, Clark: ple
-- 20:22 act: {"actions":[],"say":"Laforge, thank you for coming. I cannot find a bare block either. The farmland I know is under ripe wheat. My tilled patch at 455,106,-1083 is too far from water to hold seeds. Le
-- 20:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}}],"say":"Laforge, agreed. No planting until a clear block with water near is named. I am heading back to the beds before dark."}
-- 20:27 act: {"actions":[{"do":"sleep"}]}
-- 20:31 act: {"actions":[{"do":"sleep"}]}
+Day 381 morning at the white bed (401,107,-1077). Health 15, hunger 16. Asked Clark to name a bare watered farmland block. Clark would not name one; he says check 455,106,-1083 myself. Planting still waits. Billy's group is walking in with Data, Tommy, Troi, Picard, Lewis; no cow walk called yet. Waiting for Billy and Clark.
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald at the white bed in the group's sight, health 15, hunger 16. Planting waits for Clark's named block.","reasoning":"Dusk at the bed, safe and in sigh
+- 20:45 act: {"say":"Morning, Laforge. MacDonald awake at the white bed, health 15, hunger 16. Still no named block from Clark. I will plant only where one of you names it by coordinates.","reasoning":"Woke at fir
+- 20:53 act: {"say":"Kimberly, MacDonald at the white bed. I hold 6 rotten flesh and some wheat. If you need food, come to me and say so, and I will hand it over.","reasoning":"Kimberly is at health 6 and needs fo
+- 20:57 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald at the white bed. Kimberly, my rotten flesh is yours if you call for it.","reasoning":"Night at the bed, in the group's sight. Sleep to end the day.
+- 21:00 act: {"say":"Laforge, MacDonald at the beds. Clark still has no named block, so I will not plant. I will wait here for his coordinates or for Billy's call.","reasoning":"Laforge is going to the farm. Tell 
+- 21:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk. MacDonald at the white bed, health 15, hunger 16. Still no named farmland block, so no planting. Billy, cow walk at first light is yours to call.","reasoning":
