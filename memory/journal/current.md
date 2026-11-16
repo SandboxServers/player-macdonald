@@ -4,3 +4,10 @@ Day 362: Slept at bed 401,107,-1079. Woke bright. Made one dry farmland at 403,1
 - Woke bright, health 13, hunger 16. Asked Laforge about water. Wait ended by session reset; no new events. Next: wait at the beds for group, cow hop.
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night is here. I am going to bed."}
 - 14:36 act: {"actions":[{"do":"sleep"}]}
+- 14:37 act: {"say":"Morning, Clark. Thank you for looking. The wheat by the beds is coming along, so I will keep tending it.","actions":[]}
+- 14:42 act: {"say":"Clark, I have seen no cows or water on my walks yet, sorry. I have wheat growing in my field by the beds, and 19 planks if anyone needs them.","actions":[]}
+- Day 363 morning: still at beds, bright, health 13, hunger 16. No cows or water seen. Clark is heading off to look elsewhere. Waiting for the field and the group.
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Dusk. Going to my bed to sleep. Still no water; I will look for it at first light."}
+- Day 364 dusk: went to bed, sleep failed (not yet night). Wrote handoff. Waiting at bed.
+- 14:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Dusk. Going to my bed to sleep. Water still not found; I will keep looking at first light."}
+- 15:07 act: {"say":"Morning all. MacDonald here at the beds, healthy. Billy, I am ready for the cow walk. I will stay in sight of the group.","actions":[]}
