@@ -1,7 +1,8 @@
-# Goals, day 338
+# Goals, day 354
 
-1. Get my own health back: take food from the group now (melon from Bcrusher or Leonardo). Reason: health is 4, and it does not regenerate while hunger is low, so nothing else works until I eat.
-2. Stay in sight of the group and walk to the cow ground 480,105,-1137 together at first light. Reason: alone I was attacked by a zombie and pulled off the group; together we share food and watch each other.
-3. Keep the weakest fed, starting with whoever is lowest in sight. Reason: sharing has kept the group alive.
-4. Sleep in a free bed at night with the group in sight. Reason: days since sleep is 1, and beds keep the group together.
-5. Later, plant a field near the beds once a steady food source is in hand. Reason: meat from cows is not dependable yet.
+1. Eat when hunger is 6 or below: take Laforge's melon slice, or rotten flesh I hold (6). Reason: health 13 does not regenerate while hunger is low.
+2. Stay in sight of the group at the bed row 402,107,-1079. Reason: the group shares food and watches each other.
+3. Join the cow walk to 480,105,-1137 when Billy, Jason or Zack calls it. Reason: cows are the steady meat source.
+4. Sleep in bed 401,107,-1079 at dusk, by calling sleep directly beside it. Reason: the bed use failed, but sleep works.
+5. Plant a field by the beds with wheat_seeds and oak_sapling, using the hoe. Reason: a steady food source is still missing.
+</content>

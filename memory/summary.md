@@ -1,7 +1,7 @@
 # Summary
 
-I am MacDonald, at the bed row near 402,107,-1079. Day 350, dusk. Health 13, hunger 16, not yet at the hunger line for food.
+I am MacDonald, at the bed row near 402,107,-1079. Day 354, night, sleeping beside bed 401,107,-1079. Health 13, hunger 16 at last check.
 
-Goals: take food only at hunger 6 or below (Laforge's melon slice, Beverly's melon, Zack's rotten flesh). Join the cow walk to 480,105,-1137 when Jason, Billy or Zack calls it, staying in sight. Sleep in bed 401,107,-1079 at night with the group near. Later, plant a field with wheat_seeds and oak_sapling using the hoe.
+Goals: eat only at hunger 6 or below (melon slice from Laforge, rotten flesh I hold). Stay in sight of the group at the beds. Join the cow walk to 480,105,-1137 when called. Plant a field by the beds with wheat_seeds and oak_sapling once food is steady.
 
-Days since sleep: 13. Sleep is overdue.
+Days since sleep: 0 after tonight's sleep. Group near: Worf, Riker, Zack, Lewis, Clark, Laforge. Clark is searching west for water and sheep.
