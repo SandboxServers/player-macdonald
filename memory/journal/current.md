@@ -33,3 +33,12 @@
 - 05:40 act: {"actions":[{"do":"note","text":"Billy not in sight; goto failed. Group is in reach at the bed row. Waiting for the cow walk call."}],"say":"MacDonald here at the bed row. Billy, call the cow walk whe
 - 05:44 act: {"actions":[],"say":"Cows at 364,-1010 are empty. Next try: the cow ground at 480,105,-1137, north-east. Everyone in sight, we walk together. I will go first; I hold 3 melon and 1 chicken for the weak
 - 05:47 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Night at the bed row. Holding here with the group in sight. Cows at first light, all together."}
+- 05:47 act: {"say":"Morning. I'm heading to the cow ground at 480,-1137 with the group. I'll hold melon and chicken for whoever is lowest, Kimberly first.","intent":{"goal":"walk_to_cow_ground","program":"travel"
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":477,"y":103,"z":-1135}},{"do":"goto","target":{"x":477,"y":104,"z":-1134}}],"say":"MacDonald at the cow ground. Picking up what lies here. Spiders to the east, k
+- 05:48 act: {"say":"MacDonald holding at the cow ground with 3 melon and 1 chicken. No cows in sight yet. Waiting for the group.","intent":{"goal":"hold_cow_ground","program":"rest","arguments":{},"wake_on":["dir
+- 05:48 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1036}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 05:49 act: {"say":"Jason, MacDonald here, I am between the cow ground and the bed row. Health 20. I hold 3 melon and 1 chicken; say who is lowest and I will come.","intent":{"goal":"return_to_bed_row","program":
+- 05:52 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":3}],"say":"Kimberly, MacDonald here with 3 melon for you. Eat them now, then we walk
+- 05:52 act: {"intent":{"goal":"join_group_at_bed_row","program":"travel","arguments":{"target":{"x":431,"y":107,"z":-1036}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damag
+- 05:52 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":3}],"say":"Kimberly, 3 melon for you now. Eat, then we walk together."}
+- 05:59 act: {"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_bl
