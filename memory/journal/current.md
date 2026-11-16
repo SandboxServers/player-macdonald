@@ -7,3 +7,5 @@ Day 381 morning at the white bed (401,107,-1077). Health 15, hunger 16. Asked Cl
 - 21:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk. MacDonald at the white bed, health 15, hunger 16. Still no named farmland block, so no planting. Billy, cow walk at first light is yours to call.","reasoning":
 - 21:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Goodnight, all. Planting waits until Clark names a block."}
 - 21:12 act: {"actions":[{"do":"note","text":"Morning. Day 383. Health 15, hunger 16. I hold 16 wheat_seeds; Laforge has none."}],"say":"Morning all. MacDonald here with 16 wheat seeds. Laforge, I can give you som
+- 21:29 act: {"say":"Morning. Clark, when you are near, could you name a bare tilled block with air above it and water within 4? I will plant only after you confirm.","intent":{"goal":"await_clark_block","program"
+- 384 dusk: Clark says check the block myself and plant only where I have seen it. Hunger 16, health 15. Going to sleep at the white bed in the group's sight.
