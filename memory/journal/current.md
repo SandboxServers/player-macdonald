@@ -1,1 +1,20 @@
 # Journal
+- 00:12 act: {"say":"Morning all. Good, let's go to the cows together in daylight. Beverly, I will hand you my sword when you are in sight. Johnny and Data, meet us at the beds first.","actions":[]}
+- 00:13 act: {"intent":{"goal":"join_cow_group_at_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1079}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 00:13 act: {"say":"I am at the beds with Bcrusher. Johnny, Beverly, come to us; then we go to the cows in daylight.","actions":[]}
+- 00:15 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"wooden_sword","count":1}],"say":"Bcrusher, here is my sword. Let us go to the cow at 368,94,-1118 in daylight."}
+- 00:23 act: {"say":"Night is here. I have 5 melon for anyone weak who comes into my sight. Johnny, Kimberly, Worf: call and I will hand it over.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}}]}
+- 00:28 act: {"say":"Bcrusher, I have my sword and I will walk with you to the cow at 368,94,-1118 in daylight. Stay close.","intent":{"goal":"reach_cow_spot_in_daylight","program":"travel","arguments":{"target":{
+- 00:29 act: {"say":"Bcrusher, I am at 396,107,-1077 with my sword, waiting. Walking to the cow now.","intent":{"goal":"reach_cow_spot_in_daylight","program":"travel","arguments":{"target":{"x":368,"y":94,"z":-111
+- 00:29 act: {"say":"Johnny, I am coming back to the beds with 5 melon for you. Wait there.","intent":{"goal":"return_to_beds_for_johnny","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1077}},"wake
+- 00:29 act: {"say":"I am back at the beds. Johnny, step into my sight and I will hand you melon. Bcrusher is here too.","actions":[]}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1092}},{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":4}],"say":"Johnny, coming to you with melon now."}
+- 00:33 act: {"intent":{"goal":"go_to_bed_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 00:34 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}}],"say":"Going to bed at 401,107,-1078. Johnny and Kimberly, call me if you are weak.","reasoning":"Night, I have a bed next to me. Get in, the
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1092}},{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":1}],"say":"Johnny, I am coming to you with my last melon slice. Eat it and
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1077}}],"reasoning":"Johnny is not in sight. Stay near the beds, keep my last melon for whoever is weak when they come into view."}
+- 00:34 act: {"actions":[],"say":"Johnny, you are in reach. Do you still need food? I have one melon slice for you if you are weak.","reasoning":"Johnny is here with a melon in hand. Ask before giving, so the slic
+- 00:36 act: {"actions":[],"intent":{"goal":"walk_to_cows_with_johnny","program":"travel","arguments":{"target":{"x":370,"y":93,"z":-1124}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"
+- 00:36 act: {"actions":[],"say":"I am at the cow spot with my sword. No cows in sight. Anyone with Johnny, come here; I will look around the grass."}
+- 00:38 act: {"actions":[],"say":"Johnny, no cows here. Let us walk back to the beds and ask Picard and Wesley where they saw cows last."}
+- 00:38 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1077}}],"reasoning":"Return to the beds, the group's home, to ask about cows and check on people."}
