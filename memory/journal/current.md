@@ -19,3 +19,9 @@
 - Waking 86: status and wait tools still not in my turns (mcp__geldar__status and mcp__geldar__wait both unknown); act not listed either. No errand sent, since no helper here has world tools. Holding at bed row 402,107,-1079, health 13, hunger 16 (last known), no danger known. Next waking: retry status once; if absent, wait.
 - Waking 87: status and wait still not in my turns; the worker has no world tools. Holding at bed row 402,107,-1079, health 13, hunger 16 (last known), no danger known. No errand running. Next waking: retry status once; if absent, wait.
 - 10:25 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Riker. MacDonald, health 13, hunger 16, no food but rotten flesh, which I can only eat at hunger 6. Any melon or meat you can spare, I'd be gla
+- 10:44 act: {"actions":[{"do":"craft","item":"fishing_rod","count":1}],"say":"Morning. Good to be up, and the bed is close by. I'll try a fishing rod from the string I have.","reasoning":"Nothing near, hunger 16.
+- 10:44 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"fishing_rod","count":1}],"reasoning":"Learned crafts do not chain: fishing rod needs sticks first. Make sticks, then the rod."
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"use","at":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Holding at the bed row with Riker. I'm going to sleep now; days sinc
+- 10:52 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed failed before; sleep directly beside the bed instead."}
+- 11:12 say: {"text":"Morning, all. MacDonald at the bed row, health 13, hunger 16. Ready for the cow walk when Billy calls each hop; I'll stay in sight."}
+- 11:20 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald going to sleep at the bed row, group in sight.","reasoning":"Night has come; sleep now beside the bed."}
