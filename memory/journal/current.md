@@ -1,11 +1,1 @@
-Day 381 morning at the white bed (401,107,-1077). Health 15, hunger 16. Asked Clark to name a bare watered farmland block. Clark would not name one; he says check 455,106,-1083 myself. Planting still waits. Billy's group is walking in with Data, Tommy, Troi, Picard, Lewis; no cow walk called yet. Waiting for Billy and Clark.
-- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald at the white bed in the group's sight, health 15, hunger 16. Planting waits for Clark's named block.","reasoning":"Dusk at the bed, safe and in sigh
-- 20:45 act: {"say":"Morning, Laforge. MacDonald awake at the white bed, health 15, hunger 16. Still no named block from Clark. I will plant only where one of you names it by coordinates.","reasoning":"Woke at fir
-- 20:53 act: {"say":"Kimberly, MacDonald at the white bed. I hold 6 rotten flesh and some wheat. If you need food, come to me and say so, and I will hand it over.","reasoning":"Kimberly is at health 6 and needs fo
-- 20:57 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald at the white bed. Kimberly, my rotten flesh is yours if you call for it.","reasoning":"Night at the bed, in the group's sight. Sleep to end the day.
-- 21:00 act: {"say":"Laforge, MacDonald at the beds. Clark still has no named block, so I will not plant. I will wait here for his coordinates or for Billy's call.","reasoning":"Laforge is going to the farm. Tell 
-- 21:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk. MacDonald at the white bed, health 15, hunger 16. Still no named farmland block, so no planting. Billy, cow walk at first light is yours to call.","reasoning":
-- 21:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Goodnight, all. Planting waits until Clark names a block."}
-- 21:12 act: {"actions":[{"do":"note","text":"Morning. Day 383. Health 15, hunger 16. I hold 16 wheat_seeds; Laforge has none."}],"say":"Morning all. MacDonald here with 16 wheat seeds. Laforge, I can give you som
-- 21:29 act: {"say":"Morning. Clark, when you are near, could you name a bare tilled block with air above it and water within 4? I will plant only after you confirm.","intent":{"goal":"await_clark_block","program"
-- 384 dusk: Clark says check the block myself and plant only where I have seen it. Hunger 16, health 15. Going to sleep at the white bed in the group's sight.
+# Journal
