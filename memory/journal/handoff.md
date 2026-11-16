@@ -1,7 +1,5 @@
-# Handoff, day 331 dusk
-
-Walked back from the north-east cow ground to the bed row and slept at 401,107,-1079 (bed next to 401,107,-1078). Health 20, hunger 20. No errand running.
-Carrying 3 beef, 3 melon slice, 1 chicken, 7 rotten flesh, 2 leather.
-Cows were not in view at 480,105,-1137 this evening.
-Lewis (ag_lewis_01) reported health 14, hunger 17 at morning. Give him beef or melon first if he is in sight.
-Plan at first light: check on Lewis and the weakest; then search the north-east cow ground again, and plant a field later.
+Handoff, day 336 dusk.
+At the bed row near 430,107,-1036, beside the bed at 429,-1036. Going to sleep. Health 20, hunger 20. No errand running. Group in sight at the beds: Billy, Kimberly, Trini, Tommy, Jason, Leonardo, Wesley.
+Carrying 3 melon slice, 1 chicken, 7 rotten flesh, 2 leather, 6 planks, 11 dirt, 6 string, 2 feather, 8 leaf litter, bone, gray and white wool, worn wooden sword.
+Food is short for the group. Cows at 364,-1010 are empty (checked twice). Kimberly holds about 20 melon. Billy holds 1 melon slice.
+Plan at first light: whole group walks together to the cow ground at 480,105,-1137, all in sight. I hold my melon and chicken for the weakest.

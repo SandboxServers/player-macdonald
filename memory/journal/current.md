@@ -1,1 +1,34 @@
 # Journal
+- 04:02 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}],"reasoning":"Walk to the bed row as errand asks."}
+- 04:02 say: {"text":"Macdonald's worker here at the bed row. Lewis is not in sight, so I hold my 3 beef."}
+- 04:02 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"beef","count":2}],"say":"Lewis, here are 2 beef for you. Eat when you need it."}
+- 04:02 act: {"intent":{"goal":"travel_to_cow_ground","program":"travel","arguments":{"target":{"x":480,"y":105,"z":-1137}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 04:03 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}],"say":"Dusk. I am going to my bed at the row for the night. Lewis, I hold 1 beef for you at first light."}
+- 04:12 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night at the beds. I'm going to sleep here by the bed row.","reasoning":"Bed use failed earlier; try sleep action 
+- 04:15 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1067}}],"say":"Morning. MacDonald here, health 20, hunger 20. Lewis, how are you? Say the word if you need melon.","reasoning":"Morning check on
+- 04:19 act: {"actions":[],"say":"Picard, MacDonald here at the bed row with melon. Step into my sight if you want one.","reasoning":"Picard reported hunger 17; I hold food. Offer it and wait for him to come into 
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1066}}],"say":"Lewis, MacDonald here with 3 melon. I am near the bed row, step into my sight and I will hand you one.","reasoning":"Lewis is at 
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1064}}],"say":"Lewis, MacDonald here at the bed row with melon if you wake hungry. Sleep well.","reasoning":"Night. Lewis is at hunger 17 and sl
+- 04:27 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, sheltered by the beds, fed, no errand running. Sleep here."}
+- 04:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}]}
+- 04:36 act: {"actions":[{"do":"sleep"}]}
+- 04:39 act: {"actions":[{"do":"sleep"}]}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1050}}],"say":"MacDonald here, morning. Full at 20. I hold 3 melon, 1 beef, 1 chicken for whoever is weakest. Going with the cow hunt; step into
+- 04:47 act: {"actions":[],"say":"Lewis, I have not been past the birch. I am at the drops with 3 melon and 1 beef, ready for whoever gets weak."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1051}}],"say":"Dusk. Going to the bed at 401,107,-1051 with the others near. Melon held for whoever is weak."}
+- 04:56 act: {"say":"Resting at the bed row soon. Melon and beef stay held for whoever is weak at first light.","intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_address
+- 04:56 act: {"say":"MacDonald here, healthy, hunger 20. I'm ready for the cow walk. Say when you set off and I'll keep in sight. I hold 1 beef and 3 melon for whoever is lowest."}
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1038}}],"say":"Kimberly, MacDonald coming to you with beef for your health. Stay where you are."}
+- 05:06 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}}],"say":"Dusk. Going to the bed by Kimberly for the night. I hold beef for her at first light."}
+- 05:06 act: {"actions":[{"do":"sleep"}],"say":"Night. Sleeping by the bed here. Beef held for Kimberly at first light."}
+- 05:10 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Morning, Kimberly. Here is my beef for your health. Eat it, then we walk for cows with Billy and Jason."}
+- 05:15 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"MacDonald joining the cow walk. Holding 3 melon and 1 chicken for whoever is lowest. Staying in sight.","intent":{"goal":"join_cow_walk","pr
+- 05:19 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}},{"do":"sleep"}]}
+- 05:23 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Morning. MacDonald here, health 20. Kimberly, eat your melon now while we walk. I'll follow Billy to the cows with you."}
+- 05:27 say: {"text":"MacDonald here, health 20, hunger 20, holding 3 melon and 1 chicken. Leonardo, if you are weak, come into my sight and I'll hand you melon. I'm walking with the cow group when Billy calls."}
+- 05:35 act: {"actions":[{"do":"sleep"}]}
+- 05:39 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"MacDonald joining the cow walk with Billy. Holding 3 melon and 1 chicken for whoever is weak."}
+- 05:40 act: {"actions":[{"do":"note","text":"Billy not in sight; goto failed. Group is in reach at the bed row. Waiting for the cow walk call."}],"say":"MacDonald here at the bed row. Billy, call the cow walk whe
+- 05:44 act: {"actions":[],"say":"Cows at 364,-1010 are empty. Next try: the cow ground at 480,105,-1137, north-east. Everyone in sight, we walk together. I will go first; I hold 3 melon and 1 chicken for the weak
