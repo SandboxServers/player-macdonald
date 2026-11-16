@@ -8,4 +8,5 @@
 - Waking 75: worker and planner errands both report no status/wait/act tools. Wrote handoff.md. Still holding at the bed row.
 - Waking 76: world tools still absent to me. Worker errand failed at once (zero tools). Holding at the bed row, no danger known, no food taken (hunger 16). Next: retry the status errand at next waking.
 - Waking 77: world tools still not reachable from my turns. Worker errand failed again (zero tools). Holding at the bed row, no errand running, no known danger. Next waking: retry the status errand.
+- Waking 78: world tools still absent. Worker errand refused at spawn (zero tools matched mcp__geldar__*). Holding at bed row 402,107,-1079, health 13, hunger 16, no danger known. Next waking: retry status once; if still absent, wait.
 - 10:25 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Riker. MacDonald, health 13, hunger 16, no food but rotten flesh, which I can only eat at hunger 6. Any melon or meat you can spare, I'd be gla
