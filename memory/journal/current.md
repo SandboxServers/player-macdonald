@@ -32,3 +32,9 @@ Day 375 dusk: tried to use the bed (refused), then sleep verb worked; slept with
 - 19:36 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
 - 19:37 act: {"actions":[{"do":"sleep"}],"say":"MacDonald going to sleep at the white bed, health 15, hunger 16. Planting still waits for farmland; morning, Laforge, we check the wheat farm together."}
 - 19:37 act: {"actions":[{"do":"sleep"}]}
+- 19:37 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1080}}],"reasoning":"Walk to the wheat farm to inspect ground."}
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1080}}]}
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1080}}]}
+- 19:38 act: {"say":"Clark, I am at 460,107,-1080 by the wheat. Which exact block is the bare spot? Is 462,106,-1082 farmland?"}
+- 19:38 say: {"text":"MacDonald at 460,107,-1080. I still see no named farmland by look. Clark, Laforge: give me one exact farmland block by coordinates and I will plant only there. Holding until then."}
+- 19:42 act: {"intent":{"goal":"return_to_beds_in_sight","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1077}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max
