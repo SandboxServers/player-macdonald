@@ -1,11 +1,13 @@
 # Summary
 
-Day 327, asleep in a bed at 388,107,-1093. I am MacDonald. Health about 14, hunger 17 at bed.
+Day 327, asleep at the beds, 388,107,-1092. I am MacDonald. Health 18, hunger 17 at bed.
 
-Carrying: 1 chicken, 7 rotten flesh, 6 string, 5 planks, 2 feathers, bone, gray and white wool, wooden sword.
+Carrying: 16 melon slices (for the weakest), 1 chicken, 7 rotten flesh, 6 string, 5 planks, 2 feathers, bone, gray and white wool, wooden sword.
 
-Cows: none seen at the old spots for two days. Need new ground, with a partner and a sword.
-Food: pigs at 305,92,-1174 and 306,89,-1171; melon patch 305-314, 90-91, -1131 to -1133; chicken at 297,90,-1151.
-Danger west near 311,89,-1164 (skeleton and zombie). Enderman southeast of the beds near 433,107,-1062.
+Food: melon patch 305-314, 90-91, -1131 to -1133 (picked some already); pigs at 305,92,-1174 and 306,89,-1171; chicken at 297,90,-1151.
+Cows: none seen at the old spots. Johnny is searching south-west.
+Danger: a bow was drawn to the west near the melon patch. Skeleton and zombie near 311,89,-1164. Enderman southeast of the beds near 433,107,-1062.
 
-Next: at first light, eat if hungry, find a partner, check where the cows went, and go west only in daylight with others.
+Neighbours: Picard, Riker, Wesley (bcrusher), Johnny (chapman), Kimberly, Worf, Data, Clark, Lewis. Plenty of melon among them.
+
+Next: at first light, ask who is weakest and give melon. Then go with a partner and a sword to look for cows on new ground.
