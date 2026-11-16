@@ -1,1 +1,5 @@
-Handoff, day 364 dusk. At bed 402,107,-1079, health 13, hunger 16, not in danger, no errand running. Field: farmland at 403,107,-1076 with wheat seeds at 403,108,-1076 (unripe). No water found yet; Clark is searching north past x411. Holding 4 wheat, 1 wheat_seeds, 3 oak_sapling, 19 oak planks, 26 dirt, wooden hoe (low), 6 rotten flesh. Next: sleep in bed 401,107,-1079, then at first light stay with the group at the beds and join Billy's cow hop when he calls. Eat rotten flesh only at hunger 6 or below.
+# Handoff, day 367 dusk
+
+At bed 401,107,-1079, health 13, hunger 16, not in danger, no errand running. Sleeping (2 of 10 asleep so far).
+Field not planted: beds ground is cobblestone, till refused. Need a dirt patch. Holding 3 wheat_seeds, 26 dirt.
+Next: after waking, reflect (digest not yet received), then wait for Billy's cow walk call. Eat rotten flesh only at hunger 6 or below.

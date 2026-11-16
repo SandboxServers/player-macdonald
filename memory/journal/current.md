@@ -1,1 +1,13 @@
 # Journal
+- Day 366 morning: woke at beds, hunger 16, health 13. Sent worker to till and plant the field near 403,107,-1076. Said hello to the group.
+- Field attempt failed: ground at beds is cobblestone, till refused; place dirt was blocked. Field waits for a dirt patch. Holding wheat_seeds. Next: wait for Billy's cow walk call.
+- Day 367 night: slept in bed 401,107,-1079 with the sleep tool. Morning: hunger 16, health 13, greeted the group, waiting for Billy's cow walk.
+- 15:43 act: {"say":"Morning all. I am planting the field by the beds with wheat seeds. Billy, call when the cow walk is ready."}
+- 15:43 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1076}}]}
+- 15:43 act: {"actions":[{"do":"till","at":{"x":404,"y":106,"z":-1076}}]}
+- 15:43 act: {"actions":[{"do":"till","at":{"x":403,"y":106,"z":-1076}},{"do":"till","at":{"x":404,"y":107,"z":-1076}}]}
+- 15:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":404,"y":106,"z":-1077}},{"do":"till","at":{"x":404,"y":106,"z":-1077}}]}
+- 15:45 act: {"say":"The ground here is all cobblestone, so I cannot till it. I will hold the seeds until someone shows me a dirt patch."}
+- 15:53 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 15:57 act: {"say":"Good morning, friends. MacDonald here, rested, hunger 16. Billy, I'm in sight and ready for the cow walk when you call."}
+- 16:06 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}]}
