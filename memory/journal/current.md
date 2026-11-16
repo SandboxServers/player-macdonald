@@ -6,3 +6,11 @@
 - 12:09 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the beds. Going to sleep in my bed. Worf, I still have the white wool for you."}
 - 12:15 act: {"say":"Morning. Laforge and Clark, thank you for searching. I will work on a bed-side field with my hoe."}
 - Day 356 morning: health 13, hunger 16, at beds. Said morning; Laforge and Clark report no water south-west. Next: find dirt ground to till near the beds.
+- Day 356 day: held at beds, health 13, hunger 16. Told Clark I cannot confirm the wheat at 462,107,-1088. Worf not in sight yet; white wool still held.
+- Dusk day 356: Worf went toward the cow walk with Zack, out of my sight. White wool still held. Going to sleep in bed 401,107,-1079 beside me.
+- Day 357: sleep failed twice, "not night" (dim thunder, then day). Still at bed 401,107,-1079, health 13, hunger 16. Waiting for dusk to sleep again; wool still held for Worf.
+- 12:17 act: {"say":"MacDonald here at the beds, health 13, hunger 16. Worf, I still have the white wool for you; I will give it when you are in sight.","reasoning":"Nobody in sight. Holding at the beds for Worf's
+- 12:21 say: {"text":"Clark, I have not seen the wheat myself, so I cannot confirm it. Cow walk is still waiting on Billy's call; I am holding at the beds."}
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"reasoning":"Dusk, in the bed row with the group. Sleep in the bed here."}
+- 12:32 act: {"actions":[{"do":"sleep"}],"reasoning":"Trying the bed again once night has fallen."}
+- 12:36 act: {"actions":[{"do":"sleep"}],"reasoning":"Night at the bed row, sheltered enough, group nearby. Sleep here."}
