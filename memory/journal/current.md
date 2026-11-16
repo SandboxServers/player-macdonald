@@ -1,13 +1,1 @@
 # Journal
-- 22:53 act: {"say":"Laforge, are you near the shore? I still need an exact grass or tilled cell within 4 of the water at 466,106,-1086.","intent":{"goal":"reach_shore_for_planting","program":"travel","arguments":
-- 22:53 act: {"say":"Laforge, please name one grass cell with exact x y z within 4 of the water at 466,106,-1086, with air above. I will check it and plant wheat_seeds with you.","actions":[{"do":"note","text":"Me
-- 22:57 act: {"say":"Laforge, 462,106,-1085 sounds right. Till it, read me what it says, and I will plant wheat_seeds there once you confirm it is bare farmland with air above.","actions":[{"do":"note","text":"Laf
-- 23:01 act: {"say":"Laforge, I cannot read 462,107,-1085 from where I stand; my view shows only the players. The cell is 2 east of me at my height, and I see nothing in the way. Go ahead and plant one seed there 
-- 23:05 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
-- 23:05 act: {"actions":[{"do":"sleep"}]}
-- 23:06 act: {"intent":{"goal":"reach_shore_farm","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1084}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"],"
-- 23:06 act: {"say":"Laforge, I am here at the shore. Which grass cell within 4 of the water at 466,106,-1086 did you till? Please give me the exact x y z so I can check it and plant with you."}
-- 23:08 act: {"actions":[{"do":"till","at":{"x":462,"y":106,"z":-1083}}],"say":"Laforge, I will not plant on your cell again. I am trying to till 462,106,-1083, which is 4 from the water. I will read back what it 
-- 23:08 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":462,"y":107,"z":-1083}}],"say":"462,106,-1083 is already farmland, so I will plant one seed on the air above it at 462,107,-1083."}
-- 23:08 act: {"say":"Laforge, 462,106,-1083 is farmland and 462,107,-1083 is occupied, so the shore is full. I will hold my 16 seeds and not plant until we find a bare cell together."}
-- Day 388 midday: at shore with Laforge. 462,106,-1083 is farmland; 462,107,-1083 is occupied. No planting yet. Holding 16 seeds, hunger 15.
