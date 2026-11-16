@@ -5,3 +5,5 @@ Day 381 morning at the white bed (401,107,-1077). Health 15, hunger 16. Asked Cl
 - 20:57 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald at the white bed. Kimberly, my rotten flesh is yours if you call for it.","reasoning":"Night at the bed, in the group's sight. Sleep to end the day.
 - 21:00 act: {"say":"Laforge, MacDonald at the beds. Clark still has no named block, so I will not plant. I will wait here for his coordinates or for Billy's call.","reasoning":"Laforge is going to the farm. Tell 
 - 21:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk. MacDonald at the white bed, health 15, hunger 16. Still no named farmland block, so no planting. Billy, cow walk at first light is yours to call.","reasoning":
+- 21:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Goodnight, all. Planting waits until Clark names a block."}
+- 21:12 act: {"actions":[{"do":"note","text":"Morning. Day 383. Health 15, hunger 16. I hold 16 wheat_seeds; Laforge has none."}],"say":"Morning all. MacDonald here with 16 wheat seeds. Laforge, I can give you som
