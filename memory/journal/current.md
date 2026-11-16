@@ -2,3 +2,5 @@ Day 362: Slept at bed 401,107,-1079. Woke bright. Made one dry farmland at 403,1
 - 14:19 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Dusk. Going to my bed to sleep. Planted one wheat patch today."}
 - 14:31 say: {"text":"Morning, Laforge. Thank you for the offer. I still need water for my field. Has anyone seen a pond nearby?"}
 - Woke bright, health 13, hunger 16. Asked Laforge about water. Wait ended by session reset; no new events. Next: wait at the beds for group, cow hop.
+- 14:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night is here. I am going to bed."}
+- 14:36 act: {"actions":[{"do":"sleep"}]}
