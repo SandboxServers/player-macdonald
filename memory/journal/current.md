@@ -9,3 +9,14 @@
 - Day 318 morning: Picard in sight with 3 melon, not weak now. Held my 5 melon for Lewis (still unseen). Chapman has 1 melon. No animals west. Food is spread out; waiting for Lewis to step into view.
 - 23:33 act: {"actions":[],"say":"Picard, you have melon in hand, so I'll keep mine for Lewis. Lewis, where are you? I'm at 388,107,-1090 with 5 melon slices."}
 - 23:48 act: {"actions":[],"say":"Thanks for the cow spot, Chapman. Worf, Chapman: I'm at the beds with 5 melon for Lewis. I'll go to the cow with Beverly or Kimberly in pairs, once I have a sword."}
+- 23:52 act: {"actions":[],"say":"Chapman, I'd take that wooden sword for the cow hunt, please give it to me here. Beverly, we go to the cow at 370,93,-1124 by daylight together. Data, step into view and I'll hand
+- 23:54 act: {"actions":[],"say":"Worf, Chapman's sword is with you now. Please give it to me or to Beverly for the cow hunt at first light. Beverly and I go together then."}
+- 23:58 act: {"actions":[{"do":"goto","target":"Beverly"}],"say":"Beverly, I have the sword. I'm coming to you, then we go to the cow together."}
+- 23:58 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}],"say":"Beverly, walking to 402,107,-1079 with the sword now."}
+- 23:59 act: {"actions":[{"do":"give","to":"Beverly","item":"wooden_sword","count":1}],"say":"Beverly, I'm here at 402,107,-1078 with the wooden sword. Shall we go to the cow at 370,93,-1124 now?","reasoning":"Bev
+- 23:59 act: {"actions":[],"say":"Beverly isn't in sight from here. I'm at the beds, 402,107,-1078, holding the sword. Step into view and I'll hand it to you.","reasoning":"Give failed, not in sight. Stop retrying
+- 00:02 act: {"actions":[{"do":"goto","target":"Lewis"}],"say":"Lewis, I'm coming to you with melon. Clark is bringing some too, so we'll cover you. Beverly, the sword is in my hand; I'll wait for you at the beds.
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1079}}],"say":"Lewis, walking to your last spot at 429,107,-1079 with melon. Tell me if you've moved.","reasoning":"Goto by name failed; use Lew
+- 00:02 act: {"actions":[{"do":"give","to":"Lewis","item":"melon_slice","count":5}],"say":"Lewis, here are 5 melon slices. Eat now, and tell me if you need more.","reasoning":"Lewis is in reach and the weakest. Ha
+- 00:02 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"melon_slice","count":5}],"say":"Lewis, I'm handing you the 5 melon now.","reasoning":"Name give failed though he is in reach. Try his listed agent i
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1078}}],"say":"Lewis has gone out of sight. There's an enderman to the southeast, so I'm heading back to the beds at 402,107,-1078. I'm holding 
