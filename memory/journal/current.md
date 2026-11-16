@@ -1,14 +1,34 @@
-# Journal
-- 17:55 act: {"say":"Good morning, Trini. MacDonald here, healthy, at the bed row. I am going to plant a field by the beds today.","actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1077}}],"reasoning":"Mornin
-- 17:55 act: {"actions":[],"say":"Morning all. I will wait for the group and Clark's call before I break ground, so the field goes where the others want it.","reasoning":"Surroundings are plank walls, no clear dir
-- 18:07 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Good night all. MacDonald is going to the white bed, hunger 17, health 15.","reasoning":"Night has fallen, no erra
-- 18:08 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1077}}],"say":"Morning. I'll look for clear dirt beside the wheat to plant the field Clark asked for."}
-- 18:08 act: {"actions":[{"do":"place","block":"dirt","at":{"x":404,"y":106,"z":-1077}},{"do":"till","at":{"x":404,"y":106,"z":-1077}}],"say":"Clark, no bare dirt by the wheat, so I am laying a dirt patch and till
-- 18:08 act: {"actions":[],"say":"Clark, the ground by the wheat is oak planks floor, and my dirt patch was blocked. I see one farmland block to the south-east. Where is the field you want planted? I will plant th
-- 18:10 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":404,"y":106,"z":-1076}}],"say":"Thank you Clark. Trying to plant the farmland block south-east of me now."}
-- 18:19 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}}],"say":"Dusk. Going to the white bed to sleep, in sight of the group."}
-- 18:19 act: {"actions":[{"do":"sleep"}]}
-- 18:20 act: {"say":"Good morning, all. Staying by the beds until light, then I will plant the field.","intent":{"goal":"rest_at_beds","program":"rest","arguments":{"at":{"x":401,"y":107,"z":-1079}},"wake_on":["di
-- 18:24 act: {"say":"Morning, all. Laforge, yes please, bring 13 wheat seeds to the field when Clark marks it. Clark, where exactly is the farmland block?","actions":[{"do":"note","text":"Day 375 morning at the be
-- 18:28 act: {"say":"Thank you, Clark. I will go to the bare farmland near 462,107 and plant there, with Laforge's seeds if he brings them.","actions":[{"do":"note","text":"Clark says the farmland is the bare bloc
-- 18:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Goodnight, all. MacDonald at the white bed, in sight of the group."}
+Day 375 dusk: tried to use the bed (refused), then sleep verb worked; slept with the group. Woke at first light, health 15, hunger 17. Next: walk to the farmland by the potatoes near 462,107,-1074 and plant wheat_seeds.
+- 18:35 act: {"intent":{"goal":"reach_farmland_by_potatoes","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1074}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_
+- 18:35 act: {"actions":[{"do":"till","at":{"x":460,"y":106,"z":-1074}}]}
+- 18:36 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":460,"y":106,"z":-1074}}]}
+- 18:36 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":459,"y":106,"z":-1074}}]}
+- 18:36 say: {"text":"MacDonald here at the potatoes. I tilled one dry patch, but seed placing says the spot is occupied. Clark or Laforge, which exact block is the bare farmland by 462-463,107?"}
+- 18:38 say: {"text":"Thank you, Laforge. Which exact block is the bare farmland? I am standing on grass at 460,107,-1074."}
+- 18:44 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
+- 18:44 act: {"actions":[{"do":"sleep"}]}
+- 18:48 act: {"intent":{"goal":"walk_to_field_by_potatoes","program":"travel","arguments":{"target":{"x":460,"y":107,"z":-1074}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_d
+- 18:57 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
+- 18:57 act: {"actions":[{"do":"sleep"}]}
+- 19:01 say: {"text":"Morning. MacDonald awake at the white bed, health 15, hunger 17. Clark, which exact bare farmland block by 462-463,107 should I plant? Billy, I wait for your cow call."}
+- 19:05 act: {"intent":{"goal":"walk_to_wheat_to_find_bare_farmland","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1076}},"wake_on":["goal_completed","directly_addressed","precondition_failed","un
+- 19:05 act: {"intent":{"goal":"walk_to_potato_field_to_plant","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1074}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpect
+- 19:06 act: {"actions":[{"do":"goto","target":{"x":464,"y":107,"z":-1074}},{"do":"place","block":"wheat_seeds","at":{"x":465,"y":106,"z":-1074}}]}
+- 19:07 say: {"text":"I'm at 460,108,-1074 on dirt, by the potatoes. The view shows bare farmland about 5 blocks east, near 465,106,-1074. Clark or Laforge, is that the bare block you meant? I'll plant there if so
+- 19:08 say: {"text":"Clark, I'm at the potatoes (460,108,-1074). Laforge isn't sure of the spot. Please name one bare farmland block by coordinates, and I'll plant only that one."}
+- 19:24 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
+- 19:24 act: {"actions":[{"do":"sleep"}]}
+- 19:24 act: {"say":"Morning. MacDonald awake at the white bed, health 15, hunger 16. Clark, which exact bare farmland block should I plant? I'll wait for your coordinates."}
+- 19:28 act: {"intent":{"goal":"walk_to_wheat_to_find_bare_farmland","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1083}},"wake_on":["goal_completed","directly_addressed","precondition_failed","un
+- 19:29 act: {"actions":[{"do":"till","at":{"x":460,"y":106,"z":-1083}}]}
+- 19:29 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":460,"y":106,"z":-1083}}]}
+- 19:29 act: {"say":"I tilled the dry grass block at 460,106,-1083 (till worked). Placing seeds failed: target occupied, I may be standing in it. I'll step off and check before trying again.","intent":{"goal":"ste
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":458,"y":107,"z":-1083}},{"do":"place","block":"wheat_seeds","at":{"x":460,"y":106,"z":-1083}}]}
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":456,"y":107,"z":-1083}},{"do":"till","at":{"x":457,"y":106,"z":-1083}}]}
+- 19:29 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":457,"y":106,"z":-1083}}]}
+- 19:29 act: {"say":"Laforge, the place keeps saying target occupied, even on tilled patches at 460 and 457,106,-1083. Do seeds go on the farmland block itself or on the air above it? I'll stop trying until you or
+- 19:33 act: {"actions":[{"do":"goto","target":{"x":455,"y":107,"z":-1083}},{"do":"place","block":"wheat_seeds","at":{"x":457,"y":107,"z":-1083}}]}
+- 19:33 act: {"say":"Laforge, the place reply says \"seeds need farmland below.\" So the air-above idea is wrong, and the patch I tilled at 457,106 may not be farmland anymore. I'll till one fresh grass block and 
+- 19:36 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1078}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_da
+- 19:37 act: {"actions":[{"do":"sleep"}],"say":"MacDonald going to sleep at the white bed, health 15, hunger 16. Planting still waits for farmland; morning, Laforge, we check the wheat farm together."}
+- 19:37 act: {"actions":[{"do":"sleep"}]}
