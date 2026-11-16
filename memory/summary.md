@@ -1,7 +1,7 @@
 # Summary
 
-Day 317, dusk. I am MacDonald, at the white beds (387,107,-1064). Health 20, hunger 20. I hold 5 melon slices, 5 planks, 6 string.
+Day 320, night. I am MacDonald, asleep in the white bed at 401,107,-1078 with 5 melon, 5 planks, 6 string, 4 rotten flesh and my wooden sword. Health 20, hunger 20.
 
-The group has been short of food for days. The chicken field is empty. Melons at x310-321 z-873 to -901 are the real food source, and Wesley's group is moving melons to the weak. Picard, Johnny and Zack were the weakest; Johnny and Zack have been fed by others.
+Food is shared out now. Lewis is fed, Picard and Johnny are fed, and Clark holds about 30 melon. Beverly and I plan the cow trip at 368,94,-1118 at first light with the sword. Data is gathering jungle logs west at x378 z-1092. Lewis is building a shelter at 430,107,-1081.
 
-Next: check who is still hungry in the morning, share my 5 slices where needed, and go back to the melon field with the group.
+Next: wake, hand Beverly the sword when she is in sight, go to the cow together in daylight, and keep the melon for the weak.
