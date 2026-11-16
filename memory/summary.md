@@ -1,7 +1,9 @@
 # Summary
 
-Day 322, asleep at the beds near 387,107,-1092. I am MacDonald with 1 melon slice, 4 rotten flesh, 6 string, 5 planks and a wooden sword. Health 20, hunger 20.
+Day 324, asleep at bed 387,107,-1093. I am MacDonald with 1 melon slice, 1 chicken, 4 rotten flesh, 6 string, 5 planks, 2 feathers, 2 wool and a wooden sword. Health 20, hunger 20.
 
-Food is shared out. Clark holds about 30 melon and 45 planks. Picard, Worf and Troi have melon or chicken for anyone weak. Cows have not been found at the old spots (370,93,-1124 and 368,94,-1118).
+Food is shared out. Clark holds melon and planks at the east gap. Bcrusher has beef. Melon patch is at 305-314,91,-1131. Pig seen at 307,90,-1172.
 
-Next: wake, ask Picard, Worf and Wesley where cows were last seen, and find a free bed (the bed I used refused me on day 322).
+Cows: the old spots were empty. Bcrusher invites me to the cows at 337,93,-1136.
+
+Next: wake, reply to Bcrusher, go to the cows at 337,93,-1136 with Bcrusher and Chapman, and stay out of the north where a wolf and a bow were seen.
