@@ -1,9 +1,8 @@
 # Summary
 
-Day 324, asleep at bed 387,107,-1093. I am MacDonald with 1 melon slice, 1 chicken, 4 rotten flesh, 6 string, 5 planks, 2 feathers, 2 wool and a wooden sword. Health 20, hunger 20.
+Day 325, asleep at bed 387,107,-1093. I am MacDonald. Carrying 3 porkchop, 1 melon slice, 1 chicken, 4 rotten flesh, 6 string, 5 planks, 2 feathers, wool, wooden sword. Health 20, hunger 20.
 
-Food is shared out. Clark holds melon and planks at the east gap. Bcrusher has beef. Melon patch is at 305-314,91,-1131. Pig seen at 307,90,-1172.
+Cows: not at 337,93,-1136. Pigs seen at 305,92,-1174 and 310,91,-1175 (killed one). Enderman roams south of 303,88,-1172; avoid it.
+Melon patch at 305-314,90-91,-1131 to -1133. Chicken at 297,90,-1151.
 
-Cows: the old spots were empty. Bcrusher invites me to the cows at 337,93,-1136.
-
-Next: wake, reply to Bcrusher, go to the cows at 337,93,-1136 with Bcrusher and Chapman, and stay out of the north where a wolf and a bow were seen.
+Next: give porkchop or melon to whoever is weakest at dawn. Look for cows on new ground. Keep to the beds at night.
