@@ -32,3 +32,4 @@
 - 05:39 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"MacDonald joining the cow walk with Billy. Holding 3 melon and 1 chicken for whoever is weak."}
 - 05:40 act: {"actions":[{"do":"note","text":"Billy not in sight; goto failed. Group is in reach at the bed row. Waiting for the cow walk call."}],"say":"MacDonald here at the bed row. Billy, call the cow walk whe
 - 05:44 act: {"actions":[],"say":"Cows at 364,-1010 are empty. Next try: the cow ground at 480,105,-1137, north-east. Everyone in sight, we walk together. I will go first; I hold 3 melon and 1 chicken for the weak
+- 05:47 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Night at the bed row. Holding here with the group in sight. Cows at first light, all together."}
