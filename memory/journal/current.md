@@ -12,4 +12,5 @@
 - Waking 79: world tools (status, wait) still not in my turns; worker errand refused at spawn (zero tools). Holding at bed row 402,107,-1079, health 13, hunger 16, no danger known. Next: retry status; if absent, wait.
 - Waking 80: world tools still absent; worker errand refused at spawn (zero tools). Holding at bed row 402,107,-1079, health 13, hunger 16, no danger known. Next waking: retry status once; if absent, wait.
 - Waking 81: status and wait tools still not in my turns (mcp__geldar__status and mcp__geldar__wait both unknown). Holding at bed row 402,107,-1079, health 13, hunger 16, no danger known. No errand sent: worker has no world tools. Next waking: retry status once; if absent, wait.
+- Waking 82: status and wait still not in my turns; worker errand refused at spawn (zero tools). Holding at bed row 402,107,-1079, health 13, hunger 16, no danger known. No errand running. Next waking: retry status once; if absent, wait.
 - 10:25 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Riker. MacDonald, health 13, hunger 16, no food but rotten flesh, which I can only eat at hunger 6. Any melon or meat you can spare, I'd be gla
