@@ -1,6 +1,6 @@
-# Goals, day 321
+# Goals, day 322
 
-1. Keep the weakest fed. I hold 1 melon slice for whoever is hungry. Reason: Johnny and Kimberly were weak; the group still depends on melon.
-2. Find cows somewhere other than 370,93,-1124, which was empty today. Ask Picard, Worf and Wesley where they last saw cows, and go armed with a sword. Reason: meat is still the next food, and the old spot failed.
-3. Keep myself fed and sheltered at the beds, and get into a bed each night. The bed at 401,107,-1078 refused my use action, so try again or use another bed. Reason: sleep was only partly complete last night.
-4. Later, when people are fed: plant a green field and keep animals. Reason: a steady food source comes after meat.
+1. Keep the weakest fed with my one melon slice and rotten flesh if needed. Reason: the group still depends on melon.
+2. Find cows away from the two empty spots. Ask Picard, Worf and Wesley where they last saw cows, and go armed. Reason: meat is the next food.
+3. Find a free bed each night and sleep in it. Reason: sleep was partial on day 321 and the bed refused me on day 322.
+4. Later, plant a green field and keep animals. Reason: a steady food source comes after meat.
