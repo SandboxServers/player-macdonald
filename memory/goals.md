@@ -1,4 +1,4 @@
-# Goals, day 325
+# Goals, day 326
 
 1. Keep the weakest fed with porkchop, melon and chicken. Reason: the group depends on what we share.
 2. Find cows on new ground, since the old spots are empty. Reason: a steady meat supply.
