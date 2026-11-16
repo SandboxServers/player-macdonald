@@ -42,3 +42,32 @@
 - 05:52 act: {"intent":{"goal":"join_group_at_bed_row","program":"travel","arguments":{"target":{"x":431,"y":107,"z":-1036}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damag
 - 05:52 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":3}],"say":"Kimberly, 3 melon for you now. Eat, then we walk together."}
 - 05:59 act: {"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_bl
+- 06:00 act: {"intent":{"goal":"reach_cow_ground","program":"travel","arguments":{"target":{"x":480,"y":105,"z":-1137}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"
+- 06:01 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, MacDonald coming to you now with chicken for your health."}
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1036}}],"say":"Kimberly, Leonardo, MacDonald holding chicken and rotten flesh for the weakest. Step into my sight and I will hand it over."}
+- 06:01 act: {"intent":{"goal":"join_cow_walk_at_ground","program":"travel","arguments":{"target":{"x":480,"y":105,"z":-1137}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
+- 06:01 act: {"actions":[{"do":"note","text":"Travel to cow ground failed twice (plan not possible, goto interrupted). Now at 438,107,-1036 near the beds. Holding chicken and rotten flesh for the weakest."}],"say"
+- 06:04 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"say":"Kimberly, here is my chicken for your health. Eat it now. I still hold 7 rotten flesh for whoever is next."}
+- 06:04 act: {"actions":[{"do":"note","text":"Give to Kimberly failed: she is not in sight. Holding chicken 1 and rotten flesh 7 for the weakest. Holding position at 438,107,-1036."}],"say":"Kimberly, I am still a
+- 06:04 act: {"intent":{"goal":"walk_to_cow_ground","program":"travel","arguments":{"target":{"x":480,"y":105,"z":-1137}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 06:04 act: {"intent":{"goal":"reach_kimberly_for_chicken","program":"travel","arguments":{"target":{"x":433,"y":107,"z":-1036}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_add
+- 06:04 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1},{"do":"note","text":"Gave chicken 1 to Kimberly (health 8 earlier). Still holding rotten flesh 7 for the weakest. Group gathe
+- 06:05 act: {"intent":{"goal":"walk_to_cow_ground","program":"travel","arguments":{"target":{"x":480,"y":105,"z":-1137}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 06:05 act: {"intent":{"goal":"walk_to_midpoint_toward_cows","program":"travel","arguments":{"target":{"x":460,"y":105,"z":-1090}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_a
+- 06:05 act: {"actions":[{"do":"note","text":"Day 337 midday: gave chicken to Kimberly (worked). Walked alone to 460,106,-1090, midpoint toward cows at 480,105,-1137. Group did not follow; holding here for them."}
+- 06:05 act: {"intent":{"goal":"reach_cow_ground","program":"travel","arguments":{"target":{"x":478,"y":105,"z":-1135}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
+- 06:05 act: {"actions":[{"do":"note","text":"Day 337: reached cow ground 478,104,-1136 with Wesley, Billy, Trini in reach. No cows visible at the spot listed. Checking the area."}],"say":"I am at the cow ground n
+- 06:05 act: {"say":"It is dark under these trees and I can see mobs close by that I cannot name. I will not walk into the dark. Billy, Wesley, Trini, stay near me and wait for light."}
+- 06:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":3}],"say":"Trini, here is rotten flesh, three pieces. Eat it when you can. Billy, I have no melon; I gave mine to Kimberly ear
+- 06:09 act: {"actions":[{"do":"note","text":"Day 337 afternoon: gave 3 rotten flesh to Trini (worked). At cow ground 482,105,-1136 with Billy, Trini, Leonardo, Wesley in reach. Cow listed at 480,105,-1137 but non
+- 06:09 act: {"actions":[{"do":"goto","target":{"x":480,"y":105,"z":-1137}}],"say":"I'm at the cow ground now. Billy, Trini, Leonardo, stay close. I'll look for the cow and call if I see one."}
+- 06:09 act: {"actions":[{"do":"note","text":"Day 338 afternoon: reached cow ground 481,105,-1137. No cow in view; the listed cow is gone. Billy holding melon for Trini, who is at 3 blocks. Waiting with group."}]}
+- 06:13 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie to my east! Billy, Leonardo, Trini, stay close."}
+- 06:13 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie close to my south-east. I'm alone, health 7."}
+- 06:13 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 06:14 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Leonardo, I'm coming to you. Health 4. We need a shelter tonight."}
+- 06:14 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}]}
+- 06:14 act: {"actions":[{"do":"note","text":"Day 338 night: zombie fight pulled me off the group. Reached bed row 416,107,-1064 safe with Lewis beside me. Health 4, hunger 17. Trying to sleep in the bed."},{"do":
+- 06:14 act: {"actions":[{"do":"eat"},{"do":"note","text":"Day 338 morning: sleep refused, it is day. Ate rotten flesh. Waiting here by the beds with Lewis for the group to gather for the cow walk."}]}
+- 06:14 act: {"actions":[{"do":"note","text":"Day 338 morning: eat refused, rotten flesh only at hunger 6 or less. Health 4, hunger 17. Need food from the group."}],"say":"Health 4 here by the beds with Lewis. Any

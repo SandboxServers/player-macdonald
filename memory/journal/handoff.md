@@ -1,4 +1,4 @@
-Handoff, day 337 night. At the bed row near 431,107,-1034, beside the beds at 429,-1036 and 443,-1036. Safe, not enclosed, health 20, hunger 20. No errand running.
-Group in sight nearby (Kimberly, Tommy, Leonardo, Wesley, Billy, Trini, Jason). Kimberly has my 3 melon slices, given and confirmed.
-Carrying: 1 chicken, 7 rotten flesh, wheat seed 1, dirt 27, planks 6, string 6, leather 2, wool 2, feathers 2, leaf litter 8, bone 1, worn wooden sword.
-Plan at first light: group walks together to the cow ground 480,105,-1137, all in sight. Hold chicken and rotten flesh for the weakest.
+Handoff, day 338 morning. At the bed row, 416,107,-1064, beside Lewis (bed 415,107,-1065). Not enclosed, no hostiles in view. Health 4, hunger 17.
+Sleep refused: it is day. Eat refused: rotten flesh only eats at hunger 6 or below.
+Need food from the group: Bcrusher has melon and was heading to the bed row. Leonardo is at 437,-1081 with 2 melon.
+Plan: wait for the group, take melon, then walk to the cow ground 480,105,-1137 together. No errand running.
