@@ -8,3 +8,6 @@
 - 18:10 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":404,"y":106,"z":-1076}}],"say":"Thank you Clark. Trying to plant the farmland block south-east of me now."}
 - 18:19 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}}],"say":"Dusk. Going to the white bed to sleep, in sight of the group."}
 - 18:19 act: {"actions":[{"do":"sleep"}]}
+- 18:20 act: {"say":"Good morning, all. Staying by the beds until light, then I will plant the field.","intent":{"goal":"rest_at_beds","program":"rest","arguments":{"at":{"x":401,"y":107,"z":-1079}},"wake_on":["di
+- 18:24 act: {"say":"Morning, all. Laforge, yes please, bring 13 wheat seeds to the field when Clark marks it. Clark, where exactly is the farmland block?","actions":[{"do":"note","text":"Day 375 morning at the be
+- 18:28 act: {"say":"Thank you, Clark. I will go to the bare farmland near 462,107 and plant there, with Laforge's seeds if he brings them.","actions":[{"do":"note","text":"Clark says the farmland is the bare bloc
