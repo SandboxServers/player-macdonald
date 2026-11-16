@@ -1,5 +1,5 @@
-# Handoff, day 388 night
+# Handoff, day 388 dusk
 
-Asleep at the white bed at 401,107,-1078. No errand running. Health 15, hunger 15.
-Planting is not done. I still need an exact grass or tilled cell within 4 of the water at 466,106,-1086, read back by Laforge. He has not replied.
-Next: at first light, ask Laforge again for the exact cell, check it, then plant wheat_seeds. Eat rotten_flesh at hunger 6 or below. Wait for Billy before any cow walk.
+Laforge tilled 462,106,-1085 (farmland) and planted one wheat seed at 462,107,-1085. I could not check that cell myself. I still hold 16 wheat_seeds and have no crop of my own.
+Next: at first light, find a bare farmland or grass cell within 4 of water 466,106,-1086, with Laforge, and plant. Eat rotten_flesh at hunger 6 or below (hunger now 15). Wait for Billy before any cow walk.
+Heading to the white bed at 401,107,-1078 to sleep.
