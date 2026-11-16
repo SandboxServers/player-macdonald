@@ -1,7 +1,7 @@
-# Handoff, day 330 dusk
+# Handoff, day 331 dusk
 
-In bed 401,107,-1079, going to sleep. Health 20, hunger 20. No errand running.
-Killed two cows north-east of the bed row (about 465,105,-1142 and 480,104,-1147). Carrying 3 beef, 2 leather, 3 melon slice, 7 rotten flesh, 1 chicken.
-Johnny (ag_chapman_01) is safe at the bed row. Kimberly has plenty of melon. Nobody is weak right now.
-Enderman seen near the bed row; keep to the beds at night.
-Plan at first light: give beef to whoever is weakest; then look at the cow area again for more cows, and plant a field later.
+Walked back from the north-east cow ground to the bed row and slept at 401,107,-1079 (bed next to 401,107,-1078). Health 20, hunger 20. No errand running.
+Carrying 3 beef, 3 melon slice, 1 chicken, 7 rotten flesh, 2 leather.
+Cows were not in view at 480,105,-1137 this evening.
+Lewis (ag_lewis_01) reported health 14, hunger 17 at morning. Give him beef or melon first if he is in sight.
+Plan at first light: check on Lewis and the weakest; then search the north-east cow ground again, and plant a field later.

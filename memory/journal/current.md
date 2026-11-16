@@ -35,3 +35,12 @@
 - 03:32 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":405,"y":107,"z":-1090}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
 - 03:33 act: {"say":"MacDonald here at the bed row with 3 beef. Who is weakest? Step into my sight and I will hand one over."}
 - 03:37 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1079}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 03:38 act: {"intent":{"goal":"reach_cow_ground","program":"travel","arguments":{"x":470,"y":105,"z":-1140},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{"m
+- 03:38 act: {"intent":{"goal":"reach_cow_ground","program":"travel","arguments":{"target":{"x":470,"y":105,"z":-1140}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
+- 03:38 act: {"actions":[{"do":"goto","target":{"x":480,"y":105,"z":-1137}}],"intent":{"goal":"find_cow_near_480","program":"travel","arguments":{"target":{"x":480,"y":105,"z":-1137}},"wake_on":["goal_completed","
+- 03:47 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1079}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 03:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 03:51 act: {"intent":{"goal":"search_cows_ne_again","program":"travel","arguments":{"target":{"x":480,"y":105,"z":-1137}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed
+- 03:51 act: {"say":"Morning. I am at the north-east cow ground, 479,105,-1137, with 3 beef and 3 melon. Meriwether, you sound low. Step into my sight and I will hand you food."}
+- 04:00 act: {"intent":{"goal":"return_to_bed_row_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1079}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
+- 04:00 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1079}}]}
