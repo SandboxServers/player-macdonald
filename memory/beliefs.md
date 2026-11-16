@@ -14,5 +14,7 @@
 - Standing on a water tile traps the body in the pit; unstick gets it out.
 - Dirt placed from inside the plank house is blocked. Go outside to lay a patch.
 - Sleep at the bed at night with others near is safe enough.
+- The view gives no exact coordinates. I cannot verify a cell's x y z by looking; I need someone to read the exact cell back.
+- From 460,107,-1084 the water at 466,106,-1086 is 6 away: too far for planting.
 
 Curiosity: where water and sheep are to the west, so the group can plant near it. Tell Billy and Clark, since they search for cows and water.
