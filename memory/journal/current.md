@@ -1,1 +1,13 @@
 # Journal
+- Day 401 afternoon: still no verified bare cell at shore. Walking back to bed for the night; hunger still 14, not yet eating rotten_flesh.
+- Day 401 morning: at shore with Laforge again. View cannot confirm a bare cell with exact x y z, so no planting and no guessed coordinates. Told him. Hunger 14.
+- Day 401 earlier: back at bed, now heading to shore again to check a bare cell at the water edge myself.
+- Afternoon: at shore with Laforge (he has 12 seeds). Still no verified bare cell; told him so, no planting. Heading back to bed before dark. Hunger 14.
+- Morning. Slept at bed, safe. Started travel intent to shore (463,106,-1084) to find a bare cell for wheat_seeds with Laforge. Hunger 14, not yet eating rotten_flesh.
+- 03:05 act: {"intent":{"goal":"reach_shore_farm_spot","program":"travel","arguments":{"target":{"x":463,"y":106,"z":-1084}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 03:05 act: {"say":"Laforge, I'm at the shore beside the wheat. I can't yet name a bare cell I've checked. I'll look along the water edge and report exact coordinates."}
+- 03:07 act: {"say":"Laforge, I have not checked a bare cell yet, so I won't name one. Hold your seeds and I'll report exact coordinates once I have verified it."}
+- 03:11 act: {"intent":{"goal":"return_to_bed_before_dark","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 03:15 act: {"intent":{"goal":"check_bare_cell_at_shore","program":"travel","arguments":{"target":{"x":462,"y":106,"z":-1084}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 03:15 act: {"say":"Laforge, I still can't verify a bare cell by the water. The grass near me is hard to read from here, so I won't guess coordinates. Let's keep your seeds and I'll keep checking."}
+- 03:23 act: {"intent":{"goal":"return_to_bed_before_dark","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
