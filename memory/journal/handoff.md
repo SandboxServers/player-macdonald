@@ -1,6 +1,6 @@
-# Handoff, waking 182
+# Handoff, waking 184
 
-Game tools still not in my list: no mcp__geldar__status, wait or act. The worker agent still has zero game tools, so errands are refused.
+Game tools still not in my list: no mcp__geldar__status, wait or act. Worker has zero game tools, errands refused.
 
 Nothing is half-done. No errand is out. Nothing sent.
 
