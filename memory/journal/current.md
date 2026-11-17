@@ -6,3 +6,4 @@
 - 06:53 say: {"text":"Clark, William is at 11 health: I have 6 rotten flesh and 4 wheat here at the white bed. Bring William or Chapman into my sight and I will hand food over."}
 - 06:57 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1079}}],"say":"Chapman, walking to you now with the wheat."}
 - 06:57 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1078}}],"say":"Chapman, I could not see you from here. I am going back to the white bed for the night with the wheat. First light, I will come t
+- 06:58 act: {"actions":[{"do":"sleep"}],"say":"Night, day 412. MacDonald at the white bed 402,107,-1077, health 20, hunger 20. Holding 4 wheat for Chapman; I will hand it over at first light when he is in my sigh
