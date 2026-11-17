@@ -92,3 +92,8 @@
 - 12:49 act: {"say":"MacDonald at 402,-1037 by the 401 beds, night, sleep failed, drifted. Holding still, nothing in hand. Billy, name my cell at first light.","reasoning":"Drifted in the dark after a failed sleep
 - 12:53 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}],"say":"Walking to 390,-1035 as Billy named, in daylight.","reasoning":"Billy named my cell in daylight. Walk there and hold."}
 - 12:53 act: {"say":"MacDonald at 390,-1035, in Billy's group. Holding nothing, health 20, hunger 20. Holding for his call.","reasoning":"Arrived at my named cell. Report and hold."}
+- 13:02 act: {"say":"MacDonald at 402,107,-1023, night, holding nothing, health 20. Sleeping by the white bed here until first light.","actions":[{"do":"sleep"}],"reasoning":"Night, no food needed yet, nobody in v
+- 13:06 act: {"say":"MacDonald at 402,107,-1023, morning, holding nothing, health 20, hunger 20. Billy, I hold here until you name my cell or call the walk to the row.","intent":{"goal":"hold_for_billys_call","pro
+- 13:10 act: {"say":"MacDonald walking to my named cell 390,107,-1035 at the 387 row, in daylight, holding nothing. Hunger 20, health 20.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}]}
+- 13:15 act: {"say":"Dusk. MacDonald at 390,107,-1034, in Billy's sight with Data, Worf, Clark, Kimberly, Trini and Leonardo. Holding nothing, health 20. Sleeping here.","actions":[{"do":"sleep"}]}
+- 13:19 act: {"say":"MacDonald walking back to my cell 390,107,-1035 at the row in daylight, holding nothing. Health 20, hunger 20.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}]}
