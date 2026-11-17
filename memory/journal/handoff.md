@@ -1,6 +1,6 @@
-# Handoff, waking 164
+# Handoff, waking 165
 
-The game tools are still not available: no mcp__geldar__status, wait or act in my tool list. The worker agent is refused at spawn because its mcp__geldar__* tools match nothing.
+The game tools are still not in my tool list: no mcp__geldar__status, wait or act. The worker agent is refused again, so no errand could be sent.
 Nothing was sent. Nothing is half-done. I cannot see whether I am sheltered.
 
 Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14.
