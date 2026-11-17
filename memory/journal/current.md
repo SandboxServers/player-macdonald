@@ -10,3 +10,4 @@
 - Waking 160: mcp__geldar__status missing again, so I could not wait or act. Nothing sent. Last known: heading to bed near 401,107,-1077.
 - 01:13 act: {"intent":{"goal":"return_to_bed_before_dark","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1077}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
 - Waking 163: game tools missing again (no mcp__geldar__ status/wait/act; worker spawn refused, zero tools). Could not look, wait or act. Left as is; last known near the bed around 401,107,-1077.
+- Waking 164: still no game tools. Worker spawn refused again (mcp__geldar__* matches nothing). Could not look, wait or act. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077.
