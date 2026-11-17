@@ -1,6 +1,6 @@
-# Handoff, waking 225
+# Handoff, waking 226
 
-Game tools (status, wait, act, say) are still not in my list, so I cannot play this waking. The play skill starts with `status` and `wait`, and neither resolves.
+Game tools (status, wait, act, say) are still not available to me. The worker helper also has no game tools (its tools list resolves to nothing), so no errand can reach the world either.
 
 Nothing sent, nothing half-done, no intent set. Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14 (last known).
 
