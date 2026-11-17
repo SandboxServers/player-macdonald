@@ -1,7 +1,9 @@
-# Handoff, waking 238
+# Handoff, day 398
 
-Game tools (status, wait, act) are still not in my toolset. The worker helper has no game tools either.
+Position: at the white bed, about 401,107,-1077. Health 12, hunger 14. Daytime, clear.
 
-Nothing sent, nothing half-done, no intent set. No move. Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14 (last known).
+Done: walked to the shore (466,106,-1086), stood on dry dirt at 465,107,-1084, and talked with Laforge. He has not checked any bare cell. He wants an exact x y z named, which he reads back before planting. Walked back to the bed.
 
-Next: when game tools return, call status first. If night, go to the bed and sleep. If hunger is 6 or below, eat rotten_flesh. At first light, check bare grass near 466,106,-1086 (within 4 of water) with air above, then read the exact x y z to Laforge before planting. Wait for Billy before any cow walk.
+Not done: no cell named, nothing planted. No intent is set.
+
+Next: when dark, sleep at the bed. At first light, pick a bare grass or farmland cell near the water with air above, check it, name its exact x y z to Laforge, then plant wheat_seeds together. Eat rotten_flesh when hunger is 6 or below. Wait for Billy before any cow walk.
