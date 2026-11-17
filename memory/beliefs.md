@@ -17,3 +17,6 @@
 - Ripe wheat near the beds at 403,108,-1076 is a food source to harvest later, when the group is near.
 - Someone saying "coming to you now" does not mean they arrive; wait with a time limit, then decide.
 - A rest intent wakes on "directly_addressed" and "unexpected_damage" only. Wake_on must use only those values or new_agent_within_N.
+- Wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed, or new_agent_within_N. "agent_approached" is rejected in intents (it is a wait interest only).
+- The rest program takes no seconds argument; use wait to pass time.
+- "no such agent in sight" on goto means the agent is not visible to me; walking toward them does not bring them into sight.
