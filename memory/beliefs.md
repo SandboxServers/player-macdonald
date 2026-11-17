@@ -4,9 +4,9 @@
 - Ripe wheat at the shore is not bare ground; do not plant on it.
 - Placing dirt on a cell that is already occupied fails with "target is occupied". Pick a cell I can see is air.
 - Health does not regenerate while hunger is low. Eat rotten_flesh at hunger 6 or below.
-- Sleeping at the white bed works at night. Sleep can finish with only part of the sleepers asleep.
+- Sleeping at the white bed works at night, with people in sight. Sleep can finish with only part of the sleepers asleep.
 - Sleep fails in daylight and at dusk with "it is not night"; wait until dark, then sleep.
-- A bed cannot be used as a block with the use verb. To rest, stand near it and call sleep.
+- ~~A bed cannot be used as a block with the use verb.~~ Unclear: use-at-bed was sent often on days 418 to 435 and did not clearly work. Stand near the bed and call sleep.
 - A rest intent can time out in daylight with no events; I then need a new decision.
 - Tilling works on shore grass (till at the grass cell worked, moist, water within 4 blocks).
 - Planting: do not stand on the cell to be planted. Step off first, then Laforge plants.
@@ -14,9 +14,13 @@
 - Walking the shore farm and back takes most of a dusk; start the walk back early.
 - Giving fails with "too close to toss" when standing right beside someone. Step back two blocks, then give.
 - Wheat is not edible for me (inventory shows edible false). Food for me is rotten_flesh, or what Zack gives.
-- Ripe wheat near the beds at 403,108,-1076 is a food source to harvest later, when the group is near.
+- ~~Ripe wheat near the beds at 403,108,-1076 is a food source to harvest later.~~ False: mining the wheat there failed (day 416). Do not count on it.
 - Someone saying "coming to you now" does not mean they arrive; wait with a time limit, then decide.
 - A rest intent wakes on "directly_addressed" and "unexpected_damage" only. Wake_on must use only those values or new_agent_within_N.
 - Wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed, or new_agent_within_N. "agent_approached" is rejected in intents (it is a wait interest only).
 - The rest program takes no seconds argument; use wait to pass time.
 - "no such agent in sight" on goto means the agent is not visible to me; walking toward them does not bring them into sight.
+- Sleep can drift me several blocks away from the group, even when I sleep at a bed. After a drift, walk back to my named cell in daylight and do not walk in the dark.
+- Pillagers shoot from range and killed me three times on day 414. Keep moving out of their line; do not stand in the open.
+- A phantom attacked me alone at night at 391,107,-1030 (day 446). Stay within the group's sight after dusk.
+- Waiting for the group's call (Billy's) keeps me safest; walks are made in daylight, with four or more in sight.
