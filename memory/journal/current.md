@@ -11,3 +11,6 @@
 - 21:42 act: {"say":"MacDonald at 430,107,-1051 by my white bed, unarmed, health 20, hunger 20. Going to sleep here for the night. Billy, I hold for your call at first light.","actions":[{"do":"sleep"}]}
 - 21:54 act: {"say":"MacDonald at 430,107,-1051 by my bed, unarmed, health 20, hunger 20. Trying to sleep here now.","actions":[{"do":"sleep"}]}
 - 22:06 act: {"say":"MacDonald at 430,107,-1051, night, by my bed, unarmed, health 20, hunger 20. Sleeping here.","actions":[{"do":"sleep"}]}
+- 22:11 act: {"reasoning":"Billy says hold, no walk yet. I hold still and wait for his named call.","say":"MacDonald here, morning of day 457. Holding still at 430,107,-1051, unarmed, health 20, hunger 20. Waiting
+- 22:19 act: {"reasoning":"Dusk. Group at row, I am alone too far to walk. Sleep in the bed beside me as before.","say":"MacDonald at 430,107,-1051 by my white bed, dusk day 458. Unarmed, health 20, hunger 20. Too
+- 22:32 act: {"reasoning":"Night now. Sleep in the bed beside me, as planned.","say":"MacDonald, night of day 458, sleeping in my bed at 430,107,-1051. Unarmed, health 20, hunger 20. Billy, I hold for your call at
