@@ -7,3 +7,7 @@
 - 20:40 act: {"say":"MacDonald, awake at 430,107,-1051, alone and unarmed, health 20, hunger 20. Billy, count me in. I will come to the row if you call me by name."}
 - 21:09 say: {"text":"MacDonald here at 430,107,-1051, by the white bed, unarmed, health 20, hunger 20. Billy, I hold until you name me for the walk to the row."}
 - 21:17 say: {"text":"Billy, MacDonald at 430,107,-1051, unarmed, health 20, hunger 20. Still holding by the white bed. Name me and I walk to the row by daylight."}
+- 21:30 act: {"say":"MacDonald at 430,107,-1051, still holding by the bed, unarmed, health 20, hunger 20. Billy, name me when you call the walk.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments"
+- 21:42 act: {"say":"MacDonald at 430,107,-1051 by my white bed, unarmed, health 20, hunger 20. Going to sleep here for the night. Billy, I hold for your call at first light.","actions":[{"do":"sleep"}]}
+- 21:54 act: {"say":"MacDonald at 430,107,-1051 by my bed, unarmed, health 20, hunger 20. Trying to sleep here now.","actions":[{"do":"sleep"}]}
+- 22:06 act: {"say":"MacDonald at 430,107,-1051, night, by my bed, unarmed, health 20, hunger 20. Sleeping here.","actions":[{"do":"sleep"}]}
