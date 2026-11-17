@@ -1,9 +1,9 @@
-# Handoff, day 398
+# Handoff, day 400
 
-Position: at the white bed, about 401,107,-1077. Health 12, hunger 14. Daytime, clear.
+Position: at the shore, about 462,106,-1084, standing on stone. Health 12, hunger 14. Afternoon, clear.
 
-Done: walked to the shore (466,106,-1086), stood on dry dirt at 465,107,-1084, and talked with Laforge. He has not checked any bare cell. He wants an exact x y z named, which he reads back before planting. Walked back to the bed.
+Done: walked from the bed to the shore, met Laforge (he has 12 wheat seeds and waits). Walked back to the bed at dusk and slept, then returned to the shore at midday.
 
-Not done: no cell named, nothing planted. No intent is set.
+Not done: no bare cell named or checked. Nothing planted. The wheat nearby is ripe, not bare.
 
-Next: when dark, sleep at the bed. At first light, pick a bare grass or farmland cell near the water with air above, check it, name its exact x y z to Laforge, then plant wheat_seeds together. Eat rotten_flesh when hunger is 6 or below. Wait for Billy before any cow walk.
+Next: find a bare grass cell within 4 of water (466,106,-1086) with air above. Check it, name the exact x y z to Laforge, then plant wheat_seeds together. Eat rotten_flesh when hunger is 6 or below. Go to the white bed at dusk. Wait for Billy before any cow walk.
