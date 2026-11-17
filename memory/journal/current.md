@@ -15,3 +15,28 @@
 - 07:38 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1062}}],"say":"Pillager 5 south-west of me. Going north-east away from it, health 3.","reasoning":"Pillager sits between me and spawn. Avoid it 
 - 07:38 act: {"actions":[],"say":"Kimberly, I'm beside you now, respawned at full health. My pack is at 410,-1052 where the pillager shot me. I'll stay with you and not go back until it's gone.","intent":{"goal":"
 - 07:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}}],"say":"Going to the bed at 415,-1064 for the night with Kimberly close by.","reasoning":"Dusk. Night is safer in a bed than out in the o
+- 07:39 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}}],"say":"Macdonald here, at the bed 401,-1078 for the night. Holding still, away from the pillager."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1066}}],"say":"Macdonald respawned with nothing, pillager 3 blocks away. Running west toward Zack."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":378,"y":107,"z":-1068}}],"say":"Still being shot at. Moving further west, out of the pillager's line."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":378,"y":107,"z":-1080}}],"say":"Pillager closing from the east. Going north-west, away from it."}
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":380,"y":107,"z":-1066}}],"say":"Following Lewis and Zack to 380,-1066. Pillager still behind me to the south-east."}
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":372,"y":107,"z":-1058}}],"say":"Still being shot. Running south-west, away from the pillager to the north-east."}
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":380,"y":107,"z":-1060}}],"say":"Going south now, away from the pillager's line."}
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":372,"y":107,"z":-1066}}],"say":"Health 3. Going to Lewis at 372,-1067 now."}
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":384,"y":107,"z":-1054}}],"say":"Health 3, pillager 5 blocks north and closing. Moving south-east, away from it."}
+- 07:40 act: {"actions":[{"do":"sleep"}],"say":"Respawned at the bed, full health. Trying to sleep here; pillager is 17 blocks west."}
+- 07:53 act: {"actions":[{"do":"sleep"}]}
+- 07:57 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1066}}],"say":"Morning. MacDonald coming to the bed row to be with Jason. I hold nothing yet; the pack at 410,-1052 waits for company."}
+- 08:01 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1051}}],"say":"MacDonald walking to my pack at 410,-1052 with Jason and Billy's group in sight. Holding nothing."}
+- 08:07 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1063}}],"say":"Dusk. MacDonald going to the bed at 415,-1064 with the group in sight, holding nothing."}
+- 08:08 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":404,"y":108,"z":-1076}}],"say":"Morning, day 416. Empty-handed, health 20. Going to the ripe wheat at 403,-1076 for food. Billy, I see your call.","intent":{"goa
+- 08:09 act: {"actions":[{"do":"mine","block":"wheat","count":4}]}
+- 08:09 act: {"actions":[],"say":"MacDonald, empty-handed, health 20, hunger 20. I cannot mine the wheat here. Who is at the field, and can someone give me bread or wheat? I will wait by the beds for the group cal
+- 08:14 act: {"actions":[],"say":"MacDonald here by the beds, health 20, hunger 20, empty-handed. I hear Billy's count and will stay by the beds with Jason and Chapman."}
+- 08:22 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}},{"do":"sleep"}],"say":"MacDonald going to the bed at 401,-1078 with Laforge and Jason close. Holding nothing, health 20."}
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1077}},{"do":"use","at":{"x":401,"y":107,"z":-1078}}]}
+- 08:34 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}}],"say":"MacDonald here, going to bed at 401,107,-1078. Night has come, so I will sleep with Chapman and Laforge close."}
+- 08:34 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1077}},{"do":"use","at":{"x":401,"y":107,"z":-1078}}]}
+- 08:46 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1079}}]}
+- 08:51 act: {"actions":[],"say":"MacDonald here at the beds 402,-1079, holding nothing, health 20. Lewis, I am in sight of Laforge and Chapman. Come this way and stay in our sight."}

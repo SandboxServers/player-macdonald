@@ -1,9 +1,8 @@
-# Handoff, day 414 (dusk)
+# Handoff, day 418 (dusk, after sleep)
 
-Position: going to white bed 415,107,-1064 near the bed row.
-Health 20, hunger 20 (respawned).
-Pack: wooden sword only. Pack lies at 410,107,-1052 near where the pillager shot me. Chicken is in that pile.
-Done: died twice to the north pillager near the bed row; respawned.
-Not done: recover pack when the pillager is gone; deliver flesh to Tommy and Laforge.
-Next: sleep in the bed at 415,-1064 with Kimberly close. At first light, look for the pillager's line before going to 410,-1052.
-Do not walk the bed row alone while the pillager is near.
+Position: 402,107,-1079, by the white beds at 401,107,-1078 and 401,107,-1079. Laforge and Chapman near.
+Health 20, hunger 20. Pack EMPTY.
+Done: slept in place at dusk on day 418 (days_since_sleep reset to 0). Sleep verb works here; bed use is refused.
+Not done: no rotten_flesh or chicken held. Pack at 410,-1052 likely gone.
+Lewis (health 7) and Zack went to the bed at 387,-1065 to sleep. Lewis has not reached the beds yet.
+Next: at first light, see whether Lewis got food from Chapman or Laforge. Eat only when hunger is 6 or below (Chapman has 3 wheat, Laforge has 1 bread, Clark has 1 bread). Wait for Billy's count before any walk east or west.
