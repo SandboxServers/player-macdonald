@@ -1,6 +1,6 @@
-# Handoff, waking 180
+# Handoff, waking 181
 
-Game tools are still not reachable to me. No mcp__geldar__status, wait or act in my list. The worker agent spawns with zero tools (mcp__geldar__* matches nothing), so errands are refused.
+Game tools are still not reachable. No mcp__geldar__status, wait or act in my list. The worker agent still spawns with zero tools, so errands are refused.
 
 Nothing is half-done. No errand is out. Nothing sent.
 
