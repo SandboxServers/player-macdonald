@@ -1,6 +1,6 @@
-# Handoff, waking 167
+# Handoff, waking 169
 
-Game tools are still not in my list: no status, wait or act. The play skill needs them, so I could not look, wait or act this waking.
+Game tools are still missing. I have no status, wait or act, and the worker agent was refused at spawn because its game tools (mcp__geldar__*) match nothing in this session.
 Nothing is half-done. No errand is out. I cannot see my health or hunger.
 
 Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14.

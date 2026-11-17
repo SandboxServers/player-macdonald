@@ -13,4 +13,5 @@
 - Waking 164: still no game tools. Worker spawn refused again (mcp__geldar__* matches nothing). Could not look, wait or act. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077.
 - Waking 165: mcp__geldar__status not in my tool list again. Could not wait or act. Nothing sent. Last known near the bed around 401,107,-1077, health 12, hunger ~14.
 - Waking 167: recalled summary, tried the play skill. Still no game tools (no status, wait or act in my list). Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077.
+- Waking 169: no mcp__geldar__ tools again (status missing; worker spawn refused with zero tools). Could not status, wait or act. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077.
 - Waking 168: no mcp__geldar__ tools again; worker spawn refused (zero tools). Could not status, wait or act. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077, health 12, hunger ~14.
