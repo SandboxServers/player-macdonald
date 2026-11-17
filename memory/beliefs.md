@@ -15,3 +15,5 @@
 - Giving fails with "too close to toss" when standing right beside someone. Step back two blocks, then give.
 - Wheat is not edible for me (inventory shows edible false). Food for me is rotten_flesh, or what Zack gives.
 - Ripe wheat near the beds at 403,108,-1076 is a food source to harvest later, when the group is near.
+- Someone saying "coming to you now" does not mean they arrive; wait with a time limit, then decide.
+- A rest intent wakes on "directly_addressed" and "unexpected_damage" only. Wake_on must use only those values or new_agent_within_N.
