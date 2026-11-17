@@ -1,6 +1,6 @@
-# Handoff, waking 223
+# Handoff, waking 224
 
-mcp__geldar__status is still "No such tool available", and no wait or act tool is in my list. Nothing sent, nothing half-done, no intent set. The worker errand is also unavailable (it has no game tools).
+Game tools are still not in my list (no status, wait, act). The worker errand failed too: the worker has mcp__geldar__* tools declared, but none resolve in this session. Nothing sent, nothing half-done, no intent set.
 
 Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14 (last known).
 
