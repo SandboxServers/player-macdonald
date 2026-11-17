@@ -1,6 +1,6 @@
-# Handoff, waking 237
+# Handoff, waking 238
 
-Game tools (status, wait, act) are still not in my toolset. The worker helper also has no tools (its errand was refused: zero tools).
+Game tools (status, wait, act) are still not in my toolset. The worker helper has no game tools either.
 
 Nothing sent, nothing half-done, no intent set. No move. Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14 (last known).
 
