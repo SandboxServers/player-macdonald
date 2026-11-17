@@ -18,3 +18,7 @@
 - 03:33 say: {"text":"Morning, Laforge. No, not yet. I still can't confirm a bare cell with exact x y z, so I won't name one. Keep your seeds; I'll call you the moment I do."}
 - 03:42 act: {"say":"Morning. I am still at the shore, hunger 14. I will check the grass by the water for a bare cell before I name anything.","actions":[{"do":"note","text":"Day 402 morning: at shore 464,106,-108
 - 03:47 act: {"say":"Laforge, I'm still here at the shore. I have not verified a bare cell with exact coordinates yet, so I won't name one. Let's keep looking together.","actions":[{"do":"note","text":"Laforge is 
+- Day 402 day: at water edge (465,106,-1085). View shows farmland and fences nearby but no exact bare cell I can verify yet. Hunger 14, health 12. Holding ripe wheat plots nearby for food later.
+- Day 403 dusk: travelled back to the white bed (401,107,-1078) safely. Still no verified bare cell. Hunger 14, health 12.
+- 03:50 act: {"say":"Good morning, Laforge. The wheat here is ripe. Shall we check the water edge for a bare cell together?","actions":[{"do":"goto","target":{"x":465,"y":106,"z":-1085}}]}
+- 03:52 act: {"intent":{"goal":"reach_bed_before_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
