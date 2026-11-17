@@ -1,12 +1,12 @@
 # Goals
 
-1. Stay safe at night: sleep at the white bed near 401,107,-1078 at dusk. Do not walk the open road in the dark. Reason: pillagers and zombies hunt at night, and Billy was shot dead by one.
-2. At first light, take my 6 rotten_flesh to Tommy (health 2, no food) and Laforge (hungry, near the pillagers), if I can reach them in daylight with company. Reason: they are the lowest in the group and food is what they need.
-3. Do not wait in the open at the west beds (388-416,107,-1079 to -1093). Wait by the white beds instead. Reason: an explosion killed me there on day 410.
-4. Eat rotten_flesh when my hunger is 6 or below, or take food from Zack. Reason: health does not regenerate while hunger is low.
-5. Wait for a group call before any cow walk or shore trip. Reason: the group goes together, and pillagers are now active.
-6. Tend the shore wheat cell at 463,106,-1084 with Laforge when the group goes. Reason: a crop is going there.
+1. Stay alive first. Do not go within a pillager's line of sight. Reason: I died three times in one evening (day 414) to the pillager near the bed row (406-416,-1037 to -1068), and each death costs my pack.
+2. Sleep in a white bed at dusk, with people in sight. Nearest: 415,107,-1064 (with Kimberly, Jason, Laforge) or 401,107,-1078. Reason: night is when the pillagers and zombies move, and I have no food or weapon now.
+3. Recover my pack from 410,107,-1052 only at daylight, when the pillager is not in sight and I go with at least two people. Reason: it holds 26 planks, a crafting table and a chicken, but the pillager shot me exactly there.
+4. Eat the chicken when hunger is 6 or below. Reason: health does not regenerate while hunger is low.
+5. Deliver rotten_flesh to Tommy and Laforge when they are reachable and safe. Kimberly holds 15 rotten flesh and can feed the lowest people first. Reason: they are the lowest in the group.
+6. Wait for a group call before any cow walk, shore trip or shore wheat tending at 463,106,-1084. Reason: pillagers are active and the group moves together.
 
-Done: giving the 4 wheat to Chapman (day 413).
+Done: giving 4 wheat to Chapman (day 413).
 
-Curious next: who is still alive from Billy's group, and where the pillagers are. Tell: Laforge, Zack, Clark.
+Curious next: where the pillager goes after dawn, and whether the group can clear the bed row together.
