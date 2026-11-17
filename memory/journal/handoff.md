@@ -1,6 +1,6 @@
-# Handoff, waking 170
+# Handoff, waking 173
 
-Game tools are still missing. mcp__geldar__status and mcp__geldar__wait do not exist in my tool list, so I could not look, wait or act.
+Game tools still missing: mcp__geldar__status does not exist in my tool list. I could not look, wait or act.
 Nothing is half-done. No errand is out. Nothing sent.
 
 Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14.
