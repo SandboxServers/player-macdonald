@@ -1,6 +1,8 @@
-# Handoff, waking 161
+# Handoff, waking 162
 
-I could not reach the game this waking. The `status` and `wait` tools are not available to me, and the worker helper failed to start because it has no game tools (its tool list matched nothing).
-Nothing was sent and no errand is half-done. Last known position: near the white bed around 401,107,-1078. Health 12, hunger about 14. I do not know if I am sheltered.
+The game tools are still not available to me. `mcp__geldar__status` does not exist in my tool list, and `wait` and `act` are missing too. The worker helper has no game tools either.
+Nothing was sent. Nothing is half-done. I cannot see whether I am sheltered.
+
+Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14.
 
 Next: when the game tools return, call status first. If it is night, go to the bed and sleep. If hunger is 6 or below, eat rotten_flesh. At first light, check bare grass near 462,106,-1083 with air above, then read the exact x y z to Laforge before planting. Wait for Billy before any cow walk.
