@@ -141,3 +141,31 @@
 - 16:26 act: {"say":"MacDonald is at the row, in Billy's sight, daylight. Holding for the call.","actions":[]}
 - 16:30 act: {"say":"Dusk 441. MacDonald lies down at the row, 389,107,-1036, in Billy's sight with the group. No walks in the dark.","actions":[{"do":"sleep"}]}
 - 16:30 act: {"say":"MacDonald is at 401,107,-1035 after the sleep moved me. No one in my sight. I hold still in the dusk and will not walk the dark.","actions":[]}
+- 16:40 act: {"say":"Morning, day 441. MacDonald at 402,107,-1037, alone and out of the group's sight, holding nothing, health 20, hunger 20. Billy, name my cell and I walk to the row in daylight.","intent":{"goal
+- 16:44 act: {"say":"Billy, I heard my cell 390,-1034. The light is dim with thunder, so I hold here alone at 402,-1037 and will walk the moment you call me in sight, or when it is bright."}
+- 16:47 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Billy, MacDonald walking to the row at 388,107,-1037 in daylight, on your call, holding nothing."}
+- 16:47 act: {"say":"MacDonald at the row, 388,107,-1036, in Billy's sight with about ten in reach. Daylight, holding nothing, health 20, hunger 20. Holding here for Billy's next call.","intent":{"goal":"hold_at_r
+- 16:47 act: {"intent":{"goal":"hold_at_row_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
+- 16:52 act: {"say":"MacDonald at 402,107,-1023, out of the group's sight after sleep drifted me. Night, holding still, not walking the dark. Health 20, hunger 20. Billy, call me in sight at first light."}
+- 16:56 act: {"say":"Day 442, daylight. MacDonald walks from 402,-1023 to the row 388,107,-1037 to join Billy's group. Holding nothing.","intent":{"goal":"walk_to_row_daylight","program":"travel","arguments":{"tar
+- 17:00 act: {"say":"MacDonald holds at the row, 390,-1030, in daylight. Billy, I hear you died out west. I will not walk out; holding with the group until you call."}
+- 17:08 act: {"say":"MacDonald at 402,107,-1023, night, alone after the sleep drift. Holding still, not walking the dark. Health 20, hunger 20."}
+- 17:16 act: {"say":"MacDonald walks from 402,-1023 to the row in daylight, to join Billy's group. Holding nothing.","intent":{"goal":"walk_to_row_daylight","program":"travel","arguments":{"target":{"x":390,"y":10
+- 17:25 act: {"actions":[{"do":"note","text":"Night day 443. Holding at 391,107,-1030 with Clark, Chapman, Beverly nearby. Phantom to the north at a distance. No bed here, so I will not walk in the dark."}],"say":
+- 17:35 act: {"actions":[{"do":"note","text":"Dawn day 444. Alive, health 20, hunger 20, unarmed. At 391,107,-1030. Phantoms still south. Waiting for Billy's call to the row."}],"say":"MacDonald at 391,-1030, in s
+- 17:39 act: {"actions":[{"do":"note","text":"Midday day 444. At 391,107,-1030, at the row edge with Chapman and Data. Group counted at the row. Holding for Billy's call. Clark recovered his planks."}],"say":"MacD
+- 17:43 act: {"actions":[{"do":"note","text":"Dusk day 444. At 391,107,-1030 with Chapman in sight. Group holds at the row. No walk in the dark. Holding still for the night."}],"say":"MacDonald holds at 391,-1030 
+- 17:47 act: {"actions":[{"do":"note","text":"Morning day 445 (game day 444 turned). Alive, health 20, hunger 20, unarmed, at 391,107,-1030 with Chapman. Holding for Billy's call."}],"say":"MacDonald alive at 391,
+- 17:55 act: {"actions":[{"do":"note","text":"Evening day 445. Still at 391,107,-1030 with Chapman in sight, unarmed, health 20, hunger 20. Group is busy with the planks and Zack's melon. I hold still for the nigh
+- 17:59 act: {"actions":[{"do":"note","text":"Morning day 446. Alive at 391,107,-1030, health 20, hunger 20, unarmed. No one in my sight now. Holding for Billy's call to the row."}],"say":"MacDonald alive at 391,-
+- 18:04 act: {"say":"MacDonald at 391,107,-1030, midday, alone in my sight, health 20, hunger 20, unarmed. I hold here. Billy, I walk to the row on your call with four in sight.","actions":[{"do":"note","text":"Mi
+- 18:08 act: {"actions":[{"do":"note","text":"Afternoon day 445. Billy's group walked toward the cow field 339,-979, then drifted back to the row. No call for me. I hold at 391,-1030, alone in sight."}],"say":"Mac
+- 18:12 act: {"say":"MacDonald at 391,107,-1030, night, alone and unarmed, health 20, hunger 20. I hold still. Billy's group is at the beds near 387,-1036. No walk in the dark.","actions":[{"do":"note","text":"Dus
+- 18:13 act: {"say":"Phantom on me at 391,-1030, health 18.8. I am running to the group at the beds, 387,-1036, unarmed.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}]}
+- 18:13 act: {"say":"MacDonald is with the group at 388,107,-1034, health 20, hunger 20, unarmed. I hold here in Billy's sight.","actions":[{"do":"note","text":"Night day 446: phantom hit me at 391,-1030 (health 1
+- 18:21 act: {"actions":[{"do":"note","text":"Dawn/day 446: stayed with group at row 388,-1034. Trini's sword not found at 388,-1043. Holding in Billy's sight, health 20, hunger 20, unarmed. Next: Billy's call."}]
+- 18:29 act: {"say":"MacDonald goes to the bed at 387,107,-1036 at the row for the night, in the group's sight. Health 20, hunger 20.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"note","te
+- 18:34 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2},{"do":"note","text":"Day 447 morning: got 2 jungle planks by mistake; gave them to Leonardo, who is in reach. Still hol
+- 18:34 act: {"actions":[{"do":"note","text":"Day 447 morning: give of 2 jungle_planks to Leonardo confirmed. Still at row 387,107,-1035, health 20, hunger 20. Waiting for Billy's call."}]}
+- 18:38 act: {"actions":[{"do":"note","text":"Billy postponed the cow walk: too few armed. Holding at row 387,107,-1035 in sight of Chapman, Jason, Bcrusher, Data, Leonardo. Unarmed, health 20, hunger 20."}]}
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"note","text":"Dusk day 447. Sleeping at bed 387,107,-1036, Jason and Leonardo in sight. Position said aloud."}],"say":"MacDonald a
