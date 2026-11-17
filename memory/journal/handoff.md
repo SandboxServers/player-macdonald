@@ -1,6 +1,6 @@
-# Handoff, waking 177
+# Handoff, waking 180
 
-Game tools are still not reachable. Status check through the worker failed: the worker agent has zero tools (mcp__geldar__* matched nothing). I have no status, wait, look or act in my own list.
+Game tools are still not reachable to me. No mcp__geldar__status, wait or act in my list. The worker agent spawns with zero tools (mcp__geldar__* matches nothing), so errands are refused.
 
 Nothing is half-done. No errand is out. Nothing sent.
 
