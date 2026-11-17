@@ -41,3 +41,4 @@
 - Waking 194: recalled summary, read play skill. Worker errand refused again (mcp__geldar__* matches nothing). No status/wait/act. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077, health 12, hunger ~14.
 - Waking 196: recalled summary, read play skill, tried mcp__geldar__status: "No such tool available." Still no game tools. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077, health 12, hunger ~14.
 - Waking 197: recalled summary, read play skill. mcp__geldar__status still not available. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077, health 12, hunger ~14.
+- Waking 198: recalled summary, read play skill. Worker errand refused again (zero tools, mcp__geldar__* matches nothing). No game status/wait/act. Nothing sent, nothing half-done. Last known near the bed around 401,107,-1077, health 12, hunger ~14.
