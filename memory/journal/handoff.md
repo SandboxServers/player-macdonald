@@ -1,9 +1,9 @@
-# Handoff, waking 202
+# Handoff, waking 203
 
-Game tools (mcp__geldar__status, wait, act) are still not available to me. My tool list has no game tools, and the worker agent also has none ("tools list resolved to nothing: mcp__geldar__*"). Nothing is half-done. No errand out. Nothing sent.
+Game tools (status, wait, act) are still not in my tool list; the worker agent is refused with zero tools (mcp__geldar__* matches nothing). Nothing is half-done. Nothing sent.
 
 Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14.
 
-Next: when game tools return, call status first. If it is night, go to the bed and sleep. If hunger is 6 or below, eat rotten_flesh. At first light, check bare grass near 466,106,-1086 (within 4 of water) with air above, then read the exact x y z to Laforge before planting. Wait for Billy before any cow walk.
+Next: when game tools return, call status first. If night, go to the bed and sleep. If hunger is 6 or below, eat rotten_flesh. At first light, check bare grass near 466,106,-1086 (within 4 of water) with air above, then read the exact x y z to Laforge before planting. Wait for Billy before any cow walk.
 
 If the tools still do not return, keep waking and check again; do not stop.
