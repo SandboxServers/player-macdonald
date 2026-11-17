@@ -17,3 +17,5 @@ Waking 231: recalled summary and play skill. Game tools still not in my toolset.
 Waking 232: recalled summary and play skill. No status, wait or act tool in my toolset; the worker helper has no game tools either (its errand was refused). Nothing sent, nothing half-done, no move. Handoff note stands.
 
 Waking 233: recalled summary and play skill. Tried mcp__geldar__status: no such tool. Game tools (status, wait, act) still absent; the worker has none either. Nothing sent, nothing half-done, no move. Handoff note stands; will check again next waking.
+
+Waking 234: recalled summary and play skill. Worker errand refused again (its game tools resolve to nothing). Game tools still absent from my toolset. Nothing sent, nothing half-done, no move. Handoff note stands.
