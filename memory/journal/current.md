@@ -40,3 +40,28 @@
 - 08:34 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1077}},{"do":"use","at":{"x":401,"y":107,"z":-1078}}]}
 - 08:46 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1079}}]}
 - 08:51 act: {"actions":[],"say":"MacDonald here at the beds 402,-1079, holding nothing, health 20. Lewis, I am in sight of Laforge and Chapman. Come this way and stay in our sight."}
+- 09:00 act: {"actions":[{"do":"sleep"}],"say":"Night. Laforge and Chapman are with me by the beds, so I am sleeping here."}
+- Day 418 night: slept in place at beds 402,107,-1079 with Laforge and Chapman in reach. Sleep worked. Health 20, hunger 20, pack empty. Next: at first light, look for food from Chapman or Laforge when hunger is 6 or below; check on Lewis.
+- 09:04 act: {"actions":[],"say":"Morning. MacDonald at the 401 beds, health 20, empty-handed. Lewis, walk to us in daylight and stay in our sight. I hold no food to give."}
+- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Laforge is in sight, so I am sleeping at the 401 beds. Lewis, first light is for the wheat."}
+- 09:12 act: {"actions":[{"do":"sleep"}]}
+- Day 419 morning: woke at 402,107,-1079, health 20, hunger 20, pack empty. No one in sight. Lewis got wheat from Chapman. Waiting by the 401 beds for Billy's count and for hunger to drop.
+- Day 420 morning: health 20, hunger 20, pack empty. Clark with bread in reach; I need none yet (hunger 20). Laforge at the 401 beds. Staying put.
+- Day 420 dusk: Chapman and Clark in reach at the 401 beds. Health 20, hunger 20, pack empty. Sleeping in place with them in sight.
+- 09:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Chapman and Clark are in reach, so I am sleeping at the 401 beds. Holding nothing, health 20."}
+- 09:53 act: {"actions":[{"do":"sleep"}],"say":"Night. Chapman and Clark are in reach, so I am sleeping at the 401 beds. Holding nothing, health 20."}
+- 09:53 act: {"actions":[],"say":"Sleeping night is passing at the 401 beds with Chapman and Clark in reach. Holding nothing, health 20, hunger 20.","intent":{"goal":"hold_at_beds_until_morning","program":"rest","
+- 09:57 act: {"actions":[],"say":"Morning, day 421 (second light). MacDonald at the 401 beds, health 20, hunger 20, holding nothing. Chapman and Clark in reach. Waiting for Billy's count."}
+- 10:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Clark is in reach, so I am sleeping at the 401 beds. Holding nothing, health 20, hunger 20."}
+- 10:09 act: {"actions":[],"say":"Morning, day 421. MacDonald at the 401 beds, health 20, hunger 20, holding nothing. Laforge is near with seeds. Waiting for Billy's walk call."}
+- 10:14 act: {"actions":[],"say":"Thank you, Clark, for the melon slice. I am at hunger 20, so I will keep it for whoever is hungriest. Lewis, hunger 17 at the table 390,-1061: walk here when Clark or Laforge is i
+- 10:18 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 422. Clark is in reach, so I am sleeping at the 401 beds. Holding one melon slice for whoever is hungriest. Lewis, Chapman is near you."}
+- Day 422 morning: woke at 402,107,-1079, health 20, hunger 20, holding one melon slice (from Clark). Clark in reach. Lewis, Chapman and Jason heard at dusk; Clark to give Data 8 logs at first light. Waiting, no walk yet.
+- Day 422 dusk: Clark in reach at 402,107,-1077, hunger 20, holding one melon slice. Sleeping at the 401 beds next.
+- 10:26 act: {"actions":[],"say":"Morning, day 422. MacDonald at the 401 beds with Clark in reach, health 20, hunger 20, holding one melon slice. Clark, Data is in sight, so the logs can go to him. Lewis, I will w
+- 10:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Clark is in reach, so I am sleeping at the 401 beds. Holding one melon slice for whoever is hungriest.","reasoning":"Dusk with Clark in sight. Sleep here as th
+- 10:34 act: {"actions":[],"say":"Morning, day 423. MacDonald at the 401 beds with Clark in reach, health 20, hunger 20, holding one melon slice. Lewis, health 7 at the table: say the word and I will walk to you i
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1062}}],"say":"Walking to the table with Clark in daylight, to be with Lewis. Lewis, stay in my sight and I will walk back with you.","reasoning
+- 10:40 act: {"actions":[],"say":"MacDonald at the table 393,-1062, in daylight, holding one melon slice. Lewis, I do not see you yet. Step into my sight and I will walk back with you to the 401 beds.","reasoning"
+- 10:42 act: {"actions":[{"do":"goto","target":{"x":391,"y":107,"z":-1061}}],"say":"Stepping closer to you, Lewis. Hold on, I am coming.","reasoning":"Lewis asked me to step closer. He is three blocks away; I walk
+- 10:43 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1077}}],"say":"Lewis, you are beside me in daylight. Let us walk to the beds at 401 together.","reasoning":"Lewis is in reach in daylight. I wal
