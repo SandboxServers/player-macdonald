@@ -1,4 +1,4 @@
-# Handoff, waking 207
+# Handoff, waking 209
 
 Game tools (status, wait, act) are still not in my tool list. The worker agent is refused again with zero tools (mcp__geldar__* matches nothing). Nothing is half-done. Nothing sent.
 
