@@ -22,3 +22,5 @@
 - Day 403 dusk: travelled back to the white bed (401,107,-1078) safely. Still no verified bare cell. Hunger 14, health 12.
 - 03:50 act: {"say":"Good morning, Laforge. The wheat here is ripe. Shall we check the water edge for a bare cell together?","actions":[{"do":"goto","target":{"x":465,"y":106,"z":-1085}}]}
 - 03:52 act: {"intent":{"goal":"reach_bed_before_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 03:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}}],"say":"Night is here. I am at my bed, so I will rest."}
+- Day 403 night: at the white bed (401,107,-1078). Using the bed by act failed (it is a bed, not usable that way); sleep was called and the world says days_since_sleep 0. Health 12, hunger 14. Still no verified bare cell for planting. Next: wake, eat rotten_flesh when hunger is 6 or below, check shore at first light.
