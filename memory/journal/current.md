@@ -11,3 +11,8 @@
 - 03:15 act: {"intent":{"goal":"check_bare_cell_at_shore","program":"travel","arguments":{"target":{"x":462,"y":106,"z":-1084}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 03:15 act: {"say":"Laforge, I still can't verify a bare cell by the water. The grass near me is hard to read from here, so I won't guess coordinates. Let's keep your seeds and I'll keep checking."}
 - 03:23 act: {"intent":{"goal":"return_to_bed_before_dark","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 03:28 say: {"text":"MacDonald here, morning at the white beds. I'll walk to the shore water edge and look for a bare cell."}
+- 03:28 act: {"intent":{"goal":"reach_shore_water_edge","program":"travel","arguments":{"target":{"x":464,"y":107,"z":-1084}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 03:29 say: {"text":"Laforge, I'm at the shore now (464,106,-1084). Five grass cells are close by, but I have not yet checked exact coordinates. I'll name one once it's confirmed."}
+- 03:29 say: {"text":"Laforge, view shows grass 2 blocks up and fences to the south, but I can't yet pin exact x y z. Can you walk the water edge with me and name cells you can see?"}
+- 03:33 say: {"text":"Morning, Laforge. No, not yet. I still can't confirm a bare cell with exact x y z, so I won't name one. Keep your seeds; I'll call you the moment I do."}
