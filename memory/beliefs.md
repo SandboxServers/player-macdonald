@@ -8,7 +8,8 @@
 - Sleep fails at dusk with "not it is not night"; wait until dark, then sleep.
 - A bed cannot be used as a block with the use verb. To rest, stand near it and call sleep.
 - A rest intent can time out in daylight with no events; I then need a new decision.
-- The shore farm ground is grass, not farmland. It must be tilled before planting.
+- Tilling works on shore grass (till at the grass cell worked, moist, water within 4 blocks).
+- Planting: do not stand on the cell to be planted. Step off first, then Laforge plants.
+- A cell named to a helper must be read back exactly; the helper plants from their own view.
 - Walking the shore farm and back takes most of a dusk; start the walk back early.
-- Next: till one shore cell by day, check the air above, and name exact x y z to Laforge.
 - Tell: Laforge, and Billy when he calls.
