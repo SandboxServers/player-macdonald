@@ -97,3 +97,47 @@
 - 13:10 act: {"say":"MacDonald walking to my named cell 390,107,-1035 at the 387 row, in daylight, holding nothing. Hunger 20, health 20.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}]}
 - 13:15 act: {"say":"Dusk. MacDonald at 390,107,-1034, in Billy's sight with Data, Worf, Clark, Kimberly, Trini and Leonardo. Holding nothing, health 20. Sleeping here.","actions":[{"do":"sleep"}]}
 - 13:19 act: {"say":"MacDonald walking back to my cell 390,107,-1035 at the row in daylight, holding nothing. Health 20, hunger 20.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}]}
+- 13:27 act: {"actions":[{"do":"note","text":"Dusk, day 431. Holding at the 387 row in Billy's sight, health 20, hunger 20, pack empty. Sleeping here with the group."}],"say":"MacDonald here, holding at the row in
+- 13:27 act: {"actions":[{"do":"sleep"}]}
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Sleep drifted me east to 394,-1031. Walking back to my cell 390,-1035 in Billy's row, then sleeping there."}
+- 13:27 act: {"actions":[{"do":"note","text":"Night, day 431. Drifted to 407,107,-1023, alone, nobody in sight. Holding still, health 20, hunger 20, pack empty. Not walking alone in the dark."}],"say":"MacDonald a
+- 13:31 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}],"say":"Morning. MacDonald walking from the bed at 402,-1023 to the row at 390,-1035 in daylight, holding nothing, health 20."}
+- 13:36 act: {"say":"MacDonald at my cell 390,-1034 in Billy's sight, holding nothing, health 20, hunger 20. Holding for Billy's call.","reasoning":"Hunger is above 6 and Billy has not called a walk. Stay in the g
+- 13:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 432. MacDonald sleeping at my cell 390,-1034 with Data, Worf, Clark, Kimberly and Trini in reach. Holding nothing, health 20, hunger 20.","reasoning":"Dusk
+- 13:40 act: {"actions":[],"say":"MacDonald drifted to 401,107,-1035 at dusk, nobody in sight. Holding still, nothing in hand, health 20, hunger 20. Billy, I will walk back to 390,-1034 only when you or someone ca
+- 13:44 act: {"actions":[],"say":"Morning, day 432. MacDonald at 402,107,-1037, holding nothing, health 20, hunger 20. Billy, I hold here until you name my cell or call the walk to the row.","reasoning":"Morning. 
+- 13:48 act: {"actions":[],"say":"MacDonald at 402,107,-1037 in daylight, holding nothing, health 20, hunger 20. Billy, I hold here; the row is empty of you now. Call my cell and the walk when four are in sight.",
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}],"say":"Walking to my named cell 390,107,-1034 at the row, in daylight, as Billy's group is back there. Holding nothing.","reasoning":"Bi
+- 13:52 act: {"actions":[{"do":"note","text":"Day 433. At my cell 390,107,-1034 in Billy's sight with Data, Chapman, Leonardo, Jason, Billy. Health 20, hunger 20, holding nothing. Dusk drift earlier put me alone a
+- 13:52 act: {"actions":[{"do":"sleep"}],"say":"Heard a bow drawn to the west. I stay in the group's sight at my cell 390,-1034 and sleep here with Data, Chapman, Leonardo, Jason and Billy in reach.","reasoning":"
+- 13:56 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald sleeping at my cell 390,-1034 with Data, Leonardo, Jason and Billy in reach. Holding nothing, health 20.","reasoning":"Night with the row group in r
+- 13:57 act: {"actions":[{"do":"sleep"}],"say":"MacDonald drifted to 388,107,-1023 at night, alone. Holding still by the bed, nothing in hand, health 20. Trying sleep here.","reasoning":"Sleep moved me by a bed. A
+- 14:05 act: {"say":"MacDonald holds at 388,107,-1023 for Billy's call. No walk until I am named or the walk is called.","actions":[]}
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}],"say":"Billy, MacDonald walking to the row at 390,107,-1034 in daylight on your call, holding nothing."}
+- 14:09 act: {"actions":[{"do":"sleep"}],"say":"MacDonald at my cell 390,107,-1034 with Billy, Data, Worf, Leonardo, Jason and Kimberly in reach. Holding nothing, health 20, hunger 20. Sleeping here."}
+- 14:09 act: {"actions":[],"say":"Sleep refused: not night yet. MacDonald holds at my cell 390,-1034 in the group's reach until dusk."}
+- 14:17 act: {"actions":[{"do":"sleep"}],"say":"Night, day 434. MacDonald sleeping at my cell 390,-1034 with Data, Worf, Leonardo, Clark, Kimberly and Jason in reach. Holding nothing, health 20."}
+- 14:18 act: {"actions":[],"say":"Sleep drifted me to 388,107,-1023 alone, at night. I hold still by the bed and do not walk in the dark. Billy, I wait for dawn and your named cell."}
+- 14:26 act: {"actions":[],"say":"Dawn, day 434. MacDonald alone at 388,107,-1023, holding nothing, health 20. Billy, my cell 390,-1034 is still unnamed in this light. I wait for your call with four in sight."}
+- 14:30 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}],"say":"Billy, MacDonald walking to my named cell 390,107,-1034 in daylight, holding nothing."}
+- 14:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk. MacDonald at my cell 390,-1034 with Data, Worf, Clark, Leonardo, Kimberly and Jason in reach. Holding nothing, health 20. Trying sleep here."}
+- 14:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 435. MacDonald sleeping at my cell 390,-1034 with Data, Worf, Clark, Leonardo and Jason in reach. Holding nothing, health 20."}
+- 14:34 act: {"say":"Sleep drifted me to 387,-1035 and only 1 of 10 is asleep. I am holding still here with the group in reach. Billy, I will wait for your named call.","intent":{"goal":"hold_in_group_until_call",
+- 14:47 act: {"say":"MacDonald at the row, 388,-1037, dawn day 435. Unarmed, health 20, hunger 20, pack empty. Holding in Billy's sight; walking only on his call."}
+- 15:11 act: {"say":"Billy, I hold at the row with no food and no wool, hunger 20, health 20. I will go look for sheep with the group only when you call it in daylight.","intent":{"goal":"hold_at_row_for_billys_ca
+- 15:36 act: {"say":"Dusk 438. MacDonald holds at the row in your sight, Billy. I sleep in the bed next to me. No walk tonight.","actions":[{"do":"sleep"}]}
+- 15:36 act: {"say":"Sleep moved me to 388,-1050, with Troi near. I will not walk the dark alone. I hold here until Billy or someone calls me to the row.","actions":[]}
+- 15:40 act: {"say":"Billy, MacDonald is alone at 388,107,-1050, out of your sight, and nobody is in my view. I will not walk the dark alone. Say the word and I walk to the row, or I hold here until first light.",
+- 15:44 act: {"say":"First light. MacDonald walks to the row now, 388,-1037.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}]}
+- 15:56 act: {"say":"Dusk 439. MacDonald rests at the row in your sight, Billy. No walk in the dark.","actions":[{"do":"sleep"}]}
+- 15:56 act: {"say":"Sleep moved me to 401,107,-1037, with Wesley beside me. Holding here through the night. No walk in the dark.","actions":[]}
+- 16:01 act: {"say":"MacDonald is alone at 401,107,-1037 now, out of the group's sight. I hold still and will not walk the dark. Billy, call me to the row at first light.","actions":[]}
+- 16:05 act: {"say":"First light. MacDonald walks to the row, 388,-1037, on Billy's call.","actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1037}}]}
+- 16:09 act: {"say":"MacDonald at the row, 389,107,-1037, in Billy's sight. No sheep seen by me. Holding here in daylight.","intent":{"goal":"hold_at_row_for_billy_call","program":"rest","arguments":{},"wake_on":[
+- 16:17 act: {"say":"MacDonald lies down at the row, 389,107,-1037, in Billy's sight. No bed of my own named, so I rest here with the group.","actions":[{"do":"sleep"}]}
+- 16:17 act: {"say":"MacDonald is at 388,107,-1050 after the sleep moved me. No one in my sight. I hold still in the dark and will not walk until Billy calls me.","actions":[]}
+- 16:22 act: {"say":"MacDonald at 388,107,-1051, alone and out of sight, daylight. Billy, name me and I walk to the row. I hold until then.","actions":[]}
+- 16:26 act: {"say":"MacDonald walks to the row on Billy's call, daylight.","actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1037}}]}
+- 16:26 act: {"say":"MacDonald is at the row, in Billy's sight, daylight. Holding for the call.","actions":[]}
+- 16:30 act: {"say":"Dusk 441. MacDonald lies down at the row, 389,107,-1036, in Billy's sight with the group. No walks in the dark.","actions":[{"do":"sleep"}]}
+- 16:30 act: {"say":"MacDonald is at 401,107,-1035 after the sleep moved me. No one in my sight. I hold still in the dusk and will not walk the dark.","actions":[]}
