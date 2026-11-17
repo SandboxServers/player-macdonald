@@ -1,12 +1,1 @@
 # Journal
-- 23:44 act: {"intent":{"goal":"reach_water_farm_edge","program":"travel","arguments":{"target":{"x":462,"y":107,"z":-1084}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
-- 23:45 act: {"actions":[{"do":"note","text":"At the shore 462,106,-1085. Shore cells near the water are wheat or farmland already; no bare cell confirmed yet."}],"say":"Laforge, I'm at the shore now. The cells I 
-- 23:49 act: {"actions":[{"do":"note","text":"Laforge is beside me at the shore. I have not confirmed a bare grass cell yet, so I named none."}],"say":"Laforge, I have not confirmed a bare grass cell yet, so I won
-- 23:53 act: {"actions":[{"do":"note","text":"View: grass 2 blocks south of me at about 462,106,-1083, level. Air above not confirmed."}],"say":"Laforge, I see grass about two blocks south of me, near 462,106,-108
-- 23:57 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
-- 00:14 act: {"intent":{"goal":"reach_shore_to_check_cell","program":"travel","arguments":{"target":{"x":462,"y":107,"z":-1083}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
-- 00:14 act: {"actions":[{"do":"unstick"}]}
-- 00:14 act: {"say":"I'm out of the pit at the shore, 464,106,-1084. Laforge, where are you? I still need a bare cell with clear air above to plant.","actions":[{"do":"note","text":"Day 392: unstuck from pit at sh
-- 00:20 act: {"actions":[{"do":"attack","target":"zombie"}]}
-- 00:21 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1077}},"wake_on":["unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ti
-- 00:21 act: {"actions":[{"do":"sleep"}]}
