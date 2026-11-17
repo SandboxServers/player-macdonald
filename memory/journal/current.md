@@ -1,11 +1,1 @@
 # Journal
-- 06:37 say: {"text":"MacDonald here at the white bed, health and hunger 20. Holding 4 wheat for Chapman. Ready to join Billy's cow walk when called."}
-- 06:41 act: {"actions":[{"do":"goto","target":"Clark"}],"say":"Walking to Clark with the wheat for Chapman."}
-- 06:41 say: {"text":"Clark, I cannot see you from the white bed. I hold the 4 wheat here. Walk into my sight and I will hand it over, or call me to the west bed."}
-- 06:49 act: {"actions":[{"do":"goto","target":"Chapman"}],"say":"Chapman, coming to you with the wheat."}
-- 06:53 say: {"text":"Clark, William is at 11 health: I have 6 rotten flesh and 4 wheat here at the white bed. Bring William or Chapman into my sight and I will hand food over."}
-- 06:57 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1079}}],"say":"Chapman, walking to you now with the wheat."}
-- 06:57 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1078}}],"say":"Chapman, I could not see you from here. I am going back to the white bed for the night with the wheat. First light, I will come t
-- 06:58 act: {"actions":[{"do":"sleep"}],"say":"Night, day 412. MacDonald at the white bed 402,107,-1077, health 20, hunger 20. Holding 4 wheat for Chapman; I will hand it over at first light when he is in my sigh
-- 07:00 act: {"say":"Morning. I have 4 wheat for Chapman. Where are you?","intent":{"goal":"wait_for_chapman","program":"rest","arguments":{"seconds":120},"wake_on":["directly_addressed","new_agent_within_10"],"li
-- 07:02 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Coming to you, Johnny. Four wheat, as I promised."}
