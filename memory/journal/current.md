@@ -1,1 +1,17 @@
 # Journal
+- 07:27 act: {"say":"Billy, I am at the white beds with 6 rotten flesh. I will carry it to Laforge and Tommy when someone goes with me. Who is walking that way?","intent":{"goal":"hold_at_beds","program":"rest","a
+- 07:30 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Pillager right here at my feet! I am fighting it. Billy, I am at the crafting table near 403,-1075."}
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1077}}],"say":"Shot at again. Moving back to the white beds out of the line."}
+- 07:30 act: {"actions":[{"do":"attack","target":"pillager"}]}
+- 07:30 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 07:31 act: {"say":"I'm at 409,-1057, health 5, hunger 17. Laforge and Jason are close. I'll stay near them and hand my 6 flesh to whoever is lowest and in sight.","intent":{"goal":"stay_with_group_heal","program
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1076}}],"say":"Pillager to my north-east, shooting me. Running west to the beds."}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1047}}],"say":"Pillager north of me. I have a chicken and I am heading south to Billy's group."}
+- 07:32 act: {"actions":[{"do":"eat"}],"say":"I'm with Billy, Zack, Tommy, Kimberly and Lewis at 403,-1047. I died twice to the pillager up north; I have only a chicken. Billy, I'll stay with the group."}
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1038}}],"say":"Pillager east of me shot me, health 6. Moving west to spawn to sit with Trini and Beverly.","reasoning":"Pillager at 414,-1045 hi
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1032}}],"say":"Health 3, arrows from the east. Moving south-west out of its line, alone for now.","reasoning":"Pillager 12 blocks NE shooting. B
+- 07:37 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Coming to you, Trini. Health 3, no food in hand.","reasoning":"Group at spawn offers cover from the pillager line. Health is low; stay near peo
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Back toward spawn to find Trini and Beverly. Health 3.","reasoning":"Trini and group were at spawn 402,-1036. Retreat drifted me 
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1062}}],"say":"Pillager 5 south-west of me. Going north-east away from it, health 3.","reasoning":"Pillager sits between me and spawn. Avoid it 
+- 07:38 act: {"actions":[],"say":"Kimberly, I'm beside you now, respawned at full health. My pack is at 410,-1052 where the pillager shot me. I'll stay with you and not go back until it's gone.","intent":{"goal":"
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}}],"say":"Going to the bed at 415,-1064 for the night with Kimberly close by.","reasoning":"Dusk. Night is safer in a bed than out in the o

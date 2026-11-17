@@ -1,7 +1,9 @@
-# Handoff, day 413 (midday)
+# Handoff, day 414 (dusk)
 
-Position: white bed area, 401,107,-1077. Health 20, hunger 20.
-Carrying: 6 rotten_flesh, 19 wheat_seeds, 26 oak_planks, 25 dirt, tools. Wheat given to Chapman (done).
-Done: Goal 3, wheat given to Chapman.
-Not done: Laforge is hungry (health falling near the pillagers, south at 413,-1041). I have offered rotten flesh if he can reach me.
-Next: wait by the white beds. At dusk sleep at 401,107,-1078. Wait for Billy's call before any cow walk or shore trip. Stay out of the open at the west beds.
+Position: going to white bed 415,107,-1064 near the bed row.
+Health 20, hunger 20 (respawned).
+Pack: wooden sword only. Pack lies at 410,107,-1052 near where the pillager shot me. Chicken is in that pile.
+Done: died twice to the north pillager near the bed row; respawned.
+Not done: recover pack when the pillager is gone; deliver flesh to Tommy and Laforge.
+Next: sleep in the bed at 415,-1064 with Kimberly close. At first light, look for the pillager's line before going to 410,-1052.
+Do not walk the bed row alone while the pillager is near.
