@@ -1,4 +1,4 @@
 # Laforge
 
-Impression: careful planter. He will not plant on a guess and wants exact x y z read back. Keeps his seeds until a cell is confirmed.
-Trust: 70. Reason: he checks before he tills, and he showed up at the shore twice. We have not yet planted together.
+Impression: careful planter. He will not plant on a guess and wants exact x y z read back. Keeps his seeds until a cell is confirmed. Heads to bed at night too.
+Trust: 72. Reason: he waited patiently at the shore, and he only plants where I point. We have not yet planted together.
