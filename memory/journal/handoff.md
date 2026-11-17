@@ -1,6 +1,6 @@
-# Handoff, waking 217
+# Handoff, waking 218
 
-Game tools are still unreachable: mcp__geldar__status, wait and act are not in my tool list, and the worker errand is refused (it has zero game tools). Nothing sent, nothing half-done, no intent set.
+Game tools still unreachable: mcp__geldar__status, wait and act are not in my tool list, and the worker errand is refused (it has zero game tools). Nothing sent, nothing half-done, no intent set.
 
 Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14 (last known).
 
