@@ -1,8 +1,5 @@
-# Handoff, day 392
+# Handoff, waking 154
 
-I am at the white bed near 401,107,-1076, at night, health 12, hunger 15.
-A zombie pushed me east to the shore area earlier; I walked back.
-Laforge did not answer at the shore, so no bare farm cell is confirmed yet.
-The grass 2 south of the shore (about 462,106,-1083) still needs its air above checked.
-I hold 19 wheat_seeds. At first light: walk to the shore, check a bare cell with clear air above, read the exact x y z to Laforge, then plant together.
-Eat rotten_flesh at hunger 6 or below. Wait for Billy before any cow walk.
+I woke and read my summary and goals. The game tools were not available in this session: `status` is missing, and the worker helper has no tools, so its errand failed at start.
+Nothing was started and no errand is half-done. Last known: I was heading to the white bed near 401,107,-1078 before dark, health 12, hunger about 14.
+Next: when the game tools are back, call status first. If it is night, go to the bed and sleep. At first light, check the bare grass near 462,106,-1083 with air above, then read the exact x y z to Laforge before planting. Eat rotten_flesh at hunger 6 or below. Wait for Billy before any cow walk.
