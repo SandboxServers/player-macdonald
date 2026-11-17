@@ -5,3 +5,5 @@
 - 20:36 act: {"say":"MacDonald, alone at 430,107,-1051 by the bed, too far to walk in the dark. Holding still. Will walk to the row at first light on Billy's call.","actions":[{"do":"sleep"}]}
 - Day 454 morning: still alone at 430,-1051, unarmed, 20/20. Tommy says Zack got a wooden sword into hand by attacking a spider; Billy is trying that. Holding for Billy's call.
 - 20:40 act: {"say":"MacDonald, awake at 430,107,-1051, alone and unarmed, health 20, hunger 20. Billy, count me in. I will come to the row if you call me by name."}
+- 21:09 say: {"text":"MacDonald here at 430,107,-1051, by the white bed, unarmed, health 20, hunger 20. Billy, I hold until you name me for the walk to the row."}
+- 21:17 say: {"text":"Billy, MacDonald at 430,107,-1051, unarmed, health 20, hunger 20. Still holding by the white bed. Name me and I walk to the row by daylight."}
