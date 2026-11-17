@@ -13,3 +13,5 @@
 - A cell named to a helper must be read back exactly; the helper plants from their own view.
 - Walking the shore farm and back takes most of a dusk; start the walk back early.
 - Tell: Laforge, and Billy when he calls.
+- Wheat is not edible for me (inventory shows edible false). Food for me is rotten_flesh, or what Zack gives.
+- Ripe wheat near the beds at 403,108,-1076 is a food source to harvest later, when the group is near.
