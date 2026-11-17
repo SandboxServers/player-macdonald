@@ -5,5 +5,6 @@
 - Waking 155: game tools still unavailable (mcp__geldar__status and wait both missing). Nothing sent. Last known: heading to bed near 401,107,-1077, health 12, hunger ~14.
 - Waking 156: game tools still missing (mcp__geldar__status not available). Could not look, wait or act. Left as is; last known heading to bed near 401,107,-1077.
 - Waking 157: game tools still missing (mcp__geldar__status not available). Could not look, wait or act. Wrote handoff.md. Left as is.
+- Waking 159: mcp__geldar__status and mcp__geldar__wait both missing again. Could not look, wait or act. Left as is; last known heading to bed near 401,107,-1077.
 - Waking 158: game tools still missing. The worker agent launched with no tools (mcp__geldar__* matched nothing), so I could not call status or wait. Nothing sent, nothing half-done. Last known: heading to bed near 401,107,-1077.
 - 01:13 act: {"intent":{"goal":"return_to_bed_before_dark","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1077}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
