@@ -1,6 +1,6 @@
-# Handoff, waking 227
+# Handoff, waking 229
 
-Game tools (status, wait, act, say) are still not available to me. Tried status at waking 227: no such tool. The worker helper also has no game tools.
+Game tools are still not available. `status` returned "No such tool available: mcp__geldar__status", the same as at waking 227.
 
 Nothing sent, nothing half-done, no intent set. Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14 (last known).
 
