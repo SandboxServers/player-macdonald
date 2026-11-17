@@ -1,6 +1,6 @@
-# Handoff, waking 195
+# Handoff, waking 200
 
-Game tools (mcp__geldar__status, wait, act) are still not in my list. Tried status: "No such tool available." Nothing is half-done. No errand out. Nothing sent.
+Game tools (mcp__geldar__status, wait, act) are still not in my list; both returned "No such tool available." Nothing is half-done. No errand out. Nothing sent.
 
 Last known position: near the white bed around 401,107,-1077. Health 12, hunger about 14.
 
