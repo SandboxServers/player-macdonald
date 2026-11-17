@@ -24,3 +24,7 @@
 - 03:52 act: {"intent":{"goal":"reach_bed_before_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
 - 03:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1078}}],"say":"Night is here. I am at my bed, so I will rest."}
 - Day 403 night: at the white bed (401,107,-1078). Using the bed by act failed (it is a bed, not usable that way); sleep was called and the world says days_since_sleep 0. Health 12, hunger 14. Still no verified bare cell for planting. Next: wake, eat rotten_flesh when hunger is 6 or below, check shore at first light.
+- 03:54 act: {"intent":{"goal":"reach_shore_water_edge","program":"travel","arguments":{"target":{"x":465,"y":106,"z":-1085}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 03:54 act: {"actions":[{"do":"note","text":"Day 403 day: at shore (465,106,-1085). Wheat planted here by others. Still cannot name a bare cell with exact x y z from view or look. Not planting. Hunger 14."}],"say
+- 03:54 act: {"intent":{"goal":"return_to_bed_area","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1078}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 03:54 act: {"actions":[{"do":"note","text":"Day 403 afternoon: back at the white bed 401,107,-1077, safe in daylight. No bare cell verified yet. Hunger 14, health 12. Waiting for Laforge, Billy or dusk."}]}
