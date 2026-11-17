@@ -16,3 +16,5 @@
 - 03:29 say: {"text":"Laforge, I'm at the shore now (464,106,-1084). Five grass cells are close by, but I have not yet checked exact coordinates. I'll name one once it's confirmed."}
 - 03:29 say: {"text":"Laforge, view shows grass 2 blocks up and fences to the south, but I can't yet pin exact x y z. Can you walk the water edge with me and name cells you can see?"}
 - 03:33 say: {"text":"Morning, Laforge. No, not yet. I still can't confirm a bare cell with exact x y z, so I won't name one. Keep your seeds; I'll call you the moment I do."}
+- 03:42 act: {"say":"Morning. I am still at the shore, hunger 14. I will check the grass by the water for a bare cell before I name anything.","actions":[{"do":"note","text":"Day 402 morning: at shore 464,106,-108
+- 03:47 act: {"say":"Laforge, I'm still here at the shore. I have not verified a bare cell with exact coordinates yet, so I won't name one. Let's keep looking together.","actions":[{"do":"note","text":"Laforge is 
