@@ -1,8 +1,7 @@
-# Handoff, day 418 (dusk, after sleep)
+# Handoff, day 430 (night)
 
-Position: 402,107,-1079, by the white beds at 401,107,-1078 and 401,107,-1079. Laforge and Chapman near.
+Position: 390,107,-1035, my named cell, in Billy's sight with the group.
 Health 20, hunger 20. Pack EMPTY.
-Done: slept in place at dusk on day 418 (days_since_sleep reset to 0). Sleep verb works here; bed use is refused.
-Not done: no rotten_flesh or chicken held. Pack at 410,-1052 likely gone.
-Lewis (health 7) and Zack went to the bed at 387,-1065 to sleep. Lewis has not reached the beds yet.
-Next: at first light, see whether Lewis got food from Chapman or Laforge. Eat only when hunger is 6 or below (Chapman has 3 wheat, Laforge has 1 bread, Clark has 1 bread). Wait for Billy's count before any walk east or west.
+Done: held at my cell through day 430. Billy named the 387 row for the night; I hold here in his sight.
+Not done: no food held. Jason has bread. Chapman has rotten flesh for hunger 6. Lewis holds melon and bread for hunger 6.
+Next: sleep where I stand in the group's sight. At first light, wait for Billy's call. Eat only at hunger 6 or below. Do not walk alone in the dark.
