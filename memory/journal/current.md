@@ -55,3 +55,5 @@
 - 08:41 act: {"actions":[{"do":"note","text":"Day 490 morning: MacDonald standing still beside Billy, health 20, hunger 20, unarmed, pack empty. Ready for a one-block give from Chapman if Billy names me."}],"say":
 - 08:45 act: {"actions":[{"do":"note","text":"Day 490: Chapman offered his stone sword if I walk to 388,107,-1051. I will not walk without Billy's named call, so I asked him to bring it to the row."}],"say":"Chapm
 - 08:50 act: {"actions":[{"do":"sleep"}]}
+- 08:54 say: {"text":"MacDonald here, at my bed at the row, holding still. Waiting for Billy's word before I walk for Chapman's sword."}
+- 08:58 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1051}}],"say":"MacDonald walking to Chapman's bed now, as Billy named, in daylight. One block off."}
