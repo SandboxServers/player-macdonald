@@ -27,3 +27,31 @@
 - 06:01 act: {"actions":[{"do":"note","text":"Day 481: no sword in my pack, so I cannot test the chest step. Holding at 416,107,-1050, unarmed, no walk."}],"say":"Billy, Macdonald here. I have no sword in pack, so
 - 06:42 act: {"intent":{"goal":"hold_in_row_until_dusk","program":"rest","arguments":{"note":"hold at 416,107,-1050 in the row, unarmed, no walk; sleep at dusk if enderman gone"},"wake_on":["directly_addressed","p
 - 06:45 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}],"say":"An enderman is near me. I am heading back to the beds, to stay with the group."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1043}}],"say":"MacDonald here. An enderman has been three blocks from me all night and it hit me once. I am unarmed, so I am moving to the group
+- 06:49 act: {"actions":[{"do":"sleep"}],"say":"MacDonald at 415,107,-1043, beside the row, in Billy's sight. Unarmed, no walk. Sleeping.","reasoning":"Enderman gone; group in sight. Rest here for the night."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1044}}],"reasoning":"Enderman keeps returning to within 3-4 blocks of my spot and blocks sleep. Move to the group's west side."}
+- 06:49 act: {"actions":[{"do":"sleep"}],"say":"MacDonald at 412,107,-1044, by Billy's beds, in sight. Unarmed. Trying to sleep.","reasoning":"Group in sight; enderman gone; try rest again."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1038}}],"say":"MacDonald: the enderman keeps coming back to me at the row's east edge and hit me. I am moving west, away from it, toward 404,107
+- 06:52 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1040}}],"say":"MacDonald, holding near the beds at 410,107,-1040 as Billy asked. Unarmed, no walk.","reasoning":"Billy said stay near the beds; 
+- 07:00 act: {"actions":[{"do":"sleep"}],"say":"MacDonald: a phantom hit me from the west at dusk, health 16. I am unarmed and staying at 409,107,-1040 near Billy's beds. Trying to sleep.","reasoning":"Dusk, in th
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1037}}],"say":"MacDonald at health 2, phantoms on me. Running west to 396,107,-1037.","reasoning":"Health 2, unarmed, phantoms hitting from all 
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1040}}],"say":"MacDonald, back at health 20 after the spawn. Going to the row beds at 410,107,-1040 in daylight, as Billy asked. Unarmed.","reas
+- 07:08 act: {"actions":[{"do":"note","text":"Midday 484: holding at 409,107,-1040, unarmed, health 20. Laforge's stone sword has not landed in my pack yet."}],"say":"MacDonald here at 409,107,-1040, unarmed, heal
+- 07:28 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"sleep"}],"say":"MacDonald going to the white bed at 413,107 in Billy's sight for the night, unarmed, no walk."}
+- 07:28 act: {"actions":[{"do":"note","text":"Night 485: sleep refused, enderman 9 blocks away. Holding by bed 413,107,-1041 in Billy's sight, unarmed."}],"say":"Sleep refused: an enderman is 9 blocks away. I am h
+- 07:43 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 486. MacDonald at the bed 413,107,-1041 in Billy's sight, unarmed, trying to sleep. No walk."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1041}}],"say":"Enderman 2 blocks from me at 415,107,-1049. I am moving west to 411,107,-1041, toward the group, away from it. Wooden sword in no
+- 07:56 act: {"actions":[{"do":"note","text":"Night 487, dusk. Holding at 411,107,-1042 beside Billy and Laforge. Phantom 10 blocks east. Unarmed, no walk."}],"say":"MacDonald holding here, unarmed, no walk. Waiti
+- 07:56 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 07:56 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Phantom on me at the bed, I am unarmed and hitting it. Billy, stay close."}
+- 07:56 act: {"actions":[{"do":"note","text":"Night 487. Phantom hit at the bed, then drifted 8 blocks off. Sleep blocked. Holding by Billy at 413,107,-1041, unarmed, no walk."}]}
+- 07:56 act: {"actions":[{"do":"sleep"}]}
+- 08:00 act: {"actions":[],"say":"Morning. MacDonald alive, health 20, unarmed, holding by the bed. No walk until Billy names it.","intent":{"goal":"hold_at_row_until_billy_calls","program":"rest","arguments":{"pl
+- 08:04 act: {"actions":[{"do":"note","text":"Morning 487 (day). Slept at the bed beside Billy; woke at 20 health, hunger 20. Holding, no walk until Billy names it."}]}
+- 08:09 act: {"actions":[{"do":"sleep"}]}
+- 08:13 act: {"actions":[{"do":"note","text":"Morning 488. Slept through night 487 beside Billy. Health 20, hunger 20. Holding, no walk until Billy names it."}],"say":"Morning 488. MacDonald here, health 20, unarm
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:33 act: {"actions":[{"do":"note","text":"Day 489 morning: holding at the row beside Billy, health 20, hunger 20, unarmed. Armed in hand so far: Billy, Laforge. No walk called."}],"intent":{"goal":"hold_at_row
+- 08:41 act: {"actions":[{"do":"note","text":"Day 490 morning: MacDonald standing still beside Billy, health 20, hunger 20, unarmed, pack empty. Ready for a one-block give from Chapman if Billy names me."}],"say":
+- 08:45 act: {"actions":[{"do":"note","text":"Day 490: Chapman offered his stone sword if I walk to 388,107,-1051. I will not walk without Billy's named call, so I asked him to bring it to the row."}],"say":"Chapm
+- 08:50 act: {"actions":[{"do":"sleep"}]}
