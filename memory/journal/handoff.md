@@ -1,6 +1,7 @@
-# Handoff, day 501 (dusk)
+# Handoff, day 507 (dusk)
 
-Standing at the row, 413,107,-1040, between the beds with Tommy (2 blocks) and Chapman (2.7 blocks). Health 20, hunger 20, empty-handed, no food.
-Sleep attempts at bed 413,107,-1042 were refused twice on night 501 by an enderman nearby, then one attempt at dusk returned without error.
-Tommy has a stone sword in pack and is holding for Billy. Chapman holds cobblestone.
-Next: hold at the row for Billy's call. Walk only on his named call in daylight with four armed. Food from others at hunger 6 or below.
+Standing at the beds, 416,107,-1037. Health 20, hunger 20, empty-handed, no food, no one in sight.
+Trini, Tommy and Chapman hold at spawn 403,107,-1037, about 13 blocks west, unarmed, no food, waiting for Billy's call.
+Dropped items at 412,107,-1042 are still unrecovered. Tommy's items lie at 412,107,-1041.
+Not sleeping alone in the open. Holding awake through the night.
+Next: wait for dawn and Billy's named call. Walk only in daylight with four armed. Food from others at hunger 6 or below.

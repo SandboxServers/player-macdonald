@@ -18,3 +18,4 @@
 - 12:26 say: {"text":"MacDonald at the row, health 20, hunger 20, empty-handed. Holding for Billy's call. Will ask for food when hunger drops."}
 - 12:51 say: {"text":"MacDonald here at the beds, night 501. Sleep skipped the night. I am unarmed, hunger 20. Tommy, Chapman, where are you? I will hold here until dawn."}
 - 13:11 say: {"text":"Dawn. I am holding at the beds, empty-handed. I will not walk until Billy calls the group."}
+- 14:08 say: {"text":"Phantoms are near the row. I am unarmed and at the beds 416,107,-1037. I am holding still."}
