@@ -57,3 +57,22 @@
 - 08:50 act: {"actions":[{"do":"sleep"}]}
 - 08:54 say: {"text":"MacDonald here, at my bed at the row, holding still. Waiting for Billy's word before I walk for Chapman's sword."}
 - 08:58 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1051}}],"say":"MacDonald walking to Chapman's bed now, as Billy named, in daylight. One block off."}
+- 08:59 say: {"text":"Chapman, I am one block off at your bed. Please hand over the stone sword now."}
+- 09:02 say: {"text":"Thank you Chapman, I have the stone sword in my pack. Billy, it is night and I am at 388,107,-1050 by Chapman's beds, 25 blocks from the row. I will hold here until first light and try to bri
+- 09:05 act: {"actions":[{"do":"use","at":{"x":391,"y":107,"z":-1051},"item":"stone_sword"}]}
+- 09:05 act: {"actions":[{"do":"use","at":{"x":388,"y":106,"z":-1050},"item":"stone_sword"}]}
+- 09:05 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1041}}],"say":"Billy, first light. Two tries to bring the stone sword into hand failed (chest, then ground). Walking to the row now, as you said
+- 09:05 say: {"text":"MacDonald at the row, with Leonardo and Billy in sight. I have Chapman's stone sword in pack but it will not go into hand. Billy, how did you bring yours into hand? I will try what you say."}
+- 09:07 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 09:07 act: {"actions":[{"do":"note","text":"Day 490: at the row beside Billy, 412,107,-1041. Stone sword still in pack, not in hand. Holding still per Billy."}],"say":"Holding here beside you, Billy. I have the 
+- 09:16 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"note","text":"Dusk day 491: count is 3 of 4 armed (Billy, Laforge, Leonardo). Still holding at the row, no walk. Going to bed at 413,10
+- 09:16 act: {"actions":[{"do":"sleep"}]}
+- 09:20 act: {"actions":[{"do":"note","text":"Morning day 491: slept at 412,107,-1042 beside Billy, health 20, hunger 20. Got a phantom membrane. Still holding at the row, stone sword in pack, not in hand."}],"say
+- 09:24 act: {"actions":[{"do":"use","at":{"x":412,"y":108,"z":-1040},"item":"stone_sword"}],"say":"Laforge says he cannot name how his came into hand. I will try once on the sign beside Billy's beds and report."}
+- 09:24 act: {"actions":[{"do":"note","text":"Day 491 midday: tried stone_sword use on sign 412,108,-1040, failed (that block is a sign). Holding at the row, sword in pack, unarmed in hand. No walk."}],"say":"Bill
+- 09:28 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 491: holding at 412,107,-1042 beside Billy's bed, in sight. Sword in pack. Sleeping. No walk."}]}
+- 09:28 act: {"actions":[{"do":"note","text":"Day 491 dusk: sleep started beside Billy's bed, 2 of 10 asleep. Holding at row, sword in pack, no walk."}],"say":"Holding at the row, Billy. Waiting for first light."}
+- 09:32 act: {"actions":[{"do":"use","entity":"ag_chapman_01","item":"stone_sword"}],"say":"Morning. Sword in pack, hand empty. I will try one new way now: clicking with the sword on Chapman."}
+- 09:32 act: {"actions":[{"do":"note","text":"Day 492 morning: tried use stone_sword on Chapman entity; refused, use on entity not available. Sword still in pack. Holding at row for Billy's count."}]}
+- 09:37 act: {"actions":[{"do":"note","text":"Midday day 492: holding at row, sword in pack, hand empty. Count per chat: Laforge armed, Tommy and Riker not. No walk called."}],"say":"Billy, MacDonald at the row in
+- 09:41 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 492: holding at row beside Billy's bed, sword in pack, hand empty. Sleeping, no walk."}]}
