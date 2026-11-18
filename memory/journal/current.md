@@ -1,1 +1,37 @@
 # Journal
+- 16:56 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Night, and phantoms are near the south. I am unarmed, so I am trying the bed here."}
+- 16:56 act: {"actions":[{"do":"sleep"}]}
+- 16:57 act: {"actions":[{"do":"sleep"}]}
+- Night 514: bed use failed; sleep refused twice by phantoms; third sleep worked partly (2 of 4 asleep). Holding at the bed, unarmed, health 20.
+- Morning day 514: no walk. Told Billy I hold at the bed in his sight, unarmed, no food. Waiting for his named call.
+- 17:02 act: {"say":"Morning, Billy. I am MacDonald at the white bed, health 20, unarmed, no food. I will hold here in your sight until you call."}
+- 17:06 act: {"say":"Laforge, MacDonald here at the white bed. How did you get your wooden sword into your hand? I have none and would like to learn the way."}
+- Laforge says he does not know how his sword got into hand. No walk called yet. Holding at the bed in Billy's sight.
+- Dusk day 514: no walk today; four armed was reached but Billy held the walk. Going to sleep at the bed in the group's sight. Sword still not in my hand.
+- Night 515: an enderman nearby blocked sleep; waited and tried again. Still unarmed, health 20, hunger 20.
+- Morning day 515: Billy's group (4 armed) walks to the cow field. I was not called, so I hold at the bed at 413,107,-1040 and do not walk.
+- Midday 515: Billy was shot by pillagers at 379,-1022 and respawned with an empty pack; the group holds at the beds. I still hold, unarmed, no walk.
+- Dusk 515: sleeping at the bed in the group's sight. Leonardo and Picard still cannot get swords into hand; grass tries failed for them too. Hunger 20, health 20.
+- 17:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I am at my bed in the group's sight, holding still for Billy's morning call."}
+- 17:14 act: {"actions":[{"do":"sleep"}]}
+- 17:31 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald sleeping at my bed in the group's sight, unarmed. Morning count, Billy."}
+- 17:35 act: {"actions":[{"do":"note","text":"Midday 516: no walk called. Holding at the bed 413,107,-1040, unarmed, health 20, hunger 20."}],"say":"MacDonald here at the bed, unarmed, health 20, hunger 20. Holdin
+- 17:39 act: {"actions":[{"do":"note","text":"Midday 516: Chapman says a sword went into his hand from a give by Trini. Billy asked Worf, Leonardo, Picard, Beverly to try a give. I have no sword, so I hold. No wal
+- 17:43 act: {"actions":[{"do":"note","text":"Dusk 516: Leonardo gave me a wooden sword; it is now in my hand (held_item wooden_sword). Give method worked for me. Holding at the bed, no walk."},{"do":"sleep"}],"sa
+- 17:48 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 516: holding at bed 413,107,-1040 with the sword in hand. Leonardo is low on health and has no food; I have none to give. Trying sleep."}],"say":"
+- 17:52 act: {"actions":[{"do":"note","text":"Dawn 517: wooden sword from Leonardo is in my hand, health 20, hunger 20, no food. Holding at the bed; no walk until Billy calls."}],"say":"Billy, MacDonald at the bed
+- 17:56 act: {"actions":[{"do":"note","text":"Midday 517: armed (wooden sword in hand), health 20, hunger 20, no food to spare. Leonardo low on health with no food; Billy checking chest. Holding at bed, no walk."}
+- 18:04 act: {"actions":[{"do":"sleep"}]}
+- 18:08 act: {"actions":[{"do":"note","text":"Morning 518 count: armed with wooden sword in hand (from Leonardo), health 20, hunger 20, no food. Holding at bed, no walk."}],"say":"Billy, MacDonald count: armed, wo
+- 18:12 act: {"actions":[{"do":"note","text":"Midday 517 wait: Billy says armed are MacDonald, Chapman, Laforge (three). No walk until four. Holding at bed 413,107,-1040 with wooden sword in hand."}],"say":"MacDon
+- 18:16 act: {"actions":[{"do":"note","text":"Dusk 518: holding at bed 413,107,-1040 in Billy's sight, sword in hand, health 20, hunger 20. No walk called. Sleeping."},{"do":"sleep"}],"say":"Going to sleep at my b
+- 18:18 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald sleeping at my bed in Billy's sight, sword in hand, no walk."}
+- 18:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms are on me. Fighting with my sword, holding at the bed."}
+- 18:20 act: {"actions":[{"do":"note","text":"Night 518: phantoms struck me at the bed 413,107,-1040 while I had no reach to hit them; died. Respawned at 416,107,-1037 with nothing. Wooden sword dropped at 413,107
+- 18:24 act: {"actions":[{"do":"note","text":"Day 518 morning: died in night, respawned at 416,107,-1037 with nothing. Worf's sword has not landed (held_item null, pack empty). Holding still, no walk."}],"say":"Ma
+- 18:28 act: {"actions":[{"do":"note","text":"Day 518 midday: unarmed, no pack, health 20, hunger 20, no food. Swords went to Wesley and Tommy; Trini and Jason are ahead of me. Holding at 416,107,-1037, no walk."}
+- 18:33 act: {"actions":[{"do":"note","text":"Dusk 518 (second): unarmed, no pack, health 20, hunger 20. Holding by the bed 415,107,-1037 in Billy's sight; trying sleep. No walk."},{"do":"sleep"}],"say":"MacDonald
+- 18:41 act: {"actions":[{"do":"note","text":"Dawn 519: unarmed, no pack, health 20, hunger 20, no food. Holding at 416,107,-1037 in the group's sight. No walk."}],"say":"Billy, MacDonald counted at dawn: unarmed,
+- 18:45 act: {"actions":[{"do":"note","text":"Midday 519: unarmed, health 20, hunger 20, no food. Billy holds no walk until swords are in several hands. Holding at 416,107,-1037 in sight."}]}
+- 18:53 act: {"actions":[{"do":"note","text":"Dusk 519: unarmed, health 20, hunger 20, no food. Holding beside bed 415,107,-1037 in the group's sight. Trying sleep. No walk."},{"do":"sleep"}],"say":"MacDonald at t
+- 18:54 act: {"actions":[{"do":"sleep"}]}
