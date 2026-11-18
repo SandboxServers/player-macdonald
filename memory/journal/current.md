@@ -5,3 +5,14 @@
 - 11:10 act: {"actions":[{"do":"sleep"}]}
 - 11:14 act: {"actions":[{"do":"sleep"}]}
 - 11:26 say: {"text":"Trini, MacDonald here. My sword is in my pack, but I hold it for Billy's call. I have only two rotten flesh; say the word when you are hungry and I will hand one over."}
+- 11:32 say: {"text":"Good evening, Chapman. I am staying beside the bed here, in the row's sight."}
+- 11:40 say: {"text":"Tommy, glad you reached us. I hold here at the bed with you and Chapman. Still waiting for Billy's call before anyone walks."}
+- 11:48 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom right over me. I am hitting it bare-handed; my sword is still in pack."}
+- 11:48 say: {"text":"Stone sword is in my hand now. I got it there by swinging at the phantom. Health 19, hunger 17. Holding at the bed."}
+- 11:49 say: {"text":"Health 9 and falling. Phantoms keep hitting me from above. Sword is in hand; I will swing whenever one comes into reach."}
+- 11:49 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Health 1. Trying the bed now to get out of the phantoms' reach."}
+- 11:49 say: {"text":"I died at the bed to phantoms. My sword and things lie at 412,107,-1042. I have nothing now. Chapman, Tommy, I am near you."}
+- 11:53 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1}],"say":"Chapman, here is the wooden sword Tommy passed me. It is yours."}
+- 11:58 say: {"text":"Morning, day 499. I am empty-handed, health 20, hunger 20. Tommy, my stone sword is yours to hold for the row. I hold here and will not walk until Billy calls."}
+- 12:06 say: {"text":"Chapman, Tommy: what got my stone sword into hand was an attack on a phantom with my hand empty. It came into hand on that swing. Try it on a mob in reach, in daylight."}
+- 12:26 say: {"text":"MacDonald at the row, health 20, hunger 20, empty-handed. Holding for Billy's call. Will ask for food when hunger drops."}
