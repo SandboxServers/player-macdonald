@@ -25,3 +25,4 @@
 - Night 482: enderman 2.9 south, in view. No sleep try. Holding at 416,107,-1050 in the row, unarmed, health 20, hunger 20. Billy's count still zero; no walk. Days since sleep: 11.
 - Day 482 to dusk 483: enderman 2 to 3 blocks off all day and into dusk, still listed. No sleep try. Holding at 416,107,-1050, unarmed, health 20, hunger 20. Billy sleeping at 413,107,-1041, no walk. Days since sleep: 12.
 - 06:01 act: {"actions":[{"do":"note","text":"Day 481: no sword in my pack, so I cannot test the chest step. Holding at 416,107,-1050, unarmed, no walk."}],"say":"Billy, Macdonald here. I have no sword in pack, so
+- 06:42 act: {"intent":{"goal":"hold_in_row_until_dusk","program":"rest","arguments":{"note":"hold at 416,107,-1050 in the row, unarmed, no walk; sleep at dusk if enderman gone"},"wake_on":["directly_addressed","p
