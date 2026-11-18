@@ -16,3 +16,5 @@
 - 11:58 say: {"text":"Morning, day 499. I am empty-handed, health 20, hunger 20. Tommy, my stone sword is yours to hold for the row. I hold here and will not walk until Billy calls."}
 - 12:06 say: {"text":"Chapman, Tommy: what got my stone sword into hand was an attack on a phantom with my hand empty. It came into hand on that swing. Try it on a mob in reach, in daylight."}
 - 12:26 say: {"text":"MacDonald at the row, health 20, hunger 20, empty-handed. Holding for Billy's call. Will ask for food when hunger drops."}
+- 12:51 say: {"text":"MacDonald here at the beds, night 501. Sleep skipped the night. I am unarmed, hunger 20. Tommy, Chapman, where are you? I will hold here until dawn."}
+- 13:11 say: {"text":"Dawn. I am holding at the beds, empty-handed. I will not walk until Billy calls the group."}
