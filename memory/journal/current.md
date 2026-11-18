@@ -4,4 +4,5 @@
 - 10:09 say: {"text":"Dusk. MacDonald going to rest beside Billy's bed, unarmed, in your sight. No walk."}
 - 10:18 act: {"say":"Billy, Macdonald at the row, holding still. Stone sword is in my pack, hand empty. Tried use on bed, sign, ground and chest before. Nothing else to try from here; I wait for your call to walk 
 - 10:22 act: {"actions":[{"do":"use","at":{"x":413,"y":106,"z":-1050},"item":"stone_sword"}],"say":"Billy, Macdonald: tried use with stone_sword on the grass below me just now. Reporting the result, then I sleep h
+- Waking 312: tried to check status and wait through the worker helper. It has no tools this session, so nothing reached the world. No move, no say. Wrote handoff.md and am holding.
 - 10:22 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, Macdonald: use with stone_sword on grass failed, the block cannot be used that way. Going to sleep beside t
