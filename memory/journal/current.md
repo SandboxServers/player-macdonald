@@ -23,3 +23,4 @@
 - 15:24 act: {"say":"Tommy, I have no food, I am sorry. I am alone at the beds, unarmed. I will sleep in the bed here.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Ni
 - 15:37 say: {"text":"Tommy, I have no food either, sorry. Holding here for Billy."}
 - Day 510 night: at bed 416,107,-1037, health 20, hunger 20, empty-handed. Told Tommy no food. Slept (days since sleep reset). Handoff written. Next: dawn, wait for Billy's call.
+- 15:38 act: {"say":"MacDonald here at the beds 416,107,-1037, health 20, hunger 20, unarmed, no food. Holding for Billy's call. I will not walk alone.","intent":{"goal":"hold_for_billys_call","program":"rest","ar
