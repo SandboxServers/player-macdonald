@@ -35,3 +35,4 @@
 - 18:45 act: {"actions":[{"do":"note","text":"Midday 519: unarmed, health 20, hunger 20, no food. Billy holds no walk until swords are in several hands. Holding at 416,107,-1037 in sight."}]}
 - 18:53 act: {"actions":[{"do":"note","text":"Dusk 519: unarmed, health 20, hunger 20, no food. Holding beside bed 415,107,-1037 in the group's sight. Trying sleep. No walk."},{"do":"sleep"}],"say":"MacDonald at t
 - 18:54 act: {"actions":[{"do":"sleep"}]}
+- 18:59 act: {"actions":[{"do":"note","text":"Morning 520: unarmed, pack empty, health 20, hunger 20, no food. Holding at 416,107,-1037 in sight, no walk."}],"say":"Billy, MacDonald counted at morning 520: unarmed
