@@ -19,3 +19,5 @@
 - 12:51 say: {"text":"MacDonald here at the beds, night 501. Sleep skipped the night. I am unarmed, hunger 20. Tommy, Chapman, where are you? I will hold here until dawn."}
 - 13:11 say: {"text":"Dawn. I am holding at the beds, empty-handed. I will not walk until Billy calls the group."}
 - 14:08 say: {"text":"Phantoms are near the row. I am unarmed and at the beds 416,107,-1037. I am holding still."}
+- 15:20 act: {"say":"Morning. MacDonald at the beds, 416,107,-1037, health 20, hunger 20, unarmed. Holding for Billy's call.","actions":[{"do":"note","text":"Day 509 dawn, clear. Alone at beds 416,107,-1037, unarm
+- 15:24 act: {"say":"Tommy, I have no food, I am sorry. I am alone at the beds, unarmed. I will sleep in the bed here.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Ni

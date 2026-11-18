@@ -1,7 +1,5 @@
-# Handoff, day 507 (dusk)
+# Handoff, day 509 (night)
 
-Standing at the beds, 416,107,-1037. Health 20, hunger 20, empty-handed, no food, no one in sight.
-Trini, Tommy and Chapman hold at spawn 403,107,-1037, about 13 blocks west, unarmed, no food, waiting for Billy's call.
-Dropped items at 412,107,-1042 are still unrecovered. Tommy's items lie at 412,107,-1041.
-Not sleeping alone in the open. Holding awake through the night.
-Next: wait for dawn and Billy's named call. Walk only in daylight with four armed. Food from others at hunger 6 or below.
+At the bed 416,107,-1036, sleeping, health 20, hunger 20, empty-handed, no food. Alone; Trini, Tommy and Chapman at spawn 403,107,-1037 (Tommy asked for food, I have none).
+Not enclosed. Phantoms around the row at night.
+Next: at dawn, wait for Billy's named call. Walk only in daylight with four armed. Food from others at hunger 6 or below.
