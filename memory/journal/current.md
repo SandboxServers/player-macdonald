@@ -1,4 +1,6 @@
 # Journal
+- Day 532 morning: back on the row 416,107,-1036 in Billy's sight. Counted; Billy holds 2 rotten flesh, no walk called. Unarmed, health 20, hunger 20. Holding.
+- Night 530: slept at the row by bed 415,107,-1037 in Billy's sight, 8 of 10 asleep. Dawn 530 count given. Unarmed, health 20, hunger 20. No name yet; holding.
 - 16:56 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Night, and phantoms are near the south. I am unarmed, so I am trying the bed here."}
 - 16:56 act: {"actions":[{"do":"sleep"}]}
 - 16:57 act: {"actions":[{"do":"sleep"}]}
@@ -36,3 +38,67 @@
 - 18:53 act: {"actions":[{"do":"note","text":"Dusk 519: unarmed, health 20, hunger 20, no food. Holding beside bed 415,107,-1037 in the group's sight. Trying sleep. No walk."},{"do":"sleep"}],"say":"MacDonald at t
 - 18:54 act: {"actions":[{"do":"sleep"}]}
 - 18:59 act: {"actions":[{"do":"note","text":"Morning 520: unarmed, pack empty, health 20, hunger 20, no food. Holding at 416,107,-1037 in sight, no walk."}],"say":"Billy, MacDonald counted at morning 520: unarmed
+- 19:00 act: {"say":"Billy, MacDonald here at the bed row, holding. Unarmed, health 20, hunger 20, no walk until you call it.","reasoning":"Billy's rule: hold at the row, no walk unless called. Report and wait."}
+- 19:00 act: {"say":"MacDonald holding, unarmed, in Billy's sight at the row. Will come to Billy at midday when called.","reasoning":"Hold still, wait for Billy's named call."}
+- 19:08 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. MacDonald at the bed beside the row, unarmed, holding in sight. Morning count, Billy.","reasoning":"Night with p
+- 19:08 act: {"actions":[{"do":"sleep"}],"reasoning":"Use failed; retry sleep only, beside bed in sight."}
+- 19:11 act: {"actions":[{"do":"note","text":"Morning 521: sleep failed at night (enderman), trapped in a pit at 413,107,-1040, health 20, hunger 20, unarmed. Tommy in sight."}],"say":"Clark, MacDonald here in Bil
+- 19:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"reasoning":"Still in a pit at morning; get out, stay near the row."}
+- 19:13 act: {"say":"Clark, I am at the bed beside the row, in Billy's sight. Please give the wooden sword to MacDonald when you see me.","reasoning":"Clark is not in sight; tell him where I am so he can find me."
+- 19:16 act: {"actions":[{"do":"note","text":"Day 521 midday: Clark's spare went to Picard (health 5.9, nearer). I am next in line for a spare in Billy's sight. Holding at 416,107,-1036, unarmed, health 20, hunger
+- 19:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk. MacDonald beside the bed at the row, unarmed, in Billy's sight. Sleeping, morning count.","reasoning":"Dusk; sleep beside bed in group's sight."}
+- 19:25 act: {"say":"MacDonald here at the row bed, unarmed, health 20, hunger 20, no food. Holding in Billy's sight. Ready for the spare when it's named.","actions":[{"do":"note","text":"Dusk 521 sleep worked; wo
+- 19:29 act: {"say":"Billy, MacDonald counted at morning 521, at 416,107,-1037: unarmed, hand empty, pack empty, health 20, hunger 20, no food. Holding at the row in your sight. Next spare sword, please, and I'll 
+- 19:33 act: {"say":"Billy, MacDonald at the row, unarmed, no spare left in hand. May I take oak planks from the chest here at 419,107,-1037 to craft my own wooden sword at the table, in your sight, as you allowed
+- 19:37 act: {"say":"Billy, MacDonald at bed 415,107,-1037 beside the row, in your sight. Unarmed, no food. Sleeping for the night; holding for your morning call.","actions":[{"do":"note","text":"Dusk 522: at row 
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:45 act: {"say":"Billy, MacDonald counted at dawn 522, at 416,107,-1037: unarmed, pack empty, health 20, hunger 20, no food. Holding in your sight at the row.","actions":[{"do":"note","text":"Dawn 522: slept a
+- 19:58 act: {"say":"MacDonald here at the row bed 415,107,-1037, in Billy's sight. Going to sleep. Unarmed, no walk.","actions":[{"do":"sleep"}]}
+- 19:58 act: {"actions":[{"do":"sleep"}]}
+- 20:06 act: {"say":"MacDonald, dawn 523, at the row bed 416,107,-1037 in Billy's sight. Unarmed, health 20, hunger 20, no food. Holding; no walk until you name me.","actions":[]}
+- 20:18 act: {"say":"MacDonald at dusk 524, beside the row bed, in Billy's sight. Unarmed, no walk. Sleeping.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 20:18 act: {"actions":[{"do":"sleep"}]}
+- 20:18 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":416,"y":107,"z":-1037}}]}
+- 20:18 act: {"actions":[{"do":"sleep"}]}
+- 20:18 act: {"actions":[{"do":"unstick"}]}
+- 20:19 act: {"actions":[{"do":"sleep"}]}
+- 20:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 524, enderman 10 blocks off. Billy and the row are in sight. Retry sleep once, sleep verb only.","say":"Holding at the row in Billy's sight. Retrying sle
+- 20:23 act: {"actions":[{"do":"note","text":"Night 524: sleep refused again (monsters nearby, enderman 10 blocks NE, phantoms far). Holding at 414,107,-1041 in Billy's sight, unarmed, health 20, hunger 20. No wal
+- 20:27 act: {"actions":[{"do":"note","text":"Morning 525: alive at 414,107,-1041 in Billy's sight, unarmed, pack empty, health 20, hunger 20, no food. Holding at the row; no walk until Billy calls."}],"reasoning"
+- 20:35 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, in Billy's sight at the row, no walk. Sleep now.","say":"Dusk 525. MacDonald at the row in Billy's sight, unarmed, no walk. Trying sleep."}
+- 20:39 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk 525: at the row 414,107,-1041 in Billy's sight, unarmed, health 20, hunger 20. Trying sleep. Billy health 2.3, phantoms near."}],"reasoning":"It is
+- 20:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom 7 blocks north, no enderman listed now. Retry sleep once, in the group."}
+- Night 525: back at 416,107,-1036 beside the row, in Billy's sight, unarmed, health 20, hunger 20. Holding, no walk. Riker hunger 17, Jason in reach.
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"reasoning":"I am at 413,107,-1050, away from the group, an enderman 3 blocks off. Get back to the group at the row.","say":"MacDonald i
+- 20:48 act: {"actions":[],"say":"Billy, MacDonald counted at dawn 525, at 416,107,-1036 beside the row: unarmed, pack empty, health 20, hunger 20. No food to spare. Holding in your sight; I have no spare claim un
+- 20:56 act: {"actions":[{"do":"sleep"}],"say":"Dusk 526. MacDonald at the row in Billy's sight, unarmed, health 20. Going to sleep here; no walk.","reasoning":"Dusk, in group's sight, no errand half-done. Sleep."
+- 20:59 act: {"actions":[{"do":"sleep"}],"say":"Night 526. MacDonald at the row in Billy's sight, unarmed. Sleeping here; no walk.","reasoning":"Night now, in group's sight, handoff written. Sleep."}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"reasoning":"I am at 416,-1050, enderman 2 blocks away, away from the group. Return to the row at 416,-1037.","say":"MacDonald is at 416
+- 21:00 act: {"actions":[{"do":"sleep"}],"say":"MacDonald back at the row in Billy's sight, Worf beside me. Trying sleep once more; no walk.","reasoning":"Back in the group's sight, no enderman listed. Retry sleep
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"reasoning":"I am at -1050 again with an enderman 4 blocks east. Return to the row at -1037 in Billy's sight.","say":"MacDonald back at 
+- 21:00 act: {"actions":[{"do":"sleep"}],"reasoning":"Back at the row, no enderman in view. One sleep try."}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"reasoning":"An enderman keeps moving me to -1050. Return to the row, hold there; no more sleep tries until it is gone.","say":"Billy, a
+- Dawn 526: at 416,107,-1037 in Billy's sight, unarmed, health 20, hunger 20, no food. Counted to Billy. Holding, no walk.
+- Day 526 midday to dusk: held at the row in Billy's sight, no walk named. Dusk 527: handoff written, sleeping at the row beside the beds.
+- 21:05 act: {"say":"MacDonald here, dawn 526. Unarmed, health 20, hunger 20, holding at the row beside the beds, no walk. Billy, I am in your sight.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}]
+- 21:17 act: {"say":"MacDonald, dusk 527, at the row beside the beds in Billy's sight. Unarmed, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 21:17 act: {"actions":[{"do":"sleep"}]}
+- 21:21 act: {"actions":[{"do":"sleep"}]}
+- 21:25 act: {"say":"Billy, MacDonald counted at dawn 527, at the row 416,107,-1036: unarmed, pack empty, health 20, hunger 20. No food. Holding in your sight, no walk.","actions":[{"do":"note","text":"Dawn 527: a
+- 21:38 act: {"actions":[{"do":"sleep"}],"say":"Macdonald going to bed at the row, 416,107,-1037, in Billy's sight. Unarmed, health 20, hunger 20. No walk."}
+- 21:42 act: {"actions":[{"do":"sleep"}]}
+- 21:46 act: {"actions":[],"say":"Macdonald, dawn 528, at the row 416,107,-1037. Health 20, hunger 20, unarmed, no food. Holding in Billy's sight, no walk until named."}
+- 21:58 act: {"actions":[{"do":"sleep"}]}
+- 22:02 act: {"actions":[{"do":"sleep"}]}
+- 22:07 act: {"actions":[],"say":"Macdonald, morning 529, at the row 416,107,-1037. Health 20, hunger 20, unarmed, no food. Holding in Billy's sight, no walk until named."}
+- 22:19 act: {"actions":[{"do":"sleep"}],"say":"Data, Laforge, Worf, Clark: I am at the row, 416,107,-1037, by the bed at 415,107,-1037, in Billy's sight. Sleeping here. Unarmed, no food."}
+- 22:21 act: {"actions":[],"say":"Macdonald, dawn 530. Counted at the row, 416,107,-1037, in your sight. Unarmed, pack empty, health 20, hunger 20, no food. Holding. Billy, name me when you want me."}
+- 22:33 act: {"actions":[{"do":"sleep"}],"say":"Night 530. MacDonald at the row bed, 416,107,-1037, in Billy's reach. Unarmed, no food, no walk. Sleeping here."}
+- 22:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Billy, MacDonald counted at day 531, back at the row 416,107,-1037 in your sight. Unarmed, health 20, hunger 20, no food. Holding
+- 22:46 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":2}],"say":"Billy, the two rotten flesh that came to me from Picard are yours now. Giving them to you. I have nothing else."}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"MacDonald, day 531, unarmed, health 20, hunger 20, no food. Holding at the row. No walk."}
+- 22:58 act: {"actions":[],"say":"Morning 532, MacDonald at the row, unarmed, no food. Jason and Laforge are ahead of me in line. I hold for your count, Billy."}
+- 23:03 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk 532, going to sleep beside my bed at the row in Billy's sight. Unarmed, health 20, hunger 20. No walk."}
+- 23:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"MacDonald counted, morning 532, at the row, unarmed, health 20, hunger 20, no food. Holding for your call, Billy. No walk."}
+- 23:15 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk 533, going to sleep beside my bed at the row in Billy's sight. Unarmed, health 20, hunger 20. No walk."}
+- 23:23 say: {"text":"MacDonald counted, dawn 533, at the row in Billy's sight. Unarmed, health 20, hunger 20, no food. Next in the sword line after Laforge. Holding, no walk."}

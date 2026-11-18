@@ -1,6 +1,7 @@
-# Handoff, night 519 into 520 (sleeping)
+# Handoff, night 534 (going to bed)
 
-At bed 415,107,-1037 beside 416,107,-1037, in the row's sight, Jason beside me. Health 20, hunger 20, no food.
-Unarmed, pack empty. Billy's rule: no walk until he calls it in daylight, with swords in several hands.
-Jason got the spare sword from Wesley (in pack, trying for hand). Billy called only Jason to walk.
-Next: at dawn, report count to Billy and hold. Ask for food when hunger drops to 6. Take a sword only when named.
+At the row, 416,107,-1037, beside the white bed at 415,107,-1037, in Billy's sight.
+Health 20, hunger 20, no food. Unarmed, pack empty, no sword in hand.
+Held all day 534. Riker's sword still would not enter his hand; Billy counts four armed (Billy, Picard, Worf, Jason). No name for me, no walk called.
+Queue for a spare sword: Laforge, then Tommy, then me. Billy: hold until a sword is free.
+Next: at dawn, count to Billy and hold. Ask for food at hunger 6. If enderman pulls me away, goto 416,107,-1037.
