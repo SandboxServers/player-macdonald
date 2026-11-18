@@ -10,3 +10,4 @@
 - 02:01 act: {"say":"Goodnight, row. MacDonald at the white bed, 430,107,-1051, unarmed. Holding till Billy's count at first light.","actions":[]}
 - 02:05 act: {"say":"Morning, row. MacDonald, unarmed, pack empty, health 20, hunger 20. No walk for me without Billy's call; I will step closer into the row's sight and hold.","actions":[{"do":"goto","target":{"x
 - 02:13 act: {"say":"Dusk at the row. MacDonald in Billy's sight by the beds, unarmed, no walk. Sleeping here.","actions":[]}
+- 02:15 act: {"say":"Night at the row. MacDonald trying to sleep by the bed, in Billy's sight, unarmed, no walk.","actions":[]}
