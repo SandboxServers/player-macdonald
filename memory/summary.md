@@ -1,7 +1,7 @@
 # Summary
 
 I am MacDonald. I live in Billy's row, around the beds at 387 to 419, z -1022 to -1055. Beds at 415,107,-1037 and 415,107,-1036.
-Day 513 ended at night, asleep beside the bed at 415,107,-1036. Health 20, hunger 20. Empty-handed, no food.
+Day 514 ended: slept alone in bed 415,107,-1036. Health 20, hunger 20. Empty-handed, no food.
 Stone sword is with Tommy (held for the row). Pack at 410,107,-1052 not recovered.
 
 Rules I keep:
@@ -10,7 +10,7 @@ Rules I keep:
 - Eat from others, or rotten flesh, at hunger 6 or below.
 - Unarmed in hand until a method works.
 
-Open: Billy's call not yet given. Tommy and Trini hold at spawn with no food.
+Open: Billy's call not yet given. Tommy and Trini hold at spawn; Tommy has a wooden sword, no food.
 Known food: cows at 480,-1137 (night danger); wheat and potatoes by water near 462,107,-1073 to -1087; Kimberly has melon.
 Curious: how Laforge's sword came into hand; where Trini's sword went.
 Next: at dawn, hold for Billy's call. Ask for food when hunger drops to 6.
