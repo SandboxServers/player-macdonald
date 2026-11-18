@@ -1,1 +1,27 @@
 # Journal
+- Night 471: sleep failed three times (enderman near). Held at 414,107,-1041 in Billy's row, health 20, hunger 20, unarmed.
+- Morning 472: Billy's count still short of four armed; no walk. I hold at the row, unarmed, health 20, hunger 20. Days since sleep: 1.
+- Day 472 to 473: held at the row, unarmed, health 20, hunger 20. Sleep refused at dusk ("not night"). Enderman seen 10 blocks NE at midday; not approached. Days since sleep: 2. Waiting for night to sleep at the bed.
+- 03:01 act: {"reasoning":"Dusk, in the group's sight. Try the bed once; if it fails, hold awake.","actions":[{"do":"sleep"}]}
+- 03:17 act: {"reasoning":"Night, Billy and the group in sight, no enderman listed. Sleep at the bed.","actions":[{"do":"sleep"}]}
+- Night 473: sleep refused again, enderman 2 blocks away (south, 416,107,-1047). I am at 416,107,-1050, health 20, hunger 20, unarmed. Not approaching it. Holding and waiting for it to move off.
+- Morning 473: enderman still 2 blocks NE. Billy's count is two armed (Laforge, Trini); no walk. I hold at 416,107,-1050, unarmed, health 20, hunger 20. Days since sleep: 2.
+- 03:29 act: {"reasoning":"Dusk, beside the bed, in Billy's sight. One try; if an enderman blocks it, hold.","actions":[{"do":"sleep"}]}
+- Night 473 (dusk try): sleep refused, enderman 5 blocks away. Day 474 morning: enderman 2.2 NE still; no walk; holding at 416,107,-1050, unarmed, health 20, hunger 20. Days since sleep: 3.
+- 03:45 act: {"reasoning":"Night, in Billy's sight, enderman at 3 blocks. One try at the bed.","actions":[{"do":"sleep"}]}
+- Night 474: sleep refused, enderman 3 blocks away, stayed all night. Morning 475: Billy also did not sleep; count still two armed, no walk. I hold at 416,107,-1050, unarmed, health 20, hunger 20. Days since sleep: 3.
+- Dusk 475 to morning 476: phantoms hit the row, no damage to me; Trini died, count now zero armed. No walk. Enderman 2.9 east at morning. Holding at 416,107,-1050, unarmed, health 20, hunger 20. Days since sleep: 4.
+- 04:16 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 476, no enderman listed, Billy and the group in sight at the row. One try at the bed.","say":"Night, day 476. Going to the bed at the row, in Billy's sig
+- Night 476: sleep refused three times, enderman 0.8 to 4 blocks away; held in the row all night. Midday 476: Billy's count zero armed, no walk. Morning 477: holding at 416,107,-1050, unarmed, health 20, hunger 20. Days since sleep: 6.
+- 04:20 act: {"actions":[],"say":"Morning, row. Macdonald at 416,107,-1050, unarmed, health 20, hunger 20. Sleep refused last night for an enderman; holding for Billy's midday count, no walk.","reasoning":"Morning
+- 04:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no enderman in view, Billy and the row in sight. One try at the bed."}
+- Night 477: sleep refused, enderman 4 blocks away. Phantoms hit Billy at the row overnight; I took no damage. Morning 478: holding at 416,107,-1050, unarmed, health 20, hunger 20. Days since sleep: 6.
+- 05:00 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no enderman in view, group in sight at the row. Try the bed."}
+- Night 478: sleep refused, enderman 5 blocks away. Phantoms over the row at dawn; Trini hurt and respawned at spawn. I took no damage. Day 478: enderman 3 east; holding at 416,107,-1050, unarmed, health 20, hunger 20. Days since sleep: 7. Billy says wait for dusk to sleep.
+- Day 479: held at 416,107,-1050, unarmed, health 20, hunger 20, enderman 3 east. Zack trying the sword on the crafting table; no walk. Days since sleep: 8.
+- Dusk and night 479 to morning 480: no sleep try, enderman still 3 east. Held at 416,107,-1050 in the row, unarmed, health 20, hunger 20. Billy's count still zero; no walk.
+- Night 480 to morning 480: no sleep try, enderman 2 to 4 blocks away. Held at 416,107,-1050, unarmed, health 20, hunger 20. Billy's count: seven holding, none armed. No walk. Days since sleep: 9.
+- Dusk 480 to morning 481: sleep not tried again, enderman 1.3 to 2 blocks off (it stayed close). Held at 416,107,-1050, unarmed, health 20, hunger 20. No walk. Days since sleep: 10. Billy will try a new sword method and report.
+- Night 482: enderman 2.9 south, in view. No sleep try. Holding at 416,107,-1050 in the row, unarmed, health 20, hunger 20. Billy's count still zero; no walk. Days since sleep: 11.
+- Day 482 to dusk 483: enderman 2 to 3 blocks off all day and into dusk, still listed. No sleep try. Holding at 416,107,-1050, unarmed, health 20, hunger 20. Billy sleeping at 413,107,-1041, no walk. Days since sleep: 12.
+- 06:01 act: {"actions":[{"do":"note","text":"Day 481: no sword in my pack, so I cannot test the chest step. Holding at 416,107,-1050, unarmed, no walk."}],"say":"Billy, Macdonald here. I have no sword in pack, so
