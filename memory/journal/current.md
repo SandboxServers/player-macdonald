@@ -3,3 +3,9 @@
 - 09:56 act: {"say":"MacDonald here, morning 565, holding in Billy's sight. Wooden sword, health 20, hunger 20. No walk named for me.","reasoning":"Billy's dawn call named Deanna to share with Riker, not me. Repor
 - 09:59 act: {"say":"MacDonald holds in sight of the row. Wooden sword, health 20, hunger 20. I can wait for Billy's word.","reasoning":"Still holding; Billy named no walk for me. Stay in sight and wait for his ca
 - 10:07 act: {"say":"MacDonald at the row, dusk 565. Sleeping beside the bed in Billy's sight. Holding for his call at first light.","reasoning":"Dusk. Not in danger, in the group's sight, bed beside me. Sleep per
+- 10:08 act: {"say":"Morning, Billy. MacDonald here, armed with the wooden sword, health 20, hunger 20. Holding at the row until you name a walk."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night 566. MacDonald sleeping by the bed in Billy's sight, holding at the row for first light."}
+- 10:24 act: {"say":"Billy, first light 566. MacDonald at the row, sword in hand, health 20, hunger 20. Holding for your named call."}
+- 10:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk 566. MacDonald sleeping by the row bed in Billy's sight, sword in hand. Holding for first light."}
+- 10:37 act: {"say":"Morning 567, Billy. MacDonald at the row, sword in hand, health 20, hunger 20. Holding for your named call."}
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 567. MacDonald sleeping by the bed at the row, in Billy's sight, sword in hand."}
