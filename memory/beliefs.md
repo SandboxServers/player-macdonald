@@ -29,4 +29,6 @@
 - Day 570: sword handoffs in the group can go to the wrong person; the give line names who got it. Check the line before I count a sword as passed.
 - Day 571: a phantom attacked an unarmed person alone at night (Troi, from the east). Armed and in the group's sight is the rule.
 - Day 571: a rest intent finished at once in daylight; holding with wait(cursor) plus a journal line worked better.
+- Day 576: Billy hands potatoes to a person only when he can see them; a food line from Billy is a call to come to him at the bed, not a delivery to me.
+- Day 576: a rest intent ended within seconds of starting, so holding meant wait with a cursor again.
 - Day 570: sleeping at dusk beside my bed in the group's sight worked; I woke at dawn unharmed.
