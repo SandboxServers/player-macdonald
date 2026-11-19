@@ -102,3 +102,20 @@
 - 23:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"MacDonald counted, morning 532, at the row, unarmed, health 20, hunger 20, no food. Holding for your call, Billy. No walk."}
 - 23:15 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk 533, going to sleep beside my bed at the row in Billy's sight. Unarmed, health 20, hunger 20. No walk."}
 - 23:23 say: {"text":"MacDonald counted, dawn 533, at the row in Billy's sight. Unarmed, health 20, hunger 20, no food. Next in the sword line after Laforge. Holding, no walk."}
+- 23:45 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"MacDonald, day 534: awake, health 20, hunger 20, unarmed, no food. Coming to the row as Billy called for dawn.","intent":{"goal":
+- 23:49 act: {"actions":[],"say":"Billy, MacDonald at the row 416,107,-1036, in your sight. Unarmed, health 20, hunger 20. Next in line for a spare after Laforge. Holding."}
+- 23:57 act: {"actions":[{"do":"sleep"}],"say":"Data, MacDonald here at the row, 416,107,-1036, by the bed, in Billy's sight. Please give me the wooden sword when you can see me. Thank you."}
+- 00:01 act: {"actions":[],"say":"Billy, MacDonald counted at dawn 536, at the row beside bed 401,107,-1036, in your sight. Unarmed, health 20, hunger 20, no food. Data holds the wooden sword for me; Data, please 
+- 00:05 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Data, MacDonald coming to you on Billy's call to take the wooden sword. Thank you."}
+- 00:06 act: {"actions":[],"say":"Data is not in my sight from the row, so I am holding at 402,107,-1037 with Billy's sight. Data, call me or come within reach and I will take the sword."}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1023}}],"say":"Going to Data at bed 429,107,-1023 on Billy's named handover, in daylight."}
+- 00:09 act: {"actions":[],"say":"Data, I am at your bed, 427,107,-1023. I am in sight. Please give the wooden sword now."}
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Data, I could not get the sword before dusk. I am going to the bed at 415,107,-1023 for the night. I will come to you at dawn."}
+- 00:11 act: {"actions":[{"do":"sleep"}],"say":"Bedding down at 416,107,-1023 for the night, unarmed. Laforge is near. Dawn, I go to Data for the wooden sword."}
+- 00:15 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Data, MacDonald walking to you at the row on Billy's name, for the wooden sword."}
+- 00:15 act: {"actions":[],"say":"Data, I am at 402,107,-1035 by the row. I do not see you yet. Please come within reach and hand over the wooden sword on Billy's name."}
+- 00:22 act: {"actions":[],"say":"Chapman, you are in my reach. Please give me the wooden sword, on Billy's name. I will say when it is in my hand."}
+- 00:24 act: {"actions":[],"say":"Billy, the wooden sword is in my hand now, from Chapman. I am armed at 402,107,-1035 in your sight. Holding, no walk."}
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"MacDonald, night 536, armed with the wooden sword in hand. Bedding at 401,107,-1037 in Billy's sight. No walk."}
+- 00:36 act: {"say":"MacDonald, dawn 537. Wooden sword in hand, health 20, hunger 20, no food. Holding at the row in Billy's sight. No walk named.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"w
+- 00:45 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
