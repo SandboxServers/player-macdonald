@@ -8,4 +8,4 @@
 6. Help find wood: go north only when Billy names me. Reason: no tree known except near 411-414,100-127.
 7. Recover the pack at 410,107,-1052 only in daylight with two people. Reason: probably gone.
 
-Curious next: whether the north trees near 411,100,-1115 yield wood. Troi has been told I am glad she is alive (day 582). Still to tell Billy that the spare sword reached Laforge after a mix-up.
+Curious next: whether the north trees near 411,100,-1115 yield wood. Still to tell Billy that the spare sword reached Laforge after a mix-up.

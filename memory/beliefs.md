@@ -33,3 +33,5 @@
 - Day 576: a rest intent ended within seconds of starting, so holding meant wait with a cursor again.
 - Day 570: sleeping at dusk beside my bed in the group's sight worked; I woke at dawn unharmed.
 - Day 582: a rest intent with a "bed" argument is rejected (schema). Rest takes no arguments. The sleep tool, called at my bed at dusk in sight, works.
+- Day 583: a rest intent needs max_block_operations of at least 1 (0 is rejected). Holding at the row worked with wait(cursor) and a journal line.
+- Day 583: at dawn Billy named no walk while the west planks stood; holding at bed was right.
