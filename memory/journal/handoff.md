@@ -1,6 +1,6 @@
-# Handoff, night 562
+# Handoff, night 564
 
-Armed: wooden sword in hand, health 20, hunger 20.
-At the row beside the bed 401,107,-1036, in sight of Chapman. No errand half-done. No walk named for me.
-Billy named walks for Jason, Riker and Tommy to Wesley's bed at 416,107,-1050. Jason's 8 potatoes are still held for Wesley. Riker holds 10 for Deanna.
+Armed: wooden sword in hand, health 20, hunger 20. Asleep beside the bed at 429,107,-1023, in Billy's sight at the row.
+No errand half-done. No walk named for me.
+Deanna holds 16 potatoes at the row; Billy will name the share at first light. Riker has Lewis's potato. Wesley holds Jason's 8 potatoes, handed over on Billy's word.
 Next: at first light, report to Billy and hold. Walk only on his named call, daylight, four or more armed. Eat from others at hunger 6 or below.
