@@ -37,3 +37,5 @@
 - 04:00 act: {"say":"MacDonald, holding at the row with the wooden sword, health 20, hunger 20. No walk from me until Billy names one.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["di
 - 04:00 act: {"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 04:04 act: {"say":"MacDonald, day 547. Holding at the row with my sword. I hold no food either, Lewis, sorry. Billy, I wait for your word.","intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{
+- 04:04 act: {"say":"Morning. Holding at the row with my sword. Waiting on Billy's word.","reasoning":"No one in sight, bright, health 20, hunger 20. Goal: hold at row and report to Billy. Nothing to walk for with
+- 04:12 act: {"say":"MacDonald at dusk 547. Sleeping beside the bed at the row, in Billy's sight. Armed, health 20, hunger 20, no food. No walk.","actions":[{"do":"sleep"}],"reasoning":"Dusk, beside bed in group's
