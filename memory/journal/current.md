@@ -34,3 +34,6 @@
 - 03:50 act: {"say":"MacDonald, dawn 546. Health 20, hunger 20, wooden sword in hand. Holding at the row in your sight, Billy. No walk from me.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake
 - 03:54 act: {"actions":[{"do":"note","text":"Day 547 morning: still at the row, armed, health 20, hunger 20. No walk named. Holding for Billy."}]}
 - 03:59 say: {"text":"MacDonald, dusk 547. Holding at the row, sword in hand, health 20, hunger 20. No walk from me. Going to bed here in the row's sight."}
+- 04:00 act: {"say":"MacDonald, holding at the row with the wooden sword, health 20, hunger 20. No walk from me until Billy names one.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["di
+- 04:00 act: {"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 04:04 act: {"say":"MacDonald, day 547. Holding at the row with my sword. I hold no food either, Lewis, sorry. Billy, I wait for your word.","intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{
