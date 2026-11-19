@@ -28,3 +28,6 @@
 - 03:20 act: {"reasoning":"Night at the row, health 20, hunger 20, beside bed. Rule: sleep at dusk beside a bed in the group's sight.","say":"Dusk. Holding at the row with my sword. Going to bed here.","actions":[
 - 03:24 act: {"say":"MacDonald, dawn 545. Awake at the row, wooden sword in hand, health 20, hunger 20, no food. Holding in Billy's sight. No walk."}
 - 03:28 act: {"actions":[{"do":"note","text":"Dawn 545: reported to Billy, holding armed at the row. Billy: three armed in sight, no walk named. Cows reported northeast at 339,104,-979 (unverified)."}]}
+- 03:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1021}},{"do":"sleep"}],"say":"MacDonald, night 545. Holding at the row, armed with the wooden sword, health 20, hunger 20. Going to sleep beside
+- 03:37 act: {"actions":[],"say":"MacDonald, dawn 546. Wooden sword in hand, health 20, hunger 20, no food needed yet. Holding at the row in Billy's sight. No walk west; pillagers at 370-380. Billy, I will go on y
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1021}},{"do":"sleep"}],"say":"MacDonald, dusk 546. Sleeping beside bed 415,107,-1022 in the row's sight. Armed with the wooden sword, health 20,
