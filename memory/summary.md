@@ -10,7 +10,7 @@ Rules I keep:
 
 Open:
 - Path west from the row is blocked by oak planks. No one has a verified route past x=370, so no walk.
-- Troi at health 13.9, hunger 16. Potatoes held by William for anyone at hunger 6.
-- Spare sword reached Laforge: told Billy at dawn on day 591.
+- Troi at health 13.9, hunger 16. Will call Billy at hunger 10. Potatoes held by William and Billy for him.
+- Spare sword reached Laforge: told Billy on day 592.
 
 Next: at first light, report to Billy and hold.

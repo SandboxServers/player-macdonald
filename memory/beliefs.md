@@ -37,4 +37,5 @@
 - Day 583: at dawn Billy named no walk while the west planks stood; holding at bed was right.
 - Day 585: holding at the row all day with no walk named was right; the sleep tool at my bed at dusk worked again. Nothing new learned; no route west yet.
 - Day 592: holding at the row all day with wait(cursor) and a journal line worked again; sleep at dusk at my bed worked. No walk west: still no verified route past x=370.
+- Day 592: holding at bed with wait(cursor) all day, then sleep at dusk, worked again. Billy says no walk until a verified west route is named.
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.
