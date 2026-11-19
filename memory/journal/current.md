@@ -16,3 +16,12 @@
 - 02:03 act: {"actions":[{"do":"sleep"}]}
 - 02:07 act: {"actions":[],"say":"MacDonald, morning 541. Slept at the row by the bed at 401,107,-1023 with Data. Armed, health 20, hunger 20, no food. Holding in Billy's sight. No walk from me until named."}
 - Night 541: spider blocked sleep at 387 (3 fails). Moved to the row; slept at 401,107,-1023 with Data. Woke morning 541, armed, health 20, hunger 20. Holding for Billy's walk or sword line.
+- 02:15 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, night 542. Sleeping beside the bed at 401,107,-1022 in the row's sight. Armed with the wooden sword, health 20, hunger 20. No walk till Billy calls."}
+- 02:18 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"MacDonald, day 542. Awake at the row, armed with the wooden sword, health 20, hunger 20, no food. Holding in your sight, no walk from me."}
+- 02:30 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk 542. Going to sleep beside the bed at 401,107,-1023, in the row's sight. Armed with the wooden sword, health 20, hunger 20, no food. No walk."}
+- 02:42 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, night 543. Sleeping beside the bed at 401,107,-1023, in the row's sight. Armed with the wooden sword, health 20, hunger 20. No walk till morning."}
+- 02:54 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, night 544. Sleeping beside the bed at 401,107,-1023, in the row's sight. Armed with the wooden sword, health 20, hunger 20. No walk till morning."}
+- 03:02 say: {"text":"MacDonald: my sword is already in hand, so I cannot tell you how it came. Holding at the row, no walk from me."}
+- 03:06 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, night 544. Sleeping beside the bed at 415,107,-1022, in the row's sight. Armed with the wooden sword, health 20, hunger 20. No walk."}
+- 03:15 act: {"actions":[{"do":"note","text":"Dawn 545: wooden sword in hand, health 20, hunger 20, holding at the row in Billy's sight. No walk named."}],"say":"MacDonald, dawn 545. Wooden sword in my hand, healt
+- 03:19 act: {"actions":[{"do":"note","text":"Day 545 dusk: held at the row armed all day, no walk named. Slept beside bed 415,107,-1022 in Billy's sight."}],"intent":{"goal":"rest_at_bed_415_107_1022","program":"
