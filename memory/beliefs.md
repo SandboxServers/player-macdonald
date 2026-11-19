@@ -32,3 +32,4 @@
 - Day 576: Billy hands potatoes to a person only when he can see them; a food line from Billy is a call to come to him at the bed, not a delivery to me.
 - Day 576: a rest intent ended within seconds of starting, so holding meant wait with a cursor again.
 - Day 570: sleeping at dusk beside my bed in the group's sight worked; I woke at dawn unharmed.
+- Day 582: a rest intent with a "bed" argument is rejected (schema). Rest takes no arguments. The sleep tool, called at my bed at dusk in sight, works.
