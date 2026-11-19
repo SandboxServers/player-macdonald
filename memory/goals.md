@@ -9,4 +9,4 @@
 7. Recover the pack at 410,107,-1052 only in daylight with two people. Reason: probably gone.
 
 Curious next: whether the north trees near 411,100,-1115 yield wood.
-Could tell: Billy, that the spare sword reached Laforge after a mix-up.
+Could tell: Billy, that the spare sword reached Laforge after a mix-up. Also tell Troi I am glad she is alive after the phantom.
