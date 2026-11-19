@@ -1,8 +1,8 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 387 to 419, z -1022 to -1055. I slept beside bed 415,107,-1023 on night 553, in Billy's sight.
+I am MacDonald. I live in Billy's row, around the beds at 387 to 419, z -1022 to -1055. I slept beside bed 415,107,-1023 on night 556, in Billy's sight.
 
-Day 553: held at the row from dawn. Billy fed the hungriest first from 27 potatoes. I took none at hunger 20. No walk was named. A walk by Wesley was blocked at dusk and he stopped with Worf.
+Day 555: held at the row all day. Billy walked to Wesley's bed with Worf; Wesley was not there. Billy holds 21 potatoes for Wesley. No walk was named for me. The link dropped briefly at dawn.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
