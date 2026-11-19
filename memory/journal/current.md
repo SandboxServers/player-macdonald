@@ -1,3 +1,2 @@
 # Journal
-- 15:39 say: Morning greeting at bed 443,107,-1023, holding in Billy's sight.
-- Billy named no walk: path west is blocked by oak planks (Tommy). Holding at bed, health 20, hunger 20.
+- 15:51 say: {"text":"Goodnight, all. MacDonald in bed at 443,107,-1023, in Billy's sight. Holding until first light."}
