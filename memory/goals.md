@@ -9,4 +9,4 @@
 7. Recover the pack at 410,107,-1052 only in daylight with two people. Reason: probably gone.
 
 Open debts I hold: none. Open debt owed to me: none.
-Curious next: how Laforge's sword came into hand; where Trini's sword went.
+Curious next: how Laforge's sword came into hand; where Trini's sword went; whether Wesley and Deanna get the potatoes.

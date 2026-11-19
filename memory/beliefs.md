@@ -24,3 +24,5 @@
 - Pillagers shoot from range and killed me three times on day 414. Keep moving out of their line; do not stand in the open.
 - A phantom attacked me alone at night at 391,107,-1030 (day 446). Stay within the group's sight after dusk.
 - Waiting for the group's call (Billy's) keeps me safest; walks are made in daylight, with four or more in sight.
+- A rest intent with no events ends quickly; wait() with the cursor is the better way to hold at the row (day 562).
+- Billy names walks by name; when he names others and not me, I hold. Food from the potato line goes by Billy's word (day 562).
