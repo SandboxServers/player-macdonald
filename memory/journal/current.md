@@ -1,1 +1,18 @@
 # Journal
+- 01:10 act: said morning report to Billy. Holding at beds 387,107,-1035. No walk named.
+- 01:14 moved to the row at 401,107,-1034. Leonardo, Trini, Chapman, Lewis, Clark in reach or near. Holding, armed, health 20, hunger 20. No walk named.
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"MacDonald, night 539. Going to bed 401,107,-1036 in Billy's sight. Armed, health 20
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}},{"do":"sleep"}]}
+- Night 539: bed use failed (a bed is not used that way). Sleep failed: not night. Day again at 399,107,-1036 beside bed 401,107,-1036. Billy asks Riker to take the sword at first light. No walk named. Holding, armed, health 20, hunger 20.
+- 01:35 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}},{"do":"sleep"}],"say":"MacDonald, night 540. Going to sleep beside bed 401,107,-1036 in Billy's sight. Armed, health 20, hunger 20, no fo
+- 01:35 act: {"say":"MacDonald here at the beds 387,107,-1035. A spider is about 10 blocks off. Armed with the wooden sword, health 20. Holding; I will not chase it."}
+- Morning 540: sleep failed, a spider was 10 blocks off. I am at the beds 387,107,-1035, armed, health 20, hunger 20. Holding for Billy's named walk or bed. Jason armed too.
+- 01:41 act: {"say":"MacDonald, morning 540. Billy, I did not hear my name in the oak walk, so I hold at the beds 387,107,-1035 with the sword. Tell me if you want me to come."}
+- 01:50 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk 540. Sleeping beside the bed at 387,107,-1036, in the beds' sight. Armed, health 20, hunger 20. No walk."}
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}},{"do":"sleep"}],"say":"MacDonald, night 540. A spider is blocking my sleep here, so I move to the bed at 401,107,-1036 by the row, in Bil
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, evening 541. Sleeping beside the bed at 387,107,-1036, in sight of the beds. Armed, health 20, hunger 20. No walk."}
+- 02:02 act: {"actions":[{"do":"sleep"}]}
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}}],"say":"MacDonald, night 541. A spider blocks sleep here. Moving to the row at 400,107,-1036 by the beds in Billy's sight. Armed, health 
+- 02:03 act: {"actions":[{"do":"sleep"}]}
+- 02:07 act: {"actions":[],"say":"MacDonald, morning 541. Slept at the row by the bed at 401,107,-1023 with Data. Armed, health 20, hunger 20, no food. Holding in Billy's sight. No walk from me until named."}
+- Night 541: spider blocked sleep at 387 (3 fails). Moved to the row; slept at 401,107,-1023 with Data. Woke morning 541, armed, health 20, hunger 20. Holding for Billy's walk or sword line.
