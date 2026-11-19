@@ -10,11 +10,10 @@ Rules I keep:
 
 Learned:
 - Beds take sleep only at night. In daylight a bed refuses.
-- Holding with wait(cursor) and a journal line is the way to hold through the day.
+- Holding with timed waits (wait 240) is the way to hold through the day; hold intents finish early.
 
 Open:
 - Path west from the row is blocked by oak planks. No verified route past x=370, so no walk.
-- Spare sword reached Laforge: still to tell Billy.
-- Troi at hunger 16, health 13.9 (day 600). Will call Billy at hunger 10.
+- Troi at hunger 16, health 13.9. Will call Billy at hunger 10.
 
 Next: at first light, report to Billy and hold.
