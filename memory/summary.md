@@ -9,8 +9,8 @@ Rules I keep:
 - Keep the sword in hand until Billy names the passing.
 
 Open:
-- Path west from the row is blocked by oak planks. No one has a verified route yet, so no walk.
-- Troi is at hunger 16, health 13.9. Potatoes held by Troi and William for anyone at hunger 6.
-- Kimberly's bed refused her sleep; she has not slept since day 585.
+- Path west from the row is blocked by oak planks. No verified route, so no walk.
+- Troi was at hunger 16, health 13.9 (earlier report). Potatoes held by Troi and William for anyone at hunger 6.
+- Kimberly has not slept since day 585.
 
 Next: at first light, report to Billy and hold.
