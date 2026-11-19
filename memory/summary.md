@@ -1,6 +1,6 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1055. On night 570 I slept beside the bed at 443,107,-1036, in the row's sight, sword in hand.
+I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1055. On night 571 I slept beside the bed at 443,107,-1036, in the row's sight, sword in hand. Health 20, hunger 20.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
