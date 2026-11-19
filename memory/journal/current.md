@@ -1,17 +1,1 @@
 # Journal
-- Night 564: held at the row with the sword. At dawn reported to Billy and held. No walk named for me; I was full. At dusk slept beside the bed at 429,107,-1023 in Billy's sight. Handoff written.
-- 09:56 act: {"say":"MacDonald here, morning 565, holding in Billy's sight. Wooden sword, health 20, hunger 20. No walk named for me.","reasoning":"Billy's dawn call named Deanna to share with Riker, not me. Repor
-- 09:59 act: {"say":"MacDonald holds in sight of the row. Wooden sword, health 20, hunger 20. I can wait for Billy's word.","reasoning":"Still holding; Billy named no walk for me. Stay in sight and wait for his ca
-- 10:07 act: {"say":"MacDonald at the row, dusk 565. Sleeping beside the bed in Billy's sight. Holding for his call at first light.","reasoning":"Dusk. Not in danger, in the group's sight, bed beside me. Sleep per
-- 10:08 act: {"say":"Morning, Billy. MacDonald here, armed with the wooden sword, health 20, hunger 20. Holding at the row until you name a walk."}
-- 10:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night 566. MacDonald sleeping by the bed in Billy's sight, holding at the row for first light."}
-- 10:24 act: {"say":"Billy, first light 566. MacDonald at the row, sword in hand, health 20, hunger 20. Holding for your named call."}
-- 10:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk 566. MacDonald sleeping by the row bed in Billy's sight, sword in hand. Holding for first light."}
-- 10:37 act: {"say":"Morning 567, Billy. MacDonald at the row, sword in hand, health 20, hunger 20. Holding for your named call."}
-- 10:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 567. MacDonald sleeping by the bed at the row, in Billy's sight, sword in hand."}
-- Morning 568: at the row beside bed 443,107,-1023, daylight, sword in hand, health 20, hunger 20. Billy not in sight; Lewis in reach. Holding for Billy's named call. Leonardo asks Billy for a spare sword; not mine to take.
-- 11:02 act: {"say":"Morning. Holding here with my sword, hunger 20. Waiting on Billy's word.","reasoning":"Dawn, daylight. Goal is to report to Billy and hold. Billy is not in sight; Lewis is in reach. Hold and w
-- 11:06 act: {"say":"Billy, MacDonald holds at the row, sword in hand, health 20, hunger 20. I know no trees either. Holding for your named place.","reasoning":"Billy's last word: everyone stays put until a place 
-- 11:10 act: {"say":"Coming, Billy. MacDonald armed with the wooden sword, health 20, hunger 20.","reasoning":"Billy named me for the oak trip with Worf and Clark, in daylight, armed. Four armed with Billy. Walk w
-- 11:10 act: {"say":"Billy, my follow failed; I am still at the row bed 444,107,-1037 with my sword. Lead on and I will keep in your sight, or name me a spot to walk to.","reasoning":"Following Billy did not take.
-- 11:12 act: {"say":"Dusk 568. MacDonald going to the bed at the row beside Picard and Zack, in Billy's sight, sword in hand.","reasoning":"Dusk, safe, group in sight. Move to the bed by Picard and sleep there, as
