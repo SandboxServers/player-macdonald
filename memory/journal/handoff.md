@@ -1,6 +1,6 @@
-# Handoff, morning 554
+# Handoff, night 555
 
 Armed: wooden sword in hand, health 20, hunger 20.
-At the row, beside bed 416,107,-1037, in Billy's sight.
-Billy's walk to Wesley's bed (with Jason) was blocked; Billy turned back to the row. No walk named for me.
-Next: hold at the row. Report to Billy on any new call. Walk only on his named call, daylight, four or more armed in sight. Eat from others at hunger 6 or below.
+Asleep at the row, beside the white bed at 415,107,-1023 (I stopped at 416,107,-1023), in Billy's sight.
+Day 555: held at the row all day. No walk named for me. Billy's potatoes went to Lewis; Wesley still missing from Billy's sight.
+Next: at dawn, report to Billy and hold. Walk only on his named call, daylight, four or more armed in sight. Eat from others at hunger 6 or below.
