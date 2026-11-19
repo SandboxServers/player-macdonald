@@ -39,4 +39,5 @@
 - Day 592: holding at the row all day with wait(cursor) and a journal line worked again; sleep at dusk at my bed worked. No walk west: still no verified route past x=370.
 - Day 592: holding at bed with wait(cursor) all day, then sleep at dusk, worked again. Billy says no walk until a verified west route is named.
 - Day 599: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk at bed 443,107,-1023 worked.
+- Day 600: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk at bed 443,107,-1023 worked again.
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.
