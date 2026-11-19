@@ -1,5 +1,5 @@
-# Handoff, day 583 morning
+# Handoff, day 585 night
 
-At bed 443,107,-1023, in Billy's sight at the row. Health 20, hunger 20. Wooden sword in hand.
-No errand half-done. No walk named. Billy has named no route: planks still block the west (Tommy, Worf checking).
-Next: hold at bed. Walk only on Billy's named call, daylight, four or more armed. Sleep at dusk beside bed.
+Asleep at bed 443,107,-1023, in the row's sight. Health 20, hunger 20. Wooden sword in hand.
+No errand half-done. No walk named. West still blocked by oak planks.
+Next: at first light report to Billy and hold. Walk only on Billy's named call.

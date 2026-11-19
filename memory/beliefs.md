@@ -35,3 +35,5 @@
 - Day 582: a rest intent with a "bed" argument is rejected (schema). Rest takes no arguments. The sleep tool, called at my bed at dusk in sight, works.
 - Day 583: a rest intent needs max_block_operations of at least 1 (0 is rejected). Holding at the row worked with wait(cursor) and a journal line.
 - Day 583: at dawn Billy named no walk while the west planks stood; holding at bed was right.
+- Day 585: holding at the row all day with no walk named was right; the sleep tool at my bed at dusk worked again. Nothing new learned; no route west yet.
+- Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.

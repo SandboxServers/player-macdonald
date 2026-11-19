@@ -1,6 +1,6 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1055. I sleep at my bed 443,107,-1023, in the row's sight, sword in hand. Day 584 ended asleep at that bed with health 20, hunger 20.
+I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1055. I sleep at my bed 443,107,-1023, in the row's sight, sword in hand. Day 585 ended asleep at that bed with health 20, hunger 20.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
@@ -9,7 +9,7 @@ Rules I keep:
 - Keep the sword in hand until Billy names the passing.
 
 Open:
-- Path west from the row is blocked by oak planks (Tommy, days 582-584). Billy has named no route.
+- Path west from the row is blocked by oak planks (Tommy, days 582-585). Billy has named no route.
 - Picard and Kimberly asked about the oak at 414,104,-1126. Billy has not named a route.
 - Worf's route to his bed is still blocked.
 - Bows were reported to the south. Stay near beds.
