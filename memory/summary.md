@@ -9,9 +9,9 @@ Rules I keep:
 - Keep the sword in hand until Billy names the passing.
 
 Open:
-- Troi (health 12, hunger 17 on day 582) is holding at her bed. I told her I am glad she is alive.
+- Path west from the row is blocked by oak planks (Tommy, day 582). Billy has named no route.
 - Picard and Kimberly asked about the oak at 414,104,-1126. Billy has not named a route.
-- Worf's route to his bed is still blocked. Billy has named no walk.
+- Worf's route to his bed is still blocked.
 - Bows were reported to the south. Stay near beds.
 - Phantoms hit people on the east side at night.
 
