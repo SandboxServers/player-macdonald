@@ -1,6 +1,6 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 387 to 431, z -1017 to -1055. I slept beside the white bed at 401,107,-1036 on night 562, in sight of Chapman and Trini.
+I am MacDonald. I live in Billy's row, around the beds at 387 to 431, z -1017 to -1055. I slept beside the white bed at 401,107,-1036 on night 563, in sight of Chapman.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
