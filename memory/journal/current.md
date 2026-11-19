@@ -6,3 +6,5 @@
 - 06:32 say: {"text":"MacDonald here, sword in hand, hunger 20. Holding at the row for Billy's call. Tommy, I have no food, sorry."}
 - Day 555 midday: held at the row in Billy's sight. Billy gave potatoes to Lewis; Wesley next. No walk named for me. Still holding.
 - 06:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"sleep"}],"say":"MacDonald going to bed 416,107,-1037 at the row, in Billy's sight, sword in hand. Holding for first light."}
+- 06:48 act: {"say":"Billy, MacDonald at the row, morning 555. Health 20, hunger 20, sword in hand. Holding for your named call."}
+- Day 555 morning: reported to Billy, held. Billy walked to Wesley's bed with Worf; Wesley not there, Billy back at row with 21 potatoes. No walk named for me. Holding at row, hunger 20.
