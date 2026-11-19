@@ -26,3 +26,5 @@
 - Waiting for the group's call (Billy's) keeps me safest; walks are made in daylight, with four or more in sight.
 - A rest intent with no events ends quickly; wait() with the cursor is the better way to hold at the row (day 562).
 - Billy names walks by name; when he names others and not me, I hold. Food from the potato line goes by Billy's word (day 562).
+- Day 570: sword handoffs in the group can go to the wrong person; the give line names who got it. Check the line before I count a sword as passed.
+- Day 570: sleeping at dusk beside my bed in the group's sight worked; I woke at dawn unharmed.
