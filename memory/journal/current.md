@@ -1,1 +1,19 @@
 # Journal
+- 13:43 act: {"say":"MacDonald here at the row, health 20, hunger 20, sword in hand. Holding for Billy's named call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- 13:43 act: {"say":"Morning all. MacDonald holding at the row, sword in hand, waiting for Billy.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dama
+- 13:43 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operation
+- 13:47 say: {"text":"Billy, MacDonald here at the row, sword in hand, health 20. Not named for the walk, so I hold."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}}],"say":"Night. MacDonald going to my bed at 443,107,-1023 in the row's sight, sword in hand."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"intent":{"goal":"hold_by_bed_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondit
+- 13:51 act: {"actions":[{"do":"sleep"}]}
+- 13:52 act: {"intent":{"goal":"hold_by_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_opera
+- 13:56 act: {"actions":[{"do":"sleep"}]}
+- 13:56 say: {"text":"Morning, Billy. MacDonald at my bed 443,107,-1023, armed, health 20, hunger 20. Holding in the row's sight for your named call."}
+- 14:04 act: {"actions":[{"do":"note","text":"Holding at bed 443,107,-1023 in the row's sight. Billy has named no walk. Wooden sword in hand, health 20, hunger 20."}],"say":"Billy, MacDonald holding at bed 443,107
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Night at the row. MacDonald going to bed at 443,107,-1023, armed, health 20, hunger 20, in Billy's sight. Goodnight."}
+- 14:13 act: {"actions":[],"say":"Deanna, MacDonald here at 444,107,-1023 in the row. I am glad you are alive. Holding for Billy's word."}
+- 14:21 act: {"actions":[{"do":"sleep"}],"say":"Night now. MacDonald sleeping at bed 443,107,-1023 in the row's sight, armed, health 20, hunger 20. Goodnight."}
+- 14:25 act: {"actions":[],"say":"Morning, Billy. MacDonald awake at bed 443,107,-1023, armed, health 20, hunger 20. Holding in your sight for the named call."}
+- 14:33 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald sleeping at bed 443,107,-1023 in Billy's sight, armed, health 20, hunger 20. Goodnight."}
+- 14:45 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Sleeping in my bed at 443,107,-1023, in Billy's sight."}
+- 14:46 act: {"actions":[{"do":"sleep"}]}
