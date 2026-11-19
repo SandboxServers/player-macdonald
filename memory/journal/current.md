@@ -119,3 +119,4 @@
 - 00:28 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"MacDonald, night 536, armed with the wooden sword in hand. Bedding at 401,107,-1037 in Billy's sight. No walk."}
 - 00:36 act: {"say":"MacDonald, dawn 537. Wooden sword in hand, health 20, hunger 20, no food. Holding at the row in Billy's sight. No walk named.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"w
 - 00:45 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
+- 00:45 say: {"text":"MacDonald here at the row, beside bed 401,107,-1036. Armed with wooden sword, health 20, hunger 20. Holding for Billy's call."}
