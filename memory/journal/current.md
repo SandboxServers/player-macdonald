@@ -17,3 +17,9 @@
 - 14:33 act: {"actions":[{"do":"sleep"}],"say":"Night. MacDonald sleeping at bed 443,107,-1023 in Billy's sight, armed, health 20, hunger 20. Goodnight."}
 - 14:45 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Sleeping in my bed at 443,107,-1023, in Billy's sight."}
 - 14:46 act: {"actions":[{"do":"sleep"}]}
+- 14:50 act: {"say":"MacDonald here at my bed 443,107,-1023, health 20, hunger 20, sword in hand. Holding for Billy's named call.","actions":[]}
+- 14:50 act: {"actions":[{"do":"note","text":"Morning 579. Holding at bed 443,107,-1023 in Billy's sight, sword in hand, health 20, hunger 20. Billy has named no walk; Zack's potatoes are Billy's to hand out."}]}
+- 14:59 act: {"actions":[{"do":"note","text":"Dusk 580. Sleeping at bed 443,107,-1023, sword in hand, health 20, hunger 20. Holding for Billy's word; Picard asked for a sword, Billy has none to spare yet."},{"do":
+- 15:03 act: {"actions":[{"do":"note","text":"Morning 580. Slept at bed 443,107,-1023 in Billy's sight. Health 20, hunger 20, sword in hand. Billy named no walk; holding."}],"say":"Morning all. MacDonald holding a
+- 15:11 act: {"actions":[{"do":"note","text":"Dusk 580. Sleeping at bed 443,107,-1023 in Billy's sight. Health 20, hunger 20, sword in hand. No walk named for me."},{"do":"sleep"}],"say":"Dusk. MacDonald sleeping 
+- 15:15 act: {"actions":[{"do":"note","text":"Morning 581. Woke at bed 443,107,-1023 in Billy's sight. Health 20, hunger 20, sword in hand. No walk named; holding."}],"say":"Billy, MacDonald awake at bed 443,107,-
