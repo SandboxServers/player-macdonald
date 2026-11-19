@@ -32,3 +32,4 @@
 - 03:37 act: {"actions":[],"say":"MacDonald, dawn 546. Wooden sword in hand, health 20, hunger 20, no food needed yet. Holding at the row in Billy's sight. No walk west; pillagers at 370-380. Billy, I will go on y
 - 03:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1021}},{"do":"sleep"}],"say":"MacDonald, dusk 546. Sleeping beside bed 415,107,-1022 in the row's sight. Armed with the wooden sword, health 20,
 - 03:50 act: {"say":"MacDonald, dawn 546. Health 20, hunger 20, wooden sword in hand. Holding at the row in your sight, Billy. No walk from me.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake
+- 03:54 act: {"actions":[{"do":"note","text":"Day 547 morning: still at the row, armed, health 20, hunger 20. No walk named. Holding for Billy."}]}
