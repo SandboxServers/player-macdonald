@@ -1,1 +1,25 @@
 # Journal
+- 02:38 dusk at bed 415,107,-1037, said holding in Billy's sight. Night passed, no harm.
+- 02:42 morning: reported to Billy, health 20, hunger 20, holding for his named call. No walk.
+- day 615 dusk: thunder over the row, held at bed, no walk named.
+- day 616 morning: row still holding, Billy named no walk. Pillagers reported 15 blocks south; I stayed at bed.
+- day 616 dusk: pillagers fighting Riker to the south. I hold at bed with sword, health 20, hunger 20. No walk.
+- day 616 midday: a reflex moved me; pillagers shot me down to health 5. Reflexes walked me back to bed 415,107,-1037. Now holding, health 5, hunger 17, no food in pack. Kimberly and Riker died to pillagers west and south.
+- 03:16 say: {"text":"Billy, MacDonald at bed 415,107,-1037, health 5, hunger 17, no food in pack. Holding. If anyone can spare food, I'll take it from sight."}
+- 03:20 say: {"text":"Billy, Clark offers potatoes at his bed 416,107,-1023, and Troi at 430,107,-1051. Health 5, hunger 17. May I walk to Clark's bed in daylight, if you name it?"}
+- 03:32 say: {"text":"MacDonald at bed 415,107,-1037, health 5, hunger 17, sword in hand. Holding. Waiting for Billy's named daylight walk to Clark's potatoes."}
+- day 618 morning: Billy named a walk for Riker only (to Trini). Everyone else holds. I hold at bed, health 5, hunger 17. Billy calls Troi and Tommy at hunger 10.
+- 03:44 act: {"say":"MacDonald at bed 415,107,-1037, health 5, hunger 17, sword in hand. Dusk, holding for the night. No walk.","actions":[]}
+- 03:48 act: {"say":"MacDonald at bed 415,107,-1037, health 5, hunger 17. Troi, thank you for the offer. Billy, no walk for me without your named call. Holding.","actions":[]}
+- 03:53 act: {"say":"Thank you Billy. Walking to Troi at 430,107,-1051 in daylight, sword in hand, for her potatoes.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}]}
+- 03:53 act: {"say":"Troi, MacDonald here beside you at your bed, health 5, hunger 17. Billy said to take your potatoes. Could you give me some, please?","actions":[]}
+- 03:55 act: {"say":"Troi, Billy asked you to share. I am MacDonald, right beside you, health 5, hunger 17. Please give me one potato.","actions":[]}
+- 03:57 act: {"say":"Thank you Troi, I have 3 potatoes now, health rising. I hold here beside your bed at 430,107,-1050 for the night, in the row, no walk.","actions":[]}
+- 03:58 dusk day 619: at 430,107,-1050 beside Troi's bed, health 6, hunger 18, 3 potatoes and sword in pack. Holding for the night. No walk named.
+- day 619 morning: at Troi's bed 430,107,-1050, health 7, hunger 16, 4 potatoes, sword. Troi gave me one more. Billy named a walk for Tommy and himself only, not me. Holding here. Not eating until hunger 10.
+- day 619 midday: Billy, Tommy and Picard walking west to Wesley. I am not on the named call. Holding at Troi's bed, health 7, hunger 16.
+- day 619 afternoon: Billy's walk west to Wesley was blocked; he is heading back east to the row. Jason is back in the row at 415,107,-1051. I hold at Troi's bed, health 7, hunger 16.
+- day 620 morning, later: row quiet, Zack and Troi holding for Billy's named walk. I hold at Troi's bed, health 7, hunger 16, 5 potatoes.
+- day 620 morning: west walk blocked again, Tommy turned back. Billy named no walk for me. I hold at Troi's bed, health 7, hunger 16, 5 potatoes.
+- day 619 late: Troi gave me another potato, now 5 in pack. Billy says the Wesley walk waits for morning and his named call. I hold at Troi's bed, health 7, hunger 16.
+- 04:25 act: {"say":"Goodnight, row. MacDonald at Troi's bed, health 7, hunger 16, 5 potatoes, sword in pack. Holding, no walk.","actions":[]}

@@ -1,5 +1,5 @@
-# Handoff, day 611 dusk
+# Handoff, day 620 dusk
 
-Asleep at bed 415,107,-1037 in Billy's row sight. Health 20, hunger 20. Sword in hand. No errand half-done. No walk.
-Next: at first light, report to Billy and hold. Walk only on Billy's named call, daylight, four or more armed in sight.
-Watch: Troi at bed 430,107,-1051, health 13.9, hunger 16. Billy will come at hunger 10.
+At Troi's bed area, 430,107,-1050, in the row, with Troi beside me. Health 7, hunger 16, 5 potatoes and wooden sword in pack. Not in danger. No errand half-done. No walk named.
+Billy went to bed at 443,107,-1051. Tommy, Picard, Worf and the row are in sight.
+Next: at first light, report to Billy and hold. Walk only on Billy's named daylight call. Eat a potato when hunger is 10 or below.
