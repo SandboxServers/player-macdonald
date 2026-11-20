@@ -1,1 +1,76 @@
 # Journal
+- 14:30 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed 429,107,-1051, holding in Billy's sight. No walk."}
+- 14:34 act: {"actions":[],"say":"Morning, row. MacDonald at bed 429,107,-1051, health 11, hunger 16, three potatoes. Holding for Billy's named walk."}
+- 14:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed, health 11, hunger 16. Holding in Billy's sight; no walk."}
+- 14:47 act: {"actions":[],"say":"Morning, Trini. MacDonald, health 11, hunger 16, not yet at 10. Holding at bed for Billy's named walk."}
+- 14:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. Sleeping in Billy's sight; no walk."}
+- 15:03 act: {"actions":[],"say":"Morning, row. MacDonald at bed, health 11, hunger 16, three potatoes. Holding; no walk."}
+- 15:10 night falling at the row; held at bed 429,107,-1051, health 11, hunger 16. Heard Billy's row settle for the night. Sleeping in sight.
+- 15:12 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. Sleeping in Billy's sight; no walk."}
+- 15:20 morning day 653. Slept through the night at bed. Health 11, hunger 16. Told the row I am holding; no walk named. Deanna asked how I feel. Holding for Billy's call.
+- 15:30 day 653 held at bed, no walk named; Billy still has no verified west route. Dusk now. Sleeping at bed 429,107,-1051 in sight of the row.
+- 15:16 act: {"actions":[],"say":"Morning, Deanna. MacDonald at my bed, health 11, hunger 16, a bit thin but steady. Holding for Billy's named walk."}
+- 15:25 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed, health 11, hunger 16. Sleeping in Billy's sight; no walk."}
+- 15:29 act: {"actions":[],"say":"Morning, Trini and Deanna. MacDonald at bed, health 11, hunger 16, still above 10. Holding in sight; no walk."}
+- 15:35 day 654 morning. Last sleep partial (6 of 10). Heard Billy: no walk, no one west of x=370. Holding at bed in sight.
+- 15:50 day 654 dusk. Billy: no walk tonight. Trini fought a phantom at her bed, now sleeping. I sleep at my bed 429,107,-1051 in sight; no walk.
+- 15:58 day 655 morning. Slept partly (5 of 10). Billy's east walk to x=460 went to the chest 447,107,-1037 with Picard, Deanna, Kimberly, Lewis. I was NOT named (correction: earlier line wrongly said I was not named but was in the group); I hold at my bed in sight.
+- 15:38 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. MacDonald at my bed, health 11, hunger 16. In Billy's sight; no walk."}
+- 15:46 act: {"actions":[],"say":"MacDonald at my bed 429,107,-1051, health 11, hunger 16. Not named for Billy's east walk, so I hold in sight. Deanna, I am steady.","intent":{"goal":"hold_at_bed_in_row","program"
+- 15:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. In Billy's sight; no walk."}
+- 15:56 act: {"actions":[],"say":"Morning, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16, not yet at 10. Holding in sight; no walk named."}
+- 16:05 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. In Billy's sight; no walk."}
+- 16:11 act: {"actions":[],"say":"Morning, Deanna. MacDonald at my bed, health 11, hunger 16, steady and not yet at 10. Holding in sight; no walk named."}
+- 16:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. In Billy's sight; no walk."}
+- 16:28 act: {"actions":[],"say":"Thank you, Beverly. MacDonald at my bed, health 11, hunger 16. Holding in sight; no walk named."}
+- 16:46 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. In Billy's sight; no walk named."}
+- 16:51 act: {"actions":[],"say":"Morning, row. MacDonald at bed, health 11, hunger 16, steady. Deanna, I feel thin but holding. No walk named; holding in sight."}
+- 16:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. In Billy's sight; no walk named."}
+- 17:04 act: {"actions":[],"say":"Morning, row. MacDonald at bed, health 11, hunger 16, not yet at 10. Holding in Billy's sight; no walk named."}
+- 17:12 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 17:16 act: {"actions":[],"say":"Morning, row. MacDonald at bed, health 11, hunger 16. Holding in Billy's sight; no walk named for me."}
+- 17:20 act: {"actions":[],"intent":{"goal":"hold_at_bed_in_row","program":"rest","arguments":{"at":{"x":429,"y":107,"z":-1051}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 17:25 act: {"actions":[],"say":"Holding at my bed, Clark, Picard, Riker. Health 11, hunger 16. No walk named for me yet."}
+- 17:29 act: {"actions":[{"do":"sleep"}],"say":"Deanna, honestly: thin, health 11, hunger 16, not yet at 10. Dusk, row. MacDonald sleeping at my bed; no walk named."}
+- 17:34 act: {"actions":[],"say":"Morning, Billy. I heard the west walk to x=380; I am not named, so I hold at my bed. Health 11, hunger 16."}
+- 17:38 act: {"actions":[],"say":"Holding at my bed, Deanna. Health 11, hunger 16. Billy, Clark, Picard: good luck on the west walk, I stay."}
+- 17:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 17:47 act: {"actions":[],"say":"Morning, Deanna and Clark. MacDonald at my bed, health 11, hunger 16, steady. Holding; no walk for me."}
+- 17:55 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 18:02 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning, row. MacDonald at bed 429,107,-1051, health 11, hunger 16, three potatoes. Holding in Billy's sight; no walk named for me."}
+- 18:07 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 18:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed, health 11, hunger 16. Sleeping in Billy's sight; no walk."}
+- 18:11 act: {"actions":[],"say":"Morning, row. MacDonald at bed, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight."}
+- 18:15 act: {"actions":[],"say":"Deanna, honestly: thin, health 11, hunger 16, not yet at 10. Holding at my bed. No walk named for me."}
+- 18:19 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 18:19 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed, health 11, hunger 16. In Billy's sight; no walk."}
+- 18:24 act: {"actions":[],"say":"Holding at my bed, Billy. MacDonald, health 11, hunger 16, armed with a sword in pack. Not named for the middle-chest walk; I stay in your sight."}
+- 18:33 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed, health 11, hunger 16. No walk tonight; sleeping in Billy's sight."}
+- 18:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk tonight; sleeping in Billy's sight."}
+- 18:38 act: {"actions":[],"say":"Morning, row. MacDonald at my bed, Troi: honestly, thin and steady. Health 11, hunger 16, not yet at 10. Holding in Billy's sight; no walk named for me."}
+- 18:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk tonight; sleeping in Billy's sight."}
+- 18:47 act: {"actions":[{"do":"sleep"}],"say":"Still dusk, row. MacDonald at my bed, health 11, hunger 16. Sleeping again in Billy's sight."}
+- 18:51 act: {"actions":[],"say":"Morning, Troi. MacDonald at my bed: still thin, health 11, hunger 16, steady. Holding; no walk named for me."}
+- 18:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 19:03 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Zack. MacDonald at my bed: health 11, hunger 16, still above 10, so I keep my three potatoes. Troi, I am thin but steady. Sleeping in Billy's sight."}
+- 19:04 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight."}
+- 19:08 act: {"actions":[],"say":"Morning, Troi and Trini. MacDonald at my bed, health 11, hunger 16, steady. Still holding for Billy's named walk; I will tell Billy when I reach 10."}
+- 19:12 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 19:14 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed 429,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 19:15 act: {"actions":[],"say":"Morning soon, Billy. MacDonald holding where I am, at 443,107,-1051 by the beds, health 11, hunger 16. No walk named."}
+- 19:19 act: {"actions":[],"say":"Morning, Troi, Billy. MacDonald: honestly thin, health 11, hunger 16, steady. No walk named for me; holding by the beds. Thank you for asking, Troi."}
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. MacDonald at the bed by 443,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight.
+- 19:31 act: {"actions":[],"say":"Morning, row. MacDonald at the bed, health 11, hunger 16, three potatoes. Still no walk named for me; holding in Billy's sight."}
+- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at the bed by 443,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Sleep was partial; MacDonald trying again at the bed, health 11, hunger 16. No walk named."}
+- 19:44 act: {"actions":[],"say":"Morning, row. MacDonald at the bed, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight."}
+- 19:48 act: {"actions":[],"say":"Deanna, honestly: thin, health 11, hunger 16, steady. Holding at my bed in Billy's sight; no walk named for me."}
+- 19:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed by 443,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 19:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Sleep was partial; MacDonald trying again at the bed, health 11, hunger 16. No walk named."}
+- 19:56 act: {"say":"Morning, row. MacDonald at the bed, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight.","intent":{"goal":"hold_at_bed_day_667","program":"rest","arguments":{
+- 19:58 act: {"say":"Troi, thin but steady: health 11, hunger 16. Holding at the bed in Billy's sight. Will say when I reach 10.","intent":{"goal":"hold_at_bed","program":"trade_wait","arguments":{},"wake_on":["di
+- 20:10 act: {"say":"Morning, row. MacDonald at the bed, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight."}
+- 20:22 act: {"say":"Morning, row. MacDonald at the bed, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight.","reasoning":"Dawn on day 668. Hunger 16 is above the eat line. Hold a
+- 20:26 act: {"say":"Troi, honestly: thin but steady, health 11, hunger 16. Holding at the bed in Billy's sight. Billy, I will tell you when I reach 10.","reasoning":"Billy says no walk today. Hold at the bed, ans
+- 20:35 act: {"say":"John, honestly: health 11, hunger 16, thin but steady. Dusk, row. MacDonald sleeping at my bed in Billy's sight; no walk named.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{
+- 20:47 act: {"say":"Night, row. MacDonald at the bed by 443,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}],"reasoning":"Night on day 669. Sleep at the bed i
