@@ -30,3 +30,14 @@
 - 04:38 say: {"text":"Morning, Troi. Holding in the row. No walk named yet."}
 - day 621 morning: at Troi's bed 430,107,-1050, health 7, hunger 16, 5 potatoes, sword in pack. Said morning to Troi. Billy not in sight; holding for his named call. No walk.
 - 04:42 say: {"text":"Thank you, Troi. Health 7, hunger 16. I eat at 10 or below, as planned. Holding, no walk."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"MacDonald here, going to bed at 429,107,-1051 in the row, no walk."}
+- 04:51 act: {"actions":[{"do":"note","text":"Slept in bed 429,107,-1051; night skipped. Health 7, hunger 16, 5 potatoes, sword in pack. Holding in row, no walk."}],"say":"Morning, row. MacDonald woke at bed 429,1
+- 04:51 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 04:55 act: {"actions":[{"do":"note","text":"Day 622 morning at Troi's bed 430,107,-1051. Health 7, hunger 16, 5 potatoes. Holding for Billy's named call. No walk."}],"say":"Morning row. MacDonald at Troi's bed, 
+- 05:04 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"},{"do":"note","text":"Dusk day 622: slept in bed 429,107,-1051 in the row's sight. Health 7, hunger 16, 5 potatoes, sword i
+- 05:08 act: {"actions":[{"do":"note","text":"Day 623 morning: woke in bed 429,107,-1051, health 7, hunger 16, 5 potatoes. Holding for Billy's named walk. No walk for me."}],"say":"Morning, Billy. MacDonald awake 
+- 05:12 act: {"actions":[{"do":"note","text":"Day 623 morning: Zack offered two potatoes (not yet in pack; still 5). Hunger 16, eat only at 10 or below. Holding, no walk."}],"say":"Thank you, Zack. I am at health 
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"},{"do":"note","text":"Dusk day 623: in bed 429,107,-1051 in the row's sight. Health 7, hunger 16, 5 potatoes. Zack holds tw
+- 05:17 act: {"actions":[{"do":"note","text":"Night day 623, in bed 429,107,-1051 beside Troi. Sleep worked, 5 of 10 asleep. Health 7, hunger 16, 5 potatoes. Holding, no walk."}],"intent":{"goal":"hold_at_row","pr
+- 05:19 act: {"actions":[{"do":"note","text":"Day 624 morning at bed 429,107,-1051 beside Troi. Health 7, hunger 16, 5 potatoes, sword in pack. Holding for Billy's named call. No walk."}],"say":"Morning, row. MacD
+- 05:21 act: {"actions":[{"do":"note","text":"Morning hold continues at bed 429,107,-1051. Health 7, hunger 16. Billy named no walk. Still holding."}],"intent":{"goal":"hold_at_row","program":"rest","arguments":{}
