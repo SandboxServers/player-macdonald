@@ -1,1 +1,13 @@
 # Journal
+- Day 637 morning: woke at bed 429,107,-1051 in Billy's row. Reported to the row and set a hold intent. Health 7, hunger 16, six potatoes. No walk named.
+- Hold intent failed (rest program would not hold). Billy's call: no walk. Holding by timed waits at the bed instead.
+- Dusk: tried sleep at the bed; no sleep event came back. Wrote handoff. Still holding.
+- Day 638 morning: slept through the night at the bed. Reported to the row, holding. Health 7, hunger 16, no walk.
+- Day 638 dusk: Billy said stay near Zack, hold until he has a verified west route. Went to sleep at the bed in the row's sight.
+- 10:03 act: {"say":"Morning, row. MacDonald at bed 429,107,-1051, sword in hand, health 7, hunger 16. Holding in Billy's sight. No walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":[
+- 10:17 act: {"say":"Morning, row. MacDonald at bed 429,107,-1051, slept, health 7, hunger 16, sword in hand. Holding in Billy's sight. No walk.","actions":[]}
+- 10:31 say: {"text":"Morning, row. MacDonald at bed 429,107,-1051, health 7, hunger 16, sword in hand. Holding in Billy's sight. No walk."}
+- Day 639 morning: reported to the row again. Billy: no walk, hold in the row. Still holding at the bed.
+- 10:44 act: {"say":"Morning, row. MacDonald at bed 429,107,-1051, health 7, hunger 16, sword in hand, six potatoes. Holding in Billy's sight. No walk."}
+- 10:53 act: {"say":"Dusk, row. MacDonald at bed 429,107,-1051, health 7, hunger 16, sword in hand. Staying put. No walks until Billy's morning call. Going to bed in Billy's sight."}
+- 10:58 act: {"say":"Morning, row. MacDonald awake at bed 429,107,-1051, health 7, hunger 16, six potatoes, sword in hand. Holding in Billy's sight. No walk."}
