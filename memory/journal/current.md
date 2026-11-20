@@ -61,3 +61,15 @@
 - 08:15 act: {"say":"Morning, row. MacDonald awake at my bed 429,107,-1051, health 7, hunger 16, 6 potatoes. Holding in Billy's sight. No walk for me until Billy names one."}
 - 08:23 act: {"actions":[{"do":"sleep"}]}
 - 08:25 act: {"say":"MacDonald at bed 430,107,-1051, health 7, hunger 16, sword in hand. No walk named; holding for Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{"seconds":240},"wake_on":["d
+- 08:31 act: {"say":"Holding at my bed, MacDonald here. No walk named for me, Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","preconditio
+- day 632 daytime: at bed 429,107,-1051 in the row, health 7, hunger 16, 6 potatoes, sword in pack. Riker holds for Billy. No walk named for me. Holding with rest intent.
+- day 633 morning: Billy named a west look only for Picard and Trini (to 413,107,-1050, limit x=370). I hold at my bed, health 7, hunger 16, 6 potatoes. Eat at hunger 10.
+- 08:33 act: {"say":"Billy, MacDonald here. I have not walked west since the pillagers; my last walk was only within the row, to Troi's bed. Holding at bed 429,107,-1051 with my wooden sword, health 7, hunger 16."
+- 08:39 act: {"say":"Thank you, Billy. Holding at my bed, health 7, hunger 16. I will call out at hunger 10.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
+- 08:41 act: {"say":"Morning, row. MacDonald at bed 429,107,-1051, health 7, hunger 16, sword in pack. Billy's walk is for Picard and Trini only; I hold at the beds.","intent":{"goal":"hold_at_row","program":"rest
+- 08:41 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 08:43 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 08:45 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. MacDonald going to bed at 429,107,-1051 in Billy's sight, health 7, hunger 16, 6 potatoes. No walk."}
+- 08:47 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Night, bed adjacent, no threats in sight. Go to the bed in Billy's row and sleep."}
