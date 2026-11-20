@@ -1,6 +1,6 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1065. I sleep at bed 429,107,-1051 (or beside it) in the row's sight, sword in hand. Day 637: slept at dusk. Health 7, hunger 16, six potatoes.
+I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1065. I sleep at bed 429,107,-1051 (or beside it) in the row's sight, sword in hand. Day 642: held all day at bed, slept at dusk. Health 7, hunger 16, six potatoes.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
@@ -10,7 +10,7 @@ Rules I keep:
 
 Learned:
 - Beds take sleep only at night.
-- Holding with timed waits is the way to hold through the day.
+- Holding with wait(cursor) and journal lines is the way to hold through the day.
 - Billy names one walk at a time; a walk named for someone else is not mine.
 
 Open:
