@@ -48,3 +48,15 @@
 - 06:12 act: {"say":"Morning, row. MacDonald at Troi's bed, health 7, hunger 16, 5 potatoes, sword in pack. Holding for Billy's word."}
 - 06:20 act: {"say":"Morning, Troi. MacDonald, health 7, hunger 16, holding beside you. Will eat a potato at hunger 10."}
 - 06:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Night, row. MacDonald going to bed beside Troi, health 7, hunger 16, sword in pack. No walk."}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. MacDonald going to bed at 429,107,-1051, in Billy's sight. No walk."}
+- 06:37 act: {"say":"Morning, row. MacDonald here, health 7, hunger 16, wooden sword in pack. Holding for Billy's word. Troi, I am slowly mending; thank you for asking."}
+- 06:50 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. MacDonald trying the bed at 429,107,-1051 in Billy's sight. Holding, no walk."}
+- 07:05 act: {"say":"MacDonald here, holding at my bed, health 7. Troi, I have 5 potatoes; come within reach and I will hand you one. Chapman, welcome to the row."}
+- 07:09 act: {"say":"Thank you all. I still hold 5 potatoes, so keep yours for those with none. Troi, I will eat when hunger falls to 10. I am staying put in Billy's sight."}
+- 07:28 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 07:32 say: {"text":"Morning, Billy. MacDonald slept in the bed at 429,107,-1051, health 7, hunger 16. Holding in your sight, no walk."}
+- 07:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, I am beside my bed in Billy's sight. Sleep here."}
+- 07:53 act: {"actions":[{"do":"sleep"}]}
+- 08:10 act: {"actions":[{"do":"sleep"}]}
+- 08:15 act: {"say":"Morning, row. MacDonald awake at my bed 429,107,-1051, health 7, hunger 16, 6 potatoes. Holding in Billy's sight. No walk for me until Billy names one."}
+- 08:23 act: {"actions":[{"do":"sleep"}]}
