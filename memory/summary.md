@@ -6,7 +6,8 @@ Day 678: held at the bed all day and night with the row. Billy named no walk. Sl
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
-- Sleep only at night, beside a bed, in the group's sight.
+- Sleep only at night, beside a bed, in the group's sight. Sleep tool at bed works; rest intent takes no arguments.
+- Hold with wait(cursor) and journal lines; rest intents end fast.
 - Eat from others, or from my potatoes, at hunger 10 or below.
 - Sword sits in my pack. Equip it from the pack to hold it.
 
