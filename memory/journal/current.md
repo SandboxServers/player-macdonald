@@ -16,3 +16,5 @@
 - 02:29 act: {"actions":[{"do":"wait","seconds":240}]}
 - Day 614: hold_at_row ended at once (rest intent done). Billy holding, no walk named; Lewis, Wesley, Trini, Data, Deanna all holding. Re-holding by timed wait at bed 415,107,-1037. Health 20, hunger 20.
 - 02:33 act: {"actions":[{"do":"wait","seconds":240}]}
+- 02:37 act: {"say":"Morning. MacDonald at my bed, health 20, hunger 20, sword in hand. Holding, no walk until Billy calls.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addr
+- 02:37 act: {"actions":[{"do":"note","text":"Day 615 morning: holding at bed 415,107,-1037 in Billy's row sight. Health 20, hunger 20, sword in hand. Kimberly adjacent, no threat. No walk named."}]}
