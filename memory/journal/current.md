@@ -1,8 +1,3 @@
 # Journal
-- 23:11 act: {"say":"Morning, row. MacDonald at my bed 415,107,-1037, health 20, hunger 20, sword in hand. Holding in Billy's sight, no walk.","reasoning":"Dawn. Report to Billy and hold; no walk without his call.
-- 00:36 act: {"say":"Morning. MacDonald at bed 416,107,-1037, sword in hand, health 20, hunger 20. Holding at the row for Billy's call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["d
-- 00:41 act: {"say":"Morning. MacDonald at bed 415,107,-1037, sword in hand, health 20, hunger 20. Holding in the row. No walk named.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["dir
-- 00:46 act: {"say":"MacDonald at bed 415,107,-1037, health 20, hunger 20, sword in hand. Holding at the row. No walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed
-- 00:47 act: {"actions":[{"do":"wait","seconds":120}]}
-- 00:49 act: {"actions":[{"do":"wait","seconds":240}]}
-- 00:53 act: {"say":"Dusk. MacDonald at bed 415,107,-1037, health 20, hunger 20, sword in hand. Going to sleep here in the row's sight. No walk.","actions":[{"do":"sleep"}]}
+- 00:53 act: Dusk. Slept at bed 415,107,-1037 in the row's sight. Health 20, hunger 20, sword in hand.
+- 00:57 say: Morning, day 610. Holding at my bed. No route known to me to offer Billy; no walk until he names it.
