@@ -78,3 +78,6 @@
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 443,107,-1050, in Billy's sight. No walk named; sleeping."}
 - 20:59 act: {"actions":[{"do":"sleep"}]}
 - 21:04 act: {"say":"Good morning, row. MacDonald at bed 443,107,-1064, health 11, hunger 16, three potatoes, sword in pack. Holding for Billy's named call.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}}],"say":"Night, row. MacDonald at my bed, health 11, hunger 16. Holding in Billy's sight."}
+- 21:16 act: {"actions":[],"say":"Morning, row. MacDonald at my bed, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight."}
+- 21:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
