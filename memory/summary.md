@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1065. I sleep at bed 429,107,-1051 in the row's sight.
 
-Day 649: held at the bed all day. Ate one potato at Billy's word. Health 9, hunger 16, three potatoes, wooden sword in pack. Slept at dusk in the group's sight.
+Day 650: held at the bed all day and night. Reported health 11, hunger 16, three potatoes to Billy at dawn. Worf asked for a potato; I kept mine for when hunger reaches 10. Slept at dusk in the group's sight.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
