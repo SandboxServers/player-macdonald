@@ -84,3 +84,6 @@
 - 09:16 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
 - 09:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Night, row. MacDonald going to bed at 429,107,-1050 in Billy's sight. No walk."}
 - 09:18 act: {"actions":[{"do":"sleep"}]}
+- 09:20 say: {"text":"Morning, row. MacDonald at bed 429,107,-1050, health 7, hunger 16. Holding, sword in hand. No walk."}
+- 09:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. MacDonald going to bed at 429,107,-1051 in Billy's sight. Health 7, hunger 16. No walk."}
+- 09:46 act: {"actions":[{"do":"sleep"}]}
