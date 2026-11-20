@@ -11,3 +11,8 @@
 - 02:08 act: {"actions":[{"do":"wait","seconds":240}]}
 - 02:12 act: {"actions":[{"do":"sleep"}],"say":"Night 613. MacDonald at my bed 415,107,-1037 in Billy's sight, sword in hand, health 20, hunger 20. No walk. Sleeping here."}
 - 02:16 act: {"say":"Morning, Billy. MacDonald at bed 415,107,-1037, slept, health 20, hunger 20, sword in hand. Holding in sight; no walk from me until you name one.","actions":[{"do":"wait","seconds":240}]}
+- 02:29 act: {"say":"Good morning, row. MacDonald here, health 20, hunger 20, sword in hand, holding at my bed in Billy's sight. Waiting for a named call.","intent":{"goal":"hold_at_row","program":"rest","argument
+- Day 614 morning: reported to row, set hold_at_row intent (rest). Health 20, hunger 20, sword in hand, at bed 415,107,-1037. Kimberly adjacent, no threat. No walk named.
+- 02:29 act: {"actions":[{"do":"wait","seconds":240}]}
+- Day 614: hold_at_row ended at once (rest intent done). Billy holding, no walk named; Lewis, Wesley, Trini, Data, Deanna all holding. Re-holding by timed wait at bed 415,107,-1037. Health 20, hunger 20.
+- 02:33 act: {"actions":[{"do":"wait","seconds":240}]}
