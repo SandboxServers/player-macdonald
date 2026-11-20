@@ -77,3 +77,4 @@
 - 20:51 act: {"actions":[{"do":"note","text":"Day 670 dawn: at bed 443,107,-1050. Health 11, hunger 16, three potatoes. No walk named; holding in Billy's sight."}],"say":"Morning, row. MacDonald at the bed, health
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 443,107,-1050, in Billy's sight. No walk named; sleeping."}
 - 20:59 act: {"actions":[{"do":"sleep"}]}
+- 21:04 act: {"say":"Good morning, row. MacDonald at bed 443,107,-1064, health 11, hunger 16, three potatoes, sword in pack. Holding for Billy's named call.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-
