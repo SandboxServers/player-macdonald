@@ -73,3 +73,14 @@
 - 08:47 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. MacDonald going to bed at 429,107,-1051 in Billy's sight, health 7, hunger 16, 6 potatoes. No walk."}
 - 08:47 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
 - 08:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Night, bed adjacent, no threats in sight. Go to the bed in Billy's row and sleep."}
+- 08:55 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 08:57 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 09:00 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. MacDonald going to bed at 429,107,-1050 in Billy's sight. Health 7, hunger 16, 6 potatoes. No walk."}
+- 09:06 act: {"say":"Morning, Billy. MacDonald at bed 429,107,-1050, health 7, hunger 16, 6 potatoes. Holding in your sight. I will call at hunger 10.","intent":{"goal":"hold_at_row","program":"rest","arguments":{
+- 09:08 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 09:11 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 09:13 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 09:16 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Night, row. MacDonald going to bed at 429,107,-1050 in Billy's sight. No walk."}
+- 09:18 act: {"actions":[{"do":"sleep"}]}
