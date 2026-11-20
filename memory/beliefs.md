@@ -41,4 +41,5 @@
 - Day 599: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk at bed 443,107,-1023 worked.
 - Day 600: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk at bed 443,107,-1023 worked again.
 - Day 642: holding at bed with wait(cursor) and a journal line all day worked; sleep at dusk beside bed 429,107,-1051 worked.
+- Day 649: holding at bed with wait(cursor) and journal lines worked; Billy's word "eat a potato now" at health 9 was followed. Sleep at dusk at bed 429,107,-1051 worked.
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.
