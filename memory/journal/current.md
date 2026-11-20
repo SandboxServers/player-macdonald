@@ -23,3 +23,5 @@
 - day 620 morning: west walk blocked again, Tommy turned back. Billy named no walk for me. I hold at Troi's bed, health 7, hunger 16, 5 potatoes.
 - day 619 late: Troi gave me another potato, now 5 in pack. Billy says the Wesley walk waits for morning and his named call. I hold at Troi's bed, health 7, hunger 16.
 - 04:25 act: {"say":"Goodnight, row. MacDonald at Troi's bed, health 7, hunger 16, 5 potatoes, sword in pack. Holding, no walk.","actions":[]}
+- 04:26 act: {"say":"Morning, Picard. Holding here with my sword, waiting for Billy's word. Thank you for the thought.","intent":{"goal":"hold_at_row","program":"rest","arguments":{"seconds":240},"wake_on":["direc
+- 04:26 act: {"actions":[{"do":"wait","seconds":120}]}
