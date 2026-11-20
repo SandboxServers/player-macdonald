@@ -25,3 +25,4 @@
 - 04:25 act: {"say":"Goodnight, row. MacDonald at Troi's bed, health 7, hunger 16, 5 potatoes, sword in pack. Holding, no walk.","actions":[]}
 - 04:26 act: {"say":"Morning, Picard. Holding here with my sword, waiting for Billy's word. Thank you for the thought.","intent":{"goal":"hold_at_row","program":"rest","arguments":{"seconds":240},"wake_on":["direc
 - 04:26 act: {"actions":[{"do":"wait","seconds":120}]}
+- 04:37 act: {"actions":[{"do":"note","text":"Night at bed row. Health 7, hunger 16. Holding with Troi, sword to pack. Sleeping now."}],"say":"Goodnight, row. MacDonald in bed beside Troi, holding. No walk."}
