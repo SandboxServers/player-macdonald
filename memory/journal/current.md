@@ -81,3 +81,5 @@
 - 21:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}}],"say":"Night, row. MacDonald at my bed, health 11, hunger 16. Holding in Billy's sight."}
 - 21:16 act: {"actions":[],"say":"Morning, row. MacDonald at my bed, health 11, hunger 16, three potatoes. No walk named for me; holding in Billy's sight."}
 - 21:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
+- 21:26 act: {"actions":[{"do":"note","text":"Morning day 671. Health 11, hunger 16, three potatoes. Holding at bed in Billy's row."}],"say":"Good morning, Billy. MacDonald here: health 11, hunger 16, three potato
+- 21:38 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed, health 11, hunger 16. No walk named; sleeping in Billy's sight."}
