@@ -1,4 +1,13 @@
 # Journal
-- 01:46 act: {"actions":[{"do":"sleep"}],"say":"Night 612. I am at my bed in Billy's sight, sword in hand. Holding till first light."}
-- 01:46 act: {"actions":[{"do":"wait","seconds":60}],"say":"Morning. MacDonald at bed 415,107,-1037, holding in Billy's sight, sword in hand. No walk."}
-- 01:47 act: {"actions":[{"do":"wait","seconds":240}]}
+- 01:46 act: sleep at bed in Billy's sight. Night 612.
+- 01:46 act: wait 60s, morning. Holding, sword in hand. No walk.
+- 01:51 act: said morning report to Billy; holding intent (rest) set until Billy calls or hunger/damage wakes me. Billy's group holding, no walk named. Kimberly (sign: shot, day 466) is adjacent, not a threat so far.
+- 01:52 act: {"actions":[{"do":"wait","seconds":240}]}
+- 01:56 act: {"actions":[{"do":"wait","seconds":240}]}
+- 02:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk 613. MacDonald at my bed 415,107,-1037 in Billy's sight, sword in hand, health 20, hunger 20. No walk. Sleeping here."}
+- 02:00 sleep refused: "it is not night" (still day 613). Holding by timed wait at bed in Billy's sight. Billy's speech said dusk, but the world says day; sleep only when the world says night.
+- 02:04 act: {"actions":[{"do":"wait","seconds":240}]}
+- Night 613: sleep at my bed 415,107,-1037 in Billy's sight worked (3 of 10 asleep). Billy named no walk. Health 20, hunger 20, sword in hand.
+- 02:08 act: {"actions":[{"do":"wait","seconds":240}]}
+- 02:12 act: {"actions":[{"do":"sleep"}],"say":"Night 613. MacDonald at my bed 415,107,-1037 in Billy's sight, sword in hand, health 20, hunger 20. No walk. Sleeping here."}
+- 02:16 act: {"say":"Morning, Billy. MacDonald at bed 415,107,-1037, slept, health 20, hunger 20, sword in hand. Holding in sight; no walk from me until you name one.","actions":[{"do":"wait","seconds":240}]}
