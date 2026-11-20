@@ -1,6 +1,6 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1055. I sleep at a bed in the row's sight, sword in hand. Day 604 dusk: slept at bed 415,107,-1037, health 20, hunger 20.
+I am MacDonald. I live in Billy's row, around the beds at 387 to 443, z -1017 to -1065. I sleep at bed 415,107,-1037 in the row's sight, sword in hand. Day 611 dusk: slept, health 20, hunger 20.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
@@ -11,12 +11,11 @@ Rules I keep:
 Learned:
 - Beds take sleep only at night. In daylight a bed refuses.
 - Holding with timed waits is the way to hold through the day.
-- The spare sword reached Laforge; Billy has been told.
-- The rest intent takes no seconds argument; use wait instead.
+- An intent with max_block_operations 0 is rejected; use wait to hold.
+- Billy names one walk at a time; a walk named for someone else is not mine.
 
 Open:
 - Path west from the row is blocked by oak planks. No verified route past x=370, so no walk.
-- Troi at hunger 16, health 14. Billy will come at hunger 10.
-- Billy heard a bow to the southwest; stay close to the beds.
+- Billy has no verified route yet; no walk until he names one.
 
 Next: at first light, report to Billy and hold.
