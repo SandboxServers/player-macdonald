@@ -27,3 +27,6 @@
 - 04:26 act: {"actions":[{"do":"wait","seconds":120}]}
 - 04:37 act: {"actions":[{"do":"note","text":"Night at bed row. Health 7, hunger 16. Holding with Troi, sword to pack. Sleeping now."}],"say":"Goodnight, row. MacDonald in bed beside Troi, holding. No walk."}
 - 04:37 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do":"note","text":"Night, row. Health 7, hunger 16. Holding by my bed with Troi beside me. No walk."}],"say":"Dusk, row. Going to my bed at 
+- 04:38 say: {"text":"Morning, Troi. Holding in the row. No walk named yet."}
+- day 621 morning: at Troi's bed 430,107,-1050, health 7, hunger 16, 5 potatoes, sword in pack. Said morning to Troi. Billy not in sight; holding for his named call. No walk.
+- 04:42 say: {"text":"Thank you, Troi. Health 7, hunger 16. I eat at 10 or below, as planned. Holding, no walk."}
