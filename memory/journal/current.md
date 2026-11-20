@@ -74,3 +74,6 @@
 - 20:26 act: {"say":"Troi, honestly: thin but steady, health 11, hunger 16. Holding at the bed in Billy's sight. Billy, I will tell you when I reach 10.","reasoning":"Billy says no walk today. Hold at the bed, ans
 - 20:35 act: {"say":"John, honestly: health 11, hunger 16, thin but steady. Dusk, row. MacDonald sleeping at my bed in Billy's sight; no walk named.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{
 - 20:47 act: {"say":"Night, row. MacDonald at the bed by 443,107,-1051, health 11, hunger 16. No walk named; sleeping in Billy's sight.","actions":[{"do":"sleep"}],"reasoning":"Night on day 669. Sleep at the bed i
+- 20:51 act: {"actions":[{"do":"note","text":"Day 670 dawn: at bed 443,107,-1050. Health 11, hunger 16, three potatoes. No walk named; holding in Billy's sight."}],"say":"Morning, row. MacDonald at the bed, health
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. MacDonald at my bed 443,107,-1050, in Billy's sight. No walk named; sleeping."}
+- 20:59 act: {"actions":[{"do":"sleep"}]}
