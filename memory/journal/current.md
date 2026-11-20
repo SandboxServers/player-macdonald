@@ -60,3 +60,4 @@
 - 08:10 act: {"actions":[{"do":"sleep"}]}
 - 08:15 act: {"say":"Morning, row. MacDonald awake at my bed 429,107,-1051, health 7, hunger 16, 6 potatoes. Holding in Billy's sight. No walk for me until Billy names one."}
 - 08:23 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"say":"MacDonald at bed 430,107,-1051, health 7, hunger 16, sword in hand. No walk named; holding for Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{"seconds":240},"wake_on":["d
