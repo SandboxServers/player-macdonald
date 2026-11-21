@@ -54,3 +54,7 @@
 - 21:31 say: {"text":"Thank you, Zack. I will keep the potato and eat it at hunger 10, as I agreed with Billy. Good morning, row."}
 - 21:38 say: {"text":"Zack, MacDonald here at 421,107,-1040, in your sight. No potato has reached my pack yet. Hunger 16, holding."}
 - 21:42 say: {"text":"Night, row. MacDonald at 421,107,-1040, in the row's sight. Health 15, hunger 16, no potato yet. Sleeping here; Zack, the potato can wait until hunger 10."}
+- 21:42 say: {"text":"Night, row. MacDonald here beside the bed at 429,107,-1037, with Billy in reach. Health 15, hunger 16. Holding."}
+- 21:42 act: {"actions":[{"do":"sleep"}]}
+- 21:47 say: {"text":"Good morning, Billy. MacDonald here beside bed 429,107,-1035: health 15, hunger 16, no potatoes, sword in pack. No verified route west from me. Holding, no walk. I will call at hunger 10."}
+- Day 744 morning: slept the night beside bed 429,107,-1037. Reported to Billy: health 15, hunger 16, no food, sword in pack. Holding, no walk. Billy asks for any verified west route; I have none.
