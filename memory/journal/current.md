@@ -1,2 +1,50 @@
 # Journal
 - 16:27 Dawn day 728. Reported to Billy: health 15, hunger 16, no potatoes, sword in pack. Holding at the row beside Billy; Lewis owes me a potato near hunger 10.
+- Dusk day 728: stayed at row beside bed 429,107,-1037, Billy in reach. Told Zack I will not walk without Billy. Sleeping now.
+- 16:37 act: {"say":"MacDonald here at 430,107,-1037, health 15, hunger 16, sword in pack. Holding beside the bed in Billy's sight. Zack, thank you for the offer; I will not walk without Billy's word.","actions":[
+- Day 729 morning: Billy says hold, no walk; potato from Zack if I reach hunger 10. Holding at row, hunger 16.
+- 16:41 act: {"say":"Good morning, Billy. MacDonald here at the row, health 15, hunger 16, no potatoes, sword in pack. Holding. No walk from me without your word.","actions":[]}
+- 16:45 act: {"say":"Thank you, Zack. I am at hunger 16, so I will hold for now and ask you when I reach 10. Billy, I hold here.","actions":[]}
+- 16:50 act: {"say":"Dusk, row. MacDonald sleeping beside bed 429,107,-1037 in Billy's sight. Hunger 16, health 15.","actions":[{"do":"sleep"}]}
+- 16:54 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no route west seen by me. Holding at my bed, sword in pack.","actions":[]}
+- Day 729 dusk sleep failed (not night). Morning day 730: reported to Billy, hunger 16, holding at bed 429,107,-1037.
+- Day 730 morning: Billy: no walk; Zack holds 3 potatoes for me at hunger 10. Still hunger 16.
+- 17:06 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, not yet at 10. Holding at my bed in your sight, no walk from me.","actions":[]}
+- 17:18 act: {"say":"Night, row. MacDonald sleeping beside bed 429,107,-1037 in Billy's sight. Health 15, hunger 16.","actions":[{"do":"sleep"}]}
+- Day 731 morning: Lewis has 10 potatoes, holds for the hungriest. Billy: no route, no walk. I hold at hunger 16, call at 10.
+- 17:22 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no food. Holding at the row near bed 443,107,-1037, in your sight. Will call at 10.","actions":[]}
+- 17:30 act: {"say":"Goodnight, row. MacDonald sleeping beside bed 443,107,-1037 in sight of Billy. Health 15, hunger 16.","actions":[{"do":"sleep"}]}
+- 17:34 act: {"actions":[{"do":"note","text":"Day 731 morning: health 15, hunger 16, no potatoes, wooden sword in pack. Holding at the row, no walk. Billy has no verified west route either."}],"say":"Good morning,
+- 17:45 act: {"actions":[],"say":"Good morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No verified route west from me. No walk."}
+- 17:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. MacDonald sleeping beside bed 443,107,-1037 in Billy's sight. Health 15, hunger 16, no walk."}
+- 18:01 act: {"actions":[],"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No route west from me. No walk."}
+- 18:09 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. MacDonald sleeping beside bed 443,107,-1037 in Billy's sight. Health 15, hunger 16, no walk."}
+- 18:13 act: {"actions":[],"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No walk from me."}
+- 18:21 act: {"actions":[],"say":"Dusk, row. MacDonald at bed 443,107,-1037, health 15, hunger 16. Holding, no walk. Sleeping once it is full night."}
+- 18:25 act: {"actions":[],"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No walk from me."}
+- 18:37 act: {"actions":[],"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037. No verified route from me. No walk."}
+- 18:46 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"
+- 18:48 act: {"say":"Goodnight, row. MacDonald sleeping beside bed 443,107,-1037 in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"rest","arg
+- 18:50 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No route west from me. No walk.","actions":[{"do":"note","text":"Day 73
+- 19:02 act: {"say":"Goodnight, row. MacDonald at bed 443,107,-1037 in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- 19:06 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No verified route from me. No walk.","actions":[]}
+- 19:14 act: {"say":"Goodnight, row. MacDonald sleeping beside bed 443,107,-1037 in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- 19:19 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No verified route from me. No walk.","actions":[]}
+- 19:29 act: {"say":"Goodnight, row. MacDonald sleeping beside bed 443,107,-1037 in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- 19:29 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 443,107,-1037 in your sight. No verified route from me. No walk.","actions":[]}
+- 19:37 act: {"say":"Morning, Troi. MacDonald: health 15, hunger 16, holding at my bed in sight. No walk until Billy names one.","actions":[]}
+- 19:41 act: {"say":"Goodnight, row. MacDonald sleeping beside bed 443,107,-1037 in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- Day 738 morning: slept at night beside bed 443,107,-1037. Reported to Billy: health 15, hunger 16, no potatoes, sword in pack. Billy: no route, no walk. Zack offers 2 potatoes at hunger 10. Holding.
+- 19:41 act: {"say":"Troi, I am well: health 15, hunger 16. Sleeping in the row beside bed 443,107,-1037. No walk until Billy names a route.","actions":[]}
+- 19:46 act: {"say":"Good morning, Billy. MacDonald here: health 15, hunger 16, no potatoes, wooden sword in pack. Holding at bed 443,107,-1037 in your sight. No verified route from me. No walk.","actions":[]}
+- 19:54 act: {"say":"Night, row. MacDonald sleeping beside the bed at 429,107,-1051, in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- 19:58 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at the bed beside you. No route from me, no walk.","actions":[]}
+- 20:10 act: {"say":"Troi, MacDonald is steady: health 15, hunger 16, holding at the row in sight. No walk until Billy names a route.","actions":[]}
+- 20:34 act: {"say":"Night, row. MacDonald sleeping beside the bed at 429,107,-1051, in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- 20:38 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at the bed beside you. No verified route from me, no walk.","actions":[]}
+- Day 741 dusk: wait shows dusk, not full night. Holding at bed 429,107,-1051 in Billy's sight, health 15, hunger 16, no walk. Will sleep at full night.
+- 20:50 act: {"actions":[{"do":"note","text":"Day 741 morning: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 429,107,-1051, no walk."}],"say":"Morning, Billy. MacDonald: health 15, hunger 16, no
+- 20:58 act: {"actions":[],"say":"MacDonald here at bed 429,107,-1051, health 15, hunger 16. Holding in sight. Billy, I have seen no route west; no walk from me."}
+- 21:07 act: {"actions":[{"do":"note","text":"Day 742 morning: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 429,107,-1051, no walk."}],"say":"Morning, Billy. MacDonald: health 15, hunger 16, no
+- 21:15 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald sleeping beside the bed at 429,107,-1051, in Billy's sight. Health 15, hunger 16, no walk."}
+- 21:19 act: {"actions":[{"do":"note","text":"Day 743 morning: slept at night beside bed 429,107,-1051. Health 15, hunger 16, no potatoes, sword in pack. Holding, no walk."}],"say":"Morning, Billy. MacDonald: heal
