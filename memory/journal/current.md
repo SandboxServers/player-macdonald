@@ -64,3 +64,5 @@
 - 22:08 act: {"say":"Night, row. MacDonald beside bed 429,107,-1022 in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
 - 22:08 act: {"actions":[{"do":"sleep"}]}
 - 22:12 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. No verified route from me. Holding in your sight; I will call at hunger 10.","actions":[]}
+- 22:16 act: {"say":"Good day, Picard. I am holding here, with my sword in my pack. Bows are being drawn to the south, so I will stay put.","reasoning":"Bows drawn to the south repeatedly; no walk named by Billy. 
+- Day 745 day: at 430,107,-1023 by the beds, Picard in reach, health 15, hunger 16, sword in pack. Bows heard to the south; held, no walk. Said hello to Picard.
