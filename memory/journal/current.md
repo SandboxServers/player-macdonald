@@ -3,3 +3,6 @@
 - 10:27 act: {"say":"MacDonald here, at bed 443,107,-1051. Health 11, hunger 16, three potatoes, wooden sword in pack. Holding for Billy's named call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{
 - Day 710 dawn: looked around. Chapman and Picard at their beds in the row, no food. Reported to Billy, held at bed. Health 11, hunger 16, no walk named.
 - 10:28 act: {"say":"Trini, I am holding at my bed. Health 11, hunger 16. Still waiting on Billy's call."}
+- Night day 710: at bed 443,107,-1051 in the row, health 11, hunger 16, three potatoes. Called sleep; the digest came back, no walk named. Row members all holding. Next: wait for dawn and Billy's word; eat a potato at hunger 10 or below.
+- Day 711 morning: held at bed 443,107,-1051, health 11, hunger 16. Row holding, no verified route west or south, no walk named. Waiting.
+- 10:41 act: {"say":"MacDonald here, morning day 710. Health 11, hunger 16, three potatoes, wooden sword in pack. Holding at bed 443,107,-1051. Billy, no walk without your call."}
