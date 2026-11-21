@@ -4,3 +4,7 @@
 - Day 683 cycle: heard row report (Beverly, Zack, Picard, John, Trini all holding, no safe route west). Said my status to the row, set hold intent. Will eat a potato at hunger 10 or below."}
 - 01:35 act: {"say":"MacDonald here, morning. Health 11, hunger 16, three potatoes, wooden sword in pack. Holding at my bed in Billy's row for his named call.","intent":{"goal":"hold_at_row","program":"rest","argu
 - 01:37 act: {"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_
+- 01:41 act: {"actions":[{"do":"note","text":"Dusk day 683. At bed row, nobody in sight. Health 11, hunger 16. Sleeping beside bed 443,107,-1051."}],"say":"Evening. Holding at the bed for the night."}
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 01:45 act: {"actions":[{"do":"note","text":"Day 684 dawn: woke at bed 443,107,-1051. Health 11, hunger 16, three potatoes. Reported to row, holding for Billy."}],"say":"MacDonald here, morning. Health 11, hunger
+- 02:01 act: {"actions":[{"do":"note","text":"Day 684 midday: still holding at bed 443,107,-1051 in row. No walk named. Health 11, hunger 16. Zack beside me, no food asked."}]}
