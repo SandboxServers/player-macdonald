@@ -12,3 +12,4 @@
 - Day 749 dawn: went to bed 430,107,-1023, said dawn report to row (health 15, hunger 16, no potatoes, sword in pack). Beverly, Zack, Clark, Troi all holding. No walk named. Wait link dropped twice; holding.
 - Dusk 749: slept beside bed 429,107,-1023; sleep only 2 of 10 so far. Holding in the row's sight, no walk. Handoff written.
 - 23:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to sleep beside the bed at 429,107,-1023. Health 15, hunger 16. No walk named. Holding.","reasoning":"Dusk, beside bed in the row's sight. Sleep per my r
+- 23:46 say: {"text":"MacDonald here at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding in the row, no walk named."}
