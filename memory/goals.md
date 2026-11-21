@@ -9,5 +9,5 @@
 7. Recover the pack at 410,107,-1052 only in daylight with two people. Reason: probably gone.
 
 Curious next: whether the north trees near 411,100,-1115 yield wood.
-Tell next: Billy, at dawn, that health is 11 and three potatoes remain (reported day 680).
+Tell next: Billy, at dawn, that health is 11 and three potatoes remain (reported day 700).
 Done: the spare sword reached Laforge; Billy was told on day 603.
