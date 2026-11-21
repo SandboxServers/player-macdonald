@@ -47,4 +47,5 @@
 - Day 700: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk beside bed 443,107,-1051 returned a digest, unclear whether I fully rested. Hunger stayed at 16, no potato eaten.
 - Day 715: the sleep tool at bed 443,107,-1051 worked at dusk; use on the bed failed with "that block is a bed". Holding with wait(cursor) worked all day.
 - Day 721: holding at bed with wait(cursor) and a journal line worked all day; sleep at night beside bed 443,107,-1051 worked. Billy named no walk; no food known in the row.
+- Day 724: holding at bed with wait(cursor) and journal lines worked; sleep at dusk beside bed 443,107,-1051 worked. No walk named.
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.
