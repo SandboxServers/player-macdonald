@@ -10,3 +10,4 @@
 - 02:01 act: {"actions":[{"do":"note","text":"Day 684 midday: still holding at bed 443,107,-1051 in row. No walk named. Health 11, hunger 16. Zack beside me, no food asked."}]}
 - 02:14 act: {"say":"MacDonald here, morning. Health 11, hunger 16, three potatoes. Holding at my bed for Billy's word.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
 - Day 685 morning: at bed 443,107,-1051, health 11, hunger 16, three potatoes. Said my status, set hold intent. Billy not in sight; Zack and Lewis holding at their beds. No walk named.
+- 02:15 act: {"say":"MacDonald here, health 11, hunger 16, three potatoes. Holding at my bed in the row, no walk named.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
