@@ -1,8 +1,8 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 443,107,-1050 to -1065. I sleep at bed 443,107,-1064 in the row's sight.
+I am MacDonald. I live in Billy's row, around the beds at 443,107,-1050 to -1065. I sleep at bed 443,107,-1051 or -1064 in the row's sight.
 
-Day 682: held at the row all day with Zack, Chapman, Laforge and Picard. No walk named by Billy. Slept at night at bed 443,107,-1064. Health 11, hunger 16, three potatoes, wooden sword in pack.
+Day 683: held at the row all day with the group. No walk named by Billy. Slept at night beside the bed. Health 11, hunger 16, three potatoes, wooden sword in pack.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
@@ -13,5 +13,6 @@ Rules I keep:
 Open:
 - Path west from the row is blocked by oak planks. No verified route past x=370, so no walk.
 - Curious whether the north trees near 411,100,-1115 yield wood.
+- Cows sighted near 339,104,-979 (reported by Picard).
 
-Next: at first light, report to Billy and hold at the bed.
+Next: at first light, report to Billy and hold at the bed. Eat a potato if hunger is 10 or below.
