@@ -11,3 +11,6 @@
 - 11:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, beside bed in row, no walk named. Sleep here as my goals say."}
 - 11:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at bed in row, nobody near, no walk named. Sleep."}
 - 11:22 act: {"actions":[{"do":"sleep"}]}
+- 11:27 act: {"say":"Morning, Billy. MacDonald at bed 443,107,-1051, in your sight. Health 11, hunger 16, three potatoes, wooden sword in pack. No walk from me; holding for your named call.","intent":{"goal":"hold
+- 11:27 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy. Eating a potato now, holding at bed 443,107,-1051. No walk."}
+- Day 713 morning: Billy said eat a potato now (health 11). Ate one: hunger 16 to 17. Two potatoes left. Holding at bed 443,107,-1051, no walk named.
