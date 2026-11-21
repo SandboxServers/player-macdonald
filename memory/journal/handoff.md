@@ -1,4 +1,3 @@
-Handoff, day 687 dusk.
-At bed 443,107,-1051 in Billy's row, Zack in reach. Health 11, hunger 16, three potatoes, wooden sword in pack. Not in danger, no errand running, no walk named. Billy said good night, hold in sight, no walk today.
-Sleep counts only 1 of 10 asleep here; I hold at the bed in the row's sight.
+Handoff, day 691 dusk.
+At bed 443,107,-1051 in Billy's row, Billy in reach. Health 11, hunger 16, three potatoes, wooden sword in pack. Not in danger, no errand running, no walk named.
 Next: at dawn report to Billy and hold. Eat a potato when hunger is 10 or below. Walk only on Billy's named call.
