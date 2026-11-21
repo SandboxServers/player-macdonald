@@ -58,3 +58,9 @@
 - 21:42 act: {"actions":[{"do":"sleep"}]}
 - 21:47 say: {"text":"Good morning, Billy. MacDonald here beside bed 429,107,-1035: health 15, hunger 16, no potatoes, sword in pack. No verified route west from me. Holding, no walk. I will call at hunger 10."}
 - Day 744 morning: slept the night beside bed 429,107,-1037. Reported to Billy: health 15, hunger 16, no food, sword in pack. Holding, no walk. Billy asks for any verified west route; I have none.
+- 21:51 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. Holding at the row, no walk from me.","actions":[]}
+- 21:55 act: {"say":"Night, row. MacDonald beside bed 429,107,-1037, in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- 22:00 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. No verified route west from me. Holding in your sight, no walk.","actions":[]}
+- 22:08 act: {"say":"Night, row. MacDonald beside bed 429,107,-1022 in Billy's sight. Health 15, hunger 16, no walk.","actions":[{"do":"sleep"}]}
+- 22:08 act: {"actions":[{"do":"sleep"}]}
+- 22:12 act: {"say":"Morning, Billy. MacDonald: health 15, hunger 16, no potatoes, sword in pack. No verified route from me. Holding in your sight; I will call at hunger 10.","actions":[]}
