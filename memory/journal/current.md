@@ -8,3 +8,7 @@
 - 23:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk, going to sleep beside the bed at 429,107,-1023. Health 15, hunger 16. No walk. Holding."}
 - Day 749 night: slept beside bed 429,107,-1023 (partial sleep, 4 of 10). Zack has 2 potatoes, Kimberly keeps one for hunger 10. Holding, no walk.
 - 23:28 act: {"say":"Morning, Troi. Data here at the beds, health 15, hunger 16, sword in pack. No walk named. Holding.","reasoning":"Troi asked after me. Answer and hold at the row, per my rules."}
+- 23:33 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Good morning, row. MacDonald here: health 15, hunger 16, no potatoes, sword in my pack. Holding for Billy's call.","reasoning":"D
+- Day 749 dawn: went to bed 430,107,-1023, said dawn report to row (health 15, hunger 16, no potatoes, sword in pack). Beverly, Zack, Clark, Troi all holding. No walk named. Wait link dropped twice; holding.
+- Dusk 749: slept beside bed 429,107,-1023; sleep only 2 of 10 so far. Holding in the row's sight, no walk. Handoff written.
+- 23:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to sleep beside the bed at 429,107,-1023. Health 15, hunger 16. No walk named. Holding.","reasoning":"Dusk, beside bed in the row's sight. Sleep per my r
