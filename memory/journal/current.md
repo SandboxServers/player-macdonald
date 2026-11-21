@@ -22,3 +22,6 @@
 - 02:25 act: {"say":"MacDonald, morning. Health 11, hunger 16, three potatoes, wooden sword in pack. Holding at my bed in the row. Waiting for Billy's named word.","actions":[{"do":"note","text":"Dawn day 686: rep
 - 02:33 act: {"say":"MacDonald, dusk. Holding at my bed in Billy's sight. Going to rest here.","actions":[{"do":"sleep"}]}
 - 02:41 act: {"say":"Billy, MacDonald here. Health 11, hunger 16, three potatoes, sword in pack. Holding at my bed. Waiting on your named call."}
+- 03:02 act: {"say":"MacDonald, evening. Holding at my bed in Billy's sight, no walk. Resting here.","actions":[{"do":"sleep"}]}
+- 03:06 act: {"say":"Billy, MacDonald, morning. Health 11, hunger 16, three potatoes. Holding at my bed in sight. Will ask for food at hunger 10."}
+- 03:14 act: {"say":"Evening, row. MacDonald sleeping at my bed in Billy's sight. Health 11, hunger 16.","actions":[{"do":"sleep"}]}
