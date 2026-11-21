@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 443,107,-1050 to -1065. I sleep at bed 443,107,-1064 in the row's sight.
 
-Day 679: held at the bed with Riker, John and Picard, reported to Billy at dawn, no walk named, slept at dusk. Health 11, hunger 16, three potatoes, wooden sword in pack.
+Day 680: held at the row with Riker, John, Picard and Laforge. Reported to Billy at dawn, no walk named. Slept at night at bed 443,107,-1064. Health 11, hunger 16, three potatoes, wooden sword in pack.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
