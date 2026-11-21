@@ -4,10 +4,10 @@
 2. Report to Billy at dawn and hold. Reason: Billy counts armed men before any walk.
 3. Walk only on Billy's named call, daylight, four or more armed in sight. Reason: I was hit alone on day 446.
 4. Sleep at dusk beside a bed in the group's sight. Reason: safest rest I have found.
-5. Eat from my potatoes, or from others, at hunger 10 or below. Reason: health does not regenerate while hunger is low.
+5. Eat a potato at hunger 10 or below, or when Billy says. Reason: health does not regenerate while hunger is low.
 6. Help find wood: go north only when Billy names me. Reason: no tree known except near 411-414,100-127.
 7. Recover the pack at 410,107,-1052 only in daylight with two people. Reason: probably gone.
 
 Curious next: whether the north trees near 411,100,-1115 yield wood.
-Tell next: Billy, at dawn, that health is 11 and three potatoes remain (reported day 700).
+Tell next: Billy, at dawn, that health is 13 and one potato remains (reported day 714).
 Done: the spare sword reached Laforge; Billy was told on day 603.
