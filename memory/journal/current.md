@@ -6,3 +6,8 @@
 - Night day 710: at bed 443,107,-1051 in the row, health 11, hunger 16, three potatoes. Called sleep; the digest came back, no walk named. Row members all holding. Next: wait for dawn and Billy's word; eat a potato at hunger 10 or below.
 - Day 711 morning: held at bed 443,107,-1051, health 11, hunger 16. Row holding, no verified route west or south, no walk named. Waiting.
 - 10:41 act: {"say":"MacDonald here, morning day 710. Health 11, hunger 16, three potatoes, wooden sword in pack. Holding at bed 443,107,-1051. Billy, no walk without your call."}
+- 10:54 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside bed in row, no one near. Keep sleeping as my goals say."}
+- 10:58 act: {"actions":[{"do":"note","text":"Dawn day 711. Holding at bed 443,107,-1051."}],"say":"Morning, Billy. MacDonald at bed 443,107,-1051, in your sight. Health 11, hunger 16, three potatoes, wooden sword
+- 11:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, beside bed in row, no walk named. Sleep here as my goals say."}
+- 11:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at bed in row, nobody near, no walk named. Sleep."}
+- 11:22 act: {"actions":[{"do":"sleep"}]}
