@@ -48,3 +48,9 @@
 - 21:07 act: {"actions":[{"do":"note","text":"Day 742 morning: health 15, hunger 16, no potatoes, sword in pack. Holding at bed 429,107,-1051, no walk."}],"say":"Morning, Billy. MacDonald: health 15, hunger 16, no
 - 21:15 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald sleeping beside the bed at 429,107,-1051, in Billy's sight. Health 15, hunger 16, no walk."}
 - 21:19 act: {"actions":[{"do":"note","text":"Day 743 morning: slept at night beside bed 429,107,-1051. Health 15, hunger 16, no potatoes, sword in pack. Holding, no walk."}],"say":"Morning, Billy. MacDonald: heal
+- 21:23 act: {"say":"MacDonald at bed 443,107,-1051, health 15, hunger 16, no food. Holding, no walk. Zack, if you can come into my sight I would take that potato, thank you.","reasoning":"Zack offered food. Walki
+- 21:27 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1040}}],"intent":{"goal":"reach_row_for_food","program":"travel","arguments":{"target":{"x":420,"y":107,"z":-1040}},"wake_on":["goal_completed",
+- 21:28 act: {"say":"MacDonald here at 421,107,-1040, in the row. Zack, Lewis, I am in your sight now. Health 15, hunger 16. I would take a potato, thank you.","reasoning":"Named call from Billy is done; I am in t
+- 21:31 say: {"text":"Thank you, Zack. I will keep the potato and eat it at hunger 10, as I agreed with Billy. Good morning, row."}
+- 21:38 say: {"text":"Zack, MacDonald here at 421,107,-1040, in your sight. No potato has reached my pack yet. Hunger 16, holding."}
+- 21:42 say: {"text":"Night, row. MacDonald at 421,107,-1040, in the row's sight. Health 15, hunger 16, no potato yet. Sleeping here; Zack, the potato can wait until hunger 10."}
