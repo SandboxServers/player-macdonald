@@ -68,3 +68,4 @@
 - Day 745 day: at 430,107,-1023 by the beds, Picard in reach, health 15, hunger 16, sword in pack. Bows heard to the south; held, no walk. Said hello to Picard.
 - 22:21 act: {"say":"Good night. Holding at the beds; bows heard to the south, no walk tonight.","actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, group near, rule says sleep beside bed in sight."}
 - 22:23 act: {"say":"Morning, row. MacDonald at 430,107,-1023 by the beds: health 15, hunger 16, no food, sword in pack. Holding, no walk.","actions":[],"reasoning":"Dawn report per goal 2. Hold until Billy names 
+- 22:49 act: {"say":"Evening, row. MacDonald beside bed 429,107,-1023, health 15, hunger 16, sword in pack. No walk. Sleeping now in sight.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}]}
