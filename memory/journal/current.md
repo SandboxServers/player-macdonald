@@ -11,3 +11,8 @@
 - 02:14 act: {"say":"MacDonald here, morning. Health 11, hunger 16, three potatoes. Holding at my bed for Billy's word.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
 - Day 685 morning: at bed 443,107,-1051, health 11, hunger 16, three potatoes. Said my status, set hold intent. Billy not in sight; Zack and Lewis holding at their beds. No walk named.
 - 02:15 act: {"say":"MacDonald here, health 11, hunger 16, three potatoes. Holding at my bed in the row, no walk named.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
+- 02:17 play cycle: day 685, at bed 443,107,-1051 with Zack in reach. Hold intent ran out; renewed hold, said status. No walk named.
+- 02:17 act: {"say":"MacDonald here, health 11, hunger 16, three potatoes. Still holding at my bed in the row, no walk named.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_ad
+- 02:18 act: {"say":"Morning, Beverly. MacDonald holding at my bed, health 11, hunger 16. Waiting on Billy's named call.","actions":[{"do":"wait","seconds":120}]}
+- 02:20 act: {"say":"Holding well, Trini. Health 11, hunger 16, three potatoes. Dusk is coming, so I will sleep by my bed in the row.","actions":[{"do":"wait","seconds":30}]}
+- 02:20 act: {"say":"MacDonald going to bed at my bed in the row, dusk. Health 11, hunger 16.","actions":[{"do":"sleep"}]}
