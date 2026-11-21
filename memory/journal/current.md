@@ -7,3 +7,4 @@
 - 23:19 act: {"actions":[{"do":"note","text":"Dawn 749 report: MacDonald at bed 430,107,-1023, health 15, hunger 16, no potatoes, sword in pack. Holding, no walk named."}],"say":"Morning, Billy. MacDonald at the b
 - 23:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk, going to sleep beside the bed at 429,107,-1023. Health 15, hunger 16. No walk. Holding."}
 - Day 749 night: slept beside bed 429,107,-1023 (partial sleep, 4 of 10). Zack has 2 potatoes, Kimberly keeps one for hunger 10. Holding, no walk.
+- 23:28 act: {"say":"Morning, Troi. Data here at the beds, health 15, hunger 16, sword in pack. No walk named. Holding.","reasoning":"Troi asked after me. Answer and hold at the row, per my rules."}
