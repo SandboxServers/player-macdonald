@@ -4,3 +4,4 @@
 - 00:45 wait: Picard, Laforge, Johnny, Zack all holding at the row for Billy. No walk named. Health 11, hunger 16. Still holding.
 - 00:48 act: {"say":"Morning. Health 11, hunger 16, three potatoes, wooden sword in pack. No walk for me. Holding at the row.","reasoning":"Dawn report to Billy; holding at the row per goals."}
 - day 681: reported to the row at dawn, no walk named. Picard, Laforge, John, Zack holding too. Still holding, hunger 16.
+- 01:01 act: {"say":"Morning. I am MacDonald, health 11, three potatoes. I hold at the row until Billy names a walk.","reasoning":"Dawn. Report and hold, per my goals. Zack is in reach but no walk is named."}
