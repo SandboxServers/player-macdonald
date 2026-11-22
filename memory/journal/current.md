@@ -13,3 +13,8 @@
 - Dusk 749: slept beside bed 429,107,-1023; sleep only 2 of 10 so far. Holding in the row's sight, no walk. Handoff written.
 - 23:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to sleep beside the bed at 429,107,-1023. Health 15, hunger 16. No walk named. Holding.","reasoning":"Dusk, beside bed in the row's sight. Sleep per my r
 - 23:46 say: {"text":"MacDonald here at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding in the row, no walk named."}
+- 23:53 act: {"say":"Good morning. MacDonald at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding in the row; no walk for me until Billy names one."}
+- 23:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to sleep beside the bed at 429,107,-1023. Health 15, hunger 16. No walk named. Holding."}
+- 23:57 act: {"actions":[{"do":"sleep"}]}
+- 23:57 act: {"actions":[{"do":"sleep"}]}
+- 00:01 act: {"say":"Morning, row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding; no walk named."}
