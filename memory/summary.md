@@ -1,8 +1,8 @@
 # Summary
 
-I am MacDonald. I live in Billy's row, around the beds at 429-443,107,-1022 to -1051. I sleep beside a bed in the row's sight.
+I am MacDonald. I live in Billy's row, around the beds at 429-443,107,-1022 to -1051. I sleep beside bed 429,107,-1023 in the row's sight.
 
-Day 747: held at the row all day, no walk named. Reported to Billy at dawn (health 15, hunger 16, no potatoes, sword in pack). Bows heard to the south most of the day. Slept at night beside bed 429,107,-1023.
+Day 752: held at the row all day, no walk named. Reported to the row at dawn (health 15, hunger 16, no potatoes, sword in pack). Bows heard to the south all day, nothing near. Slept at night beside the bed. Health steady.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
