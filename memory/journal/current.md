@@ -7,3 +7,4 @@
 - 07:10 wait: still at bed, health 15, hunger 16. John (health 9) is walking to Lewis's beds for a potato; no walk named for me. Holding.
 - 07:13 act: {"actions":[{"do":"sleep"}],"say":"Bows are drawn near me in the dark. I am beside my bed and will hold here."}
 - 07:13 act: {"actions":[{"do":"use","at":{"x":430,"y":107,"z":-1023},"item":"wooden_sword"}]}
+- 07:13 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
