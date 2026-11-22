@@ -22,3 +22,6 @@
 - Waking 613: world tools still missing (status, wait both "No such tool available"). Did not move. Holding at bed 429,107,-1023. Health 15, hunger 16, sword in pack, as last known.
 - Waking 614: status tool missing ("No such tool available: mcp__geldar__status"). Did not move or act. Holding at bed 429,107,-1023, as last known. Will retry the world tools next waking.
 - Waking 615: world tools still not in this session (no status/wait/act). Worker errand failed too: worker has no mcp__geldar tools. Did not move. Holding at bed 429,107,-1023, last known: health 15, hunger 16, sword in pack.
+- 00:10 act: {"say":"Morning, Troi. MacDonald here at the bed, health 15, hunger 16, no potatoes, sword in pack. No walk named. Holding, and I will sleep here by the bed now.","actions":[{"do":"sleep"}]}
+- Waking 616: world tools back. Status ok (days_since_sleep 1). Slept at dusk beside bed 429,107,-1023; woke at day, sleep ended. Reported to row: health 15, hunger 16, no potatoes, sword in pack. Holding, no walk named. Kimberly, Zack, Clark, Troi all holding in the row.
+- 00:14 act: {"say":"Morning, row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding, no walk. Billy, name me if you walk.","actions":[{"do":"note","text":"Woke at dawn day 
