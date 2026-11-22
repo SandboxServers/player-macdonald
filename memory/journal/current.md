@@ -16,3 +16,7 @@
 - 16:34 act: {"say":"Holding at the white bed. Health 15, hunger 16, sword in hand. Hearing bows drawn to the south; staying in the row."}
 - 16:38 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, night in the row. Health 15, hunger 16, no food, sword in hand. Resting at the white bed here, in sight of the group. No walk."}
 - 16:38 act: {"actions":[{"do":"note","text":"Day 800 night. Slept at white bed 430,107,-1023 in the row; sleep worked and the night was skipped. Health 15, hunger 16, no food, sword in hand. Bows heard to the sou
+- Day 800 morning. Billy: nobody walks yet; hold at the row until a verified route and food news. Bows heard to the south, no contact. Health 15, hunger 16, no food.
+- 16:38 act: {"say":"Morning, Billy. MacDonald here: health 15, hunger 16, no food, sword in hand. I have not seen food or the blocked tile at 463 since last night. Holding at the bed. Bows drawn to the south, so 
+- 16:49 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk on day 801. Health 15, hunger 16, no food, sword in hand. Resting at the white bed in the row, in sight of the group. No walk."}
+- 16:49 act: {"actions":[{"do":"sleep"}]}
