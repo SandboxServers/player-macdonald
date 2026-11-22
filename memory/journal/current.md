@@ -3,3 +3,5 @@
 - 10:48 act: {"actions":[],"say":"Morning, row. MacDonald at Billy's bed 429,107,-1023. Health 15, hunger 16, no food, sword in hand. Holding, no walk."}
 - 10:56 act: {"actions":[{"do":"sleep"}],"say":"Dusk. MacDonald sleeping at Billy's bed, sword in hand. Health 15, hunger 16, no food."}
 - 11:00 act: {"say":"Morning, row. MacDonald at the bed 429,107,-1023, sword in hand. Health 15, hunger 16, no food in pack. Holding for Billy's word."}
+- 11:09 say: {"text":"Dusk. Holding at the bed, sword in hand. Health 15, hunger 16, no food. No walk named."}
+- 11:10 wait: dusk at bed 429,107,-1023, health 15 steady, hunger 16, no food. Bcrusher says holding, no walk. Intent finished; holding, no new action.
