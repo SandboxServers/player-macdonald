@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 415-447,107,-1021 to -1051. I sleep beside a white bed in the row, in the group's sight (last used 430,107,-1037).
 
-Day 811: dawn report to Billy (health 15, hunger 16, 3 potatoes, sword in hand). No walk named. Held at the bed all day, the bow still sounding southwest. Slept at dusk beside the white bed at 430,107,-1037.
+Day 812: dawn report to Billy (health 15, hunger 16, 3 potatoes, sword in hand). No walk named. Held at the bed all day. Worf is alive at hunger 13; Billy and Zack hold potatoes for him. Slept at dusk beside the white bed.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
