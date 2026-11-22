@@ -8,3 +8,4 @@
 - 07:13 act: {"actions":[{"do":"sleep"}],"say":"Bows are drawn near me in the dark. I am beside my bed and will hold here."}
 - 07:13 act: {"actions":[{"do":"use","at":{"x":430,"y":107,"z":-1023},"item":"wooden_sword"}]}
 - 07:13 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
+- 07:19 act: {"say":"Morning, Billy. MacDonald at my bed 430,107,-1023. Health 15, hunger 16, no potatoes, sword in hand. Holding, no walk."}
