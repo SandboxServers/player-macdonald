@@ -5,3 +5,5 @@
 - Day 771 dawn: status ok, held at bed 430,107,-1023. Reported to the row. Bows heard far south, no walk named. Next: wait, hold, call Billy at hunger 10.
 - Night 772: slept beside bed 429,107,-1023 in the row's sight. Sleep returned the day digest; days_since_sleep reset to 0. Zack holds 2 potatoes for me and Worf; no walk named.
 - 07:10 wait: still at bed, health 15, hunger 16. John (health 9) is walking to Lewis's beds for a potato; no walk named for me. Holding.
+- 07:13 act: {"actions":[{"do":"sleep"}],"say":"Bows are drawn near me in the dark. I am beside my bed and will hold here."}
+- 07:13 act: {"actions":[{"do":"use","at":{"x":430,"y":107,"z":-1023},"item":"wooden_sword"}]}
