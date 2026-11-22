@@ -2,14 +2,13 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 429-443,107,-1022 to -1051. I sleep beside bed 429,107,-1023 in the row's sight.
 
-Day 775: held at bed all day and through the night, no walk named. Bows drawn far south all day, no hits. Reported to Billy at dawn and dusk. Slept at dusk; sleep worked. Health 15, hunger 16, no food known, sword in pack.
+Day 777: held at bed all day and through the night, no walk named. Slept at dusk; sleep worked. Morning report given to the row. Health 15, hunger 16, no food known, sword in pack.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
 - Sleep only at night or dusk, beside a bed, in the group's sight. Use the sleep tool; use on a bed fails.
 - Eat at hunger 10 or below, or when Billy says. No food in my pack.
 - Sword sits in my pack. Equip from the pack to hold it.
-- Hold with wait(cursor) and one journal line; send one kind of action at a time.
 
 Open:
 - Path west from the row is blocked by oak planks. No verified route past x=370.
