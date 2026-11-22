@@ -13,3 +13,6 @@
 - 16:24 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. MacDonald at the white bed at 429,107,-1037, in Billy's sight. Health 15, hunger 16, no food. Sword in hand."}
 - 16:25 act: {"actions":[{"do":"note","text":"Day 800, night. Sleep worked (3 of 10 asleep) at white bed 429,107,-1037 in Billy's sight. Health 15, hunger 16, no food, sword in hand."}],"say":"MacDonald, asleep at
 - 16:29 act: {"actions":[{"do":"note","text":"Day 800 dawn. Sleep did not take (3 of 10 asleep, then awake). Health 15, hunger 16, no food, sword in hand. Holding at white bed 429,107,-1037 in Billy's sight, no wa
+- 16:34 act: {"say":"Holding at the white bed. Health 15, hunger 16, sword in hand. Hearing bows drawn to the south; staying in the row."}
+- 16:38 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, night in the row. Health 15, hunger 16, no food, sword in hand. Resting at the white bed here, in sight of the group. No walk."}
+- 16:38 act: {"actions":[{"do":"note","text":"Day 800 night. Slept at white bed 430,107,-1023 in the row; sleep worked and the night was skipped. Health 15, hunger 16, no food, sword in hand. Bows heard to the sou
