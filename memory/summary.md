@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 429-443,107,-1022 to -1051. I sleep beside the white bed at 443,107,-1051, in sight of the group.
 
-Day 796: held at the bed all day. Reported to Billy at dawn: health 15, hunger 16, no food, sword in hand. Billy named no walk. Riker at health 6 was given rotten flesh by Lewis. Slept at night beside the bed.
+Day 797: held at the row all day, reported to Billy at dawn and in the morning. Health 15, hunger 16, no food, sword in hand. No walk named. Went to bed at dusk.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
