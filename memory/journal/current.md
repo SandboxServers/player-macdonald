@@ -1,3 +1,29 @@
 # Journal
-- 17:31 say: {"text":"Night. Health 15, hunger 16, no food, sword in hand. Holding by the bed, resting now."}
-- Day 803 night: at 430,107,-1023 beside white bed, dim, thunder. Bows drawn to the south. Billy went to bed. Sleep call returned "3 of 10 asleep"; no walk named, held in row.
+- Day 803 night: woke at the white bed 430,107,-1023. Morning: reported to Billy (health 15, hunger 16, no food, sword). Billy named no walk; holding in the row. Bows heard to the south all night.
+- 17:48 act: {"actions":[{"do":"note","text":"Day 804 morning. Hunger 16, health 15. Billy plans NE walk with Jason and Beverly; not named to me. Holding at bed.
+- Day 805 day: Billy called MacDonald into his sight; Billy not visible from 430,107,-1034. Said my position and asked where he stands. Holding, sword in hand, hunger 16."}],"say":"Morning, Billy. MacDonald, health 15, hun
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1034}}],"say":"Billy, MacDonald here, hunger 16, health 15. Trini and Troi are weaker, so they eat first. I'm at your side, sword in hand."}
+- 17:56 act: {"actions":[{"do":"note","text":"Got 3 potatoes from Billy. Hunger 16, so I keep them for hunger 10; Trini and Troi eat first. Holding near Billy's bed at 430,107,-1034 for the night."}],"say":"Thank 
+- 18:04 act: {"intent":{"goal":"escort_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 18:04 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, MacDonald walking to you now, sword in hand. Call me when I'm in sight."}
+- 18:04 act: {"say":"Billy, I cannot see you from here, so I hold at my spot by the bed at 430,107,-1034. Call me when you are in my sight."}
+- 18:09 act: {"actions":[{"do":"note","text":"Day 805 day. Billy asked MacDonald to come into his sight; Billy not visible from 430,107,-1034. Holding, sword in hand, hunger 16."}],"say":"Billy, MacDonald at 430,1
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1026}},{"do":"note","text":"Day 805 day: Billy at 417,107,-1025 with Trini called MacDonald to come. Walking to Billy with sword in hand."}],"sa
+- 18:13 act: {"actions":[{"do":"note","text":"Day 805 morning: reached 419,107,-1026 with Trini in sight; Billy not listed in sight yet. Holding, sword in hand, hunger 16, 3 potatoes."}],"say":"Billy, MacDonald is
+- 18:13 act: {"actions":[{"do":"note","text":"Day 805 morning: Billy says MacDonald waits his turn; Worf, Troi, John are weaker. Holding at 419,107,-1026 with Trini, hunger 16, 3 potatoes kept for hunger 10."}],"s
+- 18:17 act: {"actions":[{"do":"note","text":"Day 805 midday: Billy gives potatoes to Troi, Worf, John first. I am at hunger 16, so I hold at 419,107,-1026 with Trini and keep my 3 potatoes."}],"say":"Billy, MacDo
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}},{"do":"note","text":"Day 805 low sun: walking from 419,107,-1026 to Billy's spot 427,107,-1034 before dark, sword in hand. Hunger 16, 3 p
+- 18:22 act: {"actions":[{"do":"note","text":"Day 805 dusk: MacDonald in Billy's sight at 427,107,-1033. Worf gets the next potato first. Holding here, sword in hand, hunger 16."}],"say":"Billy, MacDonald here at 
+- 18:26 act: {"actions":[{"do":"note","text":"Day 806 morning: at 427,107,-1033 in Billy's sight. Health 15, hunger 16, 3 potatoes, sword in hand. Worf gets the potato first at first light."}],"say":"Morning, Bill
+- 18:30 act: {"actions":[{"do":"note","text":"Day 806 midday: Billy holds 3 potatoes for Worf at 430,107,-1023. No walk named. I hold at 427,107,-1033, hunger 16, sword in hand."}],"say":"Holding at 427,107,-1033,
+- 18:34 act: {"actions":[{"do":"note","text":"Day 806 afternoon: still at 427,107,-1033 in Billy's sight, hunger 16, health 15, 3 potatoes, sword in hand. Worf first."}],"say":"Holding at 427,107,-1033, Billy. Hun
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"note","text":"Day 806 night: sun set, Billy holds at bed 429,107,-1023, Worf first at first light. I move to bed 429,107,-1036 to 
+- 18:38 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"say":"Zack, MacDonald at the bed 429,107,-1036 for the night. Holding, sword in hand."}
+- 18:38 act: {"actions":[{"do":"note","text":"Day 806 night: slept near bed 429,107,-1036 in the row. Woke at dawn, hunger 16, health 15, 3 potatoes, sword in hand. Worf first, I hold for my call at hunger 10."}],
+- 18:43 act: {"actions":[{"do":"note","text":"Day 806 morning: holding at 429,107,-1035 near bed. Billy at 444,107,-1023 with 3 potatoes, Worf first. No walk named for me. Hunger 16."}],"say":"Holding, Billy. MacD
+- 18:47 act: {"actions":[{"do":"note","text":"Day 807 morning: holding at 429,107,-1035 near bed, hunger 16, health 15, 3 potatoes, sword in hand. Bows heard southeast. No walk named for me."}],"say":"MacDonald ho
+- 18:51 act: {"actions":[{"do":"note","text":"Day 807 dusk: holding at 429,107,-1035 beside bed 429,107,-1036 in the row's sight. Hunger 16, health 15, 3 potatoes, sword in hand. Going to sleep. Worf first at firs
+- 18:51 act: {"actions":[{"do":"note","text":"Day 808 morning: woke beside bed 429,107,-1036. Health 15, hunger 16, 3 potatoes, sword in hand. Billy holds 3 potatoes at 444,107,-1023 for Worf first. I hold; call a
+- 18:56 act: {"intent":{"goal":"hold_at_bed_for_billys_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 19:02 act: {"actions":[{"do":"note","text":"Day 807 dusk: holding beside bed 429,107,-1036 in the row's sight, hunger 16, health 15, 3 potatoes, sword in hand. Going to sleep. Worf first at first light."}],"say"
+- 19:06 act: {"actions":[{"do":"note","text":"Day 808 morning: woke at 430,107,-1037 near bed 429,107,-1036. Health 15, hunger 16, 3 potatoes, sword in hand. Worf first per Billy; no walk named for me. Holding."}]
