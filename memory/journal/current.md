@@ -6,3 +6,6 @@
 - 02:28 act: {"say":"Morning, the row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding, no walk."}
 - Day 758 dawn: reported to the row. Bright, clear, steady health 15, hunger 16. Holding at bed; no walk named.
 - 02:33 act: {"say":"MacDonald: no verified route west and no sheep seen by me. Holding at my bed. Health 15, hunger 16."}
+- 02:41 act: {"say":"MacDonald here at the row, bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding for Billy's call."}
+- 02:47 act: {"say":"Morning, Zack. MacDonald at bed 429,107,-1023, in your sight. If you can spare one potato, I would take it. Holding for Billy."}
+- 02:51 act: {"say":"Zack, I am at 430,107,-1023, beside the white bed. Dusk is here; I will sleep at my bed after. Hold the potato for me if you can come in sight."}
