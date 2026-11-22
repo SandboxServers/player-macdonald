@@ -9,3 +9,6 @@
 - 07:13 act: {"actions":[{"do":"use","at":{"x":430,"y":107,"z":-1023},"item":"wooden_sword"}]}
 - 07:13 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
 - 07:19 act: {"say":"Morning, Billy. MacDonald at my bed 430,107,-1023. Health 15, hunger 16, no potatoes, sword in hand. Holding, no walk."}
+- 07:24 act: {"actions":[{"do":"note","text":"Dusk, day 773. At bed 430,107,-1023, sword in pack-hand, health 15, hunger 16, no potatoes. Bows heard south all afternoon, nothing in sight. Holding for the night."}]
+- 07:24 act: {"actions":[{"do":"sleep"}]}
+- 07:24 act: {"actions":[{"do":"sleep"}]}

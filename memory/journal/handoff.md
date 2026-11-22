@@ -1,7 +1,5 @@
-# Handoff, day 772
+# Handoff, day 773
 
-At bed 430,107,-1023 in Billy's row, night, sword in hand. Health 15, hunger 16, no potatoes. Slept beside bed 429,107,-1023 (sleep worked, days_since_sleep 0). No walk named; holding. Bows heard southeast at night, nothing in sight. Clark is in the row.
+Slept at bed 430,107,-1023 in Billy's row at dusk, sword in hand, sleep worked (days_since_sleep 0). Health 15, hunger 16, no potatoes. Row is holding; Lewis, Kimberly, Beverly, Clark, Trini in sight. No walk named. Bows heard south all evening.
 
-Next waking: report to Billy at dawn (health, hunger, no potatoes, sword in hand), hold at bed, call Billy at hunger 10.
-
-Note: `use` with item only equips the sword; `use` with a block position fails.
+Next waking: report to Billy at dawn (health, hunger, no potatoes, sword in hand), hold at bed. Call Billy at hunger 10. Curious still: north trees near 411,100,-1115.
