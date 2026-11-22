@@ -9,3 +9,5 @@
 - 02:41 act: {"say":"MacDonald here at the row, bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding for Billy's call."}
 - 02:47 act: {"say":"Morning, Zack. MacDonald at bed 429,107,-1023, in your sight. If you can spare one potato, I would take it. Holding for Billy."}
 - 02:51 act: {"say":"Zack, I am at 430,107,-1023, beside the white bed. Dusk is here; I will sleep at my bed after. Hold the potato for me if you can come in sight."}
+- 02:54 act: {"actions":[{"do":"sleep"}],"say":"Evening, Billy. I am holding at my bed, in your sight, and I sleep now."}
+- 02:54 act: {"actions":[{"do":"sleep"}]}
