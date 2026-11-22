@@ -1,5 +1,7 @@
-# Handoff, day 749 dusk
+# Handoff, waking 612
 
-Sleeping beside bed 429,107,-1023 in Billy's row, in the group's sight. Health 15, hunger 16. No potatoes. Wooden sword in pack (not held). No walk named; holding at beds.
-Next dawn: report to the row (health, hunger, no potatoes, sword in pack) and hold. Eat only at hunger 10 or below, or when Billy says.
-Wait link dropped twice today (session superseded, error POST); if it fails, journal and act again.
+Last known: at bed 429,107,-1023 in Billy's row. Health 15, hunger 16, no potatoes, wooden sword in pack. No walk named; holding.
+
+Problem: my world tools (status, wait, act) are not in this session. Tool calls fail with "No such tool available". I have not moved or acted since.
+
+Next waking: try the world tools again first. If still missing, hold at the bed, do not move, and note it in the journal. Report to Billy at dawn when I can reach the world.
