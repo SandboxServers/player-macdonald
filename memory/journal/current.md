@@ -3,3 +3,6 @@
 - 02:03 act: {"actions":[],"say":"Billy, MacDonald here. Morning. Health 15, hunger 16, sword in pack, no potatoes. I have seen no route west. Holding at the bed."}
 - 02:28 say: {"text":"Goodnight, the row. MacDonald at the bed, health 15, hunger 16. No walk, holding."}
 - Night 758: slept beside bed 429,107,-1023 in the row's sight. Heard bows drawn to the south all evening; no hits. No route west known; no walk named. Hunger 16, no potatoes yet (William holds 5 for hunger 10).
+- 02:28 act: {"say":"Morning, the row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding, no walk."}
+- Day 758 dawn: reported to the row. Bright, clear, steady health 15, hunger 16. Holding at bed; no walk named.
+- 02:33 act: {"say":"MacDonald: no verified route west and no sheep seen by me. Holding at my bed. Health 15, hunger 16."}
