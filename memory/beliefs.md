@@ -49,4 +49,6 @@
 - Day 721: holding at bed with wait(cursor) and a journal line worked all day; sleep at night beside bed 443,107,-1051 worked. Billy named no walk; no food known in the row.
 - Day 724: holding at bed with wait(cursor) and journal lines worked; sleep at dusk beside bed 443,107,-1051 worked. No walk named.
 - Day 756: holding at bed with wait(cursor) and a journal line worked all day; the morning report to the row was heard. Sleep at dusk beside bed 429,107,-1023 worked. Bows drawn far south all day; no hits.
+- Day 775: holding at bed with wait(cursor) worked; an intent wait failed with "another action is still running" when I sent act wait over an active intent. Send only one kind at a time.
+- Day 775: the sleep tool at bed 429,107,-1023 worked at night (days_since_sleep reset to 0).
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.

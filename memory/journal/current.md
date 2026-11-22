@@ -1,17 +1,1 @@
 # Journal
-- 06:51 act: {"say":"Billy, MacDonald at bed 430,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding, no walk.","actions":[{"do":"wait","seconds":5}]}
-- 06:55 act: {"say":"Zack, MacDonald at bed 430,107,-1023, hunger 16. Thank you. I am holding here until Billy names a walk; I will ask for the potato at hunger 10.","actions":[{"do":"wait","seconds":5}]}
-- 07:04 act: {"say":"Morning, all. MacDonald here: health 15, hunger 16, no potatoes, sword in pack. Holding at my bed until Billy names a walk."}
-- Day 771 dawn: status ok, held at bed 430,107,-1023. Reported to the row. Bows heard far south, no walk named. Next: wait, hold, call Billy at hunger 10.
-- Night 772: slept beside bed 429,107,-1023 in the row's sight. Sleep returned the day digest; days_since_sleep reset to 0. Zack holds 2 potatoes for me and Worf; no walk named.
-- 07:10 wait: still at bed, health 15, hunger 16. John (health 9) is walking to Lewis's beds for a potato; no walk named for me. Holding.
-- 07:13 act: {"actions":[{"do":"sleep"}],"say":"Bows are drawn near me in the dark. I am beside my bed and will hold here."}
-- 07:13 act: {"actions":[{"do":"use","at":{"x":430,"y":107,"z":-1023},"item":"wooden_sword"}]}
-- 07:13 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
-- 07:19 act: {"say":"Morning, Billy. MacDonald at my bed 430,107,-1023. Health 15, hunger 16, no potatoes, sword in hand. Holding, no walk."}
-- 07:24 act: {"actions":[{"do":"note","text":"Dusk, day 773. At bed 430,107,-1023, sword in pack-hand, health 15, hunger 16, no potatoes. Bows heard south all afternoon, nothing in sight. Holding for the night."}]
-- 07:24 act: {"actions":[{"do":"sleep"}]}
-- 07:24 act: {"actions":[{"do":"sleep"}]}
-- 07:25 act: {"say":"Dusk. I am at the bed in Billy's row, sword in pack. Holding here."}
-- 07:29 act: {"say":"MacDonald reporting at dawn to Billy. Health 15, hunger 16, no potatoes. Sword in pack. Holding at the bed, no walk."}
-- 07:45 act: {"say":"Morning, the row. MacDonald at bed 430,107,-1023, health 15, hunger 16, no potatoes. Lewis, after Riker and Chapman, I would be glad of one. Holding, no walk."}
