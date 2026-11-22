@@ -19,3 +19,37 @@
 - Dawn 763: slept at bed in sight (6 of 10 asleep), woke. Health 15, hunger 16. Row holding; Billy calls at hunger 10; Clark has 5 potatoes. No walk named.
 - 04:04 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding for Billy's call at hunger 10. No walk."}
 - 04:14 act: {"actions":[{"do":"note","text":"Night, day 763. Holding at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. No walk named."}],"say":"MacDonald here at my bed, health 15, hunger 16
+- 04:14 act: {"say":"Morning, Billy. MacDonald at bed 429,107,-1023. Health 15, hunger 16. No potatoes, wooden sword in my pack. No verified route west and no sheep seen by me. Holding, no walk."}
+- Dawn 763 (second): Billy says no walk today; no route west, no sheep. Holding at bed 429,107,-1023, health 15, hunger 16. Waiting for his call at hunger 10.
+- Night 764: slept beside bed 429,107,-1023 in the row's sight. Dawn 764: reported to Billy, no walk. Dusk 764: slept again. Health 15, hunger 16 throughout. Holding.
+- 04:27 act: {"say":"Night, the row. MacDonald at bed 429,107,-1023, in sight. Health 15, hunger 16. No walk. Sleeping now.","actions":[{"do":"sleep"}]}
+- 04:27 act: {"actions":[{"do":"sleep"}]}
+- 04:31 act: {"say":"Morning, Billy. MacDonald at bed 429,107,-1023. Health 15, hunger 16, sword in pack, no potatoes. Holding, no walk. I will call you at hunger 10."}
+- 04:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding, no walk. Sleeping in my bed now."}
+- 04:39 act: {"actions":[{"do":"sleep"}]}
+- 04:43 act: {"say":"Billy, MacDonald here at my bed 429,107,-1023, health 15, hunger 16. Sorry about your loss. I hold in the row, not moving toward the pillagers. Sword in my pack."}
+- Day 765 dawn: Billy died to pillagers NW near 411,-1056 and woke at his bed with nothing. Pillagers about. I hold at my bed, no walk. Health 15, hunger 16.
+- 04:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. No walk. Sleeping now."}
+- 04:51 act: {"actions":[{"do":"sleep"}]}
+- Day 765 morning: reported to Billy. Health 15, hunger 16, sword in pack. Billy says Kimberly walks to bed 429,107,-1050 in his sight; I hold at my bed. Thunder, dim. No walk for me.
+- 04:55 act: {"actions":[],"say":"Morning, Billy. MacDonald at bed 429,107,-1023. Health 15, hunger 16, sword in pack, no potatoes. Holding, no walk. I will call you at hunger 10."}
+- 05:07 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Pillagers west; I hold, no walk. Sleeping now."}
+- 05:12 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, sword in pack, no potatoes. Holding, no walk. Billy, I will call you at hunger 10."}
+- Day 766 morning: slept at bed 429,107,-1023, woke by day. Health 15, hunger 16. Kimberly died at 412,-1055 and lost her sword there. Holding, no walk.
+- 05:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding, no walk. Sleeping now."}
+- Dusk 766: sleep only 1 of 10 asleep, did not hold; woke by night and stayed at bed. Day 767 morning: health 15, hunger 16, sword in pack, no potatoes. Row holding, no walk named for me.
+- 05:28 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, sword in pack, no potatoes. Holding, no walk. Billy, I call you at hunger 10."}
+- Night 767: sleep took only 3 of 10 asleep; awake at the bed in the row. Health 15, hunger 16. Holding, no walk.
+- 05:36 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding, no walk. Sleeping now."}
+- Day 767 morning (wait): bright, clear, health 15, hunger 16. Beverly and William holding at their beds, no food, no walk named. Bows drawn far south. Holding at bed 429,107,-1023.
+- 05:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding, no walk. Sleeping now."}
+- 05:48 act: {"actions":[],"say":"Night, the row. Sleep only took 1 of 10, so I stay awake at my bed 429,107,-1023. Health 15, hunger 16. Holding, no walk."}
+- 05:52 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, sword in pack, no potatoes. Holding, no walk. Billy, I call you at hunger 10. Cows at 434,-1113 noted."}
+- 05:56 act: {"actions":[],"say":"Thank you, Zack. Hunger is 16, so I will ask for the potato when I reach 10. Holding at my bed, no walk."}
+- 06:01 act: {"actions":[],"say":"Dusk, the row. Pillagers west near 423,-1015. I hold at my bed 429,107,-1023, no walk, sword in hand ready. Health 15, hunger 16."}
+- 06:05 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. MacDonald at bed 429,107,-1023, in sight. Health 15, hunger 16. Holding, no walk. Sleeping now."}
+- 06:09 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16, sword in hand. Holding, no walk. Riker, stay out of the pillager's line. Billy, I call you at hunger 10."}
+- 06:17 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding, no walk. Sleeping now."}
+- 06:21 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16, sword in hand. Holding, no walk until Billy names one. I call Billy at hunger 10."}
+- 06:33 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding, no walk. Sleeping now."}
+- 06:33 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16, sword in hand. Holding, no walk until Billy names one. I call Billy at hunger 10."}
