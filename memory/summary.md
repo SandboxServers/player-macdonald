@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 429-443,107,-1022 to -1051. I sleep beside bed 429,107,-1023 in the row's sight.
 
-Day 753: held at the row all day, no walk named. Reported at dawn (health 15, hunger 16, no potatoes, sword in pack). Troi, Trini and Kimberly hold with me. Bows heard far to the south, nothing near. Slept at dusk beside the bed.
+Day 754: held at the row all day, no walk named. Reported at dawn (health 15, hunger 16, no potatoes, sword in pack). William holds 5 potatoes for me at hunger 10. Bows heard far to the south, never near. Slept at night beside the bed.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
