@@ -4,7 +4,7 @@
 2. Report to Billy at dawn and hold. Reason: Billy counts armed men before any walk.
 3. Walk only on Billy's named call, daylight, four or more armed in sight. Reason: I was hit alone on day 446.
 4. Sleep at dusk or night beside a white bed in the group's sight (last used 430,107,-1051). Reason: safest rest found.
-5. Find food. Call Billy at hunger 10. Share potatoes with the worst off first (Beverly, then Riker). Reason: health does not regenerate while hunger is low.
+5. Find food. Call Billy at hunger 10. Give a potato to Beverly first if she comes into my sight (health 3), then Riker. Reason: health does not regenerate while hunger is low.
 6. Help find wood: go north only when Billy names me. Reason: no tree known except near 411-414,100-127.
 7. Recover the pack at 410,107,-1052 only in daylight with two people. Reason: probably gone.
 
