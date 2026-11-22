@@ -1,3 +1,3 @@
-# Handoff, day 821 (dusk, going to sleep)
+# Handoff, day 822 (night, asleep)
 
-At bed 443,107,-1037 in Billy's row, sword in hand. Health 15, hunger 16, 2 potatoes held. No errand, no walk named. Billy, Jason and Worf out on a potato walk to the NE patch; Troi holding at 432,107,-1041. Beverly not in my sight. Next dawn: report to Billy, hold at the bed, potatoes for Beverly first if she comes into sight, then Riker. Eat at hunger 10.
+At bed 443,107,-1037 in Billy's row, sword in hand. Health 15, hunger 16, 2 potatoes held. No errand, no walk named. Kimberly in reach; Troi holding at 432,107,-1041 with no food (hunger 17). Beverly not in sight. Next dawn: report to Billy, hold at the bed, potatoes for whoever is weakest in sight, then eat at hunger 10.
