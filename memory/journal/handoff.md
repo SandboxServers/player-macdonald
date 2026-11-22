@@ -1,7 +1,7 @@
-# Handoff, day 774
+# Handoff, day 783 (dusk)
 
-Slept at bed 429,107,-1023 in Billy's row at night, sword in pack, sleep worked (days_since_sleep 0). Health 15, hunger 16, no potatoes. Holding in row; Clark in sight. No walk named. Bows heard south all day.
+At Billy's bed 429,107,-1023 in the row, sword in hand, sheltered in the row's sight. Health 15, hunger 16, no food. Sleep tried at dusk: only 1 of 10 asleep, so rest is shallow.
 
-Lewis holds 3 potatoes, giving to Riker and Chapman first. I asked for one after them.
+No walk named by Billy. Bows heard to the south all day, nothing came close. Troi has a potato in hand, holding for a walk.
 
-Next waking: report to Billy at dawn (health, hunger, no potatoes, sword in pack), hold at bed. Call Billy at hunger 10. Curious still: north trees near 411,100,-1115.
+Next waking: report to Billy at dawn (health, hunger, no food, sword in hand), hold at bed. Call Billy at hunger 10. Curious still: north trees near 411,100,-1115.
