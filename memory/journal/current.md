@@ -12,3 +12,5 @@
 - 07:24 act: {"actions":[{"do":"note","text":"Dusk, day 773. At bed 430,107,-1023, sword in pack-hand, health 15, hunger 16, no potatoes. Bows heard south all afternoon, nothing in sight. Holding for the night."}]
 - 07:24 act: {"actions":[{"do":"sleep"}]}
 - 07:24 act: {"actions":[{"do":"sleep"}]}
+- 07:25 act: {"say":"Dusk. I am at the bed in Billy's row, sword in pack. Holding here."}
+- 07:29 act: {"say":"MacDonald reporting at dawn to Billy. Health 15, hunger 16, no potatoes. Sword in pack. Holding at the bed, no walk."}
