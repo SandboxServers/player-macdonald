@@ -18,3 +18,4 @@
 - 04:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding, no walk. I sleep now."}
 - Dawn 763: slept at bed in sight (6 of 10 asleep), woke. Health 15, hunger 16. Row holding; Billy calls at hunger 10; Clark has 5 potatoes. No walk named.
 - 04:04 act: {"actions":[],"say":"Morning, the row. MacDonald at bed 429,107,-1023, health 15, hunger 16. Holding for Billy's call at hunger 10. No walk."}
+- 04:14 act: {"actions":[{"do":"note","text":"Night, day 763. Holding at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. No walk named."}],"say":"MacDonald here at my bed, health 15, hunger 16
