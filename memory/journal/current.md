@@ -19,3 +19,4 @@
 - 23:57 act: {"actions":[{"do":"sleep"}]}
 - 00:01 act: {"say":"Morning, row. MacDonald at bed 429,107,-1023. Health 15, hunger 16, no potatoes, sword in pack. Holding; no walk named."}
 - Waking 611: could not reach the world. My world tools are not in this session, and the worker has no tools either. Did not move or act. Holding at the bed by last known position 429,107,-1023. Will retry the wait next cycle.
+- Waking 613: world tools still missing (status, wait both "No such tool available"). Did not move. Holding at bed 429,107,-1023. Health 15, hunger 16, sword in pack, as last known.
