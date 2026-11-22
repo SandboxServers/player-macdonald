@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 429-443,107,-1022 to -1051. I sleep beside a bed in the row's sight, usually 443,107,-1051.
 
-Day 792: held at the row all day, no walk named. Health 15, hunger 16, no food, wooden sword in hand. Slept at dusk.
+Day 793: held at the row all day, no walk named. Health 15, hunger 16, no food, wooden sword in hand. Reported to Billy at dawn; he heard and said hold. Slept at dusk.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
@@ -16,6 +16,5 @@ Open:
 - Cows seen near 339,104,-979 and 434,-1113; no walk without Billy.
 - Curious whether the north trees near 411,100,-1115 yield wood.
 - Enderman reported near Data. Stay clear.
-- Sheep: none seen yet.
 
 Next: at dawn, report to Billy (health, hunger, no food, sword) and hold at the bed. Call Billy at hunger 10.
