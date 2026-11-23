@@ -7,5 +7,5 @@
 5. Food: I have none. Give a potato to whoever is weakest first when one comes into reach (Trini and Leonardo are low). Call Billy at hunger 10. Reason: health does not regenerate while hunger is low.
 6. Recover the sword and potato at 444,107,-1037 only in daylight with two people and no pillager in sight. Reason: probably gone.
 
-Curious next: whether the pillager has left the west of the row.
+Curious next: whether the pillager has left the west of the row. Day 873: Billy's walk west went without me; still holding.
 Tell next: Billy, at dawn, the same report.
