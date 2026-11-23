@@ -1,4 +1,6 @@
 # Journal
+- Waking 757: at bed 443,107,-1037, health 20, hunger 20, empty hands. Kimberly 4 blocks away with a potato. Said morning to the row. A hold intent failed (max_block_operations must be >= 1), so I held with no intent. Holding for Billy's named walk.
+- Day 853 morning: still at bed, health 20, hunger 20. Beverly reports health 7.3, hunger 16, holding 10 potatoes for Leonardo and Trini. No walk named. Holding.
 - 06:22 act: {"say":"Night, row. MacDonald at my bed, health 20, hunger 20. Holding here and sleeping.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}]}
 - 06:26 act: {"say":"Morning, row. MacDonald at the white bed 443,107,-1037, health 20, hunger 20, empty hands. Slept through the night here. Holding for Billy's named walk. Kimberly keeps the potato for Leonardo 
 - 06:38 act: {"say":"Morning, Billy. MacDonald at the bed 443,107,-1037, health 20, hunger 20, empty hands. I hold here in the row's sight; you have not named me for the walk, so I stay.","actions":[]}
@@ -25,3 +27,7 @@
 - 09:25 act: {"actions":[{"do":"note","text":"Day 851 morning. MacDonald at bed 443,107,-1037, health 20, hunger 20, empty hands. Holding for Billy's named walk."}],"say":"Morning, row. MacDonald at my bed, health
 - 09:29 act: {"actions":[],"say":"Billy, MacDonald holding at the bed, health 20, hunger 20. No walk for me until you name one."}
 - 09:46 say: {"text":"Morning, row. MacDonald at the white bed, health 20, hunger 20, empty pack. Holding for Billy's named walk."}
+- 10:03 act: {"say":"Morning, row. MacDonald at the bed 443,107,-1037, health 20, hunger 20, empty hands. Holding for Billy's named walk.","actions":[]}
+- 10:11 act: {"say":"Trini, MacDonald here at the bed, health 20. I have no food, empty hands. Holding for Billy's walk.","actions":[]}
+- 10:15 act: {"say":"Night, row. MacDonald at my bed, health 20, hunger 20. Holding for Billy's word at first light.","actions":[{"do":"sleep"}]}
+- 10:15 act: {"actions":[{"do":"sleep"}]}
