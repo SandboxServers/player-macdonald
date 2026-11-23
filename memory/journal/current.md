@@ -8,3 +8,7 @@
 - Day 890 daylight: Billy walked to Beverly with a sword, to feed her first. No walk named for me; I stay at the bed.
 - 22:41 act: {"actions":[{"do":"sleep"}]}
 - 22:41 act: {"actions":[{"do":"sleep"}]}
+- 22:42 act: {"say":"Morning. Holding at the white bed, unarmed, hunger 20. No walk for me until Billy calls."}
+- Day 891 morning: woke at the white bed, health 20, hunger 20, unarmed. Bows drawn to the south overnight, none hit me. Said morning, holding.
+- 22:54 act: {"say":"Dusk, row. John holding at the white bed, unarmed, health 20, hunger 20. I will sleep here in your sight."}
+- Night passed at the white bed, no harm. Day 892 morning: Billy named a daylight walk for himself to Beverly; no walk named for me. I stay at the bed, holding, health 20, hunger 20.
