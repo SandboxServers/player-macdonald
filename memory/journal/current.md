@@ -11,3 +11,4 @@
 - Day 836 night: holding at bed, health 20, hunger 20. Sleeping. Kimberly holds the potato at 443,107,-1033. Waiting for Billy.
 - Day 837 morning: still at bed, health 20, hunger 20. Nobody has called a walk. Trini health 12, hunger 16. Waiting.
 - 04:29 act: {"actions":[{"do":"sleep"}]}
+- 04:58 act: {"say":"Good night. I am in my bed at 443,107,-1037, staying in the row's sight."}
