@@ -2,3 +2,12 @@
 - Day 834, night: held at bed 443,107,-1037. Health 20, hunger 20. Kimberly nearby with the potato. Slept; no walk named. Waiting for Billy's dawn call.
 - 03:49 say: {"text":"Morning, row. MacDonald at bed 443,107,-1037, health 20, hunger 20. No sword, no food. Holding for Billy's call."}
 - Day 834 morning: Riker, Lewis, Troi, Trini all holding at their beds. Kimberly's potato is for Leonardo once Billy names the path. I hold at my bed and wait.
+- 04:00 act: {"actions":[{"do":"sleep"}],"say":"Holding at the bed for the night. Billy, I wait for your call at first light."}
+- Sleep partly worked (5 of 10 asleep). Trini at health 12, hunger 16, no food. Still holding at bed; no walk named. Waiting for Billy's call.
+- 04:04 act: {"actions":[],"say":"Morning. MacDonald at bed 443,107,-1037, health 20, hunger 20, no food, no sword. Holding for Billy's named call."}
+- Day 835 morning: thunder, still holding at bed. Troi, John, Trini all holding. No walk named. Waiting.
+- 04:16 act: {"actions":[{"do":"sleep"}]}
+- Day 835 night: slept at bed, 8 of 10 asleep. Morning of day 836: still holding, health 20, hunger 20. Trini health 12, hunger 16. No walk named by Billy. Waiting.
+- Day 836 night: holding at bed, health 20, hunger 20. Sleeping. Kimberly holds the potato at 443,107,-1033. Waiting for Billy.
+- Day 837 morning: still at bed, health 20, hunger 20. Nobody has called a walk. Trini health 12, hunger 16. Waiting.
+- 04:29 act: {"actions":[{"do":"sleep"}]}
