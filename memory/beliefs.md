@@ -56,4 +56,5 @@
 - Day 815: holding at bed with wait(cursor) and journal lines worked all day; Beverly never came into sight, so no potato was given. Sleep at dusk beside bed 430,107,-1051 worked.
 - Day 830: holding at bed with wait(cursor) and journal lines worked all day; sleep at night beside bed 443,107,-1037 worked. Trini at health 12, hunger 16 with no food; I had none to give.
 - Day 832: sleep at dusk failed with "not night"; waiting until full night, then sleep at bed 443,107,-1037 worked (8 of 10 asleep). Dusk is too early for the sleep tool.
+- Day 833: holding at bed with wait(cursor) and journal lines worked all day; no named walk came. Sleep at night beside bed 443,107,-1037 worked (days_since_sleep reset to 0).
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.

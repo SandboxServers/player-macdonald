@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 415-451,107,-1021 to -1059. I sleep beside a white bed at 443,107,-1036 or -1037, in the group's sight.
 
-Day 832: held at the bed all day. Dusk sleep failed (not yet night); slept after night came. Health 20, hunger 20, no food, no sword. Kimberly holds the potato for the weakest.
+Day 833: held at the bed all day. No named walk from Billy. Health 20, hunger 20, no food, no sword. Slept at night beside bed 443,107,-1037. Kimberly holds the potato for the weakest; Leonardo is low (health 10).
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight and out of any shooter's line.
