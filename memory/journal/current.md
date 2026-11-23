@@ -19,3 +19,6 @@
 - 08:43 act: {"actions":[],"say":"Morning, Billy. MacDonald at my bed, health 20, hunger 20, empty pack. Potatoes go to Leonardo and Trini first. I hold for your named walk."}
 - 08:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald at my bed, health 20. Holding for first light and Billy's word."}
 - 08:52 act: {"actions":[{"do":"sleep"}]}
+- 09:11 act: {"actions":[{"do":"note","text":"Morning. Health 20, hunger 20, empty hands. Holding at bed 443,107,-1037 with the row."}],"say":"Morning, row. MacDonald at bed 443,107,-1037, health 20, hunger 20, no
+- 09:15 act: {"actions":[],"say":"Holding at bed 443,107,-1037. Health 20, hunger 20, no food. I will walk only on Billy's named call."}
+- 09:19 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Billy, MacDonald holding, no walk. It is night, I am going to my bed."}
