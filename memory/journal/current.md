@@ -15,3 +15,6 @@
 - Day 838 (thunder): still at bed, health 20, hunger 20. Trini and Leonardo need food; Kimberly holds the potato. No walk named by Billy. Holding.
 - 05:03 act: {"say":"Morning, row. MacDonald at bed 443,107,-1037, health 20, hunger 20, no food, no sword. Holding for Billy's named call."}
 - 05:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. MacDonald in my bed at 443,107,-1037, staying in the row's sight."}
+- 05:12 act: {"say":"Good night, row. MacDonald at my bed beside 443,107,-1037, health 20, hunger 20. Holding for Billy's dawn call.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
+- 05:12 act: {"actions":[{"do":"sleep"}]}
+- 05:12 act: {"actions":[{"do":"sleep"}]}
