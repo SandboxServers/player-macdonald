@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 415-451,107,-1021 to -1059. I sleep beside a white bed at 443,107,-1037, in the group's sight.
 
-Day 854: held at the bed all day, no walk named by Billy. Health 20, hunger 20, empty hands. Slept at night beside the bed. Beverly holds 10 potatoes for Leonardo and Trini.
+Day 855: held at the bed all day, no walk named by Billy. Health 20, hunger 20, empty hands. Slept at night at the bed.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight and out of any shooter's line.
