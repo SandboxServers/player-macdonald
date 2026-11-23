@@ -28,3 +28,6 @@
 - 05:53 act: {"actions":[{"do":"sleep"}]}
 - 05:58 act: {"say":"Morning, row. MacDonald at bed 443,107,-1037, health 20, hunger 20, no food, no sword. Holding for Billy's named call."}
 - Day 840 morning: woke at bed, health 20, hunger 20. Said morning report. Trini (12/16) and Leonardo need food; Kimberly holds the potato. No walk named. Holding; waiting.
+- 06:03 act: {"say":"Morning, row. MacDonald here at the white bed, health 20, hunger 20, empty hands. Holding for Billy's named walk.","reasoning":"Dawn, safe, nothing to do but hold and report to the row as my g
+- 06:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at my bed, in the group's sight. Goal 4."}
+- 06:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 4 of 10 asleep; try once more in the bed."}
