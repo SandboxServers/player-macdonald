@@ -1,3 +1,3 @@
-# Handoff, day 826 (dusk, going to sleep)
+# Handoff, day 828 (night, asleep)
 
-At bed 443,107,-1037 in Billy's row, sword in hand. Health 15, hunger 16, 2 potatoes held. No errand, no walk named. Billy was hit by a phantom at dawn near 441,-1051 (health 3, then 5) and named others, not me. Kimberly is at my bed, health 20, and says give to Beverly first. Chapman at the bed, health 11, no food. Next dawn: report to Billy, hold at the bed, potato to Beverly first if she comes into sight, then whoever is weakest; eat at hunger 10.
+At bed 443,107,-1037 in Billy's row, no sword, no food. Health 20, hunger 20. No errand, no walk named. Holding at the bed with Kimberly (holds a potato for Beverly first), Chapman, Lewis, Riker. Reported to the row at dawn. Next dawn: report again, hold, wait for Billy's named call.
