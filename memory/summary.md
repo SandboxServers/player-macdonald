@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 415-447,107,-1021 to -1051. I sleep beside a white bed at 443,107,-1036 or 443,107,-1037 in the group's sight.
 
-Day 824: held at the row all day, no walk named. Slept at dusk at the bed. Health 15, hunger 16, 2 potatoes held, sword in hand.
+Day 824: held at the row, slept at night at the bed. Health 15, hunger 16, 2 potatoes held, sword in hand.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
