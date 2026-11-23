@@ -3,3 +3,4 @@
 - 20:51 say: {"text":"Morning is near. I am holding at the white bed, unarmed, health 20, hunger 20."}
 - 21:03 say: {"text":"Dusk. I am sleeping beside the white bed at 430,107,-1023, in the row's sight. Health 20, hunger 20, unarmed."}
 - 21:04 act: {"say":"Night, row. John holding at the white bed 430,107,-1023, unarmed, health 20, hunger 20. No walk named. Sleeping here."}
+- 21:05 act: {"actions":[{"do":"note","text":"Night 886. Held at the white bed, health 20, hunger 20, unarmed. Bows drawn to the south, none hit me. Going to sleep beside the bed."}],"say":"Night in the row. Holdi
