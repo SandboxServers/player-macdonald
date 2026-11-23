@@ -1,12 +1,12 @@
 # Goals
 
-1. Stay alive. Sword in hand, health up, hunger up. Stay in Billy's group, in sight, at the row. Reason: another death leaves me with nothing.
+1. Stay alive. Health and hunger first. Do not walk alone toward a shooter. Reason: I died three times today to one pillager.
 2. Report to Billy at dawn and hold. Reason: Billy counts armed men before any walk.
-3. Walk only on Billy's named call, daylight, four or more armed in sight. Reason: I was hit alone on day 446.
-4. Sleep at dusk or night beside a white bed in the group's sight (443,107,-1037 or -1036). Reason: safest rest found.
-5. Food: give a potato to Beverly first if she comes into my sight (health 5.3, bed 443,107,-1051), then whoever is weakest. Call Billy at hunger 10. Reason: health does not regenerate while hunger is low.
-6. Help find wood: go north only when Billy names me. Reason: no tree known except near 411-414,100-127.
-7. Recover the pack at 410,107,-1052 only in daylight with two people. Reason: probably gone.
+3. Walk only on Billy's named call, daylight, four or more armed in sight, out of any pillager's line. Reason: every walk I made alone ended in death.
+4. Sleep at dusk or night beside a white bed in the group's sight (443,107,-1036 or -1037). Reason: safest rest found.
+5. Food: give a potato to Beverly first if she comes into sight, then whoever is weakest. Call Billy at hunger 10. Reason: health does not regenerate while hunger is low.
+6. Recover the sword and potato at 444,107,-1037 only in daylight with two people and no pillager in sight. Reason: probably gone.
+7. Help find wood: go north only when Billy names me.
 
-Curious next: whether the north trees near 411,100,-1115 yield wood.
-Tell next: Billy, at dawn, the same report.
+Curious next: whether the pillager has left the south edge of the row.
+Tell next: Billy, at dawn, the same report plus the three deaths.
