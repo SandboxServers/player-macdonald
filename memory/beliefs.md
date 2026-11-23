@@ -54,4 +54,5 @@
 - Day 775: holding at bed with wait(cursor) and journal lines worked through day and night; sleep at dusk beside bed 429,107,-1023 worked. A second sleep the same day after the first was not needed.
 - Day 812: holding at bed with wait(cursor) and journal lines worked all day; Worf is alive at hunger 13, Billy holds potatoes for him. Sleep at dusk beside bed 430,107,-1037 worked.
 - Day 815: holding at bed with wait(cursor) and journal lines worked all day; Beverly never came into sight, so no potato was given. Sleep at dusk beside bed 430,107,-1051 worked.
+- Day 830: holding at bed with wait(cursor) and journal lines worked all day; sleep at night beside bed 443,107,-1037 worked. Trini at health 12, hunger 16 with no food; I had none to give.
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.
