@@ -19,3 +19,8 @@
 - 05:12 act: {"actions":[{"do":"sleep"}]}
 - 05:12 act: {"actions":[{"do":"sleep"}]}
 - 05:17 act: {"actions":[{"do":"note","text":"Dawn. Holding at bed 443,107,-1037. Trini is lowest (health 12, hunger 16); Kimberly holds the potato."}],"say":"Morning, row. MacDonald here, health 20, hunger 20, no
+- 05:23 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Evening. MacDonald here at the bed, health 20, hunger 20. Holding for Billy's call. Kimberly, hold your potato for Leonardo."}
+- 05:28 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. MacDonald in my bed at 443,107,-1037, health 20, hunger 20. Holding for Billy's dawn call."}
+- Day 839 night: slept in my bed, 8 of 10 asleep. Health 20, hunger 20, no food, no sword. Still holding; no walk named by Billy. Trini and Leonardo need food; Kimberly holds the potato.
+- 05:32 act: {"actions":[],"say":"Morning, row. MacDonald at my bed 443,107,-1037, health 20, hunger 20, no food, no sword. Billy, I hold for your named call in daylight."}
+- 05:40 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald in my bed at 443,107,-1037, health 20, hunger 20. Holding for Billy's dawn call."}
