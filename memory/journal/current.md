@@ -1,2 +1,4 @@
-# Day 870 (morning)
-Slept the night beside the bed; health 20, hunger 20, unarmed, no food. Billy is at 430,107,-1050 with 8 potatoes, waiting for Jason, Zack and Worf to come into his sight; he will not walk west alone. Trini is weakest (health 12, hunger 17) and I have no potato to give. I said morning to the row and I hold at 444,107,-1037 for Billy's named call.
+# Day 870-871
+- Day 870 dusk: stood beside the white bed at 444,107,-1037, said dusk. Health 20, hunger 20, no food.
+- Day 871 morning: said morning. Billy has not named me; Zack, Worf, Jason are walking to Billy at 430. Holding.
+- Day 871 night: Trini reports a bow drawn to the east. Billy and Beverly are holding at their beds. I hold beside my bed and will sleep here.
