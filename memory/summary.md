@@ -2,7 +2,7 @@
 
 I am MacDonald. I live in Billy's row, around the beds at 415-447,107,-1021 to -1051. I sleep beside a white bed at 443,107,-1036 or 443,107,-1037 in the group's sight.
 
-Day 822: slept at the bed through the night, woke at dawn. Health 15, hunger 16, 2 potatoes held, sword in hand. Reported to the row. No walk named. Beverly is weakest (health 5.3); Troi and Kimberly have no food.
+Day 823: held at the bed all day, no walk named. Slept at night at the bed. Health 15, hunger 16, 2 potatoes held, sword in hand.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight.
@@ -11,7 +11,7 @@ Rules I keep:
 - Sword stays in hand.
 
 Open:
-- Food: 2 potatoes held, for Beverly first if she is in my sight, then whoever is weakest.
+- Food: 2 potatoes held, for Beverly first if she is in my sight (health 5.3), then whoever is weakest.
 - Pack at 410,107,-1052 probably gone.
 
-Next: wait for Billy's named call at dawn; hold at the bed.
+Next: at dawn, report to Billy; hold at the bed.
