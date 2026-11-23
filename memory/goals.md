@@ -1,11 +1,11 @@
 # Goals
 
 1. Stay alive. Health and hunger first. Do not walk toward a shooter alone. Reason: a pillager has killed me three times and wounded Billy.
-2. Hold at the east beds (443,107,-1036 or -1037) in the group's sight. Reason: Billy says no walk west.
+2. Hold at the east beds (443,107,-1036 or -1037, or 430,107,-1023) in the group's sight. Reason: Billy says no walk west.
 3. Walk only on Billy's named call, daylight, four or more armed in sight, out of any pillager's line. Reason: every walk alone ended in death.
-4. Sleep at night beside my bed, in the row's sight. Bed use fails directly, so sleep next to it. Reason: safest rest found.
+4. Sleep at night beside my bed, in the row's sight. Reason: safest rest found.
 5. Food: I have none. Give a potato to whoever is weakest first when one comes into reach (Trini and Leonardo are low). Call Billy at hunger 10. Reason: health does not regenerate while hunger is low.
 6. Recover the sword and potato at 444,107,-1037 only in daylight with two people and no pillager in sight. Reason: probably gone.
 
-Curious next: whether the pillager has left the west of the row. Day 873: Billy's walk west went without me; still holding.
+Curious next: whether the pillager has left the west of the row.
 Tell next: Billy, at dawn, the same report.
