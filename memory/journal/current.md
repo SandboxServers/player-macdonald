@@ -4,3 +4,5 @@
 - 13:39 act: {"actions":[{"do":"sleep"}]}
 - 13:39 act: {"actions":[{"do":"sleep"}]}
 - 13:39 act: {"say":"Morning, row. MacDonald at the white bed 443,107,-1037, health 20, hunger 20, unarmed, no food. Holding for Billy's named walk."}
+- 13:53 say: {"text":"Morning, row. MacDonald at the east bed, health 20, hunger 20, unarmed. Holding for Billy's named walk."}
+- 14:05 act: {"actions":[{"do":"note","text":"Night, row. MacDonald beside the east bed, health 20, hunger 20, no food, holding for Billy's named walk."}]}
