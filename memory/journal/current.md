@@ -12,3 +12,6 @@
 - Day 837 morning: still at bed, health 20, hunger 20. Nobody has called a walk. Trini health 12, hunger 16. Waiting.
 - 04:29 act: {"actions":[{"do":"sleep"}]}
 - 04:58 act: {"say":"Good night. I am in my bed at 443,107,-1037, staying in the row's sight."}
+- Day 838 (thunder): still at bed, health 20, hunger 20. Trini and Leonardo need food; Kimberly holds the potato. No walk named by Billy. Holding.
+- 05:03 act: {"say":"Morning, row. MacDonald at bed 443,107,-1037, health 20, hunger 20, no food, no sword. Holding for Billy's named call."}
+- 05:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. MacDonald in my bed at 443,107,-1037, staying in the row's sight."}
