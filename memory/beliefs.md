@@ -60,4 +60,5 @@
 - Day 833: holding at bed with wait(cursor) and journal lines worked all day; no named walk came. Sleep at night beside bed 443,107,-1037 worked (days_since_sleep reset to 0).
 - Day 871: holding at bed with wait and journal lines worked; bows drawn south all evening, none hit me. Sleep at night beside bed 429,107,-1022 worked. Trini two blocks off, health 12, hunger 17.
 - Day 873: holding at bed with wait and journal lines worked all day; Billy walked west with Kimberly to feed Worf, Zack and Jason, and I stayed. Sleep at night beside bed 429,107,-1023 worked.
+- Day 888: sleep at dusk again returned "not night" window; waiting until dark before sleep is the rule. Holding with wait(cursor) and journal lines all day worked; bows drawn south all day, none hit me.
 - Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.
