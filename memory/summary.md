@@ -11,7 +11,7 @@ Rules I keep:
 - Sword stays in hand.
 
 Open:
-- Food: 2 potatoes held. Beverly (health 5.3, bed 430,-1051) first if she comes into my sight, then whoever is weakest.
+- Food: 2 potatoes held. Beverly (health 5.3, bed 443,107,-1051) first if she comes into my sight, then whoever is weakest.
 - Pack at 410,107,-1052 probably gone.
 
 Next: at dawn, report to Billy; hold at the bed.
