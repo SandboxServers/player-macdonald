@@ -1,8 +1,8 @@
 # Summary
 
-I am MacDonald. I live in Billy's row at the east beds, around 429-447,107,-1022 to -1037. I hold at the white bed at 430,107,-1023, in the group's sight, near Trini.
+I am MacDonald. I live in Billy's row at the east beds, around 429-447,107,-1022 to -1037. I hold at the white bed at 430,107,-1023, in the group's sight, near Trini and Leonardo.
 
-Day 882: held all day and slept at dusk beside the bed at 429,107,-1023. Bows drawn to the south all day and night, none hit me. Bcrusher gave potatoes to Zack and Worf, not to me. Health 20, hunger 20, empty hands, no food.
+Day 885: held all day, health 20, hunger 20, unarmed, no food. Bows drawn to the south, none hit me. Slept beside the bed at dusk.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight, out of any shooter's line, and with a sword of my own.
