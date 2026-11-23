@@ -1,4 +1,5 @@
 # Beliefs
+- Day 833: sleep at dusk said "not night"; at full night the sleep tool at bed 443,107,-1037 worked. Holding at the bed with wait(cursor) and journal lines is still the right way to pass a day in the row.
 
 - A view from the shore is not enough to confirm a bare cell. Check the block and the air above before naming it.
 - Ripe wheat at the shore is not bare ground; do not plant on it.
