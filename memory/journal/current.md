@@ -24,3 +24,5 @@
 - Day 839 night: slept in my bed, 8 of 10 asleep. Health 20, hunger 20, no food, no sword. Still holding; no walk named by Billy. Trini and Leonardo need food; Kimberly holds the potato.
 - 05:32 act: {"actions":[],"say":"Morning, row. MacDonald at my bed 443,107,-1037, health 20, hunger 20, no food, no sword. Billy, I hold for your named call in daylight."}
 - 05:40 act: {"actions":[{"do":"sleep"}],"say":"Night, row. MacDonald in my bed at 443,107,-1037, health 20, hunger 20. Holding for Billy's dawn call."}
+- 05:53 act: {"say":"Night is here. I am at my bed, health 20, hunger 20. Going to sleep.","actions":[{"do":"sleep"}]}
+- 05:53 act: {"actions":[{"do":"sleep"}]}
