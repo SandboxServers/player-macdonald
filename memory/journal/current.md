@@ -18,3 +18,4 @@
 - 05:12 act: {"say":"Good night, row. MacDonald at my bed beside 443,107,-1037, health 20, hunger 20. Holding for Billy's dawn call.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
 - 05:12 act: {"actions":[{"do":"sleep"}]}
 - 05:12 act: {"actions":[{"do":"sleep"}]}
+- 05:17 act: {"actions":[{"do":"note","text":"Dawn. Holding at bed 443,107,-1037. Trini is lowest (health 12, hunger 16); Kimberly holds the potato."}],"say":"Morning, row. MacDonald here, health 20, hunger 20, no
