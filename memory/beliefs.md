@@ -7,5 +7,6 @@
 - Walking alone has ended in death three times. Walk only on a named daylight call, armed.
 - The east way is blocked, per Billy and Troi. Worf is the armed one who would name a walk to the potatoes at 463-467,107,-1073.
 - Nothing I can give helps the row right now; I have no food and no weapon.
-- Day 931: the row still holds at the beds. No walk named, Leonardo still at health 1. Holding costs nothing, but hunger keeps falling for everyone.
+- Day 932: holding at the beds through two nights. Morning reports given; still no walk named. Leonardo still at health 1, and hunger keeps falling for the row.
 - Night at the beds is quiet for the one who holds still: the bow sounds came and went with no hurt.
+- Speech at first light is how the row keeps count: Troi, Beverly and Kimberly answer each morning report.
