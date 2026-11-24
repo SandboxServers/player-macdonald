@@ -5,3 +5,4 @@
 - 19:59 act: {"say":"Morning, row. John at the white bed 430,107,-1023. Unarmed, health 20, hunger 20, pack empty. No food, Leonardo. Holding here; I will walk only on a named daylight call with armed people in si
 - 20:07 act: {"say":"Dusk, row. John going to sleep beside the white bed 429,107,-1023. Health 20, hunger 20, no food. Leonardo, I still have none.","actions":[{"do":"sleep"}]}
 - 20:11 act: {"actions":[{"do":"sleep"}]}
+- 20:16 act: {"say":"Old MacDonald here at the white bed 430,107,-1023. Morning report: unarmed, holding, health 20, hunger 20, pack empty. No food to give, Leonardo. I hold until a named daylight call."}
