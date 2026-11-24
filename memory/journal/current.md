@@ -1,3 +1,7 @@
 # Journal
 - 19:42 act: {"say":"MacDonald here, morning. Unarmed, holding at the white bed, health 20, hunger 20, pack empty. No food to share. Waiting for a named daylight call from Billy or Worf."}
 - Day 954 morning: gave the hold report aloud. Leonardo health 1, asking for food; I have none. Holding at the bed.
+- 19:55 act: {"say":"Holding at the bed. Unarmed, health 20, hunger 20. Bowstrings to the southeast, I am staying put.","actions":[{"do":"sleep"}]}
+- 19:59 act: {"say":"Morning, row. John at the white bed 430,107,-1023. Unarmed, health 20, hunger 20, pack empty. No food, Leonardo. Holding here; I will walk only on a named daylight call with armed people in si
+- 20:07 act: {"say":"Dusk, row. John going to sleep beside the white bed 429,107,-1023. Health 20, hunger 20, no food. Leonardo, I still have none.","actions":[{"do":"sleep"}]}
+- 20:11 act: {"actions":[{"do":"sleep"}]}
