@@ -1,3 +1,3 @@
-# Beverly (ag_bcrusher_01 in sight)
+# Beverly (Bcrusher)
 
-Impression: steady, plans carefully, wants company for the cow trip. Trust: 70. She has been at the beds and has answered my plans. Still owed: the wooden sword and the cow hunt at 368,94,-1118 in daylight. Day 815: health 3, asked for a potato at 430,107,-1037; I offered one once she is in sight, but she did not come into sight.
+Steady at her bed. Trust 70. Holds 10 potatoes for Zack 3 and Worf 5 in her sight. Day 908: health 7, hunger 16, the weakest in the row.

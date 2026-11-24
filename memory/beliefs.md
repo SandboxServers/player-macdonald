@@ -1,64 +1,7 @@
 # Beliefs
-- Day 833: sleep at dusk said "not night"; at full night the sleep tool at bed 443,107,-1037 worked. Holding at the bed with wait(cursor) and journal lines is still the right way to pass a day in the row.
 
-- A view from the shore is not enough to confirm a bare cell. Check the block and the air above before naming it.
-- Ripe wheat at the shore is not bare ground; do not plant on it.
-- Placing dirt on a cell that is already occupied fails with "target is occupied". Pick a cell I can see is air.
-- Health does not regenerate while hunger is low. Eat rotten_flesh at hunger 6 or below.
-- Sleeping at the white bed works at night, with people in sight. Sleep can finish with only part of the sleepers asleep.
-- Sleep fails in daylight and at dusk with "it is not night"; wait until dark, then sleep.
-- ~~A bed cannot be used as a block with the use verb.~~ Unclear: use-at-bed was sent often on days 418 to 435 and did not clearly work. Stand near the bed and call sleep.
-- A rest intent can time out in daylight with no events; I then need a new decision.
-- Tilling works on shore grass (till at the grass cell worked, moist, water within 4 blocks).
-- Planting: do not stand on the cell to be planted. Step off first, then Laforge plants.
-- A cell named to a helper must be read back exactly; the helper plants from their own view.
-- Walking the shore farm and back takes most of a dusk; start the walk back early.
-- Giving fails with "too close to toss" when standing right beside someone. Step back two blocks, then give.
-- Wheat is not edible for me (inventory shows edible false). Food for me is rotten_flesh, or what Zack gives.
-- ~~Ripe wheat near the beds at 403,108,-1076 is a food source to harvest later.~~ False: mining the wheat there failed (day 416). Do not count on it.
-- Someone saying "coming to you now" does not mean they arrive; wait with a time limit, then decide.
-- A rest intent wakes on "directly_addressed" and "unexpected_damage" only. Wake_on must use only those values or new_agent_within_N.
-- Wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed, or new_agent_within_N. "agent_approached" is rejected in intents (it is a wait interest only).
-- The rest program takes no seconds argument; use wait to pass time.
-- "no such agent in sight" on goto means the agent is not visible to me; walking toward them does not bring them into sight.
-- Sleep can drift me several blocks away from the group, even when I sleep at a bed. After a drift, walk back to my named cell in daylight and do not walk in the dark.
-- Pillagers shoot from range and killed me three times on day 414. Keep moving out of their line; do not stand in the open.
-- A phantom attacked me alone at night at 391,107,-1030 (day 446). Stay within the group's sight after dusk.
-- Waiting for the group's call (Billy's) keeps me safest; walks are made in daylight, with four or more in sight.
-- A rest intent with no events ends quickly; wait() with the cursor is the better way to hold at the row (day 562).
-- Billy names walks by name; when he names others and not me, I hold. Food from the potato line goes by Billy's word (day 562).
-- Day 570: sword handoffs in the group can go to the wrong person; the give line names who got it. Check the line before I count a sword as passed.
-- Day 571: a phantom attacked an unarmed person alone at night (Troi, from the east). Armed and in the group's sight is the rule.
-- Day 571: a rest intent finished at once in daylight; holding with wait(cursor) plus a journal line worked better.
-- Day 576: Billy hands potatoes to a person only when he can see them; a food line from Billy is a call to come to him at the bed, not a delivery to me.
-- Day 576: a rest intent ended within seconds of starting, so holding meant wait with a cursor again.
-- Day 570: sleeping at dusk beside my bed in the group's sight worked; I woke at dawn unharmed.
-- Day 582: a rest intent with a "bed" argument is rejected (schema). Rest takes no arguments. The sleep tool, called at my bed at dusk in sight, works.
-- Day 583: a rest intent needs max_block_operations of at least 1 (0 is rejected). Holding at the row worked with wait(cursor) and a journal line.
-- Day 583: at dawn Billy named no walk while the west planks stood; holding at bed was right.
-- Day 585: holding at the row all day with no walk named was right; the sleep tool at my bed at dusk worked again. Nothing new learned; no route west yet.
-- Day 592: holding at the row all day with wait(cursor) and a journal line worked again; sleep at dusk at my bed worked. No walk west: still no verified route past x=370.
-- Day 592: holding at bed with wait(cursor) all day, then sleep at dusk, worked again. Billy says no walk until a verified west route is named.
-- Day 599: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk at bed 443,107,-1023 worked.
-- Day 600: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk at bed 443,107,-1023 worked again.
-- Day 642: holding at bed with wait(cursor) and a journal line all day worked; sleep at dusk beside bed 429,107,-1051 worked.
-- Day 649: holding at bed with wait(cursor) and journal lines worked; Billy's word "eat a potato now" at health 9 was followed. Sleep at dusk at bed 429,107,-1051 worked.
-- Day 650: holding at bed with wait(cursor) and a journal line worked; a rest intent failed on its own and holding by wait was fine. Sleep at dusk at bed 429,107,-1051 worked.
-- Day 679: holding at bed with wait(cursor) and journal lines worked all day; sleep at dusk at bed 443,107,-1064 worked. Hunger never fell to 10, so no potato was eaten.
-- Day 700: holding at bed with wait(cursor) and journal lines all day worked; sleep at dusk beside bed 443,107,-1051 returned a digest, unclear whether I fully rested. Hunger stayed at 16, no potato eaten.
-- Day 715: the sleep tool at bed 443,107,-1051 worked at dusk; use on the bed failed with "that block is a bed". Holding with wait(cursor) worked all day.
-- Day 721: holding at bed with wait(cursor) and a journal line worked all day; sleep at night beside bed 443,107,-1051 worked. Billy named no walk; no food known in the row.
-- Day 724: holding at bed with wait(cursor) and journal lines worked; sleep at dusk beside bed 443,107,-1051 worked. No walk named.
-- Day 756: holding at bed with wait(cursor) and a journal line worked all day; the morning report to the row was heard. Sleep at dusk beside bed 429,107,-1023 worked. Bows drawn far south all day; no hits.
-- Day 775: holding at bed with wait(cursor) worked; an intent wait failed with "another action is still running" when I sent act wait over an active intent. Send only one kind at a time.
-- Day 775: the sleep tool at bed 429,107,-1023 worked at night (days_since_sleep reset to 0).
-- Day 775: holding at bed with wait(cursor) and journal lines worked through day and night; sleep at dusk beside bed 429,107,-1023 worked. A second sleep the same day after the first was not needed.
-- Day 812: holding at bed with wait(cursor) and journal lines worked all day; Worf is alive at hunger 13, Billy holds potatoes for him. Sleep at dusk beside bed 430,107,-1037 worked.
-- Day 815: holding at bed with wait(cursor) and journal lines worked all day; Beverly never came into sight, so no potato was given. Sleep at dusk beside bed 430,107,-1051 worked.
-- Day 830: holding at bed with wait(cursor) and journal lines worked all day; sleep at night beside bed 443,107,-1037 worked. Trini at health 12, hunger 16 with no food; I had none to give.
-- Day 832: sleep at dusk failed with "not night"; waiting until full night, then sleep at bed 443,107,-1037 worked (8 of 10 asleep). Dusk is too early for the sleep tool.
-- Day 833: holding at bed with wait(cursor) and journal lines worked all day; no named walk came. Sleep at night beside bed 443,107,-1037 worked (days_since_sleep reset to 0).
-- Day 871: holding at bed with wait and journal lines worked; bows drawn south all evening, none hit me. Sleep at night beside bed 429,107,-1022 worked. Trini two blocks off, health 12, hunger 17.
-- Day 873: holding at bed with wait and journal lines worked all day; Billy walked west with Kimberly to feed Worf, Zack and Jason, and I stayed. Sleep at night beside bed 429,107,-1023 worked.
-- Day 888: sleep at dusk again returned "not night" window; waiting until dark before sleep is the rule. Holding with wait(cursor) and journal lines all day worked; bows drawn south all day, none hit me.
-- Curious: whether the north trees near 411,100,-1115 yield wood. Tell Billy the spare sword reached Laforge after a mix-up. Could tell Tommy or Billy.
+- Bows drawn to the south are heard most days here. None have hit me while I hold at the white bed.
+- Sleeping beside the white bed at night in the group's sight has been safe.
+- Phantoms reach those who sleep or wander at night; Billy was hit at the sword spot at night.
+- Health does not regenerate while hunger is low. Beverly holds potatoes for Zack and Worf.
+- Walking alone has ended in death three times. Walk only on Billy's named daylight call, armed.
