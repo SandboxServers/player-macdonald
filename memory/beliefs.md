@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 965: held at the bed all day; bows drawn south, no hits. Worf and Billy named no route. Sleeping beside the bed at night was safe again.
+
 - Day 963: held at the bed all day; bows drawn south and southeast, no hits. A rest intent ended at once, so a plain wait works better for holding. Leonardo still at health 1 needing food.
 - Bows drawn to the south and southeast are heard most days here. None have hit me while I hold at the white bed.
 - Sleeping beside the white bed at night in the group's sight has been safe for me.

@@ -1,6 +1,6 @@
 # Handoff
 
 - Where: 430,107,-1023, beside white bed 429,107,-1023. Unarmed, health 20, hunger 20, pack empty.
-- Day 964: morning report given. Held at the bed all day. No named daylight call from Billy or Worf; Billy still sees no open air. Leonardo (health 1, hunger 17) still needs potato or bread; I have none. Bows drawn to the south all day, nobody hit.
-- Night 964: slept beside the bed in the row's sight.
+- Day 965: morning report given twice. Held at the bed all day. No named daylight call from Worf or Billy. Billy and Troi hold, in the row's sight. Leonardo (health 1) still has no food. Bows drawn to the south all day, nobody hit.
+- Night 965: going to sleep beside the bed in the row's sight.
 - Next: at first light give a short report, hold at the bed, walk only on a named daylight call with four or more armed and a sword of my own.
