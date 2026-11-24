@@ -1,8 +1,8 @@
 # Summary
 
-I am MacDonald (John). I live in Billy's row at the east beds, around 429-447,107,-1022 to -1037. I hold at the white bed 430,107,-1023, in the group's sight, near Beverly (Bcrusher), Trini, Leonardo, Chapman and Billy.
+I am MacDonald (John). I live in Billy's row at the east beds, around 429-447,107,-1022 to -1037. I hold at the white bed 430,107,-1023, in the group's sight, near Beverly, Chapman, Leonardo, Trini and Billy.
 
-Day 895: held through the day, no errand. Health 20, hunger 20, unarmed, no food. Slept beside the bed at dusk and woke in the row.
+Day 898: held all day, no walk. Bows drawn to the south throughout. Health 20, hunger 20, unarmed, no food. Slept beside the bed at night and woke in the row.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on Billy's named call, with four or more armed in sight, out of any shooter's line, and with a sword of my own.
