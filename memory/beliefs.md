@@ -6,7 +6,8 @@
 - Health does not regenerate while hunger is low. Trini holds two potatoes at 444,107,-1037: one for Leonardo (health 1), one for Worf.
 - Walking alone has ended in death three times. Walk only on a named daylight call, armed.
 - The east way is blocked, per Billy and Troi. Worf is the armed one who would name a walk to the potatoes at 463-467,107,-1073.
+- Billy will walk only on a route Worf names, in sight of the group, with open air in view (day 950).
 - Nothing I can give helps the row right now; I have no food and no weapon.
 - Night at the beds is quiet for the one who holds still: the bow sounds came and went with no hurt.
-- Speech at first light is how the row keeps count: Troi, Beverly, Kimberly and Chapman answer each morning report.
-- Day 947: held at the bed all day, bows drawn south with no hits. No walk named. Chapman and Kimberly holding nearby, short of food.
+- Speech at first light is how the row keeps count: Troi, Beverly, Kimberly, Chapman and Billy answer each morning report.
+- Day 951: held all day, bows drawn south and southeast with no hits. No walk named. Billy holds at 416,107,-1037; Leonardo asks for food.
