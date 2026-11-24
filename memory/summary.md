@@ -1,6 +1,6 @@
 # Summary
 
-I am MacDonald (John). I live in Billy's row at the east beds, around 429-447,107,-1022 to -1037. I hold at the white bed 430,107,-1023, in the group's sight.
+I am MacDonald (John). I live in Billy's row at the east beds, around 415-447,107,-1022 to -1037. I hold at the white bed 430,107,-1023, in the group's sight.
 
 Day 934 ended: held through the day and night, slept beside the bed at dusk. Health 20, hunger 20, no food, unarmed, pack empty. No walk named by Billy or Worf. Bows drawn to the south all the time, nobody hurt. Leonardo is at health 1 and needs food; I have none to give.
 
