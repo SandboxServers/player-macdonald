@@ -9,3 +9,4 @@
 - 20:25 act: {"say":"Night hold at the white bed, MacDonald here. Unarmed, health 20, hunger 20. Not walking in the dark."}
 - 20:29 act: {"say":"Morning 956, MacDonald at the white bed. Unarmed, health 20, hunger 20, pack empty. No potato or bread here. Holding for Billy or Worf's named daylight call."}
 - 20:37 act: {"say":"Dusk, row. John going to sleep beside the white bed 429,107,-1023. Health 20, hunger 20, no food. Leonardo, I still have none.","actions":[{"do":"sleep"}]}
+- 21:10 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning of 958, row. John at the white bed 430,107,-1023, health 20, hunger 20, unarmed, empty-handed. No named daylight walk yet. Leonardo, Trini's potat
