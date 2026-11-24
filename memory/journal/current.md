@@ -1,16 +1,1 @@
 # Journal
-- 19:42 act: {"say":"MacDonald here, morning. Unarmed, holding at the white bed, health 20, hunger 20, pack empty. No food to share. Waiting for a named daylight call from Billy or Worf."}
-- Day 954 morning: gave the hold report aloud. Leonardo health 1, asking for food; I have none. Holding at the bed.
-- 19:55 act: {"say":"Holding at the bed. Unarmed, health 20, hunger 20. Bowstrings to the southeast, I am staying put.","actions":[{"do":"sleep"}]}
-- 19:59 act: {"say":"Morning, row. John at the white bed 430,107,-1023. Unarmed, health 20, hunger 20, pack empty. No food, Leonardo. Holding here; I will walk only on a named daylight call with armed people in si
-- 20:07 act: {"say":"Dusk, row. John going to sleep beside the white bed 429,107,-1023. Health 20, hunger 20, no food. Leonardo, I still have none.","actions":[{"do":"sleep"}]}
-- 20:11 act: {"actions":[{"do":"sleep"}]}
-- 20:16 act: {"say":"Old MacDonald here at the white bed 430,107,-1023. Morning report: unarmed, holding, health 20, hunger 20, pack empty. No food to give, Leonardo. I hold until a named daylight call."}
-- 20:25 act: {"say":"Night hold at the white bed, MacDonald here. Unarmed, health 20, hunger 20. Not walking in the dark."}
-- 20:29 act: {"say":"Morning 956, MacDonald at the white bed. Unarmed, health 20, hunger 20, pack empty. No potato or bread here. Holding for Billy or Worf's named daylight call."}
-- 20:37 act: {"say":"Dusk, row. John going to sleep beside the white bed 429,107,-1023. Health 20, hunger 20, no food. Leonardo, I still have none.","actions":[{"do":"sleep"}]}
-- 21:10 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning of 958, row. John at the white bed 430,107,-1023, health 20, hunger 20, unarmed, empty-handed. No named daylight walk yet. Leonardo, Trini's potat
-- 21:30 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Johnny at the bed for the night, 430,107,-1023. Holding. Goodnight, row."}
-- 21:34 act: {"actions":[],"say":"Johnny at the white bed 430,107,-1023, morning. Health 20, hunger 20, unarmed, nothing to give. Holding for Billy or Worf's named route."}
-- 22:03 act: {"actions":[],"say":"Johnny at the white bed 430,107,-1023. Holding. No potato or bread on me, Leonardo, so I cannot help yet. I will give mine first if any comes into reach."}
-- 22:11 act: {"actions":[],"say":"Night on 961. Johnny at the white bed, health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
