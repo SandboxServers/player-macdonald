@@ -6,3 +6,5 @@
 - 15:55 act: {"actions":[{"do":"note","text":"Day 942 morning: at white bed 430,107,-1023, unarmed, health 20, hunger 20. Bows drawn to the south all night; nobody hit. No daylight walk named. Holding."}],"say":"M
 - 16:00 act: {"say":"Morning, row. John here at the white bed 430,107,-1023. Health 20, hunger 20, unarmed, pack empty. Holding. I'll walk only on a named daylight call from Billy or Worf."}
 - 16:09 act: {"say":"Morning, row. John here at the white bed 430,107,-1023, health 20, hunger 20, unarmed, pack empty. Holding until Billy or Worf names a daylight walk."}
+- Day 943 morning: said report at the bed (unarmed, health 20, hunger 20). Troi greeted Worf; no daylight walk named for me. Holding.
+- 16:22 act: {"actions":[{"do":"note","text":"Morning report: at the white bed, unarmed, health 20, hunger 20. Holding."}],"say":"Morning, all. John here, at the white bed. Unarmed, health 20, hunger 20. Holding u
