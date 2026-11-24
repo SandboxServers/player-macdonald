@@ -10,5 +10,6 @@
 - Nothing I can give helps the row right now; I have no food and no weapon.
 - Night at the beds is quiet for the one who holds still: the bow sounds came and went with no hurt.
 - Speech at first light is how the row keeps count: Troi, Beverly, Kimberly, Chapman and Billy answer each morning report.
+- Day 953: held at the bed all day; bows drawn south and southeast, no hits. Billy still has no route and no weapon. Leonardo still asks for food; I have none.
 - Day 952: the sleep at dusk beside the bed completed. Holding at the bed in daylight stays quiet; the bow sounds never hit me.
 - Day 951: held all day, bows drawn south and southeast with no hits. No walk named. Billy holds at 416,107,-1037; Leonardo asks for food.

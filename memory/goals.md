@@ -8,4 +8,4 @@
 6. Recover the sword and potato at 444,107,-1037 only in daylight with two people and no pillager in sight.
 
 Curious next: whether Worf names a daylight route, and whether potato routing reaches Leonardo and Beverly.
-Tell next: at first light, the row gets the same report: unarmed, holding, health 20, hunger 20.
+Tell next: at first light, the row gets the morning hold report: unarmed, holding, health 20, hunger 20.
