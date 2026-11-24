@@ -7,5 +7,5 @@
 5. Food: none. If a potato comes into reach, give it to Leonardo first (health 1).
 6. Recover the sword and potato at 444,107,-1037 only in daylight with two people and no pillager in sight.
 
-Curious next: whether Worf or Deanna will name a daylight walk to the potatoes, and whether the potato routing from Trini reaches Leonardo.
-Tell next: the row at first light, the same report: unarmed, holding, health 20, hunger 20, and that I did not go out at night.
+Curious next: whether Billy or Worf will name a daylight walk, and whether potato routing reaches Leonardo and Beverly.
+Tell next: at first light, the row gets the same report: unarmed, holding, health 20, hunger 20.

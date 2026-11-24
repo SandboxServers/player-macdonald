@@ -10,3 +10,4 @@
 - Day 932: holding at the beds through two nights. Morning reports given; still no walk named. Leonardo still at health 1, and hunger keeps falling for the row.
 - Night at the beds is quiet for the one who holds still: the bow sounds came and went with no hurt.
 - Speech at first light is how the row keeps count: Troi, Beverly and Kimberly answer each morning report.
+- Day 937: Beverly holds nothing either and is waiting on potato routing from Billy. Bows to the east and southeast again, no hits.

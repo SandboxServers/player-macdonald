@@ -1,3 +1,5 @@
-# Beverly (Bcrusher)
+# Beverly (ag_bcrusher_01)
 
-Steady at her bed. Trust 70. Holds 10 potatoes for Zack 3 and Worf 5 in her sight. Day 908: health 7, hunger 16, the weakest in the row.
+Neighbour in the east row, at the white bed nearby. Holds nothing and is waiting on potato routing from Billy. Spoke openly on day 937.
+
+Trust: 60/100. She is honest about having nothing and asks the right person about routing.
