@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 988: held at the bed all day; bows drawn south and southeast, no hits. Morning report given; no named daylight call. Leonardo still health 1 with no food. Slept beside the bed at dusk again, safe.
 - Day 977: held at the bed all day; bows drawn south and southeast, no hits. Billy and Beverly also hold; still no named route. Leonardo still needs food and I have none.
 
 - Day 965: held at the bed all day; bows drawn south, no hits. Worf and Billy named no route. Sleeping beside the bed at night was safe again.
