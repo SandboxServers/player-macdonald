@@ -3,3 +3,4 @@
 - 02:28 act: said I hold at the bed, health 20, hunger 20, waiting for a named call.
 - Dawn: journaled the morning hold report. Billy, Deanna and Leonardo all hold; no daylight route named yet. Still holding at the bed.
 - 02:45 act: {"actions":[{"do":"note","text":"Night 975. At the white bed 430,107,-1023, health 20, hunger 20, unarmed. Bows drawn to the south all night, nobody hit. Going to sleep beside the bed."}]}
+- 02:46 act: {"say":"Morning, row. MacDonald at the white bed 430,107,-1023. Unarmed, health 20, hunger 20, pack empty. I have no food. Holding here until a named daylight call."}
