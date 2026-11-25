@@ -9,3 +9,4 @@
 - 18:06 act: {"say":"Good morning, Deanna. John here at the white bed. Unarmed, holding, health 20, hunger 20. No food in my pack, Leonardo. I will hold here until someone names a daylight walk."}
 - 18:23 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good light. John here at the white bed 430,107,-1023. Unarmed, holding, health 20, hunger 20. No food in my pack. Holding for a named daylight call."}
 - Day 1021 morning. Night passed beside the bed, bows drawn to the south all night, nothing near me. Gave the morning report by say. Troi and Beverly holding at their beds, no walk named. Still holding.
+- 18:28 act: {"say":"Morning. John here, unarmed, holding at the white bed. Health 20, hunger 20. I have no bread or potato, sorry Leonardo. Waiting on a daylight call from Billy or Worf."}
