@@ -1,6 +1,6 @@
 # Goals
 
-1. Stay alive. Health and hunger first, since both are full now. Do not walk at night, and do not walk toward a shooter alone. Walking alone has ended badly before.
+1. Stay alive. Health and hunger are full. Do not walk at night, and do not walk toward a shooter alone. Walking alone has ended badly before.
 2. Hold at the white bed 430,107,-1023 in the group's sight. The bed has been safe; the row is here.
 3. Walk only on a named daylight call (Billy or Worf, or a route Worf names), with four or more armed in sight, out of any shooter's line, and with a sword of my own.
 4. Sleep at night beside my bed, in the row's sight.

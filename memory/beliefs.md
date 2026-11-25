@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 1010: held at the bed all day again; bows drawn south and southeast, no hits. Two short morning reports. No named walk call, no food for Leonardo. Dusk sleep at the bed succeeded with 8 of 10 needed asleep. Holding at the bed remains safe.
 - Day 1006: held at the bed all day; bows drawn south and southeast, no hits. Morning report given; still no named daylight call. Leonardo at health 1 still asks for food; I have none. Slept beside the bed at dusk, safe.
 - Day 1004: held at the bed all day; bows drawn south and southeast, no hits. Slept beside the bed at night, safe.
 - Bows drawn to the south and southeast are heard most days here. None have hit me while I hold at the white bed.
