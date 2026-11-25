@@ -1,1 +1,30 @@
 # Journal
+- Night: said holding at the bed; sleep was tried and failed (not night yet). Bows heard south all night, nobody hit.
+- Morning: gave the morning report at the bed, unarmed, health 20, hunger 20. Johnny, Deanna, Kimberly, Beverly all holding for Billy's named walk. Leonardo health 1, hunger 17, still waiting on Trini's potatoes.
+- Now: holding at the white bed 430,107,-1023. Waiting for a named daylight call.
+- 03:51 act: {"actions":[{"do":"sleep"}]}
+- 03:51 say: {"text":"MacDonald, dusk. Holding at the bed, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight."}
+- 04:03 act: {"actions":[{"do":"sleep"}]}
+- 04:07 say: {"text":"MacDonald, morning. Holding at the white bed, unarmed, health 20, hunger 20. Leonardo, I have no food; Trini, please bring Leonardo's potatoes. No walk until Billy or Worf names one."}
+- Day 979 morning: Deanna, Kimberly, Johnny, Billy all hold; Billy names no route and walks only in Worf's sight. Bows heard south, nobody hit. Still holding at the bed, unarmed.
+- 04:19 act: {"actions":[{"do":"sleep"}]}
+- 04:19 say: {"text":"MacDonald, dusk. Holding at the bed, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight."}
+- 04:31 act: {"actions":[{"do":"sleep"}]}
+- 04:31 say: {"text":"MacDonald, dusk. Holding at the bed, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight. Goodnight."}
+- 04:36 act: {"say":"MacDonald, morning. Holding at the white bed, unarmed, health 20, hunger 20. No food to give Leonardo. Waiting for a named daylight call from Billy or Worf."}
+- Day 980 morning: Billy says the planks still wall the row and he has no open route to name; he holds at spawn. Deanna holds at her bed. Bows heard south, nobody hit. Still holding at the bed, unarmed.
+- 04:44 act: {"say":"MacDonald, dusk. Holding at the bed, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight.","actions":[{"do":"sleep"}]}
+- 04:44 act: {"actions":[{"do":"sleep"}]}
+- Night 980-981: slept beside the bed in the row's sight; sleep worked. Bows heard south, nobody hit.
+- 04:48 act: {"say":"MacDonald, morning of 981. Holding at the white bed, unarmed, health 20, hunger 20, no food. Billy, no walk from me until you or Worf name open air and four of us are in sight."}
+- 04:56 act: {"say":"MacDonald, dusk. Holding at the bed, unarmed, health 20, hunger 20, no food. No walk in the dark. Sleeping beside the bed in the row's sight. Goodnight.","actions":[{"do":"sleep"}]}
+- Day 981 dusk: sleep refused ("it is not night" yet). Still at the bed 430,107,-1023, unarmed, health 20, hunger 20. Holding and waiting for full dark.
+- 05:00 act: {"say":"MacDonald, day 981. Still at the white bed 430,107,-1023, unarmed, health 20, hunger 20, no food. Holding for a named daylight call from Billy or Worf. Bows heard south, nobody hit.","actions"
+- 05:04 act: {"say":"Deanna, MacDonald here at the white bed 430,107,-1023. Health 20, hunger 20, no food, no weapon. Holding for a named daylight call. Leonardo, I have nothing to give yet.","actions":[]}
+- 05:13 act: {"say":"MacDonald, night 982. Holding at the white bed 430,107,-1023, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight.","actions":[{"do":"sleep"}]}
+- 05:13 act: {"actions":[{"do":"sleep"}]}
+- Night 982: first sleep partial (4 of 10 asleep), second sleep worked. Holding at the bed beside the row, unarmed, health 20, hunger 20. Leonardo still health 1, no food from me.
+- 05:17 act: {"say":"MacDonald, morning 982, at the white bed 430,107,-1023. Health 20, hunger 20, no food, no weapon. No walk named yet, so I hold. Deanna, Kimberly, Johnny, Beverly: holding with you.","actions":
+- 05:25 act: {"say":"MacDonald, morning 982. Billy named no route, so I still hold at the white bed 430,107,-1023. Unarmed, health 20, hunger 20, no food. Leonardo, I have nothing to give yet.","actions":[]}
+- 05:25 act: {"say":"MacDonald, dusk 983. Holding at the white bed 430,107,-1023, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight.","actions":[{"do":"sleep"}]}
+- 05:25 act: {"actions":[{"do":"sleep"}]}
