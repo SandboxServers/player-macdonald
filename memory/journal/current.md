@@ -7,3 +7,5 @@
 - Day 1020 morning, woke after night skip. Gave morning report by say. Troi at his bed (430,107,-1037), no food. Bows drawn south, nothing near me. Holding at the bed, waiting for a named call.
 - Chapman and Kimberly: no food found, no walk named by Billy. Kimberly holds at 444,107,-1021. Still holding; bows keep drawing to the south, nothing near me.
 - 18:06 act: {"say":"Good morning, Deanna. John here at the white bed. Unarmed, holding, health 20, hunger 20. No food in my pack, Leonardo. I will hold here until someone names a daylight walk."}
+- 18:23 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good light. John here at the white bed 430,107,-1023. Unarmed, holding, health 20, hunger 20. No food in my pack. Holding for a named daylight call."}
+- Day 1021 morning. Night passed beside the bed, bows drawn to the south all night, nothing near me. Gave the morning report by say. Troi and Beverly holding at their beds, no walk named. Still holding.
