@@ -38,3 +38,5 @@
 - Day 984 morning: bright, clear, health 20, hunger 20, unarmed, at the bed. Said the morning report. Beverly (speech) waits for Billy's potato routing. Bows heard south, nobody hit. Holding; no walk named.
 - 05:53 act: {"say":"Dusk. I am at the white bed, unarmed, health 20, hunger 20. Holding here until a daylight call.","actions":[{"do":"sleep"}]}
 - 06:08 act: {"say":"MacDonald here at the white bed, unarmed, health 20, hunger 20. Holding, waiting for a named daylight call.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly
+- 06:25 act: {"say":"Morning. John at the white bed 430,107,-1023, unarmed, health 20, hunger 20. Holding here. No food, Leonardo. Waiting for a named daylight call."}
+- Day 986 morning: said the report at the bed, unarmed, health 20, hunger 20. Bows heard south all night, nobody hit. Holding; no walk named.
