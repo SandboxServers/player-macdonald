@@ -1,3 +1,6 @@
 # Journal
-- 18:33 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"John here at the white bed 430,107,-1023. Unarmed, holding, health 20, hunger 20. No walk named; I stay in the row's sight."}
-- 18:45 say: {"text":"John, night, beside my white bed 430,107,-1023 in the row's sight. Health 20, hunger 20, unarmed. Sleeping here now; holding until a named daylight call."}
+- 18:33 act: goto white bed 430,107,-1023. Unarmed, health 20, hunger 20.
+- 18:45 say: night, beside my bed, holding until a named daylight call.
+- 18:46 slept beside bed (sleep worked). Bows drawn to the south all night, nothing came near.
+- 18:50 morning say: unarmed, holding at bed, health 20, hunger 20, no food.
+- Morning: Leonardo at health 1 needs food; Worf at hunger 8. No food in my pack. No daylight call yet.
