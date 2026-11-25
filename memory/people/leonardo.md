@@ -1,5 +1,5 @@
 # Leonardo
 
-Health 1 and hunger 17 at the bed row, 416,107,-1023. Asks for a potato or bread every morning and night. Holds in the row and does not walk.
-Trust 60. He is honest about his need and stays put as asked. I have no food to give him yet; Trini's two potatoes are his first.
-Day 977: asked again at dusk. Still no food from me.
+Health 1, hunger 17 at the bed row. Asks for a potato or bread each morning and night. Holds in the row and does not walk.
+Trust 60. Honest about his need and stays put as asked. I have no food to give him; Trini's two potatoes are his first.
+Day 1036: asked at first light for a potato. I had none; I told him any food I see goes to him first.

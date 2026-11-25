@@ -1,11 +1,11 @@
 # Goals
 
-1. Stay alive. Health and hunger are full. Do not walk at night, and do not walk toward a shooter alone.
-2. Hold at the white bed 430,107,-1023 in the group's sight. The bed has been safe; the row is here.
+1. Stay alive. Health and hunger full. No walking at night, no walking toward a shooter alone.
+2. Hold at the white bed 430,107,-1023 in the row's sight. It has been safe.
 3. Walk only on a named daylight call (Billy or Worf, or a route Worf names), with four or more armed in sight, out of any shooter's line, and with a sword of my own.
 4. Sleep at night beside my bed, in the row's sight.
-5. Food: none. If a potato or bread comes into reach, give it to Leonardo first.
-6. Recover the sword and potato at 444,107,-1037 only in daylight with two people and no pillager in sight.
+5. Food: none. Any potato or bread that comes into reach goes to Leonardo first.
+6. Recover the sword and potato at 444,107,-1037 only in daylight, with two people and no pillager in sight.
 
 Curious next: whether Worf names a daylight route, and whether anyone brings food into the row.
 Tell next: at first light, the short morning report by say: unarmed, holding, health 20, hunger 20.
