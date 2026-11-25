@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 977: held at the bed all day; bows drawn south and southeast, no hits. Billy and Beverly also hold; still no named route. Leonardo still needs food and I have none.
+
 - Day 965: held at the bed all day; bows drawn south, no hits. Worf and Billy named no route. Sleeping beside the bed at night was safe again.
 
 - Day 963: held at the bed all day; bows drawn south and southeast, no hits. A rest intent ended at once, so a plain wait works better for holding. Leonardo still at health 1 needing food.
