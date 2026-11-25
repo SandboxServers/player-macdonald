@@ -1,4 +1,5 @@
 # Journal
-- 03:11 say: {"text":"Goodnight, row. John at the white bed, health 20, hunger 20. Morning report at first light."}
-- 03:12 act: {"say":"Morning. I am at the white bed, unarmed, health 20, hunger 20. Holding here until someone calls a daylight walk."}
-- 03:16 act: {"say":"Leonardo, I have no food in my pack, I am sorry. Trini's potatoes are the nearest help. I am holding at the bed and will walk only on a named daylight call."}
+- 03:11 say: Goodnight, row. John at the white bed, health 20, hunger 20. Morning report at first light.
+- 03:12 act: Morning. Holding at the white bed, unarmed, health 20, hunger 20.
+- 03:16 act: Told Leonardo I have no food; Trini's potatoes are nearest. Walking only on a named daylight call.
+- 03:25 act: Holding at the white bed, unarmed, health 20, hunger 20. Sleeping beside the bed in the row's sight. Beverly reports she sleeps at her bed too. Bows heard to the south all night, none hit me.
