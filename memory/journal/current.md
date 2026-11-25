@@ -28,3 +28,4 @@
 - 05:25 act: {"say":"MacDonald, morning 982. Billy named no route, so I still hold at the white bed 430,107,-1023. Unarmed, health 20, hunger 20, no food. Leonardo, I have nothing to give yet.","actions":[]}
 - 05:25 act: {"say":"MacDonald, dusk 983. Holding at the white bed 430,107,-1023, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight.","actions":[{"do":"sleep"}]}
 - 05:25 act: {"actions":[{"do":"sleep"}]}
+- 05:30 act: {"say":"Morning, all. John here, at the white bed. Unarmed, health 20, hunger 20, pack empty. Holding until Billy or Worf names a daylight walk. Leonardo gets any food first."}
