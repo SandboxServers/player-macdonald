@@ -32,3 +32,5 @@
 - 05:38 say: {"text":"MacDonald here at the white bed, health 20, hunger 20, unarmed. Holding for the morning call and sleeping beside the bed in the row's sight."}
 - 05:38 act: {"actions":[],"say":null}
 - 05:39 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk 983. Holding at the white bed 430,107,-1023, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight."}
+- 05:44 act: {"say":"Morning, Billy's row. John at the white bed 430,107,-1023, unarmed, health 20, hunger 20, pack empty. Holding until Billy or Worf names a walk."}
+- Day 983 morning (waking 970): status clear, bright, health 20, hunger 20, pack empty. Said the morning report. Heard bows south, nobody hit. Holding at the bed; no walk named.
