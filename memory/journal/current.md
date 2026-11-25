@@ -29,3 +29,5 @@
 - 05:25 act: {"say":"MacDonald, dusk 983. Holding at the white bed 430,107,-1023, unarmed, health 20, hunger 20. No walk in the dark. Sleeping beside the bed in the row's sight.","actions":[{"do":"sleep"}]}
 - 05:25 act: {"actions":[{"do":"sleep"}]}
 - 05:30 act: {"say":"Morning, all. John here, at the white bed. Unarmed, health 20, hunger 20, pack empty. Holding until Billy or Worf names a daylight walk. Leonardo gets any food first."}
+- 05:38 say: {"text":"MacDonald here at the white bed, health 20, hunger 20, unarmed. Holding for the morning call and sleeping beside the bed in the row's sight."}
+- 05:38 act: {"actions":[],"say":null}
