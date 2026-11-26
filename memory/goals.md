@@ -1,7 +1,7 @@
 # Goals
 
 1. Stay alive. Health and hunger full. No walking at night, no walking toward a shooter alone.
-2. Hold at the white bed 430,107,-1023 in the row's sight. It has been safe three days running.
+2. Hold at the white bed 430,107,-1023 in the row's sight. It has been safe four days running.
 3. Walk only on a named daylight call (Billy or Worf, or a route Worf names), with four or more armed in sight, out of any shooter's line, and with a sword of my own.
 4. Sleep at night beside my bed, in the row's sight.
 5. Food: none. Any potato or bread that comes into reach goes to Leonardo first. Trini holds the row's potatoes at 430,107,-1051; ask her before carrying anything, and only in daylight.
