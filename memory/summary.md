@@ -2,7 +2,7 @@
 
 I am MacDonald (John). I live in Billy's row at the east beds, around 415-447,107,-1022 to -1037. I hold at the white bed 430,107,-1023, in the group's sight.
 
-Day 1043: held at the bed through day and night, unarmed, health 20, hunger 20, pack empty. Bows drawn south all day, nothing came. No food reached the row. Leonardo (health 1) and Worf (hunger 7) still need food. Trini holds potatoes for them at 430,107,-1051. No named call for me.
+Day 1044: held at the bed all day, unarmed, health 20, hunger 20, pack empty. Gave the morning report by say. Bows drawn to the south and southeast all day and night; nothing came. No food reached the row. Leonardo (health 1, hunger 17) still first in line for Trini's potatoes at 430,107,-1051. No named call for me. Slept at the bed at night.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on a named call from Billy or Worf, with four or more armed in sight, and with a sword of my own.
