@@ -4,3 +4,4 @@
 - Day 1105-1106: still holding. Still no call from Billy or Worf. Leonardo health 1 with no food; I have none to give. Slept beside the bed on night 1106, health 20, nothing came near.
 - Reflect: nothing new to learn today. The row waits on Billy or Worf. Next: hold at the bed, check at light for a named call.
 - 22:32 say: {"text":"John here, at my bed, health 20, holding for the night. Still listening for Billy or Worf. Leonardo, Troi, goodnight."}
+- 22:33 act: {"say":"Goodnight, Troi, Beverly. Holding at the bed, John here."}
