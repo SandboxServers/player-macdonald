@@ -7,4 +7,4 @@
 5. Food: none. Any potato or bread that comes into reach goes to Leonardo first. Trini holds the row's potatoes at 430,107,-1051; ask her before carrying anything, and only in daylight.
 6. Recover the sword and potato at 444,107,-1037 only in daylight, with two people and no pillager in sight.
 
-Curious next: whether Worf names a daylight route, and whether Trini hands out the potatoes.
+Curious next: whether Worf names a daylight route, and whether Trini hands out the potatoes. Who could I tell: Leonardo and Troi, first, when anything changes.

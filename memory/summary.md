@@ -2,7 +2,7 @@
 
 I am MacDonald (John). I live in Billy's row at the east beds, around 415-447,107,-1022 to -1037. I hold at the white bed 430,107,-1023, in the row's sight, and sleep beside it at night.
 
-Days 1066 to 1073: held at the bed through each day and night. Unarmed, health 20, hunger 20, pack empty. Bows drawn to the south most days; nothing has reached the row. No named daylight call from Billy or Worf yet.
+Days 1066 to 1077: held at the bed through each day and night. Unarmed, health 20, hunger 20, pack empty. Bows drawn to the south and southeast most days; nothing has reached the row. No named daylight call from Billy or Worf yet.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on a named call from Billy or Worf, with four or more armed in sight, and with a sword of my own.
