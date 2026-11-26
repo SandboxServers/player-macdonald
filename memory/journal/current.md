@@ -4,3 +4,5 @@
 - 20:12 act: said I hold at the white bed, empty-handed, no named call yet.
 - Day 1099 morning: Troi, Beverly, Leonardo all holding at their beds. Still no named call, nothing to carry. Holding at the bed.
 - Wait: Leonardo still at health 1, hunger 17, asking for potatoes. Beverly, Chapman, Troi holding. Nothing for me to carry. Holding.
+- 20:25 act: {"say":"Dusk here. Holding at the white bed, unarmed. Leonardo, Troi, I am still here."}
+- Morning: said nothing new; read Troi, Chapman, Leonardo holding at beds, Leonardo still asking for potato. Bows drawn south all night, none near. No named call from Billy or Worf. Holding at the bed.
