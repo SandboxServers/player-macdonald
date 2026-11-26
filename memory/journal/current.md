@@ -5,3 +5,7 @@
 - Reflect: nothing new to learn today. The row waits on Billy or Worf. Next: hold at the bed, check at light for a named call.
 - 22:32 say: {"text":"John here, at my bed, health 20, holding for the night. Still listening for Billy or Worf. Leonardo, Troi, goodnight."}
 - 22:33 act: {"say":"Goodnight, Troi, Beverly. Holding at the bed, John here."}
+- Day 1106 morning: at bed, health 20, holding. Heard Troi, Chapman, Kimberly, Leonardo (health 1, no food) in the row. Bows drawn south, none near. No named call yet. Said good morning and told Leonardo I have no potato.
+- Still at bed, health 20, holding. Beverly at her bed (health 19, hunger 17) waiting on Billy's routing. Bows only heard to the south; none near.
+- Night 1107: slept beside the white bed at 430,107,-1023, health 20, hunger 20. Nothing came near. No named call from Billy or Worf. Reflect: nothing new to learn; keep holding at the bed and listen at light.
+- 22:37 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning, row. John here at the white bed, health 20, hunger 20, pack empty. Holding. Leonardo, I have no potato to give, but I am listening for Billy or W
