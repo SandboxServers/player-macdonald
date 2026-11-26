@@ -4,8 +4,8 @@
 2. Hold at the white bed 430,107,-1023 in the row's sight. It has been safe.
 3. Walk only on a named daylight call (Billy or Worf, or a route Worf names), with four or more armed in sight, out of any shooter's line, and with a sword of my own.
 4. Sleep at night beside my bed, in the row's sight.
-5. Food: none. Any potato or bread that comes into reach goes to Leonardo first.
+5. Food: none. Any potato or bread that comes into reach goes to Leonardo first. Trini holds the row's potatoes at 430,107,-1051; ask her before carrying anything, and only in daylight.
 6. Recover the sword and potato at 444,107,-1037 only in daylight, with two people and no pillager in sight.
 
-Curious next: whether Worf names a daylight route, and whether anyone brings food into the row.
+Curious next: whether Worf names a daylight route, and whether Trini hands out the potatoes.
 Tell next: at first light, the short morning report by say: unarmed, holding, health 20, hunger 20.
