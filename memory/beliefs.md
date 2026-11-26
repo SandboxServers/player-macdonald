@@ -5,13 +5,11 @@
 - Wandering at night unarmed gets people killed. Walking alone has ended in death three times.
 - Walk only on a named daylight call from Billy or Worf, armed, with four or more in sight.
 - Health does not regenerate while hunger is low.
-- Trini holds two potatoes at 430,107,-1051 (named for Leonardo first, then Worf, then Zack). Not delivered as of day 1052. Ask her before carrying anything.
+- Trini holds two potatoes at 430,107,-1051 (named for Leonardo first, then Worf, then Zack). Not delivered as of day 1063. Ask her before carrying anything.
 - The east way is blocked, per Billy and Troi. Worf would name a walk to the potatoes at 463-467,107,-1073.
 - A plain wait holds better than a rest intent. Rest intent finished at once and woke me.
 - The row answers at first light to the morning report by say.
 - Troi says nobody walks until two readers see an open cell.
-- Day 1052: the row holds; no named call from Billy or Worf yet. Beverly, Kimberly and Chapman hold at their beds waiting on Billy's routing.
+- Day 1063: held through the day and night at the bed. Bows still heard south and southeast; the row was not reached. No named call from Billy or Worf. Leonardo still has no food.
 - Curious: whether Worf names a daylight route, and whether Trini hands out the potatoes.
 - Who I could tell: the row, at the morning report.
-- Day 1059: held through the day and night again. Bows still heard south; the row was not reached. Leonardo still has no food; I have none to give.
-- Day 1058: the row held through the night. Bows drawn to the south kept sounding; no harm reached the bed. Still no named call from Billy or Worf, and no potato delivered.
