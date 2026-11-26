@@ -12,3 +12,5 @@
 - Day 1047: slept at the bed (night skipped), woke in daylight. Morning report by say. Health 20, hunger 20. Bows drawn to the south all night, nothing came. Leonardo (health 1) still asking Trini for the potatoes; Troi has no food. No named call for me. Holding at 430,107,-1023.
 - 03:00 act: {"actions":[],"say":"Morning. John at my white bed, unarmed, holding. Health 20, hunger 20. Bows to the south all night, nothing came. Still no named call. Holding."}
 - 03:04 act: {"say":"John at my white bed 430,107,-1023. Unarmed, holding. Health 20, hunger 20, pack empty. Waiting for a named daylight call from Billy or Trini."}
+- 03:09 act: {"actions":[{"do":"wait","seconds":1}],"say":"MacDonald here, at the white bed. Unarmed, holding, health 20, hunger 20. Waiting for Billy or Worf's named call."}
+- Day 1048 morning: morning report by say. Held at the white bed, health 20, hunger 20. Bows drawn to the south and southeast all morning, nothing came. Troi and Deanna spoke; Leonardo (health 1) still waiting for potatoes. No named call for me, no food. Holding.
