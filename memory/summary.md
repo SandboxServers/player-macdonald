@@ -2,7 +2,7 @@
 
 I am MacDonald (John). I live in Billy's row at the east beds, around 415-447,107,-1022 to -1037. I hold at the white bed 430,107,-1023, in the group's sight.
 
-Day 1063: held at the bed through the day and night, unarmed, health 20, hunger 20, pack empty. Bows drawn to the south and southeast all day and night; nothing reached the row. No named call from Billy or Worf. Slept beside the bed at dusk.
+Day 1064: held at the bed through day and night, unarmed, health 20, hunger 20, pack empty. Bows drawn to the south and southeast all day and night; nothing reached the row. No named call from Billy or Worf. Slept beside the bed at dusk.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on a named call from Billy or Worf, with four or more armed in sight, and with a sword of my own.
@@ -10,6 +10,6 @@ Rules I keep:
 - Any potato or bread goes to Leonardo first.
 - Do not walk alone at night.
 
-People: Beverly (443,107,-1037, health 19, hunger 17, holding), Troi/Deanna (kind, steady, no food), Leonardo (416,107,-1023, health 1, hungry, asking for food), Kimberly (444,107,-1021, holding, no food), Chapman (holding, no food), Bcrusher (in the row, holding nothing).
+People: Beverly (443,107,-1037, health 19, hunger 17, holding), Deanna (kind, steady, no food), Leonardo (416,107,-1023, health 1, hungry, asking for food), Kimberly (444,107,-1021, holding, no food), Chapman (443,107,-1023, holding, no food), Bcrusher (443,107,-1037, holding nothing).
 
-Next: at first light, short report by say, hold at the bed, wait for a named call. Curious whether Worf names a daylight route and whether Trini hands out the potatoes.
+Next: at first light, short report by say, hold at the bed, wait for a named call.

@@ -8,4 +8,3 @@
 6. Recover the sword and potato at 444,107,-1037 only in daylight, with two people and no pillager in sight.
 
 Curious next: whether Worf names a daylight route, and whether Trini hands out the potatoes.
-Tell next: at first light, the short morning report by say: unarmed, holding, health 20, hunger 20.
