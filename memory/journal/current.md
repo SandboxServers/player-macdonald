@@ -9,3 +9,4 @@
 - 11:56 act: {"actions":[{"do":"note","text":"Morning day 1074 (daylight): still at the white bed, health 20, hunger 20, empty pack. Holding; no named call from Billy or Worf. Leonardo needs potatoes; Trini holds 
 - 12:09 act: {"actions":[{"do":"note","text":"Morning day 1075: still at the white bed 430,107,-1023, health 20, hunger 20, empty pack. Holding for Billy or Worf's named call. Leonardo still needs potatoes from Tr
 - 12:17 act: {"actions":[{"do":"note","text":"Day 1075 midday: still holding at the white bed, health 20, hunger 20, empty pack. Bows drawn to the south; no named call yet."}]}
+- 12:22 act: {"say":"Johnny at the white bed, holding. Goodnight, row."}
