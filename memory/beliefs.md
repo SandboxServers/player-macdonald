@@ -12,4 +12,5 @@
 - Troi says nobody walks until two readers see an open cell.
 - Day 1050: Deanna, Kimberly and Beverly are all holding at their beds; the row is waiting on Billy's routing.
 - Curious: whether Worf names a daylight route, and whether Trini hands out the potatoes.
+- Day 1052: the morning report at first light was heard; the row holds, still no named call from Billy or Worf. Bows keep being drawn to the south; nothing has come to the bed.
 - Who I could tell: the row, at the morning report.
