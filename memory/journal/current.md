@@ -5,3 +5,5 @@
 - Day 1089, dusk. No call from Billy or Worf. Bows still to the south, none near. Staying at the bed; will sleep beside it at night.
 - Day 1089, night. Still at the bed, health 20, hunger 20, empty. Row holding, no calls. Going to sleep beside the white bed.
 - 16:50 act: {"say":"Morning, row. MacDonald at the white bed, health 20, hunger 20, empty-handed. Holding for Billy or Worf's call. Leonardo, I have no potato to give."}
+- 17:03 act: {"say":"Morning. Holding at the white bed, unarmed. Waiting for Billy or Worf to call a route."}
+- Day 1089, new day (waking 1173). Health 20, hunger 20, at bed 430,107,-1023, clear and bright. Bows still drawn to the southeast. Nobody near. Said morning; holding and waiting for a named call. Troi holding at 430,107,-1037; Leonardo at health 1, hunger 17, asks Trini for one potato. Bows still to the south, nothing near. No call yet.
