@@ -3,4 +3,11 @@
 - 02:02 act: {"say":"Morning. John here, unarmed, holding at the white bed. Health 20, hunger 20. Waiting for a named call from Billy or Worf."}
 - Day 1044 morning: daylight, health 20, hunger 20. Gave the morning report. Bows drawn to the south all day, nothing came. No named call from Billy or Worf. No food reached me.
 - Day 1045 dusk: slept at the white bed 430,107,-1023 in the row's sight. Health 20, hunger 20. Leonardo still waiting for potatoes; Deanna, Beverly and Kimberly holding too.
-- Reflect: the hold is steady. Nothing to change. Next waking: first light, short report by say, hold at the bed, wait for a named call.
+- Day 1045 morning: slept through the night, woke in daylight. Morning report by say. Leonardo (health 1, hunger 17) asked Trini for a potato; I have none. Bows drawn to the south all morning, nothing came. Holding at the bed.
+- Day 1046 night: slept at the white bed again, in the row's sight. Health 20, hunger 20. Woke at daylight: still no named call, no food. Holding. Note: a speaker named John at bed 443,107,-1023 is not me; my bed is 430,107,-1023.
+- 02:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the white bed. John still holding, unarmed, health 20, hunger 20. Sleeping here."}
+- Day 1046 morning (after sleep): slept through the night, woke in daylight. Morning report by say. Bows drawn to the south all night, nothing came. No named call, no food. Holding at the bed 430,107,-1023, health 20, hunger 20.
+- 02:43 act: {"actions":[],"say":"Morning. John at my white bed 430,107,-1023, unarmed, holding. Health 20, hunger 20. Bows drawn to the south all night, nothing came. Waiting for a named daylight call from Billy 
+- 02:56 act: {"actions":[{"do":"sleep"}],"say":"Evening, Troi, Kimberly. John still at my white bed, unarmed, health 20, hunger 20. No call yet. Sleeping here."}
+- Day 1047: slept at the bed (night skipped), woke in daylight. Morning report by say. Health 20, hunger 20. Bows drawn to the south all night, nothing came. Leonardo (health 1) still asking Trini for the potatoes; Troi has no food. No named call for me. Holding at 430,107,-1023.
+- 03:00 act: {"actions":[],"say":"Morning. John at my white bed, unarmed, holding. Health 20, hunger 20. Bows to the south all night, nothing came. Still no named call. Holding."}
