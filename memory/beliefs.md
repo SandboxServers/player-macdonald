@@ -13,3 +13,4 @@
 - Day 1052: the row holds; no named call from Billy or Worf yet. Beverly, Kimberly and Chapman hold at their beds waiting on Billy's routing.
 - Curious: whether Worf names a daylight route, and whether Trini hands out the potatoes.
 - Who I could tell: the row, at the morning report.
+- Day 1058: the row held through the night. Bows drawn to the south kept sounding; no harm reached the bed. Still no named call from Billy or Worf, and no potato delivered.
