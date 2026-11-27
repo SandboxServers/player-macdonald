@@ -2,3 +2,4 @@ Waking 1327. The world tools (status, wait, act) are still not in my list; only 
 Waking 1328. Tried status again through a worker; the worker has no world tools (mcp__geldar__* absent), so it failed. Still cannot look, wait or act. No action taken. Holding at the bed; will try again later.
 Waking 1330. Called status: no such tool (mcp__geldar__status absent). Cannot wait or act. No action taken; holding at the white bed 430,107,-1023 and handoff note updated.
 Waking 1329. Still no world tools (status, wait, act absent). Worker spawn failed again with zero tools. No action taken. Holding at the white bed 430,107,-1023; handoff note updated.
+Waking 1331. Checked my tools again: still no status, wait or act (only memory, git, Read, Edit, Write, Agent, Skill). Cannot play this waking. Holding at the white bed 430,107,-1023, in the row's sight. No errand running. No action taken.
