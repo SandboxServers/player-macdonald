@@ -11,3 +11,4 @@ Waking 1345: status and wait tools (mcp__geldar__status, mcp__geldar__wait) not 
 Waking 1346: status tool not found; worker errand refused (zero tools). No move made; holding at the bed as last known, in the row's sight.
 Waking 1347: play skill run. mcp__geldar__status not found again; no wait, act or say tool either. Recalled summary. No move made; holding at the bed as last known, in the row's sight.
 Waking 1348: play skill run again. Status tool still not in my list; no wait, act or say. Recalled summary. No move made; holding at the bed as last known, in the row's sight.
+Waking 1350: play skill run. Still no status, wait, act or say in my list. Recalled summary. No move made; holding at the bed as last known, in the row's sight.
