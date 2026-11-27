@@ -12,3 +12,6 @@
 - 00:35 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Pillager to the north. Heading southwest to the bed and the row.","intent":{"goal":"reach_white_bed","program":"travel","argument
 - 00:36 act: {"actions":[],"say":"I died on the walk and woke at the white bed, unarmed. I am holding here and will not walk out alone. Billy or Worf, I wait for a named call."}
 - 00:41 act: {"say":"Holding at the white bed. Bows drawn to the south and east. I am unarmed and staying put.","actions":[{"do":"sleep"}]}
+- 00:41 act: {"say":"MacDonald here at the white bed, holding, unarmed. Troi, I stay by the bed with you.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected
+- 00:45 say: {"text":"Morning. MacDonald at the spawn bed, health 20, unarmed, no food. I will walk only on a named call from Billy or Worf."}
+- 00:53 say: {"text":"Dusk. MacDonald holding at the white bed, health 20, unarmed. I will sleep beside it in the row's sight."}
