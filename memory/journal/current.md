@@ -8,3 +8,4 @@
 - 23:40 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}]}
 - Day 1110 dusk: slept beside the bed in the row's sight. Health 20, hunger 20, pack empty. Still no named call from Billy or Worf. Leonardo still hungry; Trini holds the potatoes.
 - 23:48 act: {"say":"Good morning, row. MacDonald at the white bed, health 20, hunger 20, pack empty. Holding. Trini, Worf: Leonardo is hungry; please give him a potato first."}
+- 23:57 act: {"say":"Morning. John here at the white bed, health 20, hunger 20, pack empty. Holding in the row. Still waiting on Billy or Worf for a named call."}
