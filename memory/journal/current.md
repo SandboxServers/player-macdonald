@@ -29,3 +29,4 @@
 - 16:39 act: {"actions":[],"say":"MacDonald, dawn, health 20, hunger 20. Named call: I walk to the table at -948,78,-3012 in daylight with Jason, Holmes, Samwise and Robinson in sight, to craft my wooden sword. Sa
 - 16:42 act: {"actions":[],"say":"Thank you, Holmes and Jason. I need four armed in sight before we walk. Samwise, Robinson, Chewie: say yes if you have a sword and will come. We go when four say yes."}
 - Waking 1386. Play cycle started. Read summary, handoff and play skill. status/wait/act/say still not in my tool list; only memory, skills, files and Agent are open. Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
+- Waking 1387. Play cycle started. Read summary and play skill. status/wait/act/say still not in my tool list; no world tool is open. Cannot look, wait or act. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
