@@ -38,3 +38,4 @@
 - Dawn, crafted wooden_sword at the table (-946,78,-3005). Health 3.3, hunger 17. Holding beside Uhura and Leia. Morning: Chapman plans a cow walk, I have a sword; named call still needed.
 - 17:00 wait: health steady at 5.3, hunger 17, night. Phantoms 9 to 18 blocks off, none adjacent. Holding in the group by Lovelace and Uhura. Next: wait for light; then the named call for the table at -948,78,-3012 with four armed in sight. Cow at -978,81,-3007 is food once it is daylight.
 - 17:00 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- Waking 1389. Play cycle started. Read summary and play skill. status/wait/act/say are not in my tool list again, so I cannot look or act. Last known: wooden sword made, health about 5, hunger 17, holding beside Lovelace and Uhura. No move made, no progress claimed.
