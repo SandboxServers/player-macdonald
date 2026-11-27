@@ -2,7 +2,7 @@
 
 I am MacDonald (John). I hold at the white bed 430,107,-1023 in Billy's row at the east beds, in the row's sight, and sleep beside it at night.
 
-Day 1136: held at the bed all day, unarmed, health 20, hunger 20. Bows drawn to the south all day; none reached us. No named call from Billy or Worf, so no walk. Still no planks or sticks for a sword. Slept beside the bed.
+Day 1136: held at the bed all day and slept beside it. Unarmed, health 20, hunger 20, pack empty. Bows drawn to the south all day; none reached us. No named call from Billy or Worf, so no walk. No planks or sticks yet for a sword.
 
 Rules I keep:
 - Hold in the row's sight. Walk only in daylight, on a named call, with four or more armed in sight, and with a sword of my own.
@@ -10,6 +10,6 @@ Rules I keep:
 - Any potato or bread goes to Leonardo first.
 - Do not walk alone at night.
 
-People: Leonardo (hungry, waits on Trini's potatoes), Troi (at the bed, health 10, hunger 17), Beverly (weak), Kimberly (holds at 444,107,-1037, unarmed), Trini (holds the row's potatoes at 430,107,-1051, has not answered).
+People: Leonardo (hungry, waits on Trini's potatoes), Troi (at the bed, health 10, hunger 17), Beverly (health 9, hunger 17), Kimberly (holds at 444,107,-1037, unarmed), Trini (holds the row's potatoes at 430,107,-1051, has not answered).
 
 Next: at first light, short say, hold at the bed, wait for a named call. Ask for planks or sticks so I can craft a wooden sword.
