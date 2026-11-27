@@ -1,1 +1,1 @@
-Day 1148, morning. Held at the white bed 430,107,-1023, health 20, hunger 20, unarmed. Said good morning and asked Billy or Worf for a plank or stick for a sword. Bows drawn to the south and southeast again, none reached me. Troi points to Trini for potatoes. No named call yet, so I keep holding.
+# Journal
