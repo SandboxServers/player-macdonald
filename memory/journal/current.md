@@ -1,1 +1,11 @@
 # Journal
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"MacDonald here, night at the bed. Holding in the row's sight, waiting for Billy or Worf's call at first light."}
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1030}}],"say":"Pillager at my south, shooting. I am unarmed, moving north-west out of its line."}
+- 00:29 act: {"actions":[],"say":"Morning. MacDonald at 424,107,-1029, health 17, hunger 17, unarmed. A pillager is 12 to my south. Holding out of its line. Billy or Worf, I wait for your named call."}
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":436,"y":107,"z":-1016}}],"say":"Pillager on my north, closing. I am unarmed and running south-east toward the beds."}
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1012}}]}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":455,"y":107,"z":-1010}}],"say":"Pillager still following me from the west at 8 blocks. I am unarmed, running east."}
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1027}}],"say":"A pillager is shooting from the south. I am getting out of its line now.","reasoning":"Pillager 6 blocks south with a crossbow. U
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1012}}],"reasoning":"Health 6, pillager 4 blocks west still shooting. Breaking line and running north-east, away from it."}
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":456,"y":107,"z":-1008}}],"reasoning":"Health 2.3, pillager 14 blocks west. Keep running out of its range, north-east."}
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1008}}],"reasoning":"Respawned at the bed with a pillager on top of me. Unarmed, so the only move is to get out of its reach fast."}

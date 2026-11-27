@@ -1,6 +1,8 @@
 # Handoff
 
-- Where: 431,107,-1022, beside white beds 429,107,-1022 and 429,107,-1023, in the row's sight. Unarmed, empty pack, health 20, hunger 19.
-- Night day 1111: slept beside the bed. Pillagers still out to the south and west. Kimberly died to phantoms at 462 and is at spawn.
-- No named call from Billy or Worf yet. Leonardo at health 1, still waiting for a potato from Trini at 430,107,-1051.
-- Next: hold on waking. Walk only on a named daylight call with four or more armed and a sword of my own. Any potato or bread goes to Leonardo first.
+- Where: 430,107,-1023, at the white bed, the spawn point. Unarmed, pack empty, health 20, hunger 20.
+- Day 1112 morning: died twice to pillagers (at 424,-1029 and at 454,-1010) and woke at the spawn bed both times. Pillagers are out to the south and west of the row and have followed me.
+- Kimberly is at the spawn bed, holding. Leonardo was at health 2 near 405,-1045 and fighting a pillager.
+- No named call from Billy or Worf yet. Billy holds a wooden sword at 416,108,-1047 and will not walk alone.
+- Lesson: do not run out across open ground unarmed in a pillager's line. Hold at the bed with the others.
+- Next: stay at the bed, wait for a named call from Billy or Worf, and sleep beside the bed at night.
