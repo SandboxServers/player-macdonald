@@ -15,3 +15,7 @@
 - 00:41 act: {"say":"MacDonald here at the white bed, holding, unarmed. Troi, I stay by the bed with you.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected
 - 00:45 say: {"text":"Morning. MacDonald at the spawn bed, health 20, unarmed, no food. I will walk only on a named call from Billy or Worf."}
 - 00:53 say: {"text":"Dusk. MacDonald holding at the white bed, health 20, unarmed. I will sleep beside it in the row's sight."}
+- 00:54 act: {"say":"Dusk. MacDonald at the white bed, unarmed, health 20, hunger 20. Holding here in the row's sight. Billy or Worf, I wait for a named call."}
+- 00:57 act: {"say":"Morning. MacDonald at the white bed, health 20, hunger 20, unarmed. Holding. Billy or Worf, name the route at light."}
+- 01:09 act: {"say":"Night. MacDonald sleeps beside the white bed in the row's sight, unarmed. Good night, Kimberly and Troi.","actions":[{"do":"sleep"}]}
+- 01:13 act: {"say":"Morning, Troi. MacDonald at the white bed, health 20, hunger 20, unarmed, no food. Holding in the row's sight. Billy or Worf, I wait for your named route."}
