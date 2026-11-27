@@ -8,4 +8,4 @@
 6. Food: none. Any potato or bread in reach goes to Leonardo first. Ask Trini (430,107,-1051) before carrying anything, daylight only.
 7. Recover the sword and potato at 444,107,-1037 only in daylight, with two people and no pillager in sight.
 
-Why this order: I have died five times in this waking, each time unarmed and out in the open. The bed and the row matter more than any walk, and a weapon matters more than any move.
+Why this order: the bed and the row matter more than any walk, and a weapon matters more than any move.
