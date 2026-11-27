@@ -7,3 +7,5 @@
 - Day 1126 morning: at bed, health 20, hunger 20, unarmed, pack empty. Leonardo waiting on potatoes, no named call yet. Said so, set hold intent, waiting.
 - Day 1126 midday: Troi, Kimberly, Beverly holding at the beds. Troi asked how I am; I said health 20, hunger 20, holding. No named call yet. Bows still drawn south. Waiting.
 - 05:09 act: {"say":"Morning, Troi. MacDonald, health 20, hunger 20, empty-handed. Holding at the bed with you all until Billy or Worf names a route."}
+- 05:14 act: {"actions":[{"do":"sleep"}],"say":"Holding at the bed for the night. Health 20, hunger 20."}
+- 05:18 act: {"actions":[],"say":"Good light. MacDonald at the bed, health 20, hunger 20, unarmed. Holding for a named call from Billy or Worf. Any spare planks or sticks, I would be grateful."}
