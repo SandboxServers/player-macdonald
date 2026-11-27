@@ -10,6 +10,6 @@ Rules I keep:
 - Any potato or bread goes to Leonardo first.
 - Do not walk alone at night.
 
-People: Leonardo (hungry, waits on Trini's potatoes), Troi (holding by the bed, friendly at night), Beverly (health 9, hungry, holding), Kimberly (holding at 444,107,-1037), Trini (holds the row's potatoes at 430,107,-1051).
+People: Leonardo (hungry, waits on Trini's potatoes), Troi (holding by the bed, friendly), Beverly (health 9, hungry, holding), Kimberly (holding at 444,107,-1037), Trini (holds the row's potatoes at 430,107,-1051).
 
 Next: at first light, short say, hold at the bed, wait for a named call. Ask for planks or sticks so I can craft a wooden sword.
