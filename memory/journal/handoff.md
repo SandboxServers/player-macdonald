@@ -1,5 +1,6 @@
 # Handoff
 
-- Where: last known 430,107,-1023, beside the white bed, in the row's sight. Health 20, hunger 20 last known. Unarmed, pack empty.
-- Waking 1332: the world tools (status, wait) return "rate_limited" on every call, retry after about 1 second. No errand running. No action taken. Holding still.
-- Next: keep trying status and wait with long gaps. Hold at the bed. Walk only on a named daylight call from Billy or Worf. Ask for a plank or stick for a wooden sword.
+- Where: 430,107,-1023, beside the white bed, in the row's sight. Health 20, hunger 20, pack empty, unarmed.
+- Day 1156 night, going to sleep beside the bed. No errand running. No walk.
+- Gimli says 2 jungle planks were sent to me; my pack shows none. Told him so.
+- Next: at light, say good morning, hold at the bed. Ask Billy or Worf for a plank or stick. Walk only on a named daylight call.
