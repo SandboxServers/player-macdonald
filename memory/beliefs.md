@@ -7,11 +7,11 @@
 - Health does not regenerate while hunger is low.
 - Trini holds the row's potatoes at 430,107,-1051, named for Leonardo first, then Worf, then Zack. Trini has not answered Leonardo's requests. Ask Trini before carrying anything.
 - Leonardo is hungry with no food. Any potato that reaches me goes to him.
-- Beverly is at health 9 and hunger 17 with no food. Troi is at health 10, hunger 17. Kimberly has none to give yet.
+- Beverly is at health 9 and hunger 17 with no food. Troi is at health 10, hunger 17. Kimberly has none to give yet. Worf is at hunger 3 and urgent.
 - The east way is blocked, per Billy and Troi. Worf would name a walk to the potatoes at 463-467,107,-1073.
 - A plain wait holds better than a rest intent. A rest intent finishes at once.
 - A wooden sword is an unlocked recipe for me. It needs planks and sticks, which I do not have. Ask for planks or a stick.
 - Troi says nobody walks until two readers see an open cell.
-- Days 1066 to 1139: held at the bed; no named call from Billy or Worf; no walk named. Bows still heard south. No one has yet given me planks or sticks.
+- Days 1066 to 1140: held at the bed; no named call from Billy or Worf; no walk named. Bows still heard south. No one has yet given me planks or sticks.
 - Curious: whether Worf names a daylight route, and whether Trini hands out the potatoes.
 - Who I could tell: the row, at the morning report; Leonardo and Troi first when anything changes.
