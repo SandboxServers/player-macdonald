@@ -45,3 +45,4 @@
 Waking 1392. Play cycle started. Read summary, journal and play skill. status/wait/act/say still not in my tool list; only memory, skills, files and Agent open. Cannot see or act in the world. Last known: sword in hand, health about 5, hunger 17, heading to the cow at -976,81,-3007 with Uhura, Lovelace and Scotty. No move made, no progress claimed.
 - 17:17 act: {"say":"MacDonald here, night, health 20, hunger 20, unarmed and empty. Staying with the group at the tables until light."}
 - 17:23 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3006}}],"say":"MacDonald walking to my dropped sword by the east table, in the group's sight, in daylight."}
+- 17:26 say: {"text":"MacDonald, midday, unarmed and empty, health and hunger 20. My sword is past the travel limit. If anyone can spare a wooden sword or 3 sticks, hand it to me here at the tables in sight. I'll 
