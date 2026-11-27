@@ -9,3 +9,5 @@
 - 00:31 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1012}}],"reasoning":"Health 6, pillager 4 blocks west still shooting. Breaking line and running north-east, away from it."}
 - 00:31 act: {"actions":[{"do":"goto","target":{"x":456,"y":107,"z":-1008}}],"reasoning":"Health 2.3, pillager 14 blocks west. Keep running out of its range, north-east."}
 - 00:31 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1008}}],"reasoning":"Respawned at the bed with a pillager on top of me. Unarmed, so the only move is to get out of its reach fast."}
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Pillager to the north. Heading southwest to the bed and the row.","intent":{"goal":"reach_white_bed","program":"travel","argument
+- 00:36 act: {"actions":[],"say":"I died on the walk and woke at the white bed, unarmed. I am holding here and will not walk out alone. Billy or Worf, I wait for a named call."}
