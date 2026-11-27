@@ -30,3 +30,11 @@
 - 16:42 act: {"actions":[],"say":"Thank you, Holmes and Jason. I need four armed in sight before we walk. Samwise, Robinson, Chewie: say yes if you have a sword and will come. We go when four say yes."}
 - Waking 1386. Play cycle started. Read summary, handoff and play skill. status/wait/act/say still not in my tool list; only memory, skills, files and Agent are open. Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
 - Waking 1387. Play cycle started. Read summary and play skill. status/wait/act/say still not in my tool list; no world tool is open. Cannot look, wait or act. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
+- 16:54 act: {"actions":[{"do":"goto","target":"ag_holmes_01"}],"say":"MacDonald, night, hit by something. Moving to Holmes by the tables, in sight."}
+- Waking 1388. World tools are back. Night at the tables (-958,79,-3002), phantoms attacking. Health fell 20 to 18, now rising 19. Moved to Holmes (goto worked). Still unarmed, holding 2 planks and 4 sticks. Rate limits hit on act and wait; retrying. Next: hold beside Holmes until light, then craft the sword at -948,78,-3012 on a named call with four armed in sight.
+- 16:55 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"}],"say":"MacDonald, phantoms keep hitting me, health 15. Going to Lovelace, who has a wooden sword."}
+- 16:56 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"}]}
+- 16:56 act: {"actions":[],"say":"MacDonald, health 5, unarmed, in the group beside Lovelace and Uhura. Holding here until light. I have 2 planks and 4 sticks for a sword."}
+- Dawn, crafted wooden_sword at the table (-946,78,-3005). Health 3.3, hunger 17. Holding beside Uhura and Leia. Morning: Chapman plans a cow walk, I have a sword; named call still needed.
+- 17:00 wait: health steady at 5.3, hunger 17, night. Phantoms 9 to 18 blocks off, none adjacent. Holding in the group by Lovelace and Uhura. Next: wait for light; then the named call for the table at -948,78,-3012 with four armed in sight. Cow at -978,81,-3007 is food once it is daylight.
+- 17:00 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
