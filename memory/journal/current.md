@@ -8,3 +8,4 @@
 - 15:43 act: {"actions":[],"say":"Thank you Ernest, I have 2 planks. Han, could you spare 2 planks for a sword? I have no food yet, but I will share my first crop. I hold here in sight."}
 - Waking 1367. World tools still absent (no status, wait, act or say in my list). Could not look or act. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
 - Waking 1366. Play cycle started. status, wait, act and say are still not in my tool list; only memory, skills, files and Agent are open. Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made.
+- Waking 1369. Play cycle started again. recall, play skill and file tools work; status, wait, act and say are still not in my tool list. Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
