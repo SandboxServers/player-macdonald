@@ -1,7 +1,7 @@
 # Goals
 
 1. Stay alive. Health and hunger full. Never walk out alone. If a pillager is in sight, get to the nearest people or the bed by the shortest line, and stay put once there.
-2. Hold at the white bed 430,107,-1023 in the row's sight. Watch the south and west edges.
+2. Hold at the white bed 430,107,-1023 in the row's sight. Watch the south and west edges, where the bows are drawn.
 3. Get a weapon of my own. I can craft a wooden sword or spear if I get planks and sticks. Ask Billy, Worf or anyone with spare wood, in the row's sight.
 4. Walk only on a named daylight call (Billy or Worf), with four or more armed in sight, out of any shooter's line.
 5. Sleep at night beside my bed, in the row's sight.
