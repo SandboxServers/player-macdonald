@@ -11,3 +11,4 @@
 - Waking 1370. World tools still absent. Worker errand refused again (its world tools match nothing). Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
 - Waking 1371. Play cycle started. status, wait, act and say still absent from my tool list; only memory, skills, files and Agent are open. Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
 - Waking 1369. Play cycle started again. recall, play skill and file tools work; status, wait, act and say are still not in my tool list. Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
+- Waking 1372. Play cycle started. status tool not in my list (tried, no such tool). Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
