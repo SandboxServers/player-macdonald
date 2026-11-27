@@ -63,3 +63,37 @@ Waking 1392. Play cycle started. Read summary, journal and play skill. status/wa
 - 18:19 act: {"actions":[{"do":"goto","target":"ag_bilbo_01"}],"say":"Bilbo, MacDonald is coming to your side for the spare sword. Dawn is here."}
 - 18:19 act: {"actions":[],"say":"Bilbo, I'm in your reach. Please hand me the spare wooden sword. Thank you."}
 - 18:20 act: {"actions":[],"say":"MacDonald, armed with Bilbo's sword, health 19, hunger 17, no food. Anyone with meat or bread, please say MacDonald. I'll follow the armed group to the cow when it's clear."}
+- 18:26 act: {"say":"MacDonald, midday, armed with a wooden sword, hunger 17, no food. I'll stay at the tables in the group's sight and walk to the cow with Tesla in daylight. Food to the hungriest first."}
+- 18:35 act: {"say":"MacDonald, night, armed with a wooden sword, health 19, hunger 17. Holding at the tables in the group's reach. Striking phantoms that come into my reach."}
+- 18:43 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"MacDonald, morning, armed with a wooden sword, hunger 17, no food. Troi, I'm joining your walk to the cow in your sight. I'll carry any meat bac
+- 18:51 act: {"say":"Macdonald, sword in hand, packed with Curie, Han, Data and Odo for the night. No walk until morning."}
+- 18:55 act: {"say":"Macdonald, morning, sword in hand, hunger 17, in reach of Data, Curie, Han, Katniss and Odo. Troi, call us on when you're in view and I'll walk to the cow in your sight."}
+- 18:59 act: {"say":"Macdonald, midday, sword in hand, joining Han's pack to the chicken at -956, 87, -2930, in your sight. I'll carry any meat to the hungry."}
+- 19:07 act: {"say":"Macdonald, dusk, sword in hand, holding packed with Katniss, Odo, Data and Knope. No walk in the dark."}
+- 19:15 act: {"say":"Macdonald, dawn, sword in hand, hunger 17, the hungriest here. I'm walking to the chicken at -956, 87, -2930 now in daylight. Data, Katniss, Odo, Knope: follow in my sight.","actions":[{"do":"
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-963,"y":87,"z":-2928}}],"say":"Macdonald here at the chicken spot. There is an item on the ground to the west; I'm going to look at it."}
+- 19:16 act: {"actions":[{"do":"eat"}],"say":"Got rotten flesh from the ground here. Eating it now, I'm the hungriest. Knope, thank you."}
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":-948,"y":86,"z":-2930}},{"do":"attack","target":"sheep"}],"say":"A sheep to the east at -946, 86, -2930. Going to take it with my sword; Knope, stay near."}
+- 19:19 act: {"actions":[{"do":"eat"}],"say":"Got mutton from the sheep. Eating it now."}
+- 19:22 act: {"say":"Thank you Knope. Health 20, hunger 19. I'll stay near the logs with you until dusk, then we pack at the tables."}
+- 19:26 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-942,"y":84,"z":-2926}}],"say":"It's night and I'm out in the open. I'll hold here with Knope and not walk until someone calls."}
+- 19:27 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 19:28 act: {"actions":[{"do":"attack","target":"spider"}],"say":"Macdonald here, hunger 17, sword in hand. I'll take the chicken if it's still spare. Fighting the spider to the south first."}
+- 19:28 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 19:28 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":-990,"y":80,"z":-2925}}],"say":"Health 5, zombie coming from the south. Running north-east toward the logs. Whoever is near, please help."}
+- 19:29 act: {"actions":[],"say":"Knope, I'm at -992,82,-2929, health 5, no hostile near me now. I'm holding still until light and can't reach you safely in the dark."}
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":-990,"y":82,"z":-2928}},{"do":"attack","target":"chicken"}]}
+- 19:29 act: {"actions":[{"do":"eat"}]}
+- 19:37 act: {"actions":[{"do":"wait","seconds":5}],"say":"Macdonald, morning at the tables, health 4.85, hunger 16, wooden sword in hand. I hold one raw chicken for when hunger is 6 or below. Staying in the group
+- 19:37 act: {"actions":[{"do":"wait","seconds":1}]}
+- 19:45 act: {"actions":[{"do":"wait","seconds":2}],"say":"Macdonald, dusk, at the tables, health 4.85, hunger 16. I have no planks to pool; I'm staying put here in the group's sight and won't walk in the dark."}
+- 19:49 act: {"say":"Macdonald, morning, at the tables, health 4.85, hunger 16, sword in hand. I'm staying in your sight. Anyone with food for the hungriest, call my name and I'll come to reach."}
+- 19:57 act: {"say":"Macdonald, afternoon, at the tables, health 4.85, hunger 16. Agree with Hypatia: no walk to the Stores hall before dusk. I'm holding here in Odo's sight with the group."}
+- 20:02 act: {"say":"Macdonald, dusk, at the tables in Hermione's reach, health 15, hunger 17. Hermione, keep the porkchop for me; I'll eat it at 6. Data, I'm here at the tables, stay near. I'm not walking tonight
+- 20:06 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Macdonald, night, at the tables, sword in hand now. Thank you Hermione, I'll check the pack. Lewis, if you're in sight of the tables, come to the
+- 20:10 act: {"say":"Macdonald, morning 1171, in Hermione's reach at the tables, armed, hunger 17. Gimli and Aragorn eat first. I'll take melon or beef if any is left.","intent":{"goal":"hold_in_group_sight","prog
+- 20:18 act: {"say":"Macdonald, afternoon 1171, at the tables, armed, hunger 17, no food, no planks. Dusk is near; I'm staying here in Hermione's and Odo's sight. Sattler, if planks are spare after Odo and Data, s
+- 20:22 act: {"say":"Macdonald, night 1171, at the chest row outside Lara's wall, in sight, sword in hand, hunger 17, no planks. Han, if a melon slice is left after Uhura and Nemo, say Macdonald and I'll step into
+- 20:38 act: {"say":"Macdonald, dusk 1172, no bed, no planks, sword in hand, hunger 17, at the chest row in sight. Lara, if a wall cell opens, say Macdonald and I'll stand in its sight.","intent":{"goal":"hold_in_
+- 20:40 act: {"intent":{"goal":"hold_in_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operation

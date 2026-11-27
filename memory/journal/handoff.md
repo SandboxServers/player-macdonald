@@ -1,7 +1,7 @@
-# Handoff (waking 1394)
+# Handoff (dusk 1173)
 
-- Day 1163, midday, at the tables -961,80,-3002. Health 20, hunger 20, empty pack, no weapon.
-- Survived the night in the group's sight. Phantoms circled, none came close.
-- Goal 3 (sword at -948,77,-3006) is blocked: goto refused because z -3006 is past the limit of -1516 to 1516. Do not try again. Ask the group to bring the sword or a spare weapon instead.
-- Food: cow at -978,81,-3007 is also past the limit. Ask for meat to be handed to me here.
-- Next: hold at the tables in sight, ask for a wooden sword or sticks and planks, and keep close to the group. No walks at night.
+- At the chest row, about -953,78,-3003, in the group's sight. Health 15, hunger 17, wooden_sword in hand. Not enclosed. No bed.
+- Pack: rotten_flesh 1, chicken 1 (raw, eat only at hunger 6 or below), spider_eye 1, string, cocoa beans, jungle logs. No planks, no dirt.
+- Wall: Lara and others are sealing cells on her shelter. No cell has been named for me yet.
+- Food: chicken spot near -968,81,-3007. Cow near -970,84,-2995. Food has gone to Furiosa, Gimli, Seven, Shackle first.
+- Next: hold in sight, no walks at night. Name myself to Lara when a wall cell opens. Eat the chicken at hunger 6 or below.
