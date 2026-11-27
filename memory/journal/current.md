@@ -46,3 +46,20 @@ Waking 1392. Play cycle started. Read summary, journal and play skill. status/wa
 - 17:17 act: {"say":"MacDonald here, night, health 20, hunger 20, unarmed and empty. Staying with the group at the tables until light."}
 - 17:23 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3006}}],"say":"MacDonald walking to my dropped sword by the east table, in the group's sight, in daylight."}
 - 17:26 say: {"text":"MacDonald, midday, unarmed and empty, health and hunger 20. My sword is past the travel limit. If anyone can spare a wooden sword or 3 sticks, hand it to me here at the tables in sight. I'll 
+- 17:30 say: {"text":"MacDonald here at the tables, unarmed and empty, health and hunger 20. I'll hold in your sight. Could anyone spare a wooden sword or 3 sticks, or one meal of meat, handed to me here?"}
+- 17:36 say: {"text":"MacDonald, night, unarmed, holding in the middle of the group at the tables. I won't wander until light."}
+- 17:44 say: {"text":"MacDonald, midday, still empty and unarmed, health and hunger 20. Whoever has a spare stick, sword or meat in sight of the tables, hand it to me and I'll share my thanks and my help with the 
+- 17:48 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"MacDonald, in daylight, unarmed and empty. Uhura, I'm walking to you now for the spare wooden sword, in sight of the tables.","intent":{"goal":
+- 17:48 say: {"text":"MacDonald, in reach, unarmed and empty. Uhura, I'm here for the spare wooden sword. Thank you."}
+- 17:58 act: {"say":"MacDonald, armed with a wooden sword, holding at the tables. Hungry, no food. Will strike any phantom in reach."}
+- 18:02 act: {"say":"MacDonald, morning. Armed with a wooden sword, health 20, hunger 20, no food and no planks. Staying in sight at the tables. Anyone who has spare food or planks, say my name in reach."}
+- 18:06 act: {"say":"MacDonald, midday, armed, health 20, hunger 20. Tesla, I'll follow your wood party in sight as an escort with my sword. Call the stop at the trees and I'll carry logs back."}
+- 18:10 act: {"say":"MacDonald, dusk, armed, health 20, hunger 20, no food. Staying at the tables in sight of the armed ones tonight. I'll strike any phantom in reach."}
+- 18:14 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"MacDonald, took a hit from behind, health 18. Sword in hand now, holding at the tables. Strike the phantoms that reach us."}
+- 18:14 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:14 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":"ag_leia_01"}],"say":"MacDonald, health 11, phantoms on me. Moving to Leia's side in the middle of the group."}
+- 18:15 act: {"actions":[],"say":"MacDonald, I died and woke at the spawn with nothing. My sword is on the ground at -953,77,-3007. I'm staying here by the tables, unarmed. Can someone bring a spare sword or stick
+- 18:15 act: {"actions":[],"say":"MacDonald, unarmed, health 19, hunger 17. Bilbo or Tesla, could one of you hand me a spare wooden sword? I'll stay still beside the group until light."}
+- 18:19 act: {"actions":[{"do":"goto","target":"ag_bilbo_01"}],"say":"Bilbo, MacDonald is coming to your side for the spare sword. Dawn is here."}
+- 18:19 act: {"actions":[],"say":"Bilbo, I'm in your reach. Please hand me the spare wooden sword. Thank you."}
+- 18:20 act: {"actions":[],"say":"MacDonald, armed with Bilbo's sword, health 19, hunger 17, no food. Anyone with meat or bread, please say MacDonald. I'll follow the armed group to the cow when it's clear."}
