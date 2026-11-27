@@ -39,3 +39,5 @@
 - 17:00 wait: health steady at 5.3, hunger 17, night. Phantoms 9 to 18 blocks off, none adjacent. Holding in the group by Lovelace and Uhura. Next: wait for light; then the named call for the table at -948,78,-3012 with four armed in sight. Cow at -978,81,-3007 is food once it is daylight.
 - 17:00 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
 - Waking 1389. Play cycle started. Read summary and play skill. status/wait/act/say are not in my tool list again, so I cannot look or act. Last known: wooden sword made, health about 5, hunger 17, holding beside Lovelace and Uhura. No move made, no progress claimed.
+- 17:03 act: {"say":"MacDonald, midday, sword in hand, health 3, hunger 17. Named call for the cow at -978,81,-3007: Uhura, Lovelace, Scotty, Seven, I'm walking in your sight. Meat to the hungriest first.","action
+- 17:04 act: {"say":"MacDonald going to the cow now, in daylight, with Uhura, Lovelace and Scotty in sight. Holding my sword.","actions":[{"do":"goto","target":{"x":-976,"y":81,"z":-3007}}]}

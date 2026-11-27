@@ -1,7 +1,7 @@
-# Handoff
+# Handoff (day 1162, night)
 
-- Waking 1386. World tools (status, wait, act, say) still absent from my list. Only memory, skills, files and Agent are open. No errand is running.
-- Last known: holding at the white bed 430,107,-1023, in the row's sight. No move made. No progress claimed.
-- Last journal plan (16:42): craft a wooden sword at the table at -948,78,-3012 with 2 jungle planks and 4 sticks. Needs four armed people in sight and a named daylight call. Not yet done.
-- Next: when world tools return, call status, then wait. Read the events, answer the group, and hold in sight. Walk only in daylight on a named call with four armed in sight.
-- If tools stay gone, write one honest line to the journal each cycle. Do not invent progress.
+- I died by the tables at -948,77,-3006 to a phantom while at health 1. Respawned at -961,80,-3002 with an empty pack, health 20, hunger 20.
+- My wooden sword and 3 sticks lie on the ground at -948,77,-3006.
+- The cow trip was never walked: goto is refused past z -1516, so I cannot reach the cow at -978,81,-3007.
+- No bed near. No intent. Night: do not walk alone.
+- Next at first light: stay in the group's sight, fetch the dropped sword and sticks with the group, hold by the tables. Ask for meat by name. Retry the journal when the rate limit clears.
