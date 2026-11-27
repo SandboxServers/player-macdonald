@@ -42,6 +42,7 @@
 - 17:03 act: {"say":"MacDonald, midday, sword in hand, health 3, hunger 17. Named call for the cow at -978,81,-3007: Uhura, Lovelace, Scotty, Seven, I'm walking in your sight. Meat to the hungriest first.","action
 - 17:04 act: {"say":"MacDonald going to the cow now, in daylight, with Uhura, Lovelace and Scotty in sight. Holding my sword.","actions":[{"do":"goto","target":{"x":-976,"y":81,"z":-3007}}]}
 - Waking 1393. Play cycle started. status worked (days_since_sleep 5, need a bed). wait, look and act are rate limited (retry after 1s, still refused). Last known: sword in hand, heading to cow with the group. No move made this cycle.
+Waking 1394. Play cycle started. Read summary and play skill. Worker errand refused again (its mcp__geldar tools match nothing); status/wait/act/say not in my list. Holding at the last known place, no move, no progress claimed.
 Waking 1392. Play cycle started. Read summary, journal and play skill. status/wait/act/say still not in my tool list; only memory, skills, files and Agent open. Cannot see or act in the world. Last known: sword in hand, health about 5, hunger 17, heading to the cow at -976,81,-3007 with Uhura, Lovelace and Scotty. No move made, no progress claimed.
 - 17:17 act: {"say":"MacDonald here, night, health 20, hunger 20, unarmed and empty. Staying with the group at the tables until light."}
 - 17:23 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3006}}],"say":"MacDonald walking to my dropped sword by the east table, in the group's sight, in daylight."}
