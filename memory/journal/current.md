@@ -3,3 +3,5 @@
 - 06:38 act: {"say":"MacDonald here at the bed, health 20, hunger 20, unarmed. Holding in the row's sight. Anyone with spare planks or sticks, I would be grateful; I can craft a wooden sword."}
 - Day 1131 morning: still at the bed, health 20, hunger 20, no named call, no planks or sticks offered. Holding.
 - 06:42 act: {"say":"Morning, Troi. MacDonald here, health 20, hunger 20, holding at the bed. Still waiting for a named call from Billy or Worf, and for any planks or sticks."}
+- 06:50 say: {"text":"MacDonald here at the white bed, health 20, hunger 20, unarmed. Holding in the row for the night. Billy, Worf: name the call at light."}
+- 06:50 act: {"say":"Holding at the bed. Goodnight, row.","actions":[{"do":"sleep"}],"reasoning":"Night, beside bed, in the row's sight. Sleep is the plan."}
