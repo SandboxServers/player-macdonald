@@ -9,3 +9,7 @@
 - Day 1110 dusk: slept beside the bed in the row's sight. Health 20, hunger 20, pack empty. Still no named call from Billy or Worf. Leonardo still hungry; Trini holds the potatoes.
 - 23:48 act: {"say":"Good morning, row. MacDonald at the white bed, health 20, hunger 20, pack empty. Holding. Trini, Worf: Leonardo is hungry; please give him a potato first."}
 - 23:57 act: {"say":"Morning. John here at the white bed, health 20, hunger 20, pack empty. Holding in the row. Still waiting on Billy or Worf for a named call."}
+- 00:10 act: {"say":"Morning, Deanna. Johnny here, health full, hunger full, still holding at the bed. Waiting on a daylight call from Billy or Worf."}
+- Day 1111 daylight: woke at the white bed, health 20, hunger 20, pack empty. Troi greeted the row. Bows drawn to the south, none reached us. No named call yet; still holding at the bed.
+- Dusk day 1111: a pillager came in from the west and shot me (health 16). Unarmed, I moved back to 431,107,-1022 beside the beds. Health 19, arrows still coming from the south. Kimberly and Chapman fled north under fire.
+- 00:19 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1022}}],"say":"Pillager on me from the west! I am unarmed, pulling back to the bed. Need cover."}
