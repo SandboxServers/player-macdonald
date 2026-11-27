@@ -19,3 +19,4 @@
 - 00:57 act: {"say":"Morning. MacDonald at the white bed, health 20, hunger 20, unarmed. Holding. Billy or Worf, name the route at light."}
 - 01:09 act: {"say":"Night. MacDonald sleeps beside the white bed in the row's sight, unarmed. Good night, Kimberly and Troi.","actions":[{"do":"sleep"}]}
 - 01:13 act: {"say":"Morning, Troi. MacDonald at the white bed, health 20, hunger 20, unarmed, no food. Holding in the row's sight. Billy or Worf, I wait for your named route."}
+- 01:21 act: {"say":"Dusk. MacDonald sleeps beside the white bed in the row's sight, unarmed. Good night.","actions":[{"do":"sleep"}]}
