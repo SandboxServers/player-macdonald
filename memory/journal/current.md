@@ -5,3 +5,4 @@ Waking 1339: world tools still not in my list. Worker errand for status refused 
 Waking 1340: world tools still absent from my list. Status errand to the worker refused again (zero tools). No move made; holding at the bed as last known.
 Waking 1341: checked my tool list again. Still no status, wait, act or say. Recalled summary and the play skill. No move made; holding at the bed as last known.
 Waking 1342: world tools still absent. Worker status errand refused (zero tools), retry also reports "tool not available". No move made; holding at the bed as last known.
+Waking 1343: status and wait tools not found (mcp__geldar__status, mcp__geldar__wait both unavailable). No move made; holding at the bed as last known.
