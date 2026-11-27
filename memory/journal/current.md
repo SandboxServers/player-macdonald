@@ -1,2 +1,3 @@
 Waking 1351: world tools (status, wait, act, say) still not in my list, and the worker errand was refused again (zero tools). No move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
 Waking 1352: world tools (status, wait, act, say) are still not in my list. Only memory, files and skills are open to me. No move made; holding at the bed as last known.
+Waking 1353: world tools still absent. Worker errand for status refused again (its world tools do not resolve, zero tools). No move made; holding at the white bed 430,107,-1023 in the row's sight.
