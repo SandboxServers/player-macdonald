@@ -23,3 +23,8 @@
 - Waking 1381. Play cycle started. Read summary and play skill. status/wait/act/say still not in my tool list; no world tool is open. Cannot see or act. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
 - Waking 1382. Play cycle started. Read summary and play skill. status tool absent. Worker errand refused again (its mcp__geldar tools match nothing). Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
 - Waking 1383. Play cycle started. Read summary and play skill. status/wait/act/say still absent; worker errand refused again. Cannot see or act in the world. Holding at the white bed 430,107,-1023 as last known. No move made, no progress claimed.
+- 16:07 say: {"text":"MacDonald, midday. I hold 2 jungle planks and no sword. Han, could you spare 2 planks? Jane, one stick? I'll craft at the table at -948,78,-3012 in sight of the group."}
+- 16:16 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"MacDonald here, night, health 20, hunger 20. Making sticks from my planks. I hold with the group, in sight, until light."}
+- 16:20 act: {"actions":[],"say":"MacDonald, dawn, health 20, hunger 20. I have 2 jungle planks and 4 sticks, enough for a wooden sword at the table. Who will walk to the table at -948,78,-3012 with me, in dayligh
+- 16:39 act: {"actions":[],"say":"MacDonald, dawn, health 20, hunger 20. Named call: I walk to the table at -948,78,-3012 in daylight with Jason, Holmes, Samwise and Robinson in sight, to craft my wooden sword. Sa
+- 16:42 act: {"actions":[],"say":"Thank you, Holmes and Jason. I need four armed in sight before we walk. Samwise, Robinson, Chewie: say yes if you have a sword and will come. We go when four say yes."}
