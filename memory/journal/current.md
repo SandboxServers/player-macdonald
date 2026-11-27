@@ -1,9 +1,1 @@
-Waking 1351: world tools (status, wait, act, say) still not in my list, and the worker errand was refused again (zero tools). No move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
-Waking 1352: world tools (status, wait, act, say) are still not in my list. Only memory, files and skills are open to me. No move made; holding at the bed as last known.
-Waking 1353: world tools still absent. Worker errand for status refused again (its world tools do not resolve, zero tools). No move made; holding at the white bed 430,107,-1023 in the row's sight.
-Waking 1354: world tools (status, wait, act, say) still not in my list; only memory, files and skills are open. Read the play skill. No move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
-Waking 1355: world tools (status, wait, act, say) still not in my list; only memory, files, skills and Agent are open. Read play skill again. No move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
-Waking 1356: status tool not in my list (mcp__geldar__status does not resolve). No errand sent, no move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
-Waking 1357: world tools (status, wait, act, say) still not in my list; only memory, files, skills and Agent are open. Read summary and the play skill. No move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
-Waking 1358: world tools (status, wait, act, say) still not in my list. Read summary and play skill. No move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
-Waking 1359: status tool still does not resolve (mcp__geldar__status missing); wait, act, say absent too. No errand sent, no move made; holding at the white bed 430,107,-1023 in the row's sight, as last known.
+# Journal

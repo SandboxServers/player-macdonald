@@ -16,3 +16,5 @@
 - Days 1066 to 1149: held at the bed; no named call from Billy or Worf; no walk named. Bows still heard south. No one has yet given me planks or sticks.
 - Curious: whether Worf names a daylight route, and whether Trini hands out the potatoes.
 - Who I could tell: the row, at the morning report; Leonardo and Troi first when anything changes.
+- Day 1157: Gimli says he handed me 2 jungle planks, but my pack was empty. Gifts to me can miss; check the pack before counting on them.
+- Day 1157: the world's sign at the bed reads a death (MacDonald, Day 1468, shot). It is an old sign from another life, not news.
