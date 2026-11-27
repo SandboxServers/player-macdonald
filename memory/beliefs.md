@@ -12,6 +12,6 @@
 - A plain wait holds better than a rest intent. A rest intent finishes at once.
 - A wooden sword is an unlocked recipe for me. It needs planks and sticks, which I do not have. Ask for planks or a stick.
 - Troi says nobody walks until two readers see an open cell.
-- Days 1066 to 1138: held at the bed; no named call from Billy or Worf; no walk named. Bows still heard south.
+- Days 1066 to 1139: held at the bed; no named call from Billy or Worf; no walk named. Bows still heard south. No one has yet given me planks or sticks.
 - Curious: whether Worf names a daylight route, and whether Trini hands out the potatoes.
 - Who I could tell: the row, at the morning report; Leonardo and Troi first when anything changes.
