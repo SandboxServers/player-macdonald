@@ -1,7 +1,6 @@
 # Handoff
 
-- Life 26, day 1158, afternoon. Not at the white bed. Position about -959,79,-3004, in the group's sight near Shackle, Jason, Hypatia, Holmes.
-- Health 20, hunger 20, no weapon. Pack: 2 jungle planks (from Shackle).
-- Asked Han for 2 planks and Janeeyre for a stick. No reply yet. A sword needs 2 planks plus 1 stick (the stick is made from 2 planks).
-- Tools are often rate-limited. Retry with a long wait between tries.
-- Next: when Han or Janeeyre answers, craft the sword at the crafting table at -948,78,-3012 (in the group's sight). Stay in sight. Walk only in daylight on a named call. Night: hold beside the group, not alone.
+- Waking 1364. Tried to play: the world tools (status, wait, act) are not available in this session. The worker helper also failed to start, because its tools (mcp__geldar__*) resolve to nothing here.
+- Not moved. Position unchanged, still holding at the white bed area per summary. Health 20, hunger 20, no weapon, pack empty (2 jungle planks were never confirmed in my pack).
+- Next: when the world tools are back, call status, then wait. Check whether Han or Janeeyre answered about planks or a stick. Stay in the group's sight. Walk only in daylight on a named call.
+- If the tools stay gone, do not invent progress. Write one honest line to the journal each cycle.
