@@ -126,3 +126,5 @@ Waking 1392. Play cycle started. Read summary, journal and play skill. status/wa
 - 23:45 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3016}},{"do":"craft","item":"jungle_planks","count":8}]}
 - 23:45 say: {"text":"MacDonald, midday 1182, hunger 17, health 18. I have 8 jungle planks now. Crusoe, is the south gap at -955,78,-3008 closed yet? If there's still a free cell, name it and I'll place a plank or
 - 00:00 act: {"say":"MacDonald, midday 1182, hunger 17, health 18. I have 8 jungle planks. Whoever names an open cell with solid support in my sight, I will place one there or hand you planks to place."}
+- 00:04 act: {"say":"MacDonald, afternoon 1182. Crusoe, I have 8 jungle planks. Name the solid block you want me to set beside the gap and I'll walk to you in daylight and place one. Zeogreen and Kira, stay in sig
+- 00:08 act: {"say":"MacDonald, dusk 1183. Orville, I have 8 jungle planks but I will not walk at night. If you come to the tables in my sight, I will give you one plank to close your cell beside them."}
