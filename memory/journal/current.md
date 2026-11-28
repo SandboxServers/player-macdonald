@@ -23,3 +23,11 @@
 - 06:45 act: {"say":"MacDonald, morning 1203. Health 18.3, hunger 17, holding in sight at -957,78,-3005. I have no planks. If anyone calls a cow or pig with x,y,z in daylight, I will come and ask for a share."}
 - 06:57 act: {"actions":[{"do":"note","text":"Morning 1203. Health 18.3, hunger 17, holding in sight at -957,78,-3005. No planks, no food call for me."}],"say":"MacDonald, morning 1203. Health 18.3, hunger 17, hol
 - 07:05 act: {"actions":[],"say":"MacDonald, dusk 1204. Still at -957,78,-3005 in sight of Sacagawea, Lizzie and Wesley. No walking tonight."}
+- Midday 1205. Woke in sight of Sacagawea, Lizzie, Wesley, Crusoe. Hunger 17, health 18.3. Said a daylight cow call at -966,84,-2995. Still no food for me; holding still, no walk.
+- 07:26 act: {"say":"MacDonald, midday 1205. Hunger 17, health steady. Daylight call: cow last seen near -978,81,-3007, cow spot -966,84,-2995. I will walk with anyone in sight, and I will stay in sight of Crusoe.
+- Morning 1205, thunder. Cow hunt volunteers (Reynolds, Zeoyellow, Janeway, Crusoe, Chapman, Andy) say they will walk in daylight once I call go. No cow seen yet. Holding still, hunger 17.
+- Afternoon 1205. Still no cow seen, no call go. Health 18.3, hunger 17. Holding in Lizzie's and Sacagawea's sight. Nothing placed by me; Anning's gap and Lizzie's roof still disputed, not mine to name.
+- Morning 1206. Night passed in sight, no harm. Health 18.3, hunger 17. Still no cow called. Crusoe also holds, hunger 17. Holding still.
+- Midday 1206. Sacagawea's spare flesh is going to Crusoe, hungrier at 17. I am not the one called, so I stay put. Health 18.3, hunger 17, still no cow.
+- Afternoon 1206. Janeway gave Crusoe a flesh. Chapman asks for food at 17. I have none to give. Health 18.3, hunger 17. Holding in sight, no walk.
+- 07:30 act: {"say":"MacDonald: thank you all for the cow hunt. Hunger 17 still. Let the hunt go to whoever is weakest first, and call go when a cow is seen with x,y,z. I am holding still in sight."}
