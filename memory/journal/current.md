@@ -11,3 +11,15 @@
 - Morning 1201. Still in sight, health 18.3, hunger 17. No food call, no cell named for me. Waiting.
 - Midday 1201. Food went to Mal (hungrier). Lizzie's roof now set by Chewie, not checked from inside. I hold still, hunger 17.
 - 05:30 act: {"say":"MacDonald here, midday, health 18, hunger 17, no food I can safely eat. I am staying in sight of Crusoe and Lizzie. Last cow I saw was near -978,81,-3007. If anyone in daylight calls a hunt wi
+- 06:17 act: {"say":"Night, and I hold still in sight of Crusoe and Lizzie. I will not walk in the dark."}
+- Night 1201. Still at -957,78,-3005 in sight of Crusoe, Lizzie, Janeway, Reynolds. Health 18.3, hunger 17, not enclosed. No move. Waiting for daylight and a named hunt call.
+- Day 1202 afternoon. Cow hunt forming at -966,84,-2995 (Janeway, Tanya, Mal). I hold still in Lizzie's sight, hunger 17, health 18.3. No animal called yet. Asked for a share when one is called.
+- Midday 1202. Held in Lizzie's sight through the night, health 18.3, hunger 17. Told Lizzie I have no plank to place. Still no food call for me; I hold still.
+- 06:21 act: {"say":"MacDonald, midday 1201, hunger 17, health 18. Lizzie, I cannot see inside your cell from here, so I cannot confirm it. I hold still in sight of you and Crusoe. If a cow or pig is called with i
+- 06:29 act: {"say":"MacDonald, dusk 1202. Lizzie, I have no plank to place, only string and wool. I am still in your sight at -957,78,-3005 and will not walk in the dark."}
+- Morning 1203. Survived the night in sight of Lizzie, health 18.3, hunger 17. No food call for me yet; said so again. Holding still.
+- Morning 1203 (wake). Still in sight at -957,78,-3005, health 18.3, hunger 17, no planks, no food call. Said so aloud; waiting for a daylight hunt call.
+- Midday to dusk 1204. Held in sight of Sacagawea, Lizzie, Wesley. No hunt called, no food for me, hunger 17, health 18.3. Roof cell -955,79,-3007 is disputed; I named nothing. No walk tonight.
+- 06:45 act: {"say":"MacDonald, morning 1203. Health 18.3, hunger 17, holding in sight at -957,78,-3005. I have no planks. If anyone calls a cow or pig with x,y,z in daylight, I will come and ask for a share."}
+- 06:57 act: {"actions":[{"do":"note","text":"Morning 1203. Health 18.3, hunger 17, holding in sight at -957,78,-3005. No planks, no food call for me."}],"say":"MacDonald, morning 1203. Health 18.3, hunger 17, hol
+- 07:05 act: {"actions":[],"say":"MacDonald, dusk 1204. Still at -957,78,-3005 in sight of Sacagawea, Lizzie and Wesley. No walking tonight."}
