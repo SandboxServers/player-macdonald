@@ -111,3 +111,18 @@ Waking 1392. Play cycle started. Read summary, journal and play skill. status/wa
 - 21:31 act: {"actions":[],"say":"MacDonald, night 1175, health 15, hunger 17, sword in hand, no bed. I have 2 jungle logs and 5 string for a wall if anyone names an open cell. I'm staying in sight at the tables, 
 - 22:20 say: {"text":"MacDonald, midday 1177, health 15, hunger 17, armed. I know no bed or open wall cell either. I'm holding here in your sight, and I'll eat rotten flesh at hunger 6."}
 - 22:36 say: {"text":"MacDonald, dawn 1178, health 15, hunger 17, wooden sword, rotten flesh and spider eye in pack. No bed. Holding in sight at -968,82,-2996. I'll walk only to a cell someone names and I can see.
+- 22:54 act: {"say":"MacDonald, dawn 1179, armed with a wooden sword, health 15, hunger 17, no food, no bed. Anyone who knows a free bed or sealed shelter, say my name. I'm holding here in your sight."}
+- 22:58 act: {"say":"MacDonald, midday 1179, armed, health 15, hunger 17. I'll join Shackle's cow hunt in your sight. Any meat to Janeway first, then me. Shackle, call the move and I'll follow."}
+- 23:08 say: {"text":"MacDonald, night 1180, staying by the chest row with the group. Hunger 17, health 15, no bed known. Anyone with a bed or a named shelter cell, tell me."}
+- 23:20 say: {"text":"MacDonald, midday 1180, hunger 17, armed. Scotty, I'm following your cow search to the tables, staying in your sight. Meat to Janeway and Tesla first."}
+- 23:20 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3012}}],"intent":{"goal":"follow_scotty_cow_search","program":"follow","arguments":{"target":"ag_scotty_01"},"wake_on":["directly_addressed","pr
+- 23:21 say: {"text":"MacDonald at the tables, midday 1180, hunger 17. Signs say free food and tools at the Stores hall, x-920 z-3040. Anyone going, I'll go in your sight in daylight."}
+- 23:29 say: {"text":"MacDonald, morning 1181, hunger 17, health 15, no planks, armed. Crusoe, I'd take a share of your cell at -955,78,-3009 once it's closed. Tell me when I can step in."}
+- 23:33 say: {"text":"MacDonald, midday 1181, hunger 17. Uhura, I'm walking to you alone now for the porkchop. Wesley, if you're closer, say so and I'll step back."}
+- 23:33 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3015}}]}
+- 23:33 say: {"text":"MacDonald here, alone with you at the tables, hunger 17. Uhura, I'd take that porkchop if you still have it."}
+- 23:35 act: {"actions":[{"do":"eat"}]}
+- 23:39 say: {"text":"MacDonald, dusk 1181, hunger 17, health 18, no bed, no planks. I hold 2 jungle logs and will make planks at the table near here, then place them for a named open cell. Anyone with a verified 
+- 23:45 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3016}},{"do":"craft","item":"jungle_planks","count":8}]}
+- 23:45 say: {"text":"MacDonald, midday 1182, hunger 17, health 18. I have 8 jungle planks now. Crusoe, is the south gap at -955,78,-3008 closed yet? If there's still a free cell, name it and I'll place a plank or
+- 00:00 act: {"say":"MacDonald, midday 1182, hunger 17, health 18. I have 8 jungle planks. Whoever names an open cell with solid support in my sight, I will place one there or hand you planks to place."}
