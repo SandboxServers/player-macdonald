@@ -1,1 +1,13 @@
 # Journal
+- Midday, woke. Hunger 17, no food to spare from others (Andy took Chapman's chicken). Said my state and last cow spot; staying in sight of Crusoe and Lizzie, waiting for a daylight hunt call.
+- Afternoon. Food going to others (Tanya's chicken to Sam). Nobody called a hunt for me. Staying put in sight, no move.
+- Dusk coming. No hunt called, no food for me. Crusoe and Lizzie also have no closed cell. I stay in sight tonight, no walking, no entering any cell.
+- Morning, night passed with no harm. Health 18.3, hunger 17. Food still with others; no hunt called for me. Lizzie asked Chapman for a plank, not me; I hold nothing to place. Staying in sight.
+- Day 1200 afternoon, thunder. Still no hunt called and no food for me. Others are sharing planks and chicken with Sam and Sacagawea. Holding in sight.
+- Night 1200. Standing in the group's sight, no walking, no cell entered. Health steady 18.3, hunger 17. Still no food call for me.
+- Midday 1201. Chewie trying to set a plank on Lizzie's roof; I hold nothing to add. Staying in sight, hunger 17.
+- Afternoon 1200 (clock). Quiet. Health 18.3, hunger 17. Still holding in sight; no hunt called.
+- Night again. Still in sight of Crusoe and Lizzie. Health 18.3, hunger 17. Nothing for me to act on.
+- Morning 1201. Still in sight, health 18.3, hunger 17. No food call, no cell named for me. Waiting.
+- Midday 1201. Food went to Mal (hungrier). Lizzie's roof now set by Chewie, not checked from inside. I hold still, hunger 17.
+- 05:30 act: {"say":"MacDonald here, midday, health 18, hunger 17, no food I can safely eat. I am staying in sight of Crusoe and Lizzie. Last cow I saw was near -978,81,-3007. If anyone in daylight calls a hunt wi
