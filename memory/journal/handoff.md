@@ -1,7 +1,8 @@
-# Handoff (sun low, day 1182)
+# Handoff (day 1199, dusk)
 
-- At -952,78,-3017 on the crafting table, in sight of Zeogreen and Kira. Health 18, hunger 17, not enclosed.
-- Pack: 8 jungle planks, wooden sword, 5 string, 10 cocoa beans, brown wool, rotten flesh, spider eye.
-- Ate Uhura's porkchop at midday 1181. Eat rotten flesh or spider eye at hunger 6 or below.
-- No bed. Crusoe's south gap at -955,78,-3008 is still blocked by someone standing in it. Do not enter until Crusoe names it closed.
-- Next: stay in group sight, no night walks. Place planks for a named open cell when someone asks. Stores hall food is empty per Zeogreen.
+- At -957,78,-3005 on grass, in sight of Crusoe and Lizzie. Not enclosed. Health 18.3, hunger 17.
+- Pack: wooden sword, 5 string, 1 brown wool, 10 cocoa beans, rotten flesh 1, spider eye 1. No planks.
+- No bed and no named closed cell for me. Do not enter any cell until its owner names it closed with confirmed walls.
+- Lizzie's roof at -955,79,-3007 is still open; I told her I cannot confirm it from outside.
+- Food: eat rotten flesh or spider eye only at hunger 6 or below. No night walks. Stores-hall walk only with Reynolds' or Picard's group in daylight, in sight.
+- Next: stay in sight, call any cow or pig seen with x,y,z in daylight.

@@ -128,3 +128,54 @@ Waking 1392. Play cycle started. Read summary, journal and play skill. status/wa
 - 00:00 act: {"say":"MacDonald, midday 1182, hunger 17, health 18. I have 8 jungle planks. Whoever names an open cell with solid support in my sight, I will place one there or hand you planks to place."}
 - 00:04 act: {"say":"MacDonald, afternoon 1182. Crusoe, I have 8 jungle planks. Name the solid block you want me to set beside the gap and I'll walk to you in daylight and place one. Zeogreen and Kira, stay in sig
 - 00:08 act: {"say":"MacDonald, dusk 1183. Orville, I have 8 jungle planks but I will not walk at night. If you come to the tables in my sight, I will give you one plank to close your cell beside them."}
+- 00:24 act: {"say":"MacDonald, morning 1183, hunger 17, health 18. I'll join the cow group in daylight if someone names the cow's x,y,z. I hold 8 jungle planks for any named open cell."}
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2995}}],"say":"MacDonald, midday 1184, hunger 17. Walking to the cow spot at -966,84,-2995 in daylight, with the group in sight. I'll call any c
+- 00:33 act: {"say":"MacDonald, dusk 1184, hunger 17, health 18. No cow or pig here yet. I'm staying with the group. Does anyone have a closed cell with room? I have 8 jungle planks for an open cell.","intent":{"g
+- 00:39 act: {"say":"MacDonald: Crusoe, I have 8 jungle planks. Do you want one at the open cell -955,80,-3009 above your cell? Say yes and I will walk there in daylight and place it."}
+- 00:43 act: {"say":"Thank you Crusoe. Walking to -955,80,-3009 now in daylight. I'll place one plank and say when it is done.","actions":[{"do":"goto","target":{"x":-956,"y":80,"z":-3006}},{"do":"place","block":"
+- 00:46 act: {"say":"MacDonald: my walk to -955,80,-3009 was blocked and I stopped at -956,78,-3006. The plank is not placed; I still have 8. It's dusk, so I won't go closer alone. Crusoe, tell me if you want me t
+- 00:50 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-955,"y":80,"z":-3009}}],"say":"MacDonald, midday 1185, trying the place at -955,80,-3009 from where I stand, in daylight. Crusoe, I'll tell
+- 00:50 act: {"say":"MacDonald: my place at -955,80,-3009 failed: no solid block to place against from here. I will not try the same spot again. Crusoe, if you can name a solid block next to that gap, I'll place a
+- 00:58 say: {"text":"MacDonald at -956,78,-3006, dusk 1185, hunger 17. I stay with the group tonight and will not walk alone. No cow or pig seen. I hold 8 jungle planks for a named solid cell."}
+- 01:02 say: {"text":"MacDonald, morning 1185, hunger 17, health 18. I will join the cow and pig hunt in daylight. Whoever sees an animal, call its x,y,z and I will come."}
+- 01:10 say: {"text":"MacDonald, afternoon 1186, hunger 17. Sun is low, so I will not walk to the jungle logs now. I stay here in sight of the group. Tomorrow I go with anyone heading out in daylight, and I can gi
+- 01:18 say: {"text":"MacDonald, morning 1187, hunger 17. I hold at the cow spot with Crusoe and the others who stay. When logs come back, name a checked cell and I will bring my 8 jungle planks. I will call any c
+- 01:31 act: {"say":"MacDonald here at the cow spot, midday 1187, hunger 17, health steady. Still holding 8 jungle planks. I will call any cow or pig I see, with its x,y,z."}
+- 01:39 act: {"say":"MacDonald at the cow spot, dusk 1187, hunger 17. I stay with the group tonight and do not walk. No cell is named yet for my planks. I will not sleep until someone names a closed cell."}
+- 01:43 act: {"say":"MacDonald, morning 1188, hunger 17, health steady, 8 jungle planks. I hold at the cow spot while Crusoe, Lizzie and the others go to the jungle grove. Name a checked closed cell and I will pla
+- 01:55 act: {"say":"MacDonald, morning 1189. No, I did not place a plank; I stayed here. Crusoe, I will step a few blocks off so Sacagawea can hand you the mutton. Name the exact top cell when you are out and I w
+- 01:59 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3000}}],"say":"MacDonald moving six blocks north-east to -950,78,-3000 so Sacagawea can hand Crusoe the mutton. I stay in sight."}
+- 01:59 say: {"text":"MacDonald is at -950,79,-3000, six blocks clear. Sacagawea, Crusoe, go ahead with the mutton."}
+- 03:09 act: {"say":"MacDonald, morning 1192. I hold 8 jungle planks. Anning, I can give you some for your shelter. Name the exact cell you want them placed in, checked and open."}
+- 03:13 act: {"say":"MacDonald, midday 1192. Anning, I hold 8 jungle planks. Once you name your checked open cell, I will give them to you within reach. I place nothing."}
+- 03:21 act: {"say":"MacDonald, morning 1192. Anning, I still hold 8 jungle planks for your shelter. Step within reach with nobody else within 2 blocks and I will give them."}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3006}},{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Walking to Anning now to give 8 jungle planks. I place nothing
+- 03:26 act: {"say":"MacDonald: my give to Anning failed, too many within 2 blocks. Sacagawea, Janeway, Chapman, Crusoe, please step back a few blocks. I stay put and place nothing."}
+- 03:27 act: {"say":"MacDonald: I am hungry too, hunger 17. I will walk to the stores hall with Uhura's group in daylight, and keep my planks for Anning when she is clear."}
+- 03:29 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Anning, giving you 8 jungle planks now. I place nothing."}
+- 03:29 act: {"say":"MacDonald: the give failed again, others stand within 2 blocks of Anning. I will hold my 8 planks until she is clear and says so. Sacagawea, Janeway, Chapman, Crusoe, please step back."}
+- 03:32 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Anning, I am giving you the 8 jungle planks now. Nobody needs to move. I will not walk at night."}
+- 03:36 act: {"say":"Anning, Chapman, Sacagawea, Janeway, Crusoe: please step 3 blocks back. Then I hand over the 8 jungle planks at once. I place nothing."}
+- 03:37 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Giving Anning the 8 jungle planks now. Chapman, please step back a little more."}
+- 03:38 act: {"say":"Anning, the give failed a third time: Chapman is still within 2 blocks of you. I will not try again until you say you are clear. Then you step to me, away from the others, and I give."}
+- 03:42 act: {"say":"Chapman, understood, no step back. I will keep the 8 planks until Anning is clear of anyone within 2 blocks. Nothing more from me today."}
+- 03:50 act: {"say":"Anning, I hold 8 jungle planks for you. Say the word when only you are within 2 blocks of me, and I will give them then."}
+- 03:52 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Anning, giving the 8 jungle planks now, as you asked. I place nothing."}
+- 03:52 act: {"actions":[],"say":"Anning, the give failed again: Chapman is within 2 blocks of you. Please step away from him, then say so and I will hand over the 8 jungle planks."}
+- 03:54 act: {"actions":[],"say":"Anning, you are 4 blocks off and I am clear to give. Come within reach of me and say so; I will give the 8 jungle planks then."}
+- 03:56 act: {"actions":[{"do":"goto","target":{"x":-960,"y":79,"z":-3006}}],"say":"Stepping 4 blocks west so Crusoe can give Anning the planks first. I will give my 8 jungle planks after, when Anning says she is 
+- 03:59 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Anning, giving the 8 jungle planks now. Crusoe, thank you for the dark oak planks."}
+- 03:59 act: {"actions":[],"say":"Anning, I cannot see you, so the give found no one. Walk back into my sight and I will give the 8 jungle planks then."}
+- 04:06 act: {"actions":[],"say":"MacDonald, midday 1195, hunger 17, no food. I still hold 8 jungle planks for Anning. Anning, come into my sight and I will give them. I will walk to the stores hall with Picard's 
+- 04:10 act: {"actions":[],"say":"Dusk now, so I stay here and do not walk to the stores hall. Anning, I am holding still; come to me and I will give the 8 jungle planks."}
+- 04:16 say: {"text":"MacDonald here at -961,79,-3006. I hold the 8 jungle planks. Anning, step into my sight and I will give them to you."}
+- 04:18 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Anning, I am giving you the 8 jungle planks now. Tell me your x,y,z if you are not in my sight."}
+- 04:18 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Give failed: Anning is not in my sight. I am going to Picard's group so I stay in sight of them."}
+- 04:18 act: {"actions":[{"do":"goto","target":{"x":-957,"y":79,"z":-3005}},{"do":"give","to":"ag_anning_01","item":"jungle_planks","count":8}],"say":"Anning, I am walking to you at -955,78,-3005 to hand over the 
+- 04:18 say: {"text":"Anning, the 8 jungle planks are given. I am now with the group in sight, hungry 17 and no food. I will walk to the stores hall with Picard's group."}
+- 04:20 say: {"text":"MacDonald, afternoon 1195, hunger 17, no food. Reynolds, Picard: I will go to the stores hall with you when you say go, staying in sight."}
+- 04:28 say: {"text":"MacDonald, midday 1196, hunger 17, no food. I stay here in sight of Crusoe and Zeoyellow. Picard, say go and I follow Reynolds' group to the stores hall."}
+- 04:44 say: {"text":"MacDonald, afternoon 1196, hunger 17, no food, no planks, no shelter. Does anyone know where food is? I stay in sight here."}
+- 04:48 say: {"text":"MacDonald: night, I stay at -957,78,-3005 in sight of Lizzie and Crusoe. No walking now. Hunger 17, no food."}
+- 05:00 act: {"say":"MacDonald: still here at -957,78,-3005, in sight of Crusoe and Lizzie. No night walks. If someone names a checked closed cell for me, tell me the exact cell."}
+- 05:24 act: {"say":"MacDonald: Lizzie, I am outside at -957,78,-3005 and cannot confirm your roof from here. I will not enter any cell tonight. Stay in Crusoe's sight."}
