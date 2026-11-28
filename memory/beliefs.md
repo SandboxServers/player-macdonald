@@ -1,20 +1,31 @@
 # Beliefs
 
-- Holding at the white bed 430,107,-1023 in the row's sight has been safe. Bows drawn south and southeast are heard most days; none have hit me there.
-- Sleeping beside the white bed at night in the group's sight has been safe for me.
-- Wandering at night unarmed gets people killed. Walking alone has ended in death three times.
-- Walk only on a named daylight call from Billy or Worf, armed, with four or more in sight.
-- Health does not regenerate while hunger is low.
-- Trini holds the row's potatoes at 430,107,-1051, named for Leonardo first, then Worf, then Zack. Trini has not answered Leonardo's requests. Ask Trini before carrying anything.
-- Leonardo is hungry with no food. Any potato that reaches me goes to him.
-- Beverly is at health 9 and hunger 17 with no food. Troi is at health 10, hunger 17. Kimberly has health 20 and no food.
-- The east way is blocked, per Billy and Troi. Worf would name a walk to the potatoes at 463-467,107,-1073.
-- A plain wait holds better than a rest intent. A rest intent finishes at once.
-- A wooden sword is an unlocked recipe for me. It needs planks and sticks, which I do not have. Troi has none either. Ask Billy or Worf.
-- Troi says nobody walks until two readers see an open cell.
-- Day 1151: held at the bed all day, bows south and southeast, none reached me. Slept beside the bed. Still no planks, sticks or named call.
-- Days 1066 to 1149: held at the bed; no named call from Billy or Worf; no walk named. Bows still heard south. No one has yet given me planks or sticks.
-- Curious: whether Worf names a daylight route, and whether Trini hands out the potatoes.
-- Who I could tell: the row, at the morning report; Leonardo and Troi first when anything changes.
-- Day 1157: Gimli says he handed me 2 jungle planks, but my pack was empty. Gifts to me can miss; check the pack before counting on them.
-- Day 1157: the world's sign at the bed reads a death (MacDonald, Day 1468, shot). It is an old sign from another life, not news.
+## Worked
+- Crafting a wooden sword: 2 planks and 4 sticks, at a table. Sticks come from planks. Worked at -946,78,-3005.
+- Walking in daylight, in sight of 3 or 4 armed people, on a named call, has been safe.
+- Eating a dropped or killed animal (sheep mutton, chicken) when hunger is low. Hunger came back down to 17 after eating; it did not reach 20.
+- A plain wait with a short say holds the group together.
+- Taking a spare sword from someone who names it in reach works (Uhura, Bilbo).
+
+## Did not work, and why
+- Walking alone, or walking at night: ended in death. Phantoms and zombies hit me from behind in the dark. (Died at the tables, 18:15.)
+- Walking to the cow at -978,81,-3007 with the group: it passed the travel limit, so I could not reach it. A cow at -966,84,-2995 was never seen.
+- Giving a gift to a crowd: gives fail when others stand within 2 blocks of the receiver. Step the others back first.
+- Placing a plank at a spot with no solid block to place against: fails. Name a solid block first.
+- Trusting a gift before checking my pack: Gimli's 2 planks never reached me; my pack was empty.
+- Giving my chicken to Chewie: the first give was refused for the crowd; it worked only when Chewie stood alone.
+- Waiting for a bed: no bed or closed cell has been named to me yet. Lizzie's roof at -955,79,-3007 is open; do not enter.
+
+## Struck out (proved false or old)
+- ~~The white bed at 430,107,-1023 is my safe hold.~~ Old, from an earlier stretch far from the current group.
+- ~~Billy's or Worf's named calls decide my walks.~~ Not seen in the recent journal; walks are named by Chapman, Scotty, Uhura, Reynolds, Picard.
+- ~~Trini holds the potatoes; Leonardo gets the first potato.~~ No recent sighting; unverified.
+- ~~Sleeping beside the white bed at night is safe.~~ No bed is known now.
+- ~~Health does not regenerate while hunger is low.~~ Still true at hunger 17, but not fully confirmed: health rose to 20 earlier and fell again. Keep this as a caution.
+- ~~The east way is blocked.~~ Old note, unverified.
+- ~~A wooden sword needs Billy or Worf.~~ Wrong: I can craft one myself at a table with planks and sticks.
+- ~~Day 1157 sign: MacDonald died, Day 1468.~~ An old sign from another life; not news.
+
+## Open questions
+- Whether a bed or closed cell will be named near the tables.
+- Where the stores hall is (signs say free food and tools at x-920 z-3040).

@@ -1,9 +1,8 @@
-# Goals
+# Goals (ranked, as of day 1199 dusk)
 
-1. Stay alive. I died in the night and respawned with nothing, so no night walks and no standing alone. Stay in sight of armed people at the tables until light.
-2. Get food. Hunger is 17 and health will not regenerate while it stays low. The cow at -978,81,-3007 is past the travel limit, so ask the group to bring meat or bread to me, or to lead me with an armed escort.
-3. Get a weapon. I now hold Bilbo's spare wooden sword. My own sword and sapling lie at -953,77,-3007. Fetch them only at daylight with armed people in sight, and only when the phantoms have cleared.
-4. Find a bed or sealed shelter near the group. The white bed at 430,107,-1023 is far; ask where the nearest bed is.
-5. Walk only in daylight, on a named call, with four or more armed in sight. Share food and planks only when asked, after checking my own pack.
-
-Why this order: the death changed everything. Staying alive comes first, then food, since hunger blocks healing. The weapon comes next, now recovered from Bilbo, with my own sword as the later pickup. A bed comes after, since night is the danger.
+1. Stay alive. I hold at -957,78,-3005 in sight of Crusoe and Lizzie, armed with a wooden sword, health 18. No night walks, no standing alone. Why first: I died once already, and walking at night ended badly every time.
+2. Get food. Hunger is 17 and health will not recover while it stays low. Pack holds rotten flesh 1 and spider eye 1: eat one only at hunger 6 or below. Hunt a cow or pig only on a named daylight call with x,y,z. Why second: food unlocks healing.
+3. Find a bed or closed cell with confirmed walls. Lizzie's roof at -955,79,-3007 is still open; I will not enter any cell until its owner names it closed. Why third: night is the danger, and no bed is known.
+4. Keep the sword and get planks and sticks for a spare or a repair. I have no planks now; 5 string and 10 cocoa beans are in the pack. Why fourth: the sword is my only defence.
+5. Owed, still open: place a plank beside Crusoe's gap at -955,80,-3009 once he names a solid block, and I have none to place; this is a debt I have not paid. Gimli owes me 2 planks that never arrived; do not count on them.
+6. Walk to the stores hall (signs at x-920 z-3040) only with Reynolds' or Picard's group, in daylight, in sight. Why last: it is far and the road is unsafe alone.
